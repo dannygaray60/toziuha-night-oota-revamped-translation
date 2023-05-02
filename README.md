@@ -9,3 +9,9 @@ To facilitate the translation work I developed a program to modify the files if 
 [Localization Editor - itch.io](https://dannygaray60.itch.io/localization-editor)
 
 Just open the csv files (inside *localization* folder) with the program I made and the translation will be easy to make.
+
+## Notes
+
+Some phrases do not require translation and should be used as they are in English. For example:
+- Adeptis primera
+- Ahuizotes
