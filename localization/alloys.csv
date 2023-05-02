@@ -1,0 +1,15 @@
+keys,es,en
+CU_TITLE,Cobre,Copper
+CU_DESC,Aumenta 10% de daño Electro además de añadir resistencia a la corrosión. El resto de propiedades elementales pierden 10% de daño.,Increases 10% of Electro damage and adds corrosion resistance. All other elemental properties lose 10% damage.
+NA_TITLE,Sodio,Sodium
+NA_DESC,Si es sometida al calor desencadena la combustión del elemento. Se producen explosiones violentas usando Hierro+Sodio bajo el agua...,If subjected to heat it triggers the combustion of the element. Violent explosions are produced using Iron+Sodium under water...
+P_TITLE,Fósforo,Phosphorus
+P_DESC,Crea Fosfuro de Hierro. Libera una pequeña cantidad de calor al usar el látigo. Los ataques basados en Aqua y Frigo pierden 60% de efectividad.,Creates Iron Phosphide. Releases a small amount of heat when using the whip. Attacks based on Aqua and Frigo lose 60% effectiveness.
+N_TITLE,Nitrógeno,Nitrogen
+N2_TITLE,Nitrógeno Líquido,Liquid Nitrogen
+N_DESC,"Crea Nitruro de Hierro que añade propiedades magnéticas. Pero debilita en 50% ataques basados en Electro, Pyro y Frigo.","Creates Iron Nitride which adds magnetic properties. But it weakens by 50% attacks based on Electro, Pyro and Frigo."
+N2_DESC,Disminuye la temperatura del Hierro. Debilita en 50% ataques basados en Pyro.,Decreases the temperature of Iron. Weakens attacks based on Pyro by 50%.
+O_TITLE,Oxígeno,Oxygen
+O_DESC,"Esparce polvo de óxido de hierro con cada ataque de látigo (gasta maná), este polvo es explosivo al entrar en contacto con Pyro.","Spreads iron oxide powder with each whip attack (spends mana), this powder is explosive when in contact with Pyro."
+C_TITLE,Carbono,Carbon
+C_DESC,"Aumenta la dureza del Hierro, esto permitirá destruir ciertos objetos con una dureza mayor al del Hierro natural.","Increases the hardness of Iron, this will allow you to destroy certain objects with a higher hardness than natural Iron."
