@@ -1,9 +1,9 @@
-En este repositorio se encuentran los archivos de traducción del juego Toziuha Night Order of the Alchemists
+**In this repository you will find the translation files for the game Toziuha Night Order of the Alchemists.**
 
-Cualquiera es bienvenido a aportar traducciones para el juego.
+Anyone is welcome to contribute translations for the game.
 
-Los archivos están en formato .csv
+*The files are in .csv format.*
 
-Para facilitar el trabajo de traducción desarrollé un programa para modificar los archivos en caso de que sea necesario.
+To facilitate the translation work I developed a program to modify the files if necessary:
 
-https://dannygaray60.itch.io/localization-editor
+[Localization Editor - itch.io](https://dannygaray60.itch.io/localization-editor)
