@@ -17,7 +17,7 @@ RUBRUS_DRACO_DESC,"Invoca al dragon de la familia Tepes. Gasta 20 de Sangre, la 
 PLUVIA_SANGRI_DESC,Deja caer una lluvia sangrienta sobre los enemigos en pantalla. Cada muerte otorgará 30 HP. La duración depende de cuanta sangre se haya acumulado.,Rain bloody rain on the enemies on the screen. Each death grants 30 HP. The duration depends on how much blood has accumulated.
 LANCEA_ARGENTEA_DESC,Lanza en diagonal el arma de cierto alquimista de Plata.,Throw diagonally the weapon of a certain Silver alchemist.
 SANGRI_IMPALIA_DESC,Invoca el poder del Alquimista Empalador. Requiere 40 de Sangre. Cada herida infligida al enemigo aumenta el poder de la siguiente lanza.,Summons the power of the Impaler Alchemist. Requires 40 of Blood. Each damage inflicted on the enemy increases the power of the next spear.
-WHIP_CRUSH_DESC,Deja caer todo el poder del látigo carmesí con el comando [↑→↓ + Ataque]. La barra de Sangre debe estar al máximo.,Drop the full power of the crimson whip with the command [↑→↓ + Attack]. The Blood bar must be at maximum.
+WHIP_CRUSH_DESC,Deja caer todo el poder del látigo carmesí con el comando [↑→↓ + Ataque]. Se requiere 100 de sangre.,Drop the full power of the crimson whip with the command [↑→↓ + Attack]. 100 of blood is required.
 PERMETRI_CALORIS_DESC,Genera calor en el área durante algunos segundos.,Generates heat in the area for a few seconds.
 HANDFAN_TITLE,Abanico de mano,Handfan
 HANDFAN_DESC,Arroja subarma con el comportamiento de un boomerang.,Cast subweapon with the behavior of a boomerang.
@@ -34,3 +34,4 @@ SCUTUM_ALLIGATIOS_DESC,"Invoca un escudo que te protege de proyectiles. El atrib
 UNDINA_AERIA_DESC,"Al ser equipado permite resistir debajo del agua de manera indefinida, de lo contrario solo aumenta la capacidad pulmonar.","When equipped, it allows you to resist underwater indefinitely, otherwise it only increases lung capacity."
 CHAINED_ATTACK_DESC,Permite realizar ataques consecutivos de látigo de manera más rápida presionando repetidamente el botón del látigo. Solo funciona en el suelo.,Allows you to perform consecutive whip attacks faster by repeatedly pressing the whip button. Only works on the ground.
 AMPHIBIOUS_BREATHING_DESC,Permite respirar bajo el agua.,Allows breathing underwater.
+ELECTRO_SPHAERA_DESC,Invoca dos esferas de electricidad.,Summons two electricity spheres.

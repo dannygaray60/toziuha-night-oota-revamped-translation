@@ -1,6 +1,6 @@
 keys,es,en
 CU_TITLE,Cobre,Copper
-CU_DESC,Aumenta 10% de daño Electro además de añadir resistencia a la corrosión. El resto de propiedades elementales pierden 10% de daño.,Increases 10% of Electro damage and adds corrosion resistance. All other elemental properties lose 10% damage.
+CU_DESC,Aumenta 30% de daño Electro además de añadir resistencia a la corrosión. La propiedad Aqua pierde 30% de efectividad.,Increases Electro damage by 30% and adds corrosion resistance. Aqua property loses 30% of effectiveness.
 NA_TITLE,Sodio,Sodium
 NA_DESC,Si es sometida al calor desencadena la combustión del elemento. Se producen explosiones violentas usando Hierro+Sodio bajo el agua...,If subjected to heat it triggers the combustion of the element. Violent explosions are produced using Iron+Sodium under water...
 P_TITLE,Fósforo,Phosphorus
