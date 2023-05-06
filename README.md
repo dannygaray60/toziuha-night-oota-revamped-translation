@@ -14,6 +14,8 @@ Just open the csv files (inside *localization* folder) with the program I made a
 
 ## Notes
 
+The translation_manager_extra_data.ini file don't touch it. Is a required file for Localization Manager software.
+
 Some phrases do not require translation and should be used as they are in English. For example:
 - Adeptis primera
 - Ahuizotes
