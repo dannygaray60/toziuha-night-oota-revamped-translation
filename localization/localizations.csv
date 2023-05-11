@@ -183,3 +183,9 @@ CREDITS,Créditos,Credits
 GETTHEPREQUEL,Jugar la Precuela,Play the Prequel
 DETAILS_QUICKMENU,Info extra en Menú Rápido,Extra info on Quick Menu
 GALLERY,Galería,Gallery
+UNBREAKABLEWILL,Voluntad Inquebrantable,Unbreakable Will
+ABOUTUNBREAKABLEWILL,"Teniendo más del 20% de vida, al recibir daño critico el jugador todavía no morirá.","Having more than 20% health, when the player receives a critical hit, they will not die."
+DYNAMICKNOCKBACK,Knockback Dinamico,Dynamic Knockback
+ABOUTDYNAMICKNOCKBACK,El jugador recibirá un empuje de acuerdo al daño recibido.,The player will experience knockback corresponding to the damage taken.
+CRITIC,Critico!,Critical!
+DIFFICULTY_OPTIONS,Opciones de Dificultad,Difficulty Options
