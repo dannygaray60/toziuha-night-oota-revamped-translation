@@ -1,5 +1,5 @@
-keys,es,en
-ENEMIES_NOTE_GRIJAYLA_ATTACK_DESC,"Hermanos, nos han encomendado la misión de buscar al Gobernador de Grijayla y llevarlo ante la presencia de nuestro señor Trithemius. Sigan las ordenes de la Adeptis primera y dirijanse a la parte Noroeste de la ciudad.
+"keys","es","en","pt_BR"
+"ENEMIES_NOTE_GRIJAYLA_ATTACK_DESC","Hermanos, nos han encomendado la misión de buscar al Gobernador de Grijayla y llevarlo ante la presencia de nuestro señor Trithemius. Sigan las ordenes de la Adeptis primera y dirijanse a la parte Noroeste de la ciudad.
 
 Hemos marcado en este mapa la ubicación de la llave que bloquea el acceso al puente en caso de requerir refuerzos.
 
@@ -7,10 +7,14 @@ Que Athos esté con ustedes.","Brothers, we have been entrusted with the mission
 
 We have marked on this map the location of the key that blocks access to the bridge in case reinforcements are required.
 
-Athos be with you."
-ENEMIES_NOTE_GRIJAYLA_ATTACK_TITLE,Ataque en Grijayla,Attack in Grijayla
-ALCHEMIST_ORDER_MANUAL_I_TITLE,Resistencia del cuerpo.,Body resistance.
-ALCHEMIST_ORDER_MANUAL_I_DESC,"El cuerpo humano tiene cierto límite para resistir ambientes hostiles, como lugares con frío extremo, altas temperaturas o incluso estar debajo del agua.
+Athos be with you.","Irmãos, nos foi confiado a missão de encontrar o Governador de Grijayla e trazê-lo à presença do nosso Senhor Trithemius. Sigam as ordens da Adeptis primera e sigaa à parte noroeste da cidade. 
+
+Nós marcamos no mapa a localização da chave que bloqueia o acesso para a ponte, em caso de reforços forem necessários. 
+
+Que Athos esteja com vocês."
+"ENEMIES_NOTE_GRIJAYLA_ATTACK_TITLE","Ataque en Grijayla","Attack in Grijayla","Ataque em Grijayla"
+"ALCHEMIST_ORDER_MANUAL_I_TITLE","Resistencia del cuerpo.","Body resistance.","Resistência Corporal"
+"ALCHEMIST_ORDER_MANUAL_I_DESC","El cuerpo humano tiene cierto límite para resistir ambientes hostiles, como lugares con frío extremo, altas temperaturas o incluso estar debajo del agua.
 
 Al adentrarte en estas zonas, se mostrará una barra que indica la resistencia del cuerpo, la cual se llenará con el tiempo y, si alcanza su límite, comenzarás a perder salud continuamente hasta morir.
 
@@ -22,9 +26,15 @@ When you enter these areas, a bar indicating the body's resistance will be displ
 
 Alchemists can make use of special equipment or items that help them resist for a longer period of time.
 
-There have also been rumors that Elemental Circuits exist that grant the ability to remain in these hostile zones indefinitely."
-ALCHEMIST_ORDER_MANUAL_II_TITLE,Propiedades Fisicas/Element.,Physical Properties/Element.
-ALCHEMIST_ORDER_MANUAL_II_DESC,"Existen cuatro tipos de [Propiedades Físicas]: Sólido, Líquido, Gas e Intactilis.
+There have also been rumors that Elemental Circuits exist that grant the ability to remain in these hostile zones indefinitely.","O corpo humano tem um imite para resistir ambientes hostis, como locais com frio extremo, altas temperaturas ou debaixo d’água. 
+
+Quando você entra nessas áreas, uma barra aparecerá, indicando a resistência corporal que encherá e ao chegar ao limite, começará a perder saúde até morrer. 
+
+Alquimistas podem usar equipamento especial ou itens que ajudam a resistir por um maior período de tempo. 
+
+Também há rumores que Circuitos Elementais existem para conceder a habilidade de permanecer nessas zonas hostis indefinidamente."
+"ALCHEMIST_ORDER_MANUAL_II_TITLE","Propiedades Fisicas/Element.","Physical Properties/Element.","Propriedades Físicas/Elemento"
+"ALCHEMIST_ORDER_MANUAL_II_DESC","Existen cuatro tipos de [Propiedades Físicas]: Sólido, Líquido, Gas e Intactilis.
 
 Cualquier objeto o ser vivo presenta una de estas propiedades, las cuales determinan los posibles efectos que puede tener contra otros objetos o seres vivos, resumidos de la siguiente manera:
 
@@ -60,9 +70,27 @@ In addition, optionally, objects or living beings can present one or several [El
 
 Aqua, Pyro, Frigo, Aeria, Electro, Lux and Tenebris.
 
-In the case of living beings, they can be weak, strong, invulnerable or absorb damage from certain elemental properties. In the case of objects, they can react in different ways depending on the elemental property of the object they come in contact with."
-ALCHEMIST_ORDER_MANUAL_III_TITLE,Estadísticas Base,Base Statistics
-ALCHEMIST_ORDER_MANUAL_III_DESC,"Existen tres estadísticas base:
+In the case of living beings, they can be weak, strong, invulnerable or absorb damage from certain elemental properties. In the case of objects, they can react in different ways depending on the elemental property of the object they come in contact with.","Existem quatro tipos de [Propriedades Físicas]: Sólido, Líquido, Gasoso e Intactilis, 
+
+Qualquer objeto ou ser vivo possui uma dessas propriedades, que determina os possíveis efeitos que podem ter contra outros objetos ou seres vivos, resumidos das seguintes formas:
+
+- Sólido interage com Sólido e Líquido.
+
+- Líquido interage com Líquido e Gasoso.
+
+- Gasoso interage com Gasoso, Sólido e Líquido.
+
+- Intactilis interage com qualquer propriedade.
+
+Um exemplo: Um objeto Sólido pode te proteger de um ataque Sólido ou Líquido, mas não de um objeto de propriedade Intactilis, a menos que use algo da mesma propriedade.
+
+Além disso, opcionalmente, objetos e seres vivos podem apresentar um ou mais [Propriedades Elementais], como:
+
+Aqua, Pyro, Frigo, Aeria, Electro, Lux and Tenebris.
+
+No caso de seres vivos, eles podem ser fracos, resistentes, invulneráveis ou absorver dano de certas propriedades elementais. No caso de objetos, eles podem reagir de maneiras diferentes dependendo da propriedade elemental ao entrar em contato."
+"ALCHEMIST_ORDER_MANUAL_III_TITLE","Estadísticas Base","Base Statistics","Estatísticas Base"
+"ALCHEMIST_ORDER_MANUAL_III_DESC","Existen tres estadísticas base:
 
 ATK determina daño que produces con tus armas principales y arrojadizas.
 
@@ -82,9 +110,19 @@ DEF will reduce the damage you take.
 
 In the case of Xandria. The normal whip only uses half of the ATK, while the sword whip uses its entirety as well as some subweapons. In the case of the crush attack, its damage is determined by ATK+INT.
 
-Take into account the elemental weaknesses and strengths of your attacks on each enemy to produce the highest possible damage."
-ALCHEMIST_ORDER_MANUAL_IV_TITLE,Estados negativos,Negative states
-ALCHEMIST_ORDER_MANUAL_IV_DESC,"Algunos ataques además del daño inicial, provocan estados alterados en la persona.
+Take into account the elemental weaknesses and strengths of your attacks on each enemy to produce the highest possible damage.","Existem três estatísticas base:
+
+ATK determina o dano causado com sua arma principal e armas secundárias.
+
+INT determina o dano causado pelos Circuitos Elementais.
+
+DEF reduzirá o dano recebido.
+
+No caso da Xandria. O chicote normal usa apenas metade do ATK, enquanto o chicote espada e algumas armas secundárias usam todo. No caso do ataque esmagador, seu dano é determinado pelo ATK+INT.
+
+Considere as fraquezas e vantagens de seus ataques em cada inimigo para produzir o maior dano possível."
+"ALCHEMIST_ORDER_MANUAL_IV_TITLE","Estados negativos","Negative states","Efeitos negativos"
+"ALCHEMIST_ORDER_MANUAL_IV_DESC","Algunos ataques además del daño inicial, provocan estados alterados en la persona.
 
 - Lesionado: Cualquier daño que puedas infligir se reduce a la mitad.
 
@@ -100,9 +138,17 @@ Recuerda que estos estados alterados no desaparecen sino usas algún objeto del 
 
 - Cursed: You will lose mana continuously.
 
-Remember that these altered states don't disappear if you don't use any item from the inventory or save the game."
-ALESSA_LETTER_I_TITLE,Carta de Alessa I,Alessa's Letter I
-ALESSA_LETTER_I_DESC,"Felicitaciones por tu ascenso a Alquimista Oficial. Este es un gran paso para tu carrera como Alquimista, aunque eso no te interesa supongo...
+Remember that these altered states don't disappear if you don't use any item from the inventory or save the game.","Alguns ataques, além do dano inicial, provocam efeitos diversos nas pessoas.
+
+- Ferido: Qualquer ataque é reduzido pela metade.
+
+- Envenenado: Perderá saúde continuadamente, contudo não te matará.
+
+- Amaldiçoado: Perderá mana continuadamente.
+
+Lembre-se que esses efeitos não disaparecerão se não usar algum item do inventário ou salvar o jogo."
+"ALESSA_LETTER_I_TITLE","Carta de Alessa I","Alessa's Letter I","Carta da Alessa 1"
+"ALESSA_LETTER_I_DESC","Felicitaciones por tu ascenso a Alquimista Oficial. Este es un gran paso para tu carrera como Alquimista, aunque eso no te interesa supongo...
 
 En fin, he movido un par de fichas y serás asignada a una misión de emergencia, se ha reportado una invasión de demonios en la ciudad de Grijayla.
 
@@ -114,9 +160,15 @@ Anyway, I have moved a couple of chips and you will be assigned to an emergency 
 
 You will be under the orders of Kalev, our exalted Titanium Alchemist. He is a man somewhat short of patience, so just be quiet and follow his instructions.
 
-This mission might interest you, maybe you'll find something you're looking for? You'll thank me later, and by thank me I mean you'll owe me a favor."
-ANON_LETTER_I_TITLE,Carta Anónima I,Anonymous letter I
-ANON_LETTER_I_DESC,"[Carta encontrada en Grijayla, autor desconocido]
+This mission might interest you, maybe you'll find something you're looking for? You'll thank me later, and by thank me I mean you'll owe me a favor.","Parabéns pela sua promoção de Alquimista Oficial. É um grande passo para a sua carreira de alquimista, apesar que você não se importa muito com isso...
+
+Enfim, eu mexi uns pauzinhos e  você será designada para uma missão de emergência, uma invasão de demônios foi comunicada na cidade de Grijayla.
+
+Você estará sobre as ordens do nosso exaltado Alquimista de Titânio, Kalev. Ele é um homem de pavio curto então fique quieta e siga as instruções dele.
+
+Esta missão pode te interessar, talvez você encontrará algo que esteja procurando? Você me agradecerá depois e ao fazer isso, você me deve uma."
+"ANON_LETTER_I_TITLE","Carta Anónima I","Anonymous letter I","Carta anônima 1"
+"ANON_LETTER_I_DESC","[Carta encontrada en Grijayla, autor desconocido]
 
 Tengo que decir que estoy muy agradecido de que nuestro Señor haya decidido iluminar mi camino y conducirme hacia la cura que tanto necesitaba. ¡Me siento mucho mejor ahora!
 
@@ -136,4 +188,14 @@ I cannot explain in words the happiness I feel at having found salvation on Atho
 
 I will leave this place to preach the absolute truth.
 
-If anyone else finds themselves in a similar situation to mine, I suggest that they open their hearts and entrust themselves to the divine grace of Athos."
+If anyone else finds themselves in a similar situation to mine, I suggest that they open their hearts and entrust themselves to the divine grace of Athos.","[Carta encontrada em Grijayla, autor desconhecido].
+
+Tenho que dizer que estou muito agradecido que o nosso Senhor tenha decidido iluminar meu caminho e me levar a cura que eu precisava tanto. Me sinto muito melhor agora!
+
+Os Ahuizotes tem me fornecido com o sangue abençoado de Athos. Isso me curou completamente. Algo que a ciência dos homens não pôde alcançar. Agora eu entendo o verdadeiro poder que [A Ordem] tem se encarregado de esconder…
+
+Eu não consigo explicar em palavras a felicidade que sinto ao encontrar a salvação em Athos. Agora eu sei que meu futuro está em seguir o Senhor Trithemius, o portador de Sua vontade.
+
+Eu deixarei este lugar para pregar a verdade absoluta.
+
+Se encontrar a si mesmos numa situação similar qua a minha, eu sugiro que abram seus corações e confiem a si mesmos a divina graça de Athos."

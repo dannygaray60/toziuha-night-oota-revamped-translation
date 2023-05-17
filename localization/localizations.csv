@@ -1,191 +1,194 @@
-keys,es,en
-YES,Sí,Yes
-NO,No,No
-USEITEM,Usar item,Use item
-CLOSE,Cerrar,Close
-CONTINUE,Continuar,Continue
-SKIP,Omitir,Skip
-PRESS,Presiona,Press
-TO_START,para comenzar,to start
-TO_CONTINUE,para continuar,to continue
-TAP_TO_START,Toca para comenzar,Tap to start
-RETURN,Regresar,Return
-MOVE,Mover,Move
-CHANGE,Cambiar,Change
-SELECT,Seleccionar,Select
-START,Iniciar,Start
-OPTIONS,Opciones,Options
-EXIT,Salir,Exit
-MAIN_MENU,Menú principal,Main menu
-GAMEPLAY,Jugabilidad,Gameplay
-VIDEO,Video,Video
-AUDIO,Audio,Audio
-GAMEPAD,Mando,Gamepad
-KEYBOARD,Teclado,Keyboard
-LANGUAGE,Idioma,Language
-PLAYER_AFTERIMAGE,Estela fantasma del jugador,Player Afterimage
-MOVE_WITH_JOYSTICK,Mover personaje con joystick izquierdo,Move character with left joystick
-GAMEPAD_VIBRTN,Vibración de mando,Gamepad vibration
-SHAKE_CMR_DAMAGE,Sacudir cámara al recibir daño,Shake camera on damage
-ICONS_BTNS,Íconos de botones,Buttons icons
-CUSTOM_GAMEPAD_ICONS,Personalizar íconos de botones,Customize button icons
-QUALITY,Calidad,Quality
-VISUALIZATION_MODE,Modo de visualización,Display Mode
-WINDOW_RESOLUTION,Resolución en modo ventana,Window Resolution
-FPS_LIMIT,Límite de FPS (depuración),FPS Limit (debug)
-CRT_MODE,Filtro CRT,CRT filter
-SOUND_EFFECTS,Efectos de sonido,Sound effects
-MUSIC,Música,Music
-VOICES,Voces,Voices
-PRESS_NEW_KEY,Presiona la nueva tecla (teclado) o %s,Press new key (keyboard) or %s
-PRESS_NEW_BTN,Presiona el nuevo botón (mando) o %s,Press new button (gamepad) or %s
-PRESS_ESCAPE,Presiona [Escape],Press [Escape]
-PRESS_BACK_ANDROID,Presiona [Atrás] (Móvil),Press [Back] (Mobile)
-ACTION_UI_START,Pausa / Equipamiento,Pause / Equipment
-ACTION_UI_SELECT,Abrir mapa,Open map
-ACCEPT,Aceptar,Accept
-CANCEL,Cancelar,Cancel
-ACTION_UI_UP,Arriba,Up
-ACTION_UI_DOWN,Abajo,Down
-ACTION_UI_LEFT,Izquierda,Left
-ACTION_UI_RIGHT,Derecha,Right
-ACTION_UI_FOCUS_PREV,Retroceder / Esquivar,Backdash / Dodge
-ACTION_UI_FOCUS_NEXT,Circuito Elemental,Use Elemental Circuit
-ACTION_UI_A,Saltar / Aceptar,Jump / Accept
-ACTION_UI_B,Menú Rápido,Quick Menu
-ACTION_UI_X,Atacar / Cancelar,Attack / Cancel
-ACTION_UI_Y,Arrojar Subarma,Throw Subweapon
-SHADERS_DYNAMIC_LIGHTS,Shaders y luces dinámicas (Alto),Shaders and dynamic lights (High)
-SHADERS_SIMPLE_LIGHTS,Shaders y luces simples (Medio),Shaders and simple lights (Medium)
-SHADERS_NOT_SIMPLE_LIGHTS,Solo luces simples (Bajo),Just simple lights (Low)
-SOLVE_GAMEPAD_INCOMPATIBILITY,Solucionar problemas de compatibilidad,Fix compatibility issues
-WINDOW_BORDERLESS,Pantalla sin bordes,Borderless screen
-WINDOWED,Ventana,Window
-MONITOR_RES,Resolución del monitor,Monitor's Resolution
-GAMEPAD_CONNECTED,Mando conectado,Gamepad connected
-GAMEPAD_DISCONNECTED,Mando desconectado,Gamepad disconnected
-CONF_DEFAULT,Reestablecer configuración por defecto,Reset to default settings
-CONF_BY_DEFAULT_DONE,Configuración por defecto realizado,Config by default done
-INPUT_DEVICE_INCORRECT,Se usó el dispositivo incorrecto,Input from incorrect device
-FULLSCREEN,Pantalla completa,Fullscreen
-SELECT_NEW_ICON_FOR_ACTION,Selecciona el nuevo ícono para:\n%s,Select new icon for:\n%s
-SELECT_ICON_TO_CHANGE,Selecciona el ícono a cambiar,Select the icon to be changed
-TEST_GAMEPAD,Probar Mando,Test Gamepad
-SAVE_MAPPING,Guardar mapeo,Save mapping
-MAPPING_UPDATED,Mapeo actualizado,Mapping updated
-SEE_HELP,Ver la ayuda,See help
-PASTE_HERE_MAPPING_STRING,Pegue aquí el string de mapeo,Paste here mapping string
-PRESS_ESC_OR_BACK_ANDROID_TO_END_TESTING,Presione [Escape] (PC) / [Atrás] (Móvil) para terminar,Press [Escape] (PC) / [Back] (Mobile) to end test
-DOWNLOAD_TOOL,Descargar herramienta,Download tool
-OPENING_LINK_WEB,Abriendo enlace web,Opening web link
-SHOW_MINIMAP,Mostrar Minimapa,Show Minimap
-MINIMAP_VISIBILITY,Visibilidad de Minimapa,Minimap visibility
-ELEMENTAL_CIRCUIT,Circuito Elemental,Elemental Circuit
-ACTION,Acción,Action
-ABILITY,Habilidad,Skill
-SUBWEAPON,Subarma,Subweapon
-HEALTH_RECOVERED,Salud Recuperada,Restored Health
-ALCHEMY,Alquimia,Alchemy
-INVENTORY,Inventario,Inventory
-EQUIP,Equipo,Equip
-TIME,Tiempo,Time
-AREA,Área,Area
-DEATHS,Muertes,Deaths
-SCS,sgs,scs
-ALLOY,Aleación,Alloy
-QUANTITY,Cantidad,Quantity
-AXE,Hacha,Axe
-SHURIKEN,Shuriken,Shuriken
-KNIFES,Cuchillos,Knifes
-TORNADO_BLADES,Tornado de Cuchillas,Tornado Blades
-HANDFAN,Abanico de mano,Hand Fan
-DOUBLE_JUMP,Doble Salto,Double Jump
-DODGE,Esquivar,Dodge
-SLIDE,Deslizarse,Slide
-AIR_KICK,Patada Aérea,Dive Kick
-WALL_SLIDE,Deslizamiento en pared,Wall Slide
-SWING,Balanceo de látigo,Whip Swing
-BLADE_WHIP,Látigo Espada,Blade Whip
-WHIP_SPIN,Giro de látigo,Whip Spin
-WHIP_CRUSH,Ataque Crush,Whip Crush
-BLOOD_CONTROL,Control Sanguíneo,Blood Control
-MULTIPLE_EQUIPMENT,Equipamiento Múltiple,Multiple Equipment
-CHAINED_ATTACK,Ataque Encadenado,Chained Attack
-EMPTY_INVENTORY,Inventario Vacío,Empty Inventory
-STATUS,Estado,Status
-GOOD,Bueno,Good
-INJURED,Lesionado,Injured
-POISONED,Envenenado,Poisoned
-CURSED,Maldito,Cursed
-CENTER_MAP,Centrar,Center
-ADD_MARKER,Añadir Marcador,Add Marker
-EDIT_MARKER,Editar Marcador,Edit Marker
-QUICKSAVE_AND_EXIT,Guardado rápido y Salir,Quick-save & Exit
-EXIT_N_GOTO_MMENU,Salir e ir al Menú Principal,Exit & go to Main menu
-MAP,Mapa,Map
-KEYSOBJECTS,Objetos Clave,Keys Objects
-TREASURES,Tesoros,Treasures
-EMPTY_LIST,Lista Vacía,Empty List
-SAVE_MARKER,Guardar Marcador,Save Marker
-DELETE_MARKER,Eliminar Marcador,Delete Marker
-ENEMIES,Enemigos,Enemies
-ERASE,Borrar,Erase
-WRITE_NAME_FOR_SAVE,Escriba un nombre para el guardado...,Type a name for the save...
-GAME_SAVED,Partida Guardada,Game Saved
-QUICKSAVE_DETECTED,Archivo de guardado rápido encontrado,Quicksave file found
-ABOUT_QUICKSAVE_EXISTS,Al cargar partida se eliminará el archivo de guardado rápido,Loading game will delete the quick save file
-LOAD_QUICKSAVE,Cargar archivo de guardado rápido,Load quicksave file
-LOAD_GAME,Cargar partida (Estatuas),Load game (Statue)
-DELETE_DATA,Eliminar datos,Delete data
-SELECT_SLOT_TO_DELETE,Seleccione Slot para eliminar,Select save slot to delete
-THIS_ACTION_CANT_BE_UNDO,Esta acción no podrá deshacerse,This action cannot be undone
-DELETE,Eliminar,Delete
-DATA_ERASE,Datos eliminados,Deleted data
-NEW_GAME,Nueva Partida,New Game
-DEVROOM,La sala de las almas torturadas,Hall of Tortured Souls
-SHOW_DEATH_COUNTER,Mostrar contador de muertes,Show death counter
-ATK_TITLE,Ataque,Attack
-DEF_TITLE,Defensa,Defense
-INT_TITLE,Inteligencia,Intelligence
-HP_TITLE,Salud,Health
-MP_TITLE,Mana,Mana
-SP_TITLE,Estamina,Stamina
-POTIONMAX_TITLE,Maximo de pociones,Potions Max
-ACCESORY,Accesorio,Accesory
-EQUIP_TOP,Equipo Superior,Top Equip
-EQUIP_MID,Equipo Medio,Mid Equip
-EQUIP_BOTTOM,Equipo Inferior,Bottom Equip
-NONE,Ninguno,None
-USE,Usar,Use
-PREVIOUS,Anterior,Previous
-NEXT,Siguiente,Next
-SCREEN_FILTER,Filtro de pantalla,Screen Filter
-OBJECT,Objeto,Object
-ELEMENT,Elemento,Element
-OBJECT_KEY,Obj. Clave,Key Obj.
-TREASURE,Tesoro,Treasure
-FINDINGS,Textos,Findings
-PRESS_DIR_TO_USE_QUICKMENU,Mantén presionado cualquier dirección para usar el item,Press any direction to use the desired item
-WORK_IN_PROGRESS,Trabajo en progreso...,Work in progress...
-EDIT_TOUCH_BTNS,Editar Botones Táctiles,Edit Touch Buttons
-SAVE,Guardar,Save
-RESET,Reestablecer,Reset
-OPACITY,Opacidad,Opacity
-SIZE,Escala,Size
-MINIMAP,Minimapa,Minimap
-ABOUT_CARPATITIA_DEATH,La Carpatitia permite regresar a la última estatua de guardado sin perder el progreso alcanzado.,The Carpatitia allows you to return to the last save statue without losing the progress.
-USE_CARPATITIAX2,Usar Carpatitia x2,Use Carpatithia x2
-AMPHIBIOUS_BREATHING,Respiración Anfibia,Amphibious Breathing
-SWAPSET,Cambiar Set,Change Set
-SWAPSUBWEAPON,Cambiar Subarma,Change Subweapon
-ONSCREENBUTTONSALWAYSVISIBLE,Botones en pantalla siempre visibles,On-screen buttons always visible
-CREDITS,Créditos,Credits
-GETTHEPREQUEL,Jugar la Precuela,Play the Prequel
-DETAILS_QUICKMENU,Info extra en Menú Rápido,Extra info on Quick Menu
-GALLERY,Galería,Gallery
-UNBREAKABLEWILL,Voluntad Inquebrantable,Unbreakable Will
-ABOUTUNBREAKABLEWILL,"Teniendo más del 20% de vida, al recibir daño critico el jugador todavía no morirá.","Having more than 20% health, when the player receives a critical hit, they will not die."
-DYNAMICKNOCKBACK,Knockback Dinamico,Dynamic Knockback
-ABOUTDYNAMICKNOCKBACK,El jugador recibirá un empuje de acuerdo al daño recibido.,The player will experience knockback corresponding to the damage taken.
-CRITIC,Critico!,Critical!
-DIFFICULTY_OPTIONS,Opciones de Dificultad,Difficulty Options
+keys,es,en,pt_BR
+YES,Sí,Yes,Sim
+NO,No,No,Não
+USEITEM,Usar item,Use item,Usar item
+CLOSE,Cerrar,Close,Fechar
+CONTINUE,Continuar,Continue,Continuar
+SKIP,Omitir,Skip,Pular
+PRESS,Presiona,Press,Pressionar
+TO_START,para comenzar,to start,Para começar
+TO_CONTINUE,para continuar,to continue,Para continuar
+TAP_TO_START,Toca para comenzar,Tap to start,Aperte para começar
+RETURN,Regresar,Return,Voltar
+MOVE,Mover,Move,Mover
+CHANGE,Cambiar,Change,Trocar
+SELECT,Seleccionar,Select,Selecionar
+START,Iniciar,Start,Começar
+OPTIONS,Opciones,Options,Opções
+EXIT,Salir,Exit,Sair
+MAIN_MENU,Menú principal,Main menu,Menu principal
+GAMEPLAY,Jugabilidad,Gameplay,Jogabilidade
+VIDEO,Video,Video,Vídeo
+AUDIO,Audio,Audio,Áudio
+GAMEPAD,Mando,Gamepad,Controle
+KEYBOARD,Teclado,Keyboard,Teclado
+LANGUAGE,Idioma,Language,Idioma
+PLAYER_AFTERIMAGE,Estela fantasma del jugador,Player Afterimage,Pós-imagem do jogador
+MOVE_WITH_JOYSTICK,Mover personaje con joystick izquierdo,Move character with left joystick,Mover personagem com o joystick esquerdo
+GAMEPAD_VIBRTN,Vibración de mando,Gamepad vibration,Vibração do controle
+SHAKE_CMR_DAMAGE,Sacudir cámara al recibir daño,Shake camera on damage,Vibrar a câmera durante o dano
+ICONS_BTNS,Íconos de botones,Buttons icons,Ícones dos botões
+CUSTOM_GAMEPAD_ICONS,Personalizar íconos de botones,Customize button icons,Personalizar os ícones dos botões
+QUALITY,Calidad,Quality,Qualidade
+VISUALIZATION_MODE,Modo de visualización,Display Mode,Modo de visualização
+WINDOW_RESOLUTION,Resolución en modo ventana,Window Resolution,Resolução de janela
+FPS_LIMIT,Límite de FPS (depuración),FPS Limit (debug),Limite de FPS (debug)
+CRT_MODE,Filtro CRT,CRT filter,Filtro CRT
+SOUND_EFFECTS,Efectos de sonido,Sound effects,Efeitos de som
+MUSIC,Música,Music,Música
+VOICES,Voces,Voices,Vozes
+PRESS_NEW_KEY,Presiona la nueva tecla (teclado) o %s,Press new key (keyboard) or %s,Pressione uma nova tecla (teclado) ou %s
+PRESS_NEW_BTN,Presiona el nuevo botón (mando) o %s,Press new button (gamepad) or %s,Pressione um novo botão (controle) ou %s
+PRESS_ESCAPE,Presiona [Escape],Press [Escape],Pressione [Esc]
+PRESS_BACK_ANDROID,Presiona [Atrás] (Móvil),Press [Back] (Mobile),Pressione [Voltar] (Mobile)
+ACTION_UI_START,Pausa / Equipamiento,Pause / Equipment,Pausar/ Equipamento
+ACTION_UI_SELECT,Abrir mapa,Open map,Abrir mapa
+ACCEPT,Aceptar,Accept,Aceitar
+CANCEL,Cancelar,Cancel,Cancelar
+ACTION_UI_UP,Arriba,Up,Cima
+ACTION_UI_DOWN,Abajo,Down,Baixo
+ACTION_UI_LEFT,Izquierda,Left,Esquerda
+ACTION_UI_RIGHT,Derecha,Right,Direita
+ACTION_UI_FOCUS_PREV,Retroceder / Esquivar,Backdash / Dodge,Recuar / Esquivar
+ACTION_UI_FOCUS_NEXT,Circuito Elemental,Use Elemental Circuit,Usar Circuito Elemental
+ACTION_UI_A,Saltar / Aceptar,Jump / Accept,Pular / Aceitar
+ACTION_UI_B,Menú Rápido,Quick Menu,Menu Rápido
+ACTION_UI_X,Atacar / Cancelar,Attack / Cancel,Atacar / Cancelar
+ACTION_UI_Y,Arrojar Subarma,Throw Subweapon,Lançar arma secundária
+SHADERS_DYNAMIC_LIGHTS,Shaders y luces dinámicas (Alto),Shaders and dynamic lights (High),Shaders e luzes dinâmicas (Alta)
+SHADERS_SIMPLE_LIGHTS,Shaders y luces simples (Medio),Shaders and simple lights (Medium),Shaders e luzes simples (Média)
+SHADERS_NOT_SIMPLE_LIGHTS,Solo luces simples (Bajo),Just simple lights (Low),Apenas luzes simples (Baixa)
+SOLVE_GAMEPAD_INCOMPATIBILITY,Solucionar problemas de compatibilidad,Fix compatibility issues,Solucionar problemas de compatibilidade
+WINDOW_BORDERLESS,Pantalla sin bordes,Borderless screen,Tela sem bordas
+WINDOWED,Ventana,Window,Janela
+MONITOR_RES,Resolución del monitor,Monitor's Resolution,Resolução do monitor
+GAMEPAD_CONNECTED,Mando conectado,Gamepad connected,Controle conectado
+GAMEPAD_DISCONNECTED,Mando desconectado,Gamepad disconnected,Controle desconectado
+CONF_DEFAULT,Reestablecer configuración por defecto,Reset to default settings,Restaurar configuração inicial
+CONF_BY_DEFAULT_DONE,Configuración por defecto realizado,Config by default done,Configuração inicial realizado
+INPUT_DEVICE_INCORRECT,Se usó el dispositivo incorrecto,Input from incorrect device,Uso de dispositivo incorreto
+FULLSCREEN,Pantalla completa,Fullscreen,Tela inteira
+SELECT_NEW_ICON_FOR_ACTION,Selecciona el nuevo ícono para:\n%s,Select new icon for:\n%s,Selecione novo ícone para:\n%s 
+SELECT_ICON_TO_CHANGE,Selecciona el ícono a cambiar,Select the icon to be changed,Selecione o ícone para trocar
+TEST_GAMEPAD,Probar Mando,Test Gamepad,Testar Controle
+SAVE_MAPPING,Guardar mapeo,Save mapping,Salvar mapeamento
+MAPPING_UPDATED,Mapeo actualizado,Mapping updated,Mapeamento atualizado
+SEE_HELP,Ver la ayuda,See help,Ver Ajuda
+PASTE_HERE_MAPPING_STRING,Pegue aquí el string de mapeo,Paste here mapping string,Cole aqui a string de mapeamento
+PRESS_ESC_OR_BACK_ANDROID_TO_END_TESTING,Presione [Escape] (PC) / [Atrás] (Móvil) para terminar,Press [Escape] (PC) / [Back] (Mobile) to end test,Pressione [Esc] (PC) / [Voltar] (Mobile) para terminar teste
+DOWNLOAD_TOOL,Descargar herramienta,Download tool,Baixar ferramenta
+OPENING_LINK_WEB,Abriendo enlace web,Opening web link,Abrindo link
+SHOW_MINIMAP,Mostrar Minimapa,Show Minimap,Mostrar mini-mapa
+MINIMAP_VISIBILITY,Visibilidad de Minimapa,Minimap visibility,Visibilidade do mini-mapa
+ELEMENTAL_CIRCUIT,Circuito Elemental,Elemental Circuit,Circuito Elemental
+ACTION,Acción,Action,Ação
+ABILITY,Habilidad,Skill,Habilidade
+SUBWEAPON,Subarma,Subweapon,Arma secundária
+HEALTH_RECOVERED,Salud Recuperada,Restored Health,Saúde recuperada
+ALCHEMY,Alquimia,Alchemy,Alquimia
+INVENTORY,Inventario,Inventory,Inventário
+EQUIP,Equipo,Equip,Equipar
+TIME,Tiempo,Time,Tempo
+AREA,Área,Area,Área
+DEATHS,Muertes,Deaths,Mortes
+SCS,sgs,scs,Segundos
+ALLOY,Aleación,Alloy,Liga
+QUANTITY,Cantidad,Quantity,Quantidade
+AXE,Hacha,Axe,Machado
+SHURIKEN,Shuriken,Shuriken,Shuriken
+KNIFES,Cuchillos,Knifes,Facas
+TORNADO_BLADES,Tornado de Cuchillas,Tornado Blades,Tornado de Lâminas
+HANDFAN,Abanico de mano,Hand Fan,Leque de Mão
+DOUBLE_JUMP,Doble Salto,Double Jump,Pulo duplo
+DODGE,Esquivar,Dodge,Esquivar
+SLIDE,Deslizarse,Slide,Deslizar
+AIR_KICK,Patada Aérea,Dive Kick,Voadora
+WALL_SLIDE,Deslizamiento en pared,Wall Slide,Deslizar na parede
+SWING,Balanceo de látigo,Whip Swing,Chicotada
+BLADE_WHIP,Látigo Espada,Blade Whip,Espada Chicote
+WHIP_SPIN,Giro de látigo,Whip Spin,Chicotada Giratória
+WHIP_CRUSH,Ataque Crush,Whip Crush,Chicotada Esmagadora
+BLOOD_CONTROL,Control Sanguíneo,Blood Control,Controle Sanguíneo
+MULTIPLE_EQUIPMENT,Equipamiento Múltiple,Multiple Equipment,Equipamento Múltiplo
+CHAINED_ATTACK,Ataque Encadenado,Chained Attack,Ataque em Sequência
+EMPTY_INVENTORY,Inventario Vacío,Empty Inventory,Inventário Vazio
+STATUS,Estado,Status,Estado
+GOOD,Bueno,Good,Bem
+INJURED,Lesionado,Injured,Ferida
+POISONED,Envenenado,Poisoned,Envenenada
+CURSED,Maldito,Cursed,Amaldiçoada
+CENTER_MAP,Centrar,Center,Centro
+ADD_MARKER,Añadir Marcador,Add Marker,Adicionar Marcador
+EDIT_MARKER,Editar Marcador,Edit Marker,Editar Marcador
+QUICKSAVE_AND_EXIT,Guardado rápido y Salir,Quick-save & Exit,Salvamento rápido & Sair
+EXIT_N_GOTO_MMENU,Salir e ir al Menú Principal,Exit & go to Main menu,Sair & Ir até o Menu Principal
+MAP,Mapa,Map,Mapa
+KEYSOBJECTS,Objetos Clave,Keys Objects,Objetos Chave
+TREASURES,Tesoros,Treasures,Tesouros
+EMPTY_LIST,Lista Vacía,Empty List,Lista Vazia
+SAVE_MARKER,Guardar Marcador,Save Marker,Salvar Marcador
+DELETE_MARKER,Eliminar Marcador,Delete Marker,Apagar Marcador
+ENEMIES,Enemigos,Enemies,Inimigos
+ERASE,Borrar,Erase,Apagar
+WRITE_NAME_FOR_SAVE,Escriba un nombre para el guardado...,Type a name for the save...,Escreva um nome para salvar
+GAME_SAVED,Partida Guardada,Game Saved,Jogo Salvo
+QUICKSAVE_DETECTED,Archivo de guardado rápido encontrado,Quicksave file found,Arquivo de salvamento rápido encontrado
+ABOUT_QUICKSAVE_EXISTS,Al cargar partida se eliminará el archivo de guardado rápido,Loading game will delete the quick save file,Carregar o jogo irá apagar o arquivo de salvamento rápido
+LOAD_QUICKSAVE,Cargar archivo de guardado rápido,Load quicksave file,Carregar arquivo de salvamento rápido
+LOAD_GAME,Cargar partida (Estatuas),Load game (Statue),Carregar o jogo (Estátua)
+DELETE_DATA,Eliminar datos,Delete data,Apagar dados
+SELECT_SLOT_TO_DELETE,Seleccione Slot para eliminar,Select save slot to delete,Selecione arquivo salvo para apagar
+THIS_ACTION_CANT_BE_UNDO,Esta acción no podrá deshacerse,This action cannot be undone,Essa ação não pode ser desfeita
+DELETE,Eliminar,Delete,Apagar
+DATA_ERASE,Datos eliminados,Deleted data,Dados Deletados
+NEW_GAME,Nueva Partida,New Game,Novo Jogo
+DEVROOM,La sala de las almas torturadas,Hall of Tortured Souls,Salão das Almas Torturadas
+SHOW_DEATH_COUNTER,Mostrar contador de muertes,Show death counter,Mostrar contador de mortes
+ATK_TITLE,Ataque,Attack,Ataque
+DEF_TITLE,Defensa,Defense,Defesa
+INT_TITLE,Inteligencia,Intelligence,Inteligência
+HP_TITLE,Salud,Health,Saúde
+MP_TITLE,Mana,Mana,Mana
+SP_TITLE,Estamina,Stamina,Vigor
+POTIONMAX_TITLE,Maximo de pociones,Potions Max,Máximo de Poções
+ACCESORY,Accesorio,Accesory,Acessório
+EQUIP_TOP,Equipo Superior,Top Equip,Equipamento Superior
+EQUIP_MID,Equipo Medio,Mid Equip,Equipamento Médio
+EQUIP_BOTTOM,Equipo Inferior,Bottom Equip,Equipamento Inferior
+NONE,Ninguno,None,Nenhum
+USE,Usar,Use,Usar
+PREVIOUS,Anterior,Previous,Anterior
+NEXT,Siguiente,Next,Próximo
+SCREEN_FILTER,Filtro de pantalla,Screen Filter,Filtro de tela
+OBJECT,Objeto,Object,Objeto
+ELEMENT,Elemento,Element,Elemento
+OBJECT_KEY,Obj. Clave,Key Obj.,Objeto Chave
+TREASURE,Tesoro,Treasure,Tesouro
+FINDINGS,Textos,Findings,Achados
+PRESS_DIR_TO_USE_QUICKMENU,Mantén presionado cualquier dirección para usar el item,Press any direction to use the desired item,Pressione qualquer direção para usar o item desejado
+WORK_IN_PROGRESS,Trabajo en progreso...,Work in progress...,Trabalho em progresso…
+EDIT_TOUCH_BTNS,Editar Botones Táctiles,Edit Touch Buttons,Editar Botões de Toque
+SAVE,Guardar,Save,Salvar
+RESET,Reestablecer,Reset,Recomeçar
+OPACITY,Opacidad,Opacity,Opacidade
+SIZE,Escala,Size,Tamanho
+MINIMAP,Minimapa,Minimap,Mini-mapa
+ABOUT_CARPATITIA_DEATH,La Carpatitia permite regresar a la última estatua de guardado sin perder el progreso alcanzado.,The Carpatitia allows you to return to the last save statue without losing the progress.,Permite retornar à última estátua de salvamento sem perder o seu progresso
+USE_CARPATITIAX2,Usar Carpatitia x2,Use Carpatithia x2,Usar Carpatithia x2
+AMPHIBIOUS_BREATHING,Respiración Anfibia,Amphibious Breathing,Respiração Anfíbia
+SWAPSET,Cambiar Set,Change Set,Mudar Set
+SWAPSUBWEAPON,Cambiar Subarma,Change Subweapon,Mudar arma secundária
+ONSCREENBUTTONSALWAYSVISIBLE,Botones en pantalla siempre visibles,On-screen buttons always visible,Botões na tela sempre visíveis
+CREDITS,Créditos,Credits,Créditos
+GETTHEPREQUEL,Jugar la Precuela,Play the Prequel,Jogar prólogo
+DETAILS_QUICKMENU,Info extra en Menú Rápido,Extra info on Quick Menu,Info extra no Menu Rápido
+GALLERY,Galería,Gallery,Galeria
+UNBREAKABLEWILL,Voluntad Inquebrantable,Unbreakable Will,
+ABOUTUNBREAKABLEWILL,"Teniendo más del 20% de vida, al recibir daño critico el jugador todavía no morirá.","Having more than 20% health, when the player receives a critical hit, they will not die.",
+DYNAMICKNOCKBACK,Knockback Dinamico,Dynamic Knockback,
+ABOUTDYNAMICKNOCKBACK,El jugador recibirá un empuje de acuerdo al daño recibido.,The player will experience knockback corresponding to the damage taken.,
+CRITIC,Critico!,Critical!,
+DIFFICULTY_OPTIONS,Opciones de Dificultad,Difficulty Options,
+THISLANGISFANMADE,Traducción hecha por fans,Fan-made Translation,
+ABOUTFANMADETRANSLATIONS,"Esta es una traducción hecha por fans, cualquier persona es bienvenida a ayudar a traducir el juego voluntariamente.","This is a fan-made translation, anyone is welcome to help translate the game voluntarily.",
+LEARNMORE,Conocer más,Learn more,

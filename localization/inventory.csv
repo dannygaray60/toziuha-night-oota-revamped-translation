@@ -1,25 +1,25 @@
-keys,es,en
-PAN_TITLE,Pedazo de Pan,Piece of bread
-PAN_DESC,Un pedazo de pan. Recupera un poco de salud.,A piece of bread. Recover some of health.
-POTION_MANA_TITLE,Poción de Maná,Mana potion
-POTION_MANA_DESC,Recupera un poco de Maná.,Recovers some Mana.
-CHIKEN_LEG_DESC,Rico pollo con el que recuperas algo de salud.,Rich chicken with which you recover some health.
-CHIKEN_LEG_TITLE,Pierna de Pollo,Chicken leg
-POTION_CURSE_TITLE,Poción Antimaldiciones,Anti-Curse Potion
-POTION_POISON_TITLE,Antídoto,Antidote
-POTION_HEALTH_TITLE,Poción Curativa,Healing potion
-FIRST_AID_KIT_TITLE,Kit de primeros auxilios,First aid box
-BRONZE_KEY_TITLE,Llave de Bronce,Bronze key
-BRONZE_KEY_DESC,"Una vieja llave de bronce, solo eso.","An old bronze key, just that."
-POTION_HEALTH_DESC,Recupera un 33% de la salud total,Recover an 33% of total health
-POTION_POISON_DESC,Detiene los efectos negativos del veneno.,Stop negative effects of poison.
-POTION_CURSE_DESC,Remueve maldiciones.,Remove Curses.
-FIRST_AID_KIT_DESC,Cura las lesiones del cuerpo.,Heals the body's injuries.
-BEER_TITLE,Jarra de Cerveza,Beer Jar
-BEER_DESC,Una refrescante jarra de cerveza con la que recuperas bastante salud.,A refreshing mug of beer with which you recover a lot of health.
-FRAGANCE_TITLE,Perfume Femenino,Women's Perfume
-FRAGANCE_DESC,Un perfume que solo mujeres de alta sociedad usan. Podria venderse a un buen precio.,A perfume that only high society women wear. It could be sold at a good price.
-CARPATITIA_TITLE,Carpatitia,Carpatithia
-CARPATITIA_DESC,Un extraño mineral similar al cuarzo encontrado en la cercanías de un castillo en Transilvania. Permite regresar a la última estatua de guardado usada.,A rare quartz-like mineral found near a castle in Transylvania. Allows you to return to the last used guard statue.
-ROTTEN_CHIKEN_LEG_TITLE,Pierna de pollo rancia,Rotten Chiken leg
-ROTTEN_CHIKEN_LEG_DESC,No creo que sea buena idea comerlo...,I don't think it's a good idea eat it...
+"keys","es","en","pt_BR"
+"PAN_TITLE","Pedazo de Pan","Piece of bread","Pedaço de pão"
+"PAN_DESC","Un pedazo de pan. Recupera un poco de salud.","A piece of bread. Recover some of health.","Um pedaço de pão que recupera um pouco da saúde."
+"POTION_MANA_TITLE","Poción de Maná","Mana potion","Poção de Mana"
+"POTION_MANA_DESC","Recupera un poco de Maná.","Recovers some Mana.","Recupera um pouco de mana"
+"CHIKEN_LEG_DESC","Rico pollo con el que recuperas algo de salud.","Rich chicken with which you recover some health.","Delicioso frango para recuperar saúde"
+"CHIKEN_LEG_TITLE","Pierna de Pollo","Chicken leg","Coxa de frango"
+"POTION_CURSE_TITLE","Poción Antimaldiciones","Anti-Curse Potion","Poção anti-maldição"
+"POTION_POISON_TITLE","Antídoto","Antidote","Antídoto"
+"POTION_HEALTH_TITLE","Poción Curativa","Healing potion","Poção de cura"
+"FIRST_AID_KIT_TITLE","Kit de primeros auxilios","First aid box","Caixa de primeiros socorros"
+"BRONZE_KEY_TITLE","Llave de Bronce","Bronze key","Chave de bronze"
+"BRONZE_KEY_DESC","Una vieja llave de bronce, solo eso.","An old bronze key, just that.","Uma chave de bronze antiga, só isso."
+"POTION_HEALTH_DESC","Recupera un 33% de la salud total","Recover an 33% of total health","Recupera 33% de sua saúde total"
+"POTION_POISON_DESC","Detiene los efectos negativos del veneno.","Stop negative effects of poison.","Para os efeitos negativos do veneno"
+"POTION_CURSE_DESC","Remueve maldiciones.","Remove Curses.","Remove Maldições"
+"FIRST_AID_KIT_DESC","Cura las lesiones del cuerpo.","Heals the body's injuries.","Cura as feridas corporais"
+"BEER_TITLE","Jarra de Cerveza","Beer Jar","Jarro de Cerveja"
+"BEER_DESC","Una refrescante jarra de cerveza con la que recuperas bastante salud.","A refreshing mug of beer with which you recover a lot of health.","Uma refrescante caneca de cerveja que recupera bastante saúde."
+"FRAGANCE_TITLE","Perfume Femenino","Women's Perfume","Perfume Feminino"
+"FRAGANCE_DESC","Un perfume que solo mujeres de alta sociedad usan. Podria venderse a un buen precio.","A perfume that only high society women wear. It could be sold at a good price.","Um perfume que apenas as mulheres da alta sociedade usam. Pode ser vendido por um bom preço."
+"CARPATITIA_TITLE","Carpatitia","Carpatithia","Carpatithia"
+"CARPATITIA_DESC","Un extraño mineral similar al cuarzo encontrado en la cercanías de un castillo en Transilvania. Permite regresar a la última estatua de guardado usada.","A rare quartz-like mineral found near a castle in Transylvania. Allows you to return to the last used guard statue.","Um raro mineral encontrado próximo de um castelo na Transilvânia. Te permite retornar à última estátua usada.  "
+"ROTTEN_CHIKEN_LEG_TITLE","Pierna de pollo rancia","Rotten Chiken leg","Coxa de Frango Podre"
+"ROTTEN_CHIKEN_LEG_DESC","No creo que sea buena idea comerlo...","I don't think it's a good idea eat it...","Não acho uma boa ideia comer isso…"
