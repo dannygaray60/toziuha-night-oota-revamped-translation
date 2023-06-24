@@ -96,7 +96,7 @@ ALLOY,Aleación,Alloy,Liga
 QUANTITY,Cantidad,Quantity,Quantidade
 AXE,Hacha,Axe,Machado
 SHURIKEN,Shuriken,Shuriken,Shuriken
-KNIFES,Cuchillos,Knifes,Facas
+KNIFES,Cuchillos,Knives,Facas
 TORNADO_BLADES,Tornado de Cuchillas,Tornado Blades,Tornado de Lâminas
 HANDFAN,Abanico de mano,Hand Fan,Leque de Mão
 DOUBLE_JUMP,Doble Salto,Double Jump,Pulo duplo
@@ -192,3 +192,5 @@ DIFFICULTY_OPTIONS,Opciones de Dificultad,Difficulty Options,
 THISLANGISFANMADE,Traducción hecha por fans,Fan-made Translation,
 ABOUTFANMADETRANSLATIONS,"Esta es una traducción hecha por fans, cualquier persona es bienvenida a ayudar a traducir el juego voluntariamente.","This is a fan-made translation, anyone is welcome to help translate the game voluntarily.",
 LEARNMORE,Conocer más,Learn more,
+TOBECONTINUED,Esta historia continuará...,To be continued...,
+WEBSITE,Sitio web,Web Site,

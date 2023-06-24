@@ -1,5 +1,5 @@
-"keys","es","en","pt_BR"
-"ENEMIES_NOTE_GRIJAYLA_ATTACK_DESC","Hermanos, nos han encomendado la misión de buscar al Gobernador de Grijayla y llevarlo ante la presencia de nuestro señor Trithemius. Sigan las ordenes de la Adeptis primera y dirijanse a la parte Noroeste de la ciudad.
+keys,es,en,pt_BR
+ENEMIES_NOTE_GRIJAYLA_ATTACK_DESC,"Hermanos, nos han encomendado la misión de buscar al Gobernador de Grijayla y llevarlo ante la presencia de nuestro señor Trithemius. Sigan las ordenes de la Adeptis primera y dirijanse a la parte Noroeste de la ciudad.
 
 Hemos marcado en este mapa la ubicación de la llave que bloquea el acceso al puente en caso de requerir refuerzos.
 
@@ -12,9 +12,9 @@ Athos be with you.","Irmãos, nos foi confiado a missão de encontrar o Governad
 Nós marcamos no mapa a localização da chave que bloqueia o acesso para a ponte, em caso de reforços forem necessários. 
 
 Que Athos esteja com vocês."
-"ENEMIES_NOTE_GRIJAYLA_ATTACK_TITLE","Ataque en Grijayla","Attack in Grijayla","Ataque em Grijayla"
-"ALCHEMIST_ORDER_MANUAL_I_TITLE","Resistencia del cuerpo.","Body resistance.","Resistência Corporal"
-"ALCHEMIST_ORDER_MANUAL_I_DESC","El cuerpo humano tiene cierto límite para resistir ambientes hostiles, como lugares con frío extremo, altas temperaturas o incluso estar debajo del agua.
+ENEMIES_NOTE_GRIJAYLA_ATTACK_TITLE,Ataque en Grijayla,Attack in Grijayla,Ataque em Grijayla
+ALCHEMIST_ORDER_MANUAL_I_TITLE,Resistencia del cuerpo.,Body resistance.,Resistência Corporal
+ALCHEMIST_ORDER_MANUAL_I_DESC,"El cuerpo humano tiene cierto límite para resistir ambientes hostiles, como lugares con frío extremo, altas temperaturas o incluso estar debajo del agua.
 
 Al adentrarte en estas zonas, se mostrará una barra que indica la resistencia del cuerpo, la cual se llenará con el tiempo y, si alcanza su límite, comenzarás a perder salud continuamente hasta morir.
 
@@ -33,8 +33,8 @@ Quando você entra nessas áreas, uma barra aparecerá, indicando a resistência
 Alquimistas podem usar equipamento especial ou itens que ajudam a resistir por um maior período de tempo. 
 
 Também há rumores que Circuitos Elementais existem para conceder a habilidade de permanecer nessas zonas hostis indefinidamente."
-"ALCHEMIST_ORDER_MANUAL_II_TITLE","Propiedades Fisicas/Element.","Physical Properties/Element.","Propriedades Físicas/Elemento"
-"ALCHEMIST_ORDER_MANUAL_II_DESC","Existen cuatro tipos de [Propiedades Físicas]: Sólido, Líquido, Gas e Intactilis.
+ALCHEMIST_ORDER_MANUAL_II_TITLE,Propiedades Fisicas/Element.,Physical Properties/Element.,Propriedades Físicas/Elemento
+ALCHEMIST_ORDER_MANUAL_II_DESC,"Existen cuatro tipos de [Propiedades Físicas]: Sólido, Líquido, Gas e Intactilis.
 
 Cualquier objeto o ser vivo presenta una de estas propiedades, las cuales determinan los posibles efectos que puede tener contra otros objetos o seres vivos, resumidos de la siguiente manera:
 
@@ -89,8 +89,8 @@ Além disso, opcionalmente, objetos e seres vivos podem apresentar um ou mais [P
 Aqua, Pyro, Frigo, Aeria, Electro, Lux and Tenebris.
 
 No caso de seres vivos, eles podem ser fracos, resistentes, invulneráveis ou absorver dano de certas propriedades elementais. No caso de objetos, eles podem reagir de maneiras diferentes dependendo da propriedade elemental ao entrar em contato."
-"ALCHEMIST_ORDER_MANUAL_III_TITLE","Estadísticas Base","Base Statistics","Estatísticas Base"
-"ALCHEMIST_ORDER_MANUAL_III_DESC","Existen tres estadísticas base:
+ALCHEMIST_ORDER_MANUAL_III_TITLE,Estadísticas Base,Base Statistics,Estatísticas Base
+ALCHEMIST_ORDER_MANUAL_III_DESC,"Existen tres estadísticas base:
 
 ATK determina daño que produces con tus armas principales y arrojadizas.
 
@@ -121,8 +121,8 @@ DEF reduzirá o dano recebido.
 No caso da Xandria. O chicote normal usa apenas metade do ATK, enquanto o chicote espada e algumas armas secundárias usam todo. No caso do ataque esmagador, seu dano é determinado pelo ATK+INT.
 
 Considere as fraquezas e vantagens de seus ataques em cada inimigo para produzir o maior dano possível."
-"ALCHEMIST_ORDER_MANUAL_IV_TITLE","Estados negativos","Negative states","Efeitos negativos"
-"ALCHEMIST_ORDER_MANUAL_IV_DESC","Algunos ataques además del daño inicial, provocan estados alterados en la persona.
+ALCHEMIST_ORDER_MANUAL_IV_TITLE,Estados negativos,Negative states,Efeitos negativos
+ALCHEMIST_ORDER_MANUAL_IV_DESC,"Algunos ataques además del daño inicial, provocan estados alterados en la persona.
 
 - Lesionado: Cualquier daño que puedas infligir se reduce a la mitad.
 
@@ -147,8 +147,8 @@ Remember that these altered states don't disappear if you don't use any item fro
 - Amaldiçoado: Perderá mana continuadamente.
 
 Lembre-se que esses efeitos não disaparecerão se não usar algum item do inventário ou salvar o jogo."
-"ALESSA_LETTER_I_TITLE","Carta de Alessa I","Alessa's Letter I","Carta da Alessa 1"
-"ALESSA_LETTER_I_DESC","Felicitaciones por tu ascenso a Alquimista Oficial. Este es un gran paso para tu carrera como Alquimista, aunque eso no te interesa supongo...
+ALESSA_LETTER_I_TITLE,Carta de Alessa I,Alessa's Letter I,Carta da Alessa 1
+ALESSA_LETTER_I_DESC,"Felicitaciones por tu ascenso a Alquimista Oficial. Este es un gran paso para tu carrera como Alquimista, aunque eso no te interesa supongo...
 
 En fin, he movido un par de fichas y serás asignada a una misión de emergencia, se ha reportado una invasión de demonios en la ciudad de Grijayla.
 
@@ -167,8 +167,8 @@ Enfim, eu mexi uns pauzinhos e  você será designada para uma missão de emerg�
 Você estará sobre as ordens do nosso exaltado Alquimista de Titânio, Kalev. Ele é um homem de pavio curto então fique quieta e siga as instruções dele.
 
 Esta missão pode te interessar, talvez você encontrará algo que esteja procurando? Você me agradecerá depois e ao fazer isso, você me deve uma."
-"ANON_LETTER_I_TITLE","Carta Anónima I","Anonymous letter I","Carta anônima 1"
-"ANON_LETTER_I_DESC","[Carta encontrada en Grijayla, autor desconocido]
+ANON_LETTER_I_TITLE,Carta Anónima I,Anonymous letter I,Carta anônima 1
+ANON_LETTER_I_DESC,"[Carta encontrada en Grijayla, autor desconocido]
 
 Tengo que decir que estoy muy agradecido de que nuestro Señor haya decidido iluminar mi camino y conducirme hacia la cura que tanto necesitaba. ¡Me siento mucho mejor ahora!
 
@@ -199,3 +199,14 @@ Eu não consigo explicar em palavras a felicidade que sinto ao encontrar a salva
 Eu deixarei este lugar para pregar a verdade absoluta.
 
 Se encontrar a si mesmos numa situação similar qua a minha, eu sugiro que abram seus corações e confiem a si mesmos a divina graça de Athos."
+DEVNOTICE,"Toziuha Night está actualmente en desarrollo por una sola persona.
+Algunos elementos gráficos y sonoros aún no están pulidos, 
+pero tus comentarios y sugerencias son más que bienvenidos.
+Valoro tu opinión para mejorar la experiencia.
+
+-- Danny Garay. 2023","Toziuha Night is currently being developed by a single person.
+Some graphics and sound elements are still being polished,
+but your comments and suggestions are more than welcome.
+I value your opinion to enhance the experience.
+
+-- Danny Garay. 2023",
