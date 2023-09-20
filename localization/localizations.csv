@@ -105,7 +105,7 @@ SLIDE,Deslizarse,Slide,Deslizar
 AIR_KICK,Patada Aérea,Dive Kick,Voadora
 WALL_SLIDE,Deslizamiento en pared,Wall Slide,Deslizar na parede
 SWING,Balanceo de látigo,Whip Swing,Chicotada
-BLADE_WHIP,Látigo Espada,Blade Whip,Espada Chicote
+BLADE_WHIP,Látigo de Sangre,Blood Whip,Chicote de sangue
 WHIP_SPIN,Giro de látigo,Whip Spin,Chicotada Giratória
 WHIP_CRUSH,Ataque Crush,Whip Crush,Chicotada Esmagadora
 BLOOD_CONTROL,Control Sanguíneo,Blood Control,Controle Sanguíneo
@@ -160,7 +160,7 @@ USE,Usar,Use,Usar
 PREVIOUS,Anterior,Previous,Anterior
 NEXT,Siguiente,Next,Próximo
 SCREEN_FILTER,Filtro de pantalla,Screen Filter,Filtro de tela
-OBJECT,Objeto,Object,Objeto
+OBJECT,Objeto,Item,Objeto
 ELEMENT,Elemento,Element,Elemento
 OBJECT_KEY,Obj. Clave,Key Obj.,Objeto Chave
 TREASURE,Tesoro,Treasure,Tesouro
@@ -187,10 +187,11 @@ UNBREAKABLEWILL,Voluntad Inquebrantable,Unbreakable Will,
 ABOUTUNBREAKABLEWILL,"Teniendo más del 20% de vida, al recibir daño critico el jugador todavía no morirá.","Having more than 20% health, when the player receives a critical hit, they will not die.",
 DYNAMICKNOCKBACK,Knockback Dinamico,Dynamic Knockback,
 ABOUTDYNAMICKNOCKBACK,El jugador recibirá un empuje de acuerdo al daño recibido.,The player will experience knockback corresponding to the damage taken.,
-CRITIC,Critico!,Critical!,
 DIFFICULTY_OPTIONS,Opciones de Dificultad,Difficulty Options,
 THISLANGISFANMADE,Traducción hecha por fans,Fan-made Translation,
 ABOUTFANMADETRANSLATIONS,"Esta es una traducción hecha por fans, cualquier persona es bienvenida a ayudar a traducir el juego voluntariamente.","This is a fan-made translation, anyone is welcome to help translate the game voluntarily.",
 LEARNMORE,Conocer más,Learn more,
 TOBECONTINUED,Esta historia continuará...,To be continued...,
 WEBSITE,Sitio web,Web Site,
+AERIAL_DASH,Dash aéreo,Aerial Dash,
+WHILECIRUITBTNPRESSED,Manteniendo botón [Circuito],Holding [Circuit] button,

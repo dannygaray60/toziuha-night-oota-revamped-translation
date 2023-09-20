@@ -1,25 +1,41 @@
-"keys","es","en","pt_BR"
-"PAN_TITLE","Pedazo de Pan","Piece of bread","Pedaço de pão"
-"PAN_DESC","Un pedazo de pan. Recupera un poco de salud.","A piece of bread. Recover some of health.","Um pedaço de pão que recupera um pouco da saúde."
-"POTION_MANA_TITLE","Poción de Maná","Mana potion","Poção de Mana"
-"POTION_MANA_DESC","Recupera un poco de Maná.","Recovers some Mana.","Recupera um pouco de mana"
-"CHIKEN_LEG_DESC","Rico pollo con el que recuperas algo de salud.","Rich chicken with which you recover some health.","Delicioso frango para recuperar saúde"
-"CHIKEN_LEG_TITLE","Pierna de Pollo","Chicken leg","Coxa de frango"
-"POTION_CURSE_TITLE","Poción Antimaldiciones","Anti-Curse Potion","Poção anti-maldição"
-"POTION_POISON_TITLE","Antídoto","Antidote","Antídoto"
-"POTION_HEALTH_TITLE","Poción Curativa","Healing potion","Poção de cura"
-"FIRST_AID_KIT_TITLE","Kit de primeros auxilios","First aid box","Caixa de primeiros socorros"
-"BRONZE_KEY_TITLE","Llave de Bronce","Bronze key","Chave de bronze"
-"BRONZE_KEY_DESC","Una vieja llave de bronce, solo eso.","An old bronze key, just that.","Uma chave de bronze antiga, só isso."
-"POTION_HEALTH_DESC","Recupera un 33% de la salud total","Recover an 33% of total health","Recupera 33% de sua saúde total"
-"POTION_POISON_DESC","Detiene los efectos negativos del veneno.","Stop negative effects of poison.","Para os efeitos negativos do veneno"
-"POTION_CURSE_DESC","Remueve maldiciones.","Remove Curses.","Remove Maldições"
-"FIRST_AID_KIT_DESC","Cura las lesiones del cuerpo.","Heals the body's injuries.","Cura as feridas corporais"
-"BEER_TITLE","Jarra de Cerveza","Beer Jar","Jarro de Cerveja"
-"BEER_DESC","Una refrescante jarra de cerveza con la que recuperas bastante salud.","A refreshing mug of beer with which you recover a lot of health.","Uma refrescante caneca de cerveja que recupera bastante saúde."
-"FRAGANCE_TITLE","Perfume Femenino","Women's Perfume","Perfume Feminino"
-"FRAGANCE_DESC","Un perfume que solo mujeres de alta sociedad usan. Podria venderse a un buen precio.","A perfume that only high society women wear. It could be sold at a good price.","Um perfume que apenas as mulheres da alta sociedade usam. Pode ser vendido por um bom preço."
-"CARPATITIA_TITLE","Carpatitia","Carpatithia","Carpatithia"
-"CARPATITIA_DESC","Un extraño mineral similar al cuarzo encontrado en la cercanías de un castillo en Transilvania. Permite regresar a la última estatua de guardado usada.","A rare quartz-like mineral found near a castle in Transylvania. Allows you to return to the last used guard statue.","Um raro mineral encontrado próximo de um castelo na Transilvânia. Te permite retornar à última estátua usada.  "
-"ROTTEN_CHIKEN_LEG_TITLE","Pierna de pollo rancia","Rotten Chiken leg","Coxa de Frango Podre"
-"ROTTEN_CHIKEN_LEG_DESC","No creo que sea buena idea comerlo...","I don't think it's a good idea eat it...","Não acho uma boa ideia comer isso…"
+keys,es,en,pt_BR
+PAN_TITLE,Pedazo de Pan,Piece of bread,Pedaço de pão
+PAN_DESC,Un pedazo de pan. Recupera un poco de salud.,A piece of bread. Recover some of health.,Um pedaço de pão que recupera um pouco da saúde.
+POTION_MANA_TITLE,Poción de Maná,Mana potion,Poção de Mana
+POTION_MANA_DESC,Recupera un poco de Maná.,Recovers some Mana.,Recupera um pouco de mana
+CHIKEN_LEG_DESC,Rico pollo con el que recuperas algo de salud.,Rich chicken with which you recover some health.,Delicioso frango para recuperar saúde
+CHIKEN_LEG_TITLE,Pierna de Pollo,Chicken leg,Coxa de frango
+POTION_CURSE_TITLE,Poción Antimaldiciones,Anti-Curse Potion,Poção anti-maldição
+POTION_POISON_TITLE,Antídoto,Antidote,Antídoto
+POTION_HEALTH_TITLE,Poción Curativa,Healing potion,Poção de cura
+FIRST_AID_KIT_TITLE,Kit de primeros auxilios,First aid box,Caixa de primeiros socorros
+BRONZE_KEY_TITLE,Llave de Bronce,Bronze key,Chave de bronze
+BRONZE_KEY_DESC,"Una vieja llave de bronce, solo eso.","An old bronze key, just that.","Uma chave de bronze antiga, só isso."
+POTION_HEALTH_DESC,Recupera un 33% de la salud total,Recover an 33% of total health,Recupera 33% de sua saúde total
+POTION_POISON_DESC,Detiene los efectos negativos del veneno.,Stop negative effects of poison.,Para os efeitos negativos do veneno
+POTION_CURSE_DESC,Remueve maldiciones.,Remove Curses.,Remove Maldições
+FIRST_AID_KIT_DESC,Cura las lesiones del cuerpo.,Heals the body's injuries.,Cura as feridas corporais
+BEER_TITLE,Jarra de Cerveza,Beer Jar,Jarro de Cerveja
+BEER_DESC,Una refrescante jarra de cerveza con la que recuperas bastante salud.,A refreshing mug of beer with which you recover a lot of health.,Uma refrescante caneca de cerveja que recupera bastante saúde.
+FRAGANCE_TITLE,Perfume Femenino,Women's Perfume,Perfume Feminino
+FRAGANCE_DESC,Un perfume que solo mujeres de alta sociedad usan. Podria venderse a un buen precio.,A perfume that only high society women wear. It could be sold at a good price.,Um perfume que apenas as mulheres da alta sociedade usam. Pode ser vendido por um bom preço.
+CARPATITIA_TITLE,Carpatitia,Carpatithia,Carpatithia
+CARPATITIA_DESC,Un extraño mineral similar al cuarzo encontrado en la cercanías de un castillo en Transilvania. Permite regresar a la última estatua de guardado usada.,A rare quartz-like mineral found near a castle in Transylvania. Allows you to return to the last used guard statue.,Um raro mineral encontrado próximo de um castelo na Transilvânia. Te permite retornar à última estátua usada.  
+ROTTEN_CHIKEN_LEG_TITLE,Pierna de pollo rancia,Rotten Chiken leg,Coxa de Frango Podre
+ROTTEN_CHIKEN_LEG_DESC,No creo que sea buena idea comerlo...,I don't think it's a good idea eat it...,Não acho uma boa ideia comer isso…
+BONE_TITLE,Hueso de esqueleto,Skeleton Bone,
+BONE_DESC,Hueso perteneciente a un esqueleto reanimado.,Bone from a reanimated skeleton.,
+EVILVINE_EYE_DESC,Ojo extraído de un Evilvine. Es asqueroso.,Eye taken from an Evilvine. It's disgusting.,
+EVILVINE_EYE_TITLE,Ojo de Evilvine,Evilvine's Eye,
+FENROKS_FANG_TITLE,Colmillo de Fenrok,Fenrok's Fang,
+FENROKS_FANG_DESC,Colmillo de un Fenrok con rastros de sangre.,Fang of a Fenrok with blood traces.,
+OLD_CLOTHING_TITLE,Ropa Vieja,Old Clothing,
+OLD_CLOTHING_DESC,"Ropa desgastada, perfecto para parecer un pordiosero.","Worn out clothes, perfect for looking like a beggar.",
+SEEDBOMB_LEAF_TITLE,Hoja de Seedbomb,Seedbomb's Leaf,
+SEEDBOMB_LEAF_DESC,Se dice que las hojas de un Seedbomb pueden ser material para explosivos ligeros e incluso tener propiedades curativas...,It's said that the leaves of a Seedbomb can be the material for light explosives and even have healing properties...,
+SLIME_GEL_TITLE,Gel de Slime,Slime Gel,
+SLIME_GEL_DESC,"Gel extraído del cuerpo de un Slime, si te fijas bien el gel se mueve por cuenta propia...","Gel extracted from the body of a Slime, if you look closely the gel moves on its own...",
+DEMON_SKULL_TITLE,Calavera de Demonio,Demon's Skull,
+DEMON_SKULL_DESC,Calavera de algún demonio que fue víctima de un Plasmoid.,Skull of some demon that was victim of a Plasmoid.,
+STINKING_FLESH_TITLE,Carne Pestilente,Stinking Flesh,
+STINKING_FLESH_DESC,"Maldita sea, qué olor...","Damn, what a smell...",
