@@ -27,7 +27,7 @@ PLAYER_AFTERIMAGE,Estela fantasma del jugador,Player Afterimage,Pós-imagem do j
 MOVE_WITH_JOYSTICK,Mover personaje con joystick izquierdo,Move character with left joystick,Mover personagem com o joystick esquerdo
 GAMEPAD_VIBRTN,Vibración de mando,Gamepad vibration,Vibração do controle
 SHAKE_CMR_DAMAGE,Sacudir cámara al recibir daño,Shake camera on damage,Vibrar a câmera durante o dano
-ICONS_BTNS,Íconos de botones,Buttons icons,Ícones dos botões
+ICONS_BTNS,Íconos de botones,Button icons,Ícones dos botões
 CUSTOM_GAMEPAD_ICONS,Personalizar íconos de botones,Customize button icons,Personalizar os ícones dos botões
 QUALITY,Calidad,Quality,Qualidade
 VISUALIZATION_MODE,Modo de visualización,Display Mode,Modo de visualização
@@ -54,18 +54,18 @@ ACTION_UI_FOCUS_NEXT,Circuito Elemental,Use Elemental Circuit,Usar Circuito Elem
 ACTION_UI_A,Saltar / Aceptar,Jump / Accept,Pular / Aceitar
 ACTION_UI_B,Menú Rápido,Quick Menu,Menu Rápido
 ACTION_UI_X,Atacar / Cancelar,Attack / Cancel,Atacar / Cancelar
-ACTION_UI_Y,Arrojar Subarma,Throw Subweapon,Lançar arma secundária
+ACTION_UI_Y,Arrojar Subarma,Throw Sub-Weapon,Lançar arma secundária
 SHADERS_DYNAMIC_LIGHTS,Shaders y luces dinámicas (Alto),Shaders and dynamic lights (High),Shaders e luzes dinâmicas (Alta)
 SHADERS_SIMPLE_LIGHTS,Shaders y luces simples (Medio),Shaders and simple lights (Medium),Shaders e luzes simples (Média)
 SHADERS_NOT_SIMPLE_LIGHTS,Solo luces simples (Bajo),Just simple lights (Low),Apenas luzes simples (Baixa)
 SOLVE_GAMEPAD_INCOMPATIBILITY,Solucionar problemas de compatibilidad,Fix compatibility issues,Solucionar problemas de compatibilidade
 WINDOW_BORDERLESS,Pantalla sin bordes,Borderless screen,Tela sem bordas
 WINDOWED,Ventana,Window,Janela
-MONITOR_RES,Resolución del monitor,Monitor's Resolution,Resolução do monitor
+MONITOR_RES,Resolución del monitor,Monitor Resolution,Resolução do monitor
 GAMEPAD_CONNECTED,Mando conectado,Gamepad connected,Controle conectado
 GAMEPAD_DISCONNECTED,Mando desconectado,Gamepad disconnected,Controle desconectado
 CONF_DEFAULT,Reestablecer configuración por defecto,Reset to default settings,Restaurar configuração inicial
-CONF_BY_DEFAULT_DONE,Configuración por defecto realizado,Config by default done,Configuração inicial realizado
+CONF_BY_DEFAULT_DONE,Configuración por defecto realizado,Default configuration complete,Configuração inicial realizado
 INPUT_DEVICE_INCORRECT,Se usó el dispositivo incorrecto,Input from incorrect device,Uso de dispositivo incorreto
 FULLSCREEN,Pantalla completa,Fullscreen,Tela inteira
 SELECT_NEW_ICON_FOR_ACTION,Selecciona el nuevo ícono para:\n%s,Select new icon for:\n%s,Selecione novo ícone para:\n%s 
@@ -74,16 +74,16 @@ TEST_GAMEPAD,Probar Mando,Test Gamepad,Testar Controle
 SAVE_MAPPING,Guardar mapeo,Save mapping,Salvar mapeamento
 MAPPING_UPDATED,Mapeo actualizado,Mapping updated,Mapeamento atualizado
 SEE_HELP,Ver la ayuda,See help,Ver Ajuda
-PASTE_HERE_MAPPING_STRING,Pegue aquí el string de mapeo,Paste here mapping string,Cole aqui a string de mapeamento
+PASTE_HERE_MAPPING_STRING,Pegue aquí el string de mapeo,Paste the mapping string here,Cole aqui a string de mapeamento
 PRESS_ESC_OR_BACK_ANDROID_TO_END_TESTING,Presione [Escape] (PC) / [Atrás] (Móvil) para terminar,Press [Escape] (PC) / [Back] (Mobile) to end test,Pressione [Esc] (PC) / [Voltar] (Mobile) para terminar teste
 DOWNLOAD_TOOL,Descargar herramienta,Download tool,Baixar ferramenta
-OPENING_LINK_WEB,Abriendo enlace web,Opening web link,Abrindo link
+OPENING_LINK_WEB,Abriendo enlace web,Opening weblink,Abrindo link
 SHOW_MINIMAP,Mostrar Minimapa,Show Minimap,Mostrar mini-mapa
 MINIMAP_VISIBILITY,Visibilidad de Minimapa,Minimap visibility,Visibilidade do mini-mapa
 ELEMENTAL_CIRCUIT,Circuito Elemental,Elemental Circuit,Circuito Elemental
 ACTION,Acción,Action,Ação
 ABILITY,Habilidad,Skill,Habilidade
-SUBWEAPON,Subarma,Subweapon,Arma secundária
+SUBWEAPON,Subarma,Sub-Weapon,Arma secundária
 HEALTH_RECOVERED,Salud Recuperada,Restored Health,Saúde recuperada
 ALCHEMY,Alquimia,Alchemy,Alquimia
 INVENTORY,Inventario,Inventory,Inventário
@@ -120,10 +120,10 @@ CURSED,Maldito,Cursed,Amaldiçoada
 CENTER_MAP,Centrar,Center,Centro
 ADD_MARKER,Añadir Marcador,Add Marker,Adicionar Marcador
 EDIT_MARKER,Editar Marcador,Edit Marker,Editar Marcador
-QUICKSAVE_AND_EXIT,Guardado rápido y Salir,Quick-save & Exit,Salvamento rápido & Sair
+QUICKSAVE_AND_EXIT,Guardado rápido y Salir,Quicksave & Exit,Salvamento rápido & Sair
 EXIT_N_GOTO_MMENU,Salir e ir al Menú Principal,Exit & go to Main menu,Sair & Ir até o Menu Principal
 MAP,Mapa,Map,Mapa
-KEYSOBJECTS,Objetos Clave,Keys Objects,Objetos Chave
+KEYSOBJECTS,Objetos Clave,Key Objects,Objetos Chave
 TREASURES,Tesoros,Treasures,Tesouros
 EMPTY_LIST,Lista Vacía,Empty List,Lista Vazia
 SAVE_MARKER,Guardar Marcador,Save Marker,Salvar Marcador
@@ -151,7 +151,7 @@ HP_TITLE,Salud,Health,Saúde
 MP_TITLE,Mana,Mana,Mana
 SP_TITLE,Estamina,Stamina,Vigor
 POTIONMAX_TITLE,Maximo de pociones,Potions Max,Máximo de Poções
-ACCESORY,Accesorio,Accesory,Acessório
+ACCESORY,Accesorio,Accessory,Acessório
 EQUIP_TOP,Equipo Superior,Top Equip,Equipamento Superior
 EQUIP_MID,Equipo Medio,Mid Equip,Equipamento Médio
 EQUIP_BOTTOM,Equipo Inferior,Bottom Equip,Equipamento Inferior
@@ -173,25 +173,25 @@ RESET,Reestablecer,Reset,Recomeçar
 OPACITY,Opacidad,Opacity,Opacidade
 SIZE,Escala,Size,Tamanho
 MINIMAP,Minimapa,Minimap,Mini-mapa
-ABOUT_CARPATITIA_DEATH,La Carpatitia permite regresar a la última estatua de guardado sin perder el progreso alcanzado.,The Carpatitia allows you to return to the last save statue without losing the progress.,Permite retornar à última estátua de salvamento sem perder o seu progresso
-USE_CARPATITIAX2,Usar Carpatitia x2,Use Carpatithia x2,Usar Carpatithia x2
+ABOUT_CARPATITIA_DEATH,La Carpatitia permite regresar a la última estatua de guardado sin perder el progreso alcanzado.,The Carpatitia allows you to return to the last save statue without losing progress.,Permite retornar à última estátua de salvamento sem perder o seu progresso
+USE_CARPATITIAX2,Usar Carpatitia x2,Use Carpatitia x2,Usar Carpatithia x2
 AMPHIBIOUS_BREATHING,Respiración Anfibia,Amphibious Breathing,Respiração Anfíbia
 SWAPSET,Cambiar Set,Change Set,Mudar Set
-SWAPSUBWEAPON,Cambiar Subarma,Change Subweapon,Mudar arma secundária
+SWAPSUBWEAPON,Cambiar Subarma,Change Sub-Weapon,Mudar arma secundária
 ONSCREENBUTTONSALWAYSVISIBLE,Botones en pantalla siempre visibles,On-screen buttons always visible,Botões na tela sempre visíveis
 CREDITS,Créditos,Credits,Créditos
 GETTHEPREQUEL,Jugar la Precuela,Play the Prequel,Jogar prólogo
 DETAILS_QUICKMENU,Info extra en Menú Rápido,Extra info on Quick Menu,Info extra no Menu Rápido
 GALLERY,Galería,Gallery,Galeria
 UNBREAKABLEWILL,Voluntad Inquebrantable,Unbreakable Will,
-ABOUTUNBREAKABLEWILL,"Teniendo más del 20% de vida, al recibir daño critico el jugador todavía no morirá.","Having more than 20% health, when the player receives a critical hit, they will not die.",
+ABOUTUNBREAKABLEWILL,"Teniendo más del 20% de vida, al recibir daño critico el jugador todavía no morirá.","If the player has more than 20% health, they will not die when critically hit.",
 DYNAMICKNOCKBACK,Knockback Dinamico,Dynamic Knockback,
 ABOUTDYNAMICKNOCKBACK,El jugador recibirá un empuje de acuerdo al daño recibido.,The player will experience knockback corresponding to the damage taken.,
 DIFFICULTY_OPTIONS,Opciones de Dificultad,Difficulty Options,
 THISLANGISFANMADE,Traducción hecha por fans,Fan-made Translation,
-ABOUTFANMADETRANSLATIONS,"Esta es una traducción hecha por fans, cualquier persona es bienvenida a ayudar a traducir el juego voluntariamente.","This is a fan-made translation, anyone is welcome to help translate the game voluntarily.",
+ABOUTFANMADETRANSLATIONS,"Esta es una traducción hecha por fans, cualquier persona es bienvenida a ayudar a traducir el juego voluntariamente.",This is a fan-made translation. Anyone is welcome to help translate the game voluntarily.,
 LEARNMORE,Conocer más,Learn more,
 TOBECONTINUED,Esta historia continuará...,To be continued...,
-WEBSITE,Sitio web,Web Site,
+WEBSITE,Sitio web,Website,
 AERIAL_DASH,Dash aéreo,Aerial Dash,
 WHILECIRUITBTNPRESSED,Manteniendo botón [Circuito],Holding [Circuit] button,
