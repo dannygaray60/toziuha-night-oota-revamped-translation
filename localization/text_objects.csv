@@ -3,7 +3,7 @@ ENEMIES_NOTE_GRIJAYLA_ATTACK_DESC,"Hermanos, nos han encomendado la misión de b
 
 Hemos marcado en este mapa la ubicación de la llave que bloquea el acceso al puente en caso de requerir refuerzos.
 
-Que Athos esté con ustedes.","Brothers, we have been entrusted with the mission to find the Governor of Grijayla and bring him to the presence of our Lord Trithemius. Follow the orders of the Adeptis primera and head to the northwest part of the city.
+Que Athos esté con ustedes.","Brothers, we have been entrusted with the mission to find the governor of Grijayla and bring him to the presence of our Lord Trithemius. Follow the orders of the Adeptis primera and head to the northwest part of the city.
 
 We have marked on this map the location of the key that blocks access to the bridge in case reinforcements are required.
 
@@ -20,9 +20,9 @@ Al adentrarte en estas zonas, se mostrará una barra que indica la resistencia d
 
 Los Alquimistas pueden hacer uso de equipamiento especial u objetos que ayuden a resistir por más tiempo.
 
-También se han escuchado rumores de que existen Circuitos Elementales que otorgan la habilidad de permanecer en estas zonas hostiles indefinidamente.","The human body has a certain limit to resist hostile environments, such as places with extreme cold, high temperatures or even being underwater.
+También se han escuchado rumores de que existen Circuitos Elementales que otorgan la habilidad de permanecer en estas zonas hostiles indefinidamente.","The human body has a certain limit to resist hostile environments, such as places with extreme cold, high temperatures, or even being underwater.
 
-When you enter these areas, a bar indicating the body's resistance will be displayed, which will fill up over time and, if it reaches its limit, you will start to lose health continuously until you die.
+When you enter these areas, a bar indicating the body's resistance will be displayed, which will fill up over time. If it reaches its limit, you will start to lose health continuously until you die.
 
 Alchemists can make use of special equipment or items that help them resist for a longer period of time.
 
@@ -52,7 +52,7 @@ Además, opcionalmente, los objetos o seres vivos pueden presentar una o varias 
 
 Aqua, Pyro, Frigo, Aeria, Electro, Lux y Tenebris.
 
-En el caso de los seres vivos, pueden ser débiles, fuertes, invulnerables o absorber el daño de ciertas propiedades elementales. En el caso de los objetos, pueden reaccionar de diferentes maneras dependiendo de la propiedad elemental del objeto que entre en contacto.","There are four types of [Physical Properties]: Solid, Liquid, Gas and Intactilis.
+En el caso de los seres vivos, pueden ser débiles, fuertes, invulnerables o absorber el daño de ciertas propiedades elementales. En el caso de los objetos, pueden reaccionar de diferentes maneras dependiendo de la propiedad elemental del objeto que entre en contacto.","There are four types of [Physical Properties]: Solid, Liquid, Gas, and Intactilis.
 
 Any object or living being presents one of these properties, which determine the possible effects it can have against other objects or living beings, summarized as follows:
 
@@ -60,7 +60,7 @@ Any object or living being presents one of these properties, which determine the
 
 - Liquid interacts with Liquid and Gas.
 
-- Gas interacts with Gas, Solid and Liquid.
+- Gas interacts with Gas, Solid, and Liquid.
 
 - Intactilis interacts with any property.
 
@@ -68,9 +68,9 @@ An example would be that a Solid object can protect you from a Solid or Liquid a
 
 In addition, optionally, objects or living beings can present one or several [Elemental Properties], such as:
 
-Aqua, Pyro, Frigo, Aeria, Electro, Lux and Tenebris.
+Aqua, Pyro, Frigo, Aeria, Electro, Lux, and Tenebris.
 
-In the case of living beings, they can be weak, strong, invulnerable or absorb damage from certain elemental properties. In the case of objects, they can react in different ways depending on the elemental property of the object they come in contact with.","Existem quatro tipos de [Propriedades Físicas]: Sólido, Líquido, Gasoso e Intactilis, 
+For living beings, they can be weak, strong, invulnerable, or absorb damage from certain elemental properties. In the case of objects, they can react in different ways depending on the elemental property of the object they come into contact with.","Existem quatro tipos de [Propriedades Físicas]: Sólido, Líquido, Gasoso e Intactilis, 
 
 Qualquer objeto ou ser vivo possui uma dessas propriedades, que determina os possíveis efeitos que podem ter contra outros objetos ou seres vivos, resumidos das seguintes formas:
 
@@ -102,13 +102,13 @@ En el caso de Xandria. El látigo normal solo usa la mitad del ATK, mientras que
 
 Ten en cuenta las debilidades y fortalezas elementales de tus ataques en cada enemigo para producir el mayor daño posible.","There are three base statistics:
 
-ATK determines damage you deal with your main and throwing weapons.
+ATK determines the damage you deal with your main and throwing weapons.
 
 INT determines the damage caused by Elemental Circuits.
 
 DEF will reduce the damage you take.
 
-In the case of Xandria. The normal whip only uses half of the ATK, while the sword whip uses its entirety as well as some subweapons. In the case of the crush attack, its damage is determined by ATK+INT.
+In the case of Xandria, the normal whip only uses half of the ATK, while the sword whip uses it entirely, as well as some sub-weapons. In the case of the crush attack, its damage is determined by ATK+INT.
 
 Take into account the elemental weaknesses and strengths of your attacks on each enemy to produce the highest possible damage.","Existem três estatísticas base:
 
@@ -138,7 +138,7 @@ Recuerda que estos estados alterados no desaparecen sino usas algún objeto del 
 
 - Cursed: You will lose mana continuously.
 
-Remember that these altered states don't disappear if you don't use any item from the inventory or save the game.","Alguns ataques, além do dano inicial, provocam efeitos diversos nas pessoas.
+Remember that these altered states don't disappear if you don't use any items from the inventory or save the game.","Alguns ataques, além do dano inicial, provocam efeitos diversos nas pessoas.
 
 - Ferido: Qualquer ataque é reduzido pela metade.
 
@@ -154,13 +154,13 @@ En fin, he movido un par de fichas y serás asignada a una misión de emergencia
 
 Estarás bajo las ordenes de Kalev, nuestro excelso Alquimista de Titanio. Es un hombre algo corto de paciencia, así que solo quédate calladita y sigue sus instrucciones.
 
-Esta misión podría interesarte, quizás encuentres algo que buscas... Ya me lo agradecerás luego, y con agradecerme quiero decir que me deberás un favor.","Congratulations on your promotion to Official Alchemist. This is a big step for your career as an Alchemist, although you don't care about that I guess...
+Esta misión podría interesarte, quizás encuentres algo que buscas... Ya me lo agradecerás luego, y con agradecerme quiero decir que me deberás un favor.","Congratulations on your promotion to Official Alchemist. This is a big step for your career as an Alchemist, although you don't care about that, I guess...
 
-Anyway, I have moved a couple of chips and you will be assigned to an emergency mission, a demon invasion has been reported in the city of Grijayla.
+Anyway, I have pulled some strings, and you will be assigned to an emergency mission. A demon invasion has been reported in the city of Grijayla.
 
-You will be under the orders of Kalev, our exalted Titanium Alchemist. He is a man somewhat short of patience, so just be quiet and follow his instructions.
+You will be under the orders of Kalev, our exalted Titanium Alchemist. He is a man somewhat short on patience, so just be quiet and follow his instructions.
 
-This mission might interest you, maybe you'll find something you're looking for? You'll thank me later, and by thank me I mean you'll owe me a favor.","Parabéns pela sua promoção de Alquimista Oficial. É um grande passo para a sua carreira de alquimista, apesar que você não se importa muito com isso...
+This mission might interest you; maybe you'll find something you're looking for. You'll thank me later, and by thanking me, I mean you'll owe me a favor.","Parabéns pela sua promoção de Alquimista Oficial. É um grande passo para a sua carreira de alquimista, apesar que você não se importa muito com isso...
 
 Enfim, eu mexi uns pauzinhos e  você será designada para uma missão de emergência, uma invasão de demônios foi comunicada na cidade de Grijayla.
 
@@ -182,9 +182,9 @@ Si alguien más se encuentra en una situación similar a la mía, les sugiero qu
 
 I have to say that I'm very grateful that our Lord has decided to enlighten my path and lead me to the cure I needed so much. I feel much better now!
 
-The Ahuizotes have supplied me with the blessed blood of Athos. It has healed me completely. Something that mortal science could not achieve. Now I understand the true power of which [The Order] has taken care to hide.
+The Ahuizotes have supplied me with the blessed blood of Athos. It has healed me completely. Something that mortal science could not achieve. Now I understand the true power that [The Order] has taken care to hide.
 
-I cannot explain in words the happiness I feel at having found salvation on Athos. Now I know that my future lies in following Lord Trithemius, bearer of his will.
+I cannot explain in words the happiness I feel at having found salvation in Athos. Now I know that my future lies in following Lord Trithemius, the bearer of his will.
 
 I will leave this place to preach the absolute truth.
 
