@@ -11,10 +11,10 @@ POTION_HEALTH_TITLE,Poción Curativa,Healing Potion,Poção de cura
 FIRST_AID_KIT_TITLE,Kit de primeros auxilios,First Aid Box,Caixa de primeiros socorros
 BRONZE_KEY_TITLE,Llave de Bronce,Bronze Key,Chave de bronze
 BRONZE_KEY_DESC,"Una vieja llave de bronce, solo eso.",An old bronze key—just that.,"Uma chave de bronze antiga, só isso."
-POTION_HEALTH_DESC,Recupera un 33% de la salud total,Recover 33% of your total health.,Recupera 33% de sua saúde total
+POTION_HEALTH_DESC,Restaura una tercera parte de la salud total.,Restore one-third of the total health,Restaura um terço de sua saúde total
 POTION_POISON_DESC,Detiene los efectos negativos del veneno.,Stop negative effects of poison.,Para os efeitos negativos do veneno
 POTION_CURSE_DESC,Remueve maldiciones.,Remove Curses.,Remove Maldições
-FIRST_AID_KIT_DESC,Cura las lesiones del cuerpo.,Heals the body's injuries.,Cura as feridas corporais
+FIRST_AID_KIT_DESC,"Sana el estado negativo ""Lesionado"" del cuerpo.","Heals the negative ""Injured"" state of the body.","Cura o estado negativo de ""ferido"" do corpo."
 BEER_TITLE,Jarra de Cerveza,Beer Jar,Jarro de Cerveja
 BEER_DESC,Una refrescante jarra de cerveza con la que recuperas bastante salud.,A refreshing mug of beer with which you recover a lot of health.,Uma refrescante caneca de cerveja que recupera bastante saúde.
 FRAGANCE_TITLE,Perfume Femenino,Women's Perfume,Perfume Feminino

@@ -17,7 +17,6 @@ USE_DODGE,"Al presionar [Esquivar] mientras estés caminando te permite rodar ha
 Este movimiento otorga algunos frames de invulnerabilidad y gastará [Estamina].","Pressing [Dodge] while walking allows you to roll forward to dodge enemies.
 
 This move grants some invulnerability frames and will use [Stamina].",Pressionando [Esquiva] enquanto caminha te permite rolar para se esquivar dos inimigos. Esse movimento garante breve invulnerabilidade e usa [Vigor].
-USE_WHIP_M,Fortalece el ataque del látigo con la sangre de los enemigos derrotados.,Strengthens the whip attack with the blood of defeated enemies.,Fortalece a chicotada com o sangue dos inimigos derrotados
 HOWTO_ABSORB,Mantén presionado ↑ cuando estés cerca de un [Circuito Elemental] para obtener nuevos ataques o habilidades.,Press and hold ↑ when near an [Elemental Circuit] to get new attacks or abilities.,Pressione e segure ↑ próximo de um [Circuito Elemental] para conseguir novos ataques e habilidades.
 HOWTO_EQUIP,"Presiona el botón [Pausa] para poder acceder al Inventario, Equipamiento y al sistema de Alquimia.","Press the [Pause] button to access the Inventory, Equipment, and Alchemy system.","Pressione o botão de [Pausa] para acessar o Inventário, Equipamento e o Sistema de Alquimia."
 HOWTO_HIDEMINIMAP,Presiona ↓ + [Backdash] para mostrar u ocultar el minimapa en tiempo real.,Press ↓ + [Backdash] to show or hide the minimap in real time.,Pressione ↓ + [Recuo] para mostrar ou esconder o mini-mapa em tempo real.
@@ -27,3 +26,4 @@ USE_WHIP_M2,Este ataque requiere gasto de [Sangre] el cual se recupera atacando 
 HOWTO_EQUIP_CIRCUIT,Presiona [Pausa] y ve al sistema de [Alquimia] para equipar un circuito de [Acción].,Press [Pause] and go to the [Alchemy] system to equip an [Action] circuit.,Pressione [Pausa] e vá ao sistema de [Alquimia] para equipar um circuito de [Ação]
 HOWTO_HIDEMINIMAP_B,Usando Joystick derecho hacia arriba/abajo puedes alejar un poco la mirada. (Solo con Gamepad).,"Using the right joystick up/down, you can look away a little (Gamepad only).","Se usar para cima ou para baixo no analógico direito, você pode dar um pequeno zoom (Apenas no Controle)"
 THROW_SUBWEAPON,Arroja armas secundarias con el botón [Circuito] (esto gastará maná).,Throw secondary weapons with [Circuit] button (this will spend mana).,Lance armas secundárias com o botão de [Circuit] (Gasta mana).
+HOWTO_STATUEMANA,Puedes arrodillarte frente a una estatua para recuperar maná.,You can kneel in front of a statue to recover mana.,
