@@ -1,4 +1,4 @@
-**In this repository you will find the translation files for the game Toziuha Night Order of the Alchemists.**
+**In this repository you will find the translation files for the game Toziuha Night: Order of the Alchemists and Toziuha Night: Dracula's Revenge.**
 
 ## Anyone is welcome to contribute translations for the game.
 
@@ -17,5 +17,5 @@ Just open the csv files (inside *localization* folder) with the program I made a
 The translation_manager_extra_data.ini file don't touch it. Is a required file for Localization Manager software.
 
 Some phrases do not require translation and should be used as they are in English. For example:
-- Adeptis primera
+- Adeptis primera [or another spanish number]
 - Ahuizotes
