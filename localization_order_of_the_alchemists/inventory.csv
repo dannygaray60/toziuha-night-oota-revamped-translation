@@ -1,0 +1,141 @@
+keys,es,en,pt_BR
+PAN_TITLE,Pedazo de Pan,Piece of bread,Pedaço de pão
+PAN_DESC,Un pedazo de pan. Recupera un poco de salud.,A piece of bread. Recovers some health.,Um pedaço de pão que recupera um pouco da saúde.
+POTION_MANA_TITLE,Poción de Maná,Mana Potion,Poção de Mana
+POTION_MANA_DESC,Recupera un poco de Maná.,Recovers some Mana.,Recupera um pouco de mana
+CHIKEN_LEG_DESC,Rico pollo con el que recuperas algo de salud.,Delicious chicken with which you recover some health.,Delicioso frango para recuperar saúde
+CHIKEN_LEG_TITLE,Pierna de Pollo,Chicken Leg,Coxa de frango
+POTION_CURSE_TITLE,Poción Antimaldiciones,Anti-Curse Potion,Poção anti-maldição
+POTION_POISON_TITLE,Antídoto,Antidote,Antídoto
+POTION_HEALTH_TITLE,Poción Curativa,Healing Potion,Poção de cura
+FIRST_AID_KIT_TITLE,Kit de primeros auxilios,First Aid Box,Caixa de primeiros socorros
+BRONZE_KEY_TITLE,Llave de Bronce,Bronze Key,Chave de bronze
+BRONZE_KEY_DESC,"Una vieja llave de bronce, solo eso.",An old bronze key—just that.,"Uma chave de bronze antiga, só isso."
+POTION_HEALTH_DESC,Restaura una tercera parte de la salud total.,Restore one-third of the total health,Restaura um terço de sua saúde total
+POTION_POISON_DESC,Detiene los efectos negativos del veneno.,Stop negative effects of poison.,Para os efeitos negativos do veneno
+POTION_CURSE_DESC,Remueve maldiciones.,Remove Curses.,Remove Maldições
+FIRST_AID_KIT_DESC,"Sana el estado negativo ""Lesionado"" del cuerpo.","Heals the negative ""Injured"" state of the body.","Cura o estado negativo de ""ferido"" do corpo."
+BEER_TITLE,Jarra de Cerveza,Beer Jar,Jarro de Cerveja
+BEER_DESC,Una refrescante jarra de cerveza con la que recuperas bastante salud.,A refreshing mug of beer with which you recover a lot of health.,Uma refrescante caneca de cerveja que recupera bastante saúde.
+FRAGANCE_TITLE,Perfume Femenino,Women's Perfume,Perfume Feminino
+FRAGANCE_DESC,Un perfume que solo mujeres de alta sociedad usan. Podria venderse a un buen precio.,A perfume that only high-society women wear. It could be sold at a good price.,Um perfume que apenas as mulheres da alta sociedade usam. Pode ser vendido por um bom preço.
+CARPATITIA_TITLE,Carpatitia,Carpatithia,Carpatithia
+CARPATITIA_DESC,Un extraño mineral similar al cuarzo encontrado en la cercanías de un castillo en Transilvania. Permite regresar a la estatua de guardado en la ciudad de Amerithia.,A rare quartz-like mineral found near a castle in Transylvania. Allows you to return to the save statue in the city of Amerithia.,Um raro mineral encontrado próximo de um castelo na Transilvânia. Te permite retornar à estátua do guarda na cidade de Amerithia.
+ROTTEN_CHIKEN_LEG_TITLE,Pierna de pollo rancia,Rotten Chicken Leg,Coxa de Frango Podre
+ROTTEN_CHIKEN_LEG_DESC,No creo que sea buena idea comerlo...,Don't think it's a good idea to eat it...,Não acho uma boa ideia comer isso…
+DEMON_SKULL_TITLE,Calavera de Demonio,Demon's Skull,
+STINKING_FLESH_TITLE,Carne Pestilente,Stinking Flesh,
+STINKING_FLESH_DESC,"Maldita sea, qué olor...","Damn, what a smell...",
+MAGIC_MEDALLION_TITLE,Medallón Mágico,Magic Medallion,
+MAGIC_MEDALLION_DESC,Permite abrir puertas selladas que protegen a la ciudad de Amerithia de demonios pequeños.,Allows to open sealed doors that protect the city of Amerithia from small demons.,
+ORNAMENT_GEMSTONE_TITLE,Gema de Adorno,Gemstone Ornament,
+ORNAMENT_GEMSTONE_DESC,Una gema con muescas que indican que podría encajarse en algún lugar.,A gem with notches that suggest it could fit into a specific place.,
+SILVER_KEY_TITLE,Llave de Plata,Silver Key,
+SILVER_KEY_DESC,Una vieja llave hecha de plata.,An old silver key.,
+DEMON_SKULL_DESC,Una calavera de demonio que había sido tragado por un slime gigante.,A demon skull that had been swallowed by a giant slime.,
+FIREPROOF_CONTAINER_TITLE,Carta de María,Maria's letter,
+FIREPROOF_CONTAINER_DESC,"Carta encontrada dentro de un contenedor ignífugo que dice lo siguiente:
+
+En estos dos años como infiltrada en la secta de los Ahuizotes finalmente hice avances reuniendo información.
+
+Su líder proclama que los guiará hacia el ""milagro"" de la resurrección gracias al [Opus Magnum].
+
+Solo los Adeptis están al tanto sobre cómo crearán el Opus Magnum.
+
+Sin embargo, se sabe que consta de cuatro etapas para su transmutación:
+
+1-Rubedo, 2-Albedo, 3-Citrinitas, 4-Nigredo.
+
+Se dice que la primera etapa, Rubedo, fue alcanzada gracias a cierto incidente ocurrido en la región de Transilvania.
+
+La segunda etapa, Albedo, fue completada con la invasión de demonios en Grijayla.
+
+En esta ciudad los Ahuizotes descubrieron un laboratorio secreto de un investigador especializado en óptica llamado Jean Neumann.
+
+Desconozco de qué trata la 3ra y 4ta fase.
+
+Mi último descubrimiento es sobre el lugar donde se oculta Johannes Trithemius.
+
+Hay una puerta enorme en el lugar donde los Ahuizotes se reunen, una abadía antigua ubicada al norte, pasando por Eztilia. 
+
+Esta puerta solo se abre cuando todos los Adeptis se reunen, colocando sus medallones en un orden específico.
+
+Logré escabullirme y ver el orden en el que lo hacían: %s
+
+Espero que esto logre con nuestra misión de erradicar a los Ahuizotes de una vez por todas.
+
+-- María Cervantes.","Letter found inside a fireproof container that reads as follows:
+
+In these two years as an infiltrator in the sect of the Ahuizotes I finally made progress gathering information.
+
+Their leader proclaims that he will guide them to the ""miracle"" of resurrection thanks to the [Opus Magnum].
+
+Only the Adeptis are aware of how they will create the Opus Magnum.
+
+However, it's known that it consists of four stages for its transmutation:
+
+1-Rubedo, 2-Albedo, 3- Citrinitas, 4-Nigredo.
+
+The first stage, Rubedo, is said to have been achieved thanks to a certain incident in the Transylvania region.
+
+The second stage, Albedo, was completed with the invasion of demons in Grijayla.
+
+In this city the Ahuizotes discovered a secret laboratory of a researcher specialized in optics named Jean Neumann.
+
+I don't know what the 3rd and 4th phases are about.
+
+My last discovery is about the place where Johannes Trithemius is hiding.
+
+There is a huge door in the place where the Ahuizotes gather, an ancient abbey located to the north, passing through Eztilia. 
+
+This door only opens when all the Adeptis gather, placing their medallions in a specific order.
+
+I managed to sneak in and see the order in which they did it: %s.
+
+I hope this accomplishes our mission to eradicate the Ahuizotes once and for all.
+
+-- Maria Cervantes.",
+MEDALLION_O_TITLE,Medallón Oxígeno,Oxygen Medallion,
+MEDALLION_O_DESC,"Medallón perteneciente al Alquimista del Oxígeno, Joseph Cavendish.","Medallion belonging to the Alchemist of Oxygen, Joseph Cavendish.",
+RUBY_TITLE,Rubí,Ruby,
+WATERSWORD_TITLE,Espada de Atargatis,Atargatis Sword,
+RUBY_DESC,Un rubí grande y muy valioso. Un Witiko lo tenía en su posesión.,A large and very valuable ruby. A Witiko had it in his possession.,
+WATERSWORD_DESC,Una espada hecha de un cristal resistente que emite una luz azul muy intensa.,A sword made of a resistant crystal that emits a very intense blue light.,
+DAGUERROTYPE_TITLE,Daguerrotipo,Daguerreotype,
+DAGUERROTYPE_DESC,"Una caja de madera encontrada por la niña Aura, pero no sabe cual es su utilidad.
+
+La caja incluye un lente de cristal y componentes internos mecánicos además de una lámina de plata pulida a tal punto que parece un espejo.","A wooden box found by the girl Aura, but she does not know what its purpose is.
+
+The box includes a glass lens and mechanical internal components and a silver sheet polished to the point that it looks like a mirror.",
+PB_ELEMT_TITLE,Muestra de Plomo elemental,Elemental Lead Sample,
+PB_ELEMT_DESC,"El plomo es un metal denso, blando y maleable, usado en protección contra radiación y contrapesos. ","Lead is a dense, soft and malleable metal used in radiation protection and counterweights. ",
+HG_ELEMT_TITLE,Muestra de Mercurio elemental,Elemental Mercury Sample,
+HG_ELEMT_DESC,"El mercurio es el único metal que es líquido a temperatura ambiente, conocido por su alta densidad y su uso en termómetros.","Mercury is the only metal that is liquid at ambient temperature, known for its high density and its use in thermometers.",
+AU_ELEMT_TITLE,Muestra de Oro elemental,Elemental Gold Sample,
+AU_ELEMT_DESC,"El oro es un metal amarillo brillante, muy valorado por su uso en joyería, monedas y como reserva de valor. ","Gold is a bright yellow metal, highly valued for its use in jewelry, coins and as a store of value. ",
+SN_ELEMT_TITLE,Muestra de Estaño elemental,Elemental Tin Sample,
+SN_ELEMT_DESC,"El estaño es un metal plateado y maleable, utilizado en la fabricación de aleaciones y recubrimientos protectores. ","Tin is a silvery, malleable metal used in the manufacture of alloys and protective coatings. ",
+AG_ELEMT_TITLE,Muestra de Plata elemental,Elemental Silver Sample,
+AG_ELEMT_DESC,"La plata es un metal blanco y brillante, apreciado por su uso en joyería, utensilios y como conductor eléctrico. ","Silver is a bright white metal, prized for its use in jewelry, utensils and as an electrical conductor. ",
+CU_ELEMT_TITLE,Muestra de Cobre elemental,Elemental Copper Sample,
+CU_ELEMT_DESC,"El cobre es un metal rojizo y conductor, ampliamente usado en cables eléctricos y en la construcción.","Copper is a reddish, conductive metal, widely used in electrical wiring and construction.",
+FE_ELEMT_TITLE,Muestra de Hierro elemental,Elemental Iron Sample,
+FE_ELEMT_DESC,"El hierro es un metal fuerte y duradero, fundamental en la fabricación de acero y en la construcción de infraestructuras. ","Iron is a strong and durable metal, essential in steelmaking and infrastructure construction. ",
+TEST_TUBE_TITLE,Tubo de ensayo,Test tube,
+TEST_TUBE_DESC,Un tubo de vidrio usado para contener muestras pequeñas.,A glass tube used to contain small samples.,
+MINERAL_FE_TITLE,Mineral de hierro,Iron ore,
+MINERAL_FE_DESC,Mineral de hierro que contiene impurezas.,Iron ore containing impurities.,
+MINERAL_CU_TITLE,Mineral de cobre,Copper ore,
+MINERAL_CU_DESC,Mineral que contiene 70% de cobre elemental.,Ore containing 70% elemental copper.,
+MINERAL_AG_TITLE,Mineral de plata,Silver ore,
+MINERAL_AG_DESC,Mineral que contiene una pequeña cantidad de plata elemental.,Ore containing a small amount of elemental silver.,
+MINERAL_HG_TITLE,Cinabrio,Cinnabar,
+MINERAL_HG_DESC,"Mineral que pertenece al grupo de los sulfuros, compuesto en un 85% de mercurio y en un 15% de azufre.","Mineral belonging to the sulfide group, composed of 85% mercury and 15% sulfur.",
+MINERAL_AU_TITLE,Pepita de oro,Gold nugget,
+MINERAL_AU_DESC,Una pieza de oro mezclada con impurezas.,A piece of gold mixed with impurities.,
+MINERAL_SN_TITLE,Casiterita,Cassiterite,
+MINERAL_SN_DESC,Mineral del óxido de Estaño.,Tin oxide ore.,
+MINERAL_PB_TITLE,Galena,Galena,
+MINERAL_PB_DESC,Mineral de sulfuro de plomo.,Lead sulfide ore.,
+PRISMDISPERSE_TITLE,Prisma de dispersión inversa,Inverse dispersion prism,
+PRISMDISPERSE_DESC,Prisma creado por Jean Neumann que permite invertir el proceso de la dispersión de la luz.,Prism created by Jean Neumann that reverses the process of light dispersion.,

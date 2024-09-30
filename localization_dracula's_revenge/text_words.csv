@@ -1,0 +1,174 @@
+keys;en;es;pt;fr
+STARTGAME;Start Game;Comenzar juego;Iniciar o jogo;Commencer une Partie
+ATK;Attack;Ataque;Ataque;Attaque
+DEF;Defense;Defensa;Defesa;Défense
+HP;Health;Salud;Vida;Santé
+EQUIP;Equip;Equipo;Equipar;Equipement
+TIME;Time;Tiempo;Tempo;Temps
+DESCRIPTION;Description;Descripción;Descripción;Description
+ERASE;Erase;Borrar;Eliminar;Effacer
+DELETESLOTS;Delete Slots;Eliminar Slots;Eliminar Slots;Effacer Slot
+EMPTY_SLOT;Empty Slot;Slot Vacío;Slot Vazio;Slot vide
+SKILLDOUBLEJUMP;Skill:\nDouble Jump;Habilidad:\nSalto Doble;Habilidade:\nPulo Duplo;Habilité:\nDouble Saut
+SKILLSLIDE;Skill:\nSlide;Habilidad:\nDeslizarse;Habilidade:\nDeslizar;Habilité:\nGlissade
+SKILLBACKDASH;Skill:\nBackdash;Habilidad:\nRetropropulsión;Habilidade:\nRetroceder;Habilité:\nSaut arrière
+SKILLDODGE;Skilll:\nTo dodge;Habilidad:\nEsquivar hacia adelante;Esquivar;Habilité:\nRoulade
+POTIONLIMIT;Potion Limit;Límite de poción;Limite de poção;Limite de Potion
+HPLIMIT;HP Limit;Límite de HP;Limite de HP;Limite de HP
+MPLIMIT;MP Limit;Límite de MP;Limite de MP;Limite de MP
+HEALTHFULL;Full Health;Salud LLena;Saúde completa;Santé complète
+HEALTH;Health;Salud;Saúde;Santé
+NOTPOTIONS;Without Potion;Sin Poción;Sem Poção;Sans Potion
+SAVEPOINT;Save Point (from statues);Punto de guardado (desde estatuas);Ponto de salvamento (das estatuas);Point de Sauvegarde (Par Statue)
+QUICKLOAD;Quick Load;Cargado rápido;Carregamento rápido;Chargement Rapide
+NEWGAME;New Game;Nueva Partida;Novo Jogo;Nouvelle partie
+PHRASEDONTDOWNLVLS;You don't have any level downloaded.;Actualmente no ha descargado ningún nivel personalizado.;Você não tem nenhum nível baixado.;Pas de niveau téléchargés.
+EMPTYLIST;Empty List;Lista Vacía;Lista Vazia;Liste vide
+DOWNLOADLVLS;Download Levels;Descargar Niveles;Baixar Niveis;Télécharger niveaux
+STORYMODE;Story Mode;Modo Historia;Modo Historia;Mode Histoire
+CUSTOMLVLS;Custom Levels;Niveles Personalizados;Niveis Personalizados; Niveaux personalisés
+DISABLED;Disabled;Desactivado;Desativado;Désactivé
+ICONS;Icons;Iconos;Icones;Icones
+QUALITY;Quality;Calidad;Qualidade;Qualité
+TO_START;to start;para iniciar;para começar;Pour Démarrer
+TOUCH_HERE_TO_START;Touch here to start;Toca aquí para iniciar;Toque aqui para começar; Toucher ici pour démarrer
+VIDEO_FILTERS;Video Filters;Filtros de Video;Filtros de Video;Filtres Videos
+ACCEPT;Accept;Aceptar;Aceitar;Accepter
+ATTACK;Attack;Atacar;Ataque;Attaquer
+JUMP;Jump;Saltar;Pular;Sauter
+BACKDASH;Backdash;Retropropulsión;Retroceder;Saut Arrière
+CROUCH;Crouch;Agacharse;Agachar;S'accroupir
+INAIR;In Air;En el aire;No Ar;En l'air
+LIFES;Lifes;Vidas;Vidas;Vies
+PAUSED;Paused;Pausado;Pausa;Pause
+CHANGECHARACTER;Change Character;Cambiar Personaje;Mudança de carácter;Changer Personnage
+CHANGEGAMEMODE;Change Game mode;Cambiar Modo de juego;Alterar modo de jogo;Changer Mode de Jeu
+CHANGESLOT;Change Slot;Cambiar Slot;Alterar Slot;Changer Slot
+CHANGEITEM;Change Item;Cambiar Item;Alterar Item;Changer Objet
+PAUSEMAP;Pause / Map;Pausa / Mapa;Pausa / Mapa;Pause / Carte
+PREV;Previous;Anterior;Anterior;Précédent
+NEXT;Next;Siguiente;Seguinte;Suivant
+PLAY;Play;Reproducir;Reproduzir;Jouer
+STOP;Stop;Detener;Parar;Stop
+POSITION;Position;Posición;Posição;Position
+TOBECONTINUED;To be continued...;Continuará...;Continua...;A suivre...
+ELEMENTAL_CIRCUIT;Elemental Circuit;Circuito Elemental;Circuito Elemental;Circuit Elémentaire
+ABSORB_CIRCUIT;Absorb Elemental Circuit;Absorber Circuito Elemental;Absorver Circuito Elemental;Absorber Circuit Elémentaire
+USE_ELEMENTAL_CIRCUIT;Use Elemental Circuit;Usar Circuito Elemental;Usar Circuito Elemental;Utiliser Circuit Elémentaire
+PAUSE_SLASH_MAP;Pause / Map; Pausa / Mapa;Pausa / Mapa; Pause / Carte
+OPT_BTN_JUMPANDACCEPT;Jump / Accept;Saltar / Aceptar;Pular / Aceitar; Sauter/ Accepter
+OPT_BTN_ATTACKANDCANCEL;Attack / Cancel;Atacar / Cancelar;Atacar / Cancelar;Attaquer / Annuler
+OPT_BTN_START;Start / Pause;Inicio / Pausa;Iniciar / Pausar;Start / Pause
+SELECTNEWBTNICONFORX;Select a new icon for «%s».;Selecciona un nuevo icono para «%s».;Selecione um novo icone para «%s».;Selectionner une nouvelle icone pour «%s»
+REMAP_MSG_GAMEPAD;Press a new button for «%s» on your gamepad.;Presiona un nuevo botón para «%s» en su gamepad.;Pressione um novo botão para «%s» em seu Gamepad.;Appuyer sur une nouvelle touche pour «%s» sur la manette
+REMAP_MSG_KEYBRD;Press a new key for «%s».;Presiona una nueva tecla para «%s».;Pressione uma nova tecla para «%s».;Appuyer sur une nouvelle touche du clavier pour «%s»
+MSG_OR_PRESS_ESC_TO_CLOSE;Or press «Escape» to close.;O presione «Escape» para cerrar.;Ou pressione «Escape» para fechar.;Ou pressez «Echap» pour fermer.
+MSG_OR_PRESS_BACK_TO_CLOSE;Or press «Back» to close.;O presione «Atrás» para cerrar.;Ou pressione «Atrás» para fechar.;Ou Pressez «Back» pour fermer.
+MOVE;Move;Mover;Mover;Bouger
+UP;Up;Arriba;Acima;Haut
+DOWN;Down;Abajo;Abaixo;Bas
+LEFT;Left;Izquierda;Esquerda;Gauche
+RIGHT;Right;Derecha;Direita;Droite
+ATTACK;Attack;Atacar;Ataque;Attaquer
+JUMP;Jump;Saltar;Pular;Sauter
+ACTIONS_LIST;Action List;Lista de Acciones;Lista de Ações;Liste d'actions
+NAVIGATE;Navigate;Navegar;Navegar;Naviguer
+SELECT;Select;Seleccionar;Selecionar;Selectionner
+RETURN;Return;Regresar;Voltar;Retour
+CHANGE_VOLUME;Change Volume;Cambiar Volumen;Alterar Volume;Changer Volume
+START;Start;Comenzar;Começar;Démarrer
+CONTINUE;Continue;Continuar;Continuar;Continuer
+DOWNLOADMISSIONS;Download Missions;Descargar Misiones;Baixar Missões;Télécharger Missions
+STORE;Store;Tienda;Loja;Magasin
+EXTRAS;Extras;Extras;Extras;Extras
+OPTIONS;Options;Opciones;Opções;Options
+CREDITS;Credits;Créditos;Créditos;Générique
+UPDATES;Updates;Actualizaciones;Atualizações;Mises à jour
+EXIT;Exit;Salir;Sair;Sortir
+SLOTTODELETE;Slot to delete;Slot a eliminar;Slot a eliminar;Fichier à éffacer
+SELECTSLOT;Select Slot;Seleccione Slot;Selecionar Slot;Choisir Fichier
+STAGE;Stage;Fase;Etapa;Niveau
+SELECTSTAGE;Select Stage;Seleccionar Fase;Selecionar Etapa;Choisir Niveau
+MAINMENU;Main Menu;Menú Principal;Menú Principal;Menu Principal
+GRAPHICS;Graphics;Gráficos;Gráficos;Graphismes
+AUDIO;Audio;Audio;Audio;Audio
+KEYBOARD;Keyboard;Teclado;Teclado;Clavier
+GAMEPAD;Gamepad;Gamepad;Gamepad;Manette
+TOUCHCONTROL;Touch Buttons;Control Táctil;Controle de toque;Controles Tactiles
+LANGUAGE;Language;Idioma;Idioma;Langue
+FULLSCREEN;Fullscreen;Pantalla Completa;Tela Cheia;Plein écran
+BORDERLESS;Borderless Window;Ventana sin borde;Janela sem Borda;Sans Bordures
+EFFECTS;Effects;Efectos;Efeitos;Effets
+MUSIC;Music;Música;Música;Musique
+VOICE;Voice;Voz;Voz;Voix
+OTHER;Other;Otro;Outro;Autres
+VIBRATION;Vibration;Vibración;Vibração;Vibration
+PLAYSEQUEL;Play Sequel;Jugar Secuela;Jugar Secuela;Play Sequel
+SCR_SHAKE;Screen Shake;Sacudida Pantalla;Sacudida Pantalla;Screen Shake
+SAVE;Save;Guardado;Salvar;Sauvegarder
+VISITED;Visited;Visitado;Visitado;Visité
+SHOWBUTTONS;Show Buttons;Mostrar Botones;Mostrar Botões;Montrer Boutons
+BUTTONSPOSITION;Buttons Position;Posición de Botones;Posição dos Botões;Position des boutons
+SAVEANDEXIT;Quick Save & Exit;Guardar rápido y Salir;Salvar rápido e Sair;Sauvegarde rapide & Sortie
+EXITNOSAVE;Exit without save;Salir sin guardar;Sair sem salvar; Sortie sans Sauver
+EXITANDGOMAINMENU;Exit and go to main menu;Salir de la partida y regresar al menú principal;Sair e voltar ao menu principal;Sortie au menu principal
+SAVEDGAME;Saved Game;Partida Guardada;Jogo Salvo;Jeu Sauvegardé
+HELP;Help;Ayuda;Ajuda;Aide
+DEFAULT;Default;Por Defecto;Padrão;Defaut
+SAVE;Save;Guardar;Salvar;Sauvegarder
+CANCEL;Cancel;Cancelar;Cancelar;Annuler
+TRANSPARENCY;Transparency;Transparencia;Transparencia;Transparence
+SIZE;Size;Tamaño;Tamanho;Taille
+CONF_BTN_ICNS;Change Gamepad icons;Cambiar iconos gamepad;Alterar Icones do Gamepad;Changer icones manette
+SHOW_GAMPD_ICNS;Gamepad Icons;Iconos Gamepad;Icones do Gamepad;icones manette
+HIDE_GAMPD_ICNS;No Gamepad Icons;No Iconos Gamepad;Não Icones do Gamepad;Pas d'icone manette
+SHOW_KYBRD_ICNS;Keyboard Icons;Iconos Teclado;Icones do Teclado;Icones clavier
+HIDE_BTN_ICNS;Hide Icons;Ocultar Iconos;Ocultar Icones;Cacher Icones
+POTION;Potion;Poción;Poção;Potion
+USE_POTION;Use Potion;Usar Poción;Usar Poção;Utiliser Potion
+SLIDE;Slide;Deslizarse;Deslizar;Glisser
+BACKWARD;Backdash;Retropropulsión;Retroceder;Saut Arrière
+SUBWEAPON;Sub-weapon;Sub-arma;Sub-arma;Arme secondaire
+HPRESTORED;Restored Health;Salud Restaurada;Vida Restaurada;Santé Restaurée
+THROW_SUBWEAPON;Throw Subweapon;Lanzar Subarma;Lançar Subarma;Lancer Arme secondaire
+INFECTEDSLIME;Infected Slime;Slime Infectado;Slime Infectado;Slime infecté
+SKELETON;Skeleton;Esqueleto;Esqueleto;Squelette
+INFECTEDSKELETON;Infected Skeleton;Esqueleto Infectado;Esqueleto Infectado;Squelette infecté
+ZOMBIE;Zombie;Zombi;Zumbi;Zombie
+BAT;Bat;Murciélago;Morcego;Chauve Souris
+CURSEDHOUND;Cursed Hound;Sabueso Maldito;Cão Amaldiçoado;Chien Maudit
+DEMONSKULLHEAD;Demon Skull;Calavera Demoníaca;Caveira Demoniaca;Crâne Démoniaque
+BLOODBAT;Blood Bat;Múrciélago Sangriento;Morcego Sangrento;Chauve souris de Sang
+MPPLUS1;Mana Points +1;Puntos de maná +1;Pontos de mana +1;Points de mana +1
+MPPLUS5;Mana Points +5;Puntos de maná +5;Pontos de mana +5;Points de mana +5
+WEAPONLVL;Weapon Lvl%d;Arma Nivel %d;Arma Nivel %d;Arme Niveau %d
+BRONZEKY;Bronze Key;Llave de Bronce;Chave de Bronze;Clé de Bronze
+SILVERKY;Silver Key;Llave Plateada;Chave Prateada;Clé d'Argent
+GOLDENKY;Golden Key;Llave Dorada;Chave Dourada;Clé d'Or
+SKIP;Skip;Omitir;Pular;Passer
+HOLD;Hold;Mantén;Manter;Maintenir
+PRESS;Press;Presiona;Pressionar;Appuyer
+RELEASE;Release;Suelta;Soltar;Relacher
+MISSIONRESULTS;Mission Results;Resultados de Misión;Resultados de Missão;Resultats de Mission
+SELECTMAP;Select Map;Seleccione Mapa;Selecionar Mapa;Choisir Carte
+MONEY;Money;Dinero;Dinheiro;Argent
+DEATHS;Deaths;Muertes;Mortes;Morts
+LOADING;Loading;Cargando;Carregando;Chargement
+LOCKEDDOOR;Locked Door;Puerta Bloqueada.;Porta Bloqueada;Porte Verrouilée
+AVAILABLE_PC_ANDROID;Available for PC & Android (Playstore);Disponible para PC y Android (Playstore);Disponível para PC e Android (Playstore);Disponible sur PC et Android (Playstore)
+COMINGSOON;Coming Soon;Próximamente;Proximamente;Bientôt disponible
+PHRASE_SLIDE;Press «Down» + «Jump» to slide.;Presiona «Abajo» + «Salto» para deslizarte.;Pressione «Abaixo» + «Pular» para deslizar.;"Appuyez sur ""Down"" + ""Jump"" pour glisser."
+PHRASEWANTLOADORNEWGAME;Do you want continue from a save file or start new game?;¿Desea continuar desde un punto de guardado o comenzar de nuevo?;Quer continuar a partir de um arquivo salvo ou iniciar um novo jogo?;Continuer ou nouvelle partie?
+PHRASE_ABOUT_CLASSIC;Classic Mode:\nYou have limited lives, be careful when jumping, knockback activated and limited attack.;Modo Clásico:\nTienes vidas limitadas, ten cuidado al saltar, knockback activado y ataque limitado.;Classic Mode:\nYou have limited lives, be careful when jumping, knockback activated and limited attack.;knockback activated and limited attack.
+PHRASE_ABOUT_CASUAL;Casual Mode:\nYou have infinite lives, no knockback, double jump, 8-way attack and precise control.;Modo Casual:\nTienes vidas infinitas, sin knockback, doble salto, ataque en 8 direcciones y control preciso.;Casual Mode:\nYou have infinite lives, no knockback, double jump, 8-way attack and precise control.;8-way attack and precise control.
+INTROTITLE1;- Transilvania -\nFive years after Ottoman Invasion;- Transilvania -\nCinco años después de la invasión Otomana;- Transilvania -\nCinco anos após a invasão otomana;Transylvanie -\nCinq and après l'invasion Ottomane
+INTROTITLE2;Seven and half years later...;Siete años y medio después...;Sete anos e meio depois...;Sept ans et demi plus tard...
+0_0;Prologue;Prólogo;Prologue;Prologue
+1_1;Hell Awaits;El Infierno te espera;Hell Awaits;Hell Awaits
+2_1;Demon's Castle;El Castillo Demoníaco;Demon's Castle;Demon's Castle
+3_1;A Chronicle of a Death...;Crónica de una Muerte...;A Chronicle of a Death...;A Chronicle of a Death
+4_1;Under the Silver Cross;Bajo la Cruz de Plata;Under the Silver Cross;Under the Silver Cross
+5_1;Reign in Blood;Reinado en Sangre;Reign in Blood;Reign in Blood
+6_1;Ritual of the Midnight;Ritual de Medianoche;Ritual of the Midnight;Ritual of the Midnight
+7_1;Raining Blood;Lloviendo Sangre;Raining Blood;Raining Blood
+WRITE4CASUAL;Type [EASY] to activate the casual mode.;Escribe [EASY] para activar el modo casual.;Digite [EASY] para ativar o modo casual.;Entrez [EASY] pour activer le mode Casual.

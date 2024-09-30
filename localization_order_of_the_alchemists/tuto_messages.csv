@@ -1,17 +1,16 @@
 keys,es,en,pt_BR
 MAKE_FAST_ATKS,Haz ataques rápidos con el botón [Ataque].,Perform quick attacks with the [Attack] button.,Faz ataques rápidos com o botão de [Ataque]
 EVADE_WITH_BACKDASH,Evade ataques enemigos con [Esquivar].,Avoid enemy attacks with [Dodge].,Desvia de ataques inimigos com [Esquiva]
-USE_QUICKMENU,"Al mantener presionado el botón [Menú rápido] podrás cambiar sets de equipamiento presionando [Backdash] o [Circuito E.].
+USE_QUICKMENU,"Al mantener presionado el botón [Menú rápido] podrás cambiar sets de equipamiento presionando [Pág Prev] o [Pág Sig].
 
-Si presionas [Arriba] o [Abajo] cambiará la Subarma equipada.","By holding down the [Quick Menu] button, you can change equipment sets by pressing [Backdash] or [E. Circuit].
+Será util cuando quieras usar diferentes aleaciones y circuitos para atacar las debilidades elementales de los enemigos.","By holding down the [Quick Menu] button, you can change equipment sets by pressing [Prev Pag] or [Next Pag].
 
-Pressing [Up] or [Down] will change the equipped sub-weapon.","Ao pressionar o botão de [Menu Rápido]. Você pode mudar o equipamento ao pressionar [Recuo] ou [Circuito Elemental].
-Pressionando [Cima] ou [Baixo] mudará a arma secundária equipada"
+It will be useful when you want to use different alloys and circuits to attack the elemental weaknesses of enemies.",
 USE_QUICKMENU2,"Mantén presionado el botón y desliza hacia el set de equipamiento que quieras usar. (Requiere Circuito de habilidad).
 
-Si presionas [Arriba] o [Abajo] la subarma equipada cambiará.","Hold down the button and slide to the equipment set you want to use (Requires Skill Circuit).
+Será util cuando quieras usar diferentes aleaciones y circuitos para atacar las debilidades elementales de los enemigos.","Hold down the button and slide to the equipment set you want to use (Requires Skill Circuit).
 
-If you press [Up] or [Down], the equipped sub-weapon will change.",Segure o botão e deslize para o conjunto de equipamento que quer usar (Requer Circuito de Habilidade). Se pressionar [Cima] ou [Baixo] a arma secundária mudará.
+It will be useful when you want to use different alloys and circuits to attack the elemental weaknesses of enemies.",
 USE_DODGE,"Al presionar [Esquivar] mientras estés caminando te permite rodar hacia adelante para esquivar enemigos.
 
 Este movimiento otorga algunos frames de invulnerabilidad y gastará [Estamina].","Pressing [Dodge] while walking allows you to roll forward to dodge enemies.

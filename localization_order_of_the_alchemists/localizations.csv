@@ -43,18 +43,19 @@ PRESS_ESCAPE,Presiona [Escape],Press [Escape],Pressione [Esc]
 PRESS_BACK_ANDROID,Presiona [Atrás] (Móvil),Press [Back] (Mobile),Pressione [Voltar] (Mobile)
 ACTION_UI_START,Pausa / Equipamiento,Pause / Equipment,Pausar/ Equipamento
 ACTION_UI_SELECT,Abrir mapa,Open map,Abrir mapa
-ACCEPT,Aceptar,Accept,Aceitar
-CANCEL,Cancelar,Cancel,Cancelar
+ACTION_UI_ACCEPT,Aceptar,Accept,Aceitar
+ACTION_UI_CANCEL,Cancelar,Cancel,Cancelar
 ACTION_UI_UP,Arriba,Up,Cima
 ACTION_UI_DOWN,Abajo,Down,Baixo
 ACTION_UI_LEFT,Izquierda,Left,Esquerda
 ACTION_UI_RIGHT,Derecha,Right,Direita
-ACTION_UI_FOCUS_PREV,Retroceder / Esquivar,Backdash / Dodge,Recuar / Esquivar
-ACTION_UI_FOCUS_NEXT,Circuito Elemental,Use Elemental Circuit,Usar Circuito Elemental
-ACTION_UI_A,Saltar / Aceptar,Jump / Accept,Pular / Aceitar
-ACTION_UI_B,Menú Rápido,Quick Menu,Menu Rápido
-ACTION_UI_X,Atacar / Cancelar,Attack / Cancel,Atacar / Cancelar
-ACTION_UI_Y,Arrojar Subarma,Throw Sub-Weapon,Lançar arma secundária
+ACTION_UI_FOCUS_PREV,Página previa,Previous page,
+ACTION_UI_FOCUS_NEXT,Página siguiente,Next page,
+ACTION_JUMP,Saltar,Jump,Pular
+ACTION_QUICKMENU,Menú Rápido,Quick Menu,Menu Rápido
+ACTION_ATTACK,Atacar,Attack,Atacar
+ACTION_BACKDASH,Retroceder / Esquivar,Backdash / Dodge,Recuar / Esquivar
+ACTION_CIRCUIT,Circuito Elemental,Elemental Circuit,Circuito Elemental
 SHADERS_DYNAMIC_LIGHTS,Shaders y luces dinámicas (Alto),Shaders and dynamic lights (High),Shaders e luzes dinâmicas (Alta)
 SHADERS_SIMPLE_LIGHTS,Shaders y luces simples (Medio),Shaders and simple lights (Medium),Shaders e luzes simples (Média)
 SHADERS_NOT_SIMPLE_LIGHTS,Solo luces simples (Bajo),Just simple lights (Low),Apenas luzes simples (Baixa)
@@ -71,12 +72,8 @@ FULLSCREEN,Pantalla completa,Fullscreen,Tela inteira
 SELECT_NEW_ICON_FOR_ACTION,Selecciona el nuevo ícono para:\n%s,Select new icon for:\n%s,Selecione novo ícone para:\n%s 
 SELECT_ICON_TO_CHANGE,Selecciona el ícono a cambiar,Select the icon to be changed,Selecione o ícone para trocar
 TEST_GAMEPAD,Probar Mando,Test Gamepad,Testar Controle
-SAVE_MAPPING,Guardar mapeo,Save mapping,Salvar mapeamento
 MAPPING_UPDATED,Mapeo actualizado,Mapping updated,Mapeamento atualizado
 SEE_HELP,Ver la ayuda,See help,Ver Ajuda
-PASTE_HERE_MAPPING_STRING,Pegue aquí el string de mapeo,Paste the mapping string here,Cole aqui a string de mapeamento
-PRESS_ESC_OR_BACK_ANDROID_TO_END_TESTING,Presione [Escape] (PC) / [Atrás] (Móvil) para terminar,Press [Escape] (PC) / [Back] (Mobile) to end test,Pressione [Esc] (PC) / [Voltar] (Mobile) para terminar teste
-DOWNLOAD_TOOL,Descargar herramienta,Download tool,Baixar ferramenta
 OPENING_LINK_WEB,Abriendo enlace web,Opening weblink,Abrindo link
 SHOW_MINIMAP,Mostrar Minimapa,Show Minimap,Mostrar mini-mapa
 MINIMAP_VISIBILITY,Visibilidad de Minimapa,Minimap visibility,Visibilidade do mini-mapa
@@ -106,7 +103,6 @@ AIR_KICK,Patada Aérea,Dive Kick,Voadora
 WALL_SLIDE,Deslizamiento en pared,Wall Slide,Deslizar na parede
 SWING,Balanceo de látigo,Whip Swing,Chicotada
 BLADE_WHIP,Látigo de Sangre,Blood Whip,Chicote de sangue
-WHIP_SPIN,Giro de látigo,Whip Spin,Chicotada Giratória
 WHIP_CRUSH,Ataque Crush,Whip Crush,Chicotada Esmagadora
 BLOOD_CONTROL,Control Sanguíneo,Blood Control,Controle Sanguíneo
 MULTIPLE_EQUIPMENT,Equipamiento Múltiple,Multiple Equipment,Equipamento Múltiplo
@@ -183,7 +179,7 @@ GETTHEPREQUEL,Jugar la Precuela,Play the Prequel,Jogar prólogo
 DETAILS_QUICKMENU,Info extra en Menú Rápido,Extra info on Quick Menu,Info extra no Menu Rápido
 GALLERY,Galería,Gallery,Galeria
 UNBREAKABLEWILL,Voluntad Inquebrantable,Unbreakable Will,
-ABOUTUNBREAKABLEWILL,"Teniendo más del 20% de vida, al recibir daño critico el jugador todavía no morirá.","If the player has more than 20% health, they will not die when critically hit.",
+ABOUTUNBREAKABLEWILL,"Teniendo más del 20% de vida, al recibir daño critico el jugador todavía no morirá.","If the player has more than 20% health, then will not die when critically hit.",
 DYNAMICKNOCKBACK,Knockback Dinamico,Dynamic Knockback,
 ABOUTDYNAMICKNOCKBACK,El jugador recibirá un empuje de acuerdo al daño recibido.,The player will experience knockback corresponding to the damage taken.,
 DIFFICULTY_OPTIONS,Opciones de Dificultad,Difficulty Options,
@@ -205,3 +201,53 @@ SOLD,Vendido,Sold,
 SELECT_STATION,Seleccionar Estación,Select Station,
 ZOOMIN,Acercar,Zoom in,
 ZOOMOUT,Alejar,Zoom out,
+DESPERATIONATTACK,Ataque de Desesperación,Desperation Attack,
+ABOUTDESPERATIONATTACK,"Al vencer a un Adeptis, este realizará un último ataque.","When an Adeptis is defeated, it will make a last attack.",
+GETREWARD,Obtener recompensa,Get reward,
+ACHIEVEMENTS,Logros,Achievements,
+ACHIEVEMENT_OBTAINED,Logro obtenido,Achievement obtained,
+ACCEPT_CANCEL_CONFLICT,Botones Aceptar y Cancelar en conflicto,Conflicting Accept and Cancel buttons,
+FOCUS_BTN_CONFLICT,Conflicting Previous Page and Next Page buttons,Conflicting Previous Page and Next Page buttons,
+PRESSSESCTOEXIT,"Presione la tecla ""Escape"" para salir del menú de calibración.","Press ""Escape"" key to exit from calibration menu.",
+START_CALIBRATION,Iniciar calibración,Start calibration,
+THEBUTTONALREADYADDED,El botón ya ha sido asignado,The button has already been assigned,
+PRESSTHEBUTTONINGAMEPAD,Presione el botón correspondiente a la posición señalada.,Press the button corresponding to the indicated position.,
+HERECANMAPYOURCONTROL,Aquí podrá asignar los botones de su control.,Here you can assign the buttons of your control.,
+SELECTADEVICE,Seleccione un dispositivo,Select a device,
+CALIBRATIONFINISHED,Calibración finalizada,Calibration finished,
+RESTARTMAYBEREQUIRED,Reinicie el juego para aplicar cambios.,Restart the game to apply changes.,
+CALIBRATEGAMEPAD,Calibrar Mando,Calibrate Gamepad,
+SCHEME,Esquema,Scheme,
+CHANGE_SCHEME_ICONS,Cambiar esquema de íconos,Change Scheme icons,
+CHANGESSAVED,Cambios guardados,Changes saved,
+PRESSSPACETOSTART,"Presiona ""Espacio"" para comenzar","Press ""Space"" to start",
+AGAMEPADDETECTED,Se ha detectado un control conectado. ¿Desea configurarlo ahora?,"A connected gamepad has been detected, do you want to configure it now?",
+IGOTYOU,¡Te tengo!,I got you!,
+SPECTROSCOPE,Espectroscopio,Spectroscope,
+INCREASE,Incrementar,Increase,
+NEUMANPUZZLELABHINT,"De los siete metales, se encuentra aquella que resplandece como la estrella del día. A su lado, reflejando aquella luz, la guardiana de la noche.","Of the seven metals, there is the one that shines like the day star. Next to it, reflecting that light, the guardian of the night.",
+WAITRESS,Camarera,Waitress,
+SEE_SOCIAL_LINKS,Ver redes sociales,See social links,
+DIFFICULTY_DESCRIPTION_0,No quiero estresarme.,I don't want to stress.,
+DIFFICULTY_DESCRIPTION_1,Daré lo mejor de mí ante cualquier reto.,I will do my best to any challenge.,
+DIFFICULTY_DESCRIPTION_2,Prepárate para morir.,Prepare to die.,
+SELECT_DIFFICULTY,Seleccione dificultad,Select difficulty,
+LOCKED,Bloqueado,Locked,
+PRESSFORKEYBOARDARROWSETTING,"Presiona ""Enter"" para usar flechas en teclado","Press ""Enter"" for Arrow keyboard mode",
+PRESSFORWASDSETTING,"Presiona ""W"" para usar modo WASD en teclado","Press ""W"" for Keyboard WASD+Mouse mode",
+PRESSLETTERFILTERSCREEN,Presiona la letra del filtro de pantalla deseado,Press the letter option for screen filter,
+LIBRARY_ARCHIVES,Archivos de la biblioteca,Library archives,
+INTHENEXTUPDATE,En la próxima actualización...,In the next update...,
+ACH1TITLE,El ataque de los hombres muertos,Attack of the Dead Men,
+ACH2TITLE,La bruja del radium,The Radium Witch,
+ACH3TITLE,Viaje en el Expreso Oriental,Travel on the Orient Express,
+ACH4TITLE,,Oxygenium Adeptis,
+ACH5TITLE,,Crux simplex ad infixionem,
+ACH6TITLE,Masa crítica,Critical mass,
+ACH1DESC,Enfrentate por primera vez a la Alquimista de Cloro.,Face the Chlorine Alchemist for the first time.,
+ACH2DESC,Rescata a la responsable del laboratorio de química.,Rescue the chemistry lab manager.,
+ACH3DESC,Protege al tren por encargo de Alessa.,Protect the train on behalf of Alessa.,
+ACH4DESC,Vence al Adeptis controlador del Oxígeno.,Defeat the Oxygen controlling Adeptis.,
+ACH5DESC,Rescata a la hija de Gabriel.,Rescue Gabriel's daughter.,
+ACH6DESC,Destruye el [arma definitiva] de los Ahuizotes.,Destroy the [ultimate weapon] of the Ahuizotes.,
+PROLOGUEFINISHED,Prólogo finalizado,Prologue finished,
