@@ -33,7 +33,7 @@ ORNAMENT_GEMSTONE_DESC,Una gema con muescas que indican que podría encajarse en
 SILVER_KEY_TITLE,Llave de Plata,Silver Key,
 SILVER_KEY_DESC,Una vieja llave hecha de plata.,An old silver key.,
 DEMON_SKULL_DESC,Una calavera de demonio que había sido tragado por un slime gigante.,A demon skull that had been swallowed by a giant slime.,
-FIREPROOF_CONTAINER_TITLE,Carta de María,Maria's letter,
+FIREPROOF_CONTAINER_TITLE,Carta de Xóchitl,Xóchitl's letter,
 FIREPROOF_CONTAINER_DESC,"Carta encontrada dentro de un contenedor ignífugo que dice lo siguiente:
 
 En estos dos años como infiltrada en la secta de los Ahuizotes finalmente hice avances reuniendo información.
@@ -64,7 +64,7 @@ Logré escabullirme y ver el orden en el que lo hacían: %s
 
 Espero que esto logre con nuestra misión de erradicar a los Ahuizotes de una vez por todas.
 
--- María Cervantes.","Letter found inside a fireproof container that reads as follows:
+-- Xóchitl Nahoa.","Letter found inside a fireproof container that reads as follows:
 
 In these two years as an infiltrator in the sect of the Ahuizotes I finally made progress gathering information.
 
@@ -94,7 +94,7 @@ I managed to sneak in and see the order in which they did it: %s.
 
 I hope this accomplishes our mission to eradicate the Ahuizotes once and for all.
 
--- Maria Cervantes.",
+-- Xóchitl Nahoa.",
 MEDALLION_O_TITLE,Medallón Oxígeno,Oxygen Medallion,
 MEDALLION_O_DESC,"Medallón perteneciente al Alquimista del Oxígeno, Joseph Cavendish.","Medallion belonging to the Alchemist of Oxygen, Joseph Cavendish.",
 RUBY_TITLE,Rubí,Ruby,
