@@ -49,8 +49,8 @@ ACTION_UI_UP,Arriba,Up,Cima
 ACTION_UI_DOWN,Abajo,Down,Baixo
 ACTION_UI_LEFT,Izquierda,Left,Esquerda
 ACTION_UI_RIGHT,Derecha,Right,Direita
-ACTION_UI_FOCUS_PREV,Página previa,Previous page,
-ACTION_UI_FOCUS_NEXT,Página siguiente,Next page,
+ACTION_UI_FOCUS_PREV,Página previa,Previous page,Página anterior
+ACTION_UI_FOCUS_NEXT,Página siguiente,Next page,Próxima página
 ACTION_JUMP,Saltar,Jump,Pular
 ACTION_QUICKMENU,Menú Rápido,Quick Menu,Menu Rápido
 ACTION_ATTACK,Atacar,Attack,Atacar
@@ -178,81 +178,104 @@ CREDITS,Créditos,Credits,Créditos
 GETTHEPREQUEL,Jugar la Precuela,Play the Prequel,Jogar prólogo
 DETAILS_QUICKMENU,Info extra en Menú Rápido,Extra info on Quick Menu,Info extra no Menu Rápido
 GALLERY,Galería,Gallery,Galeria
-UNBREAKABLEWILL,Voluntad Inquebrantable,Unbreakable Will,
-ABOUTUNBREAKABLEWILL,"Teniendo más del 20% de vida, al recibir daño critico el jugador todavía no morirá.","If the player has more than 20% health, then will not die when critically hit.",
-DYNAMICKNOCKBACK,Knockback Dinamico,Dynamic Knockback,
-ABOUTDYNAMICKNOCKBACK,El jugador recibirá un empuje de acuerdo al daño recibido.,The player will experience knockback corresponding to the damage taken.,
-DIFFICULTY_OPTIONS,Opciones de Dificultad,Difficulty Options,
-THISLANGISFANMADE,Traducción hecha por fans,Fan-made Translation,
-ABOUTFANMADETRANSLATIONS,"Esta es una traducción hecha por fans, cualquier persona es bienvenida a ayudar a traducir el juego voluntariamente.",This is a fan-made translation. Anyone is welcome to help translate the game voluntarily.,
-LEARNMORE,Conocer más,Learn more,
-TOBECONTINUED,Esta historia continuará...,To be continued...,
-WEBSITE,Sitio web,Website,
-AERIAL_DASH,Dash aéreo,Aerial Dash,
-WHILECIRUITBTNPRESSED,Manteniendo botón [Circuito],Holding [Circuit] button,
-USEVIRTUALJOYSTICK,Usar Joystick Virtual,Use Virtual Joystick,
-SAVE_CHANGES,Guardar Cambios,Save Changes,
-LOADING,Cargando...,Loading...,
-OBTAINED,Obtenido,Obtained,
-BUY,Comprar,Buy,
-SELL,Vender,Sell,
-SHOP,Tienda,Shop,
-SOLD,Vendido,Sold,
-SELECT_STATION,Seleccionar Estación,Select Station,
-ZOOMIN,Acercar,Zoom in,
-ZOOMOUT,Alejar,Zoom out,
-DESPERATIONATTACK,Ataque de Desesperación,Desperation Attack,
-ABOUTDESPERATIONATTACK,"Al vencer a un Adeptis, este realizará un último ataque.","When an Adeptis is defeated, it will make a last attack.",
-GETREWARD,Obtener recompensa,Get reward,
-ACHIEVEMENTS,Logros,Achievements,
-ACHIEVEMENT_OBTAINED,Logro obtenido,Achievement obtained,
-ACCEPT_CANCEL_CONFLICT,Botones Aceptar y Cancelar en conflicto,Conflicting Accept and Cancel buttons,
-FOCUS_BTN_CONFLICT,Conflicting Previous Page and Next Page buttons,Conflicting Previous Page and Next Page buttons,
-PRESSSESCTOEXIT,"Presione la tecla ""Escape"" para salir del menú de calibración.","Press ""Escape"" key to exit from calibration menu.",
-START_CALIBRATION,Iniciar calibración,Start calibration,
-THEBUTTONALREADYADDED,El botón ya ha sido asignado,The button has already been assigned,
-PRESSTHEBUTTONINGAMEPAD,Presione el botón correspondiente a la posición señalada.,Press the button corresponding to the indicated position.,
-HERECANMAPYOURCONTROL,Aquí podrá asignar los botones de su control.,Here you can assign the buttons of your control.,
-SELECTADEVICE,Seleccione un dispositivo,Select a device,
-CALIBRATIONFINISHED,Calibración finalizada,Calibration finished,
-RESTARTMAYBEREQUIRED,Reinicie el juego para aplicar cambios.,Restart the game to apply changes.,
-CALIBRATEGAMEPAD,Calibrar Mando,Calibrate Gamepad,
-SCHEME,Esquema,Scheme,
-CHANGE_SCHEME_ICONS,Cambiar esquema de íconos,Change Scheme icons,
-CHANGESSAVED,Cambios guardados,Changes saved,
-PRESSSPACETOSTART,"Presiona ""Espacio"" para comenzar","Press ""Space"" to start",
-AGAMEPADDETECTED,Se ha detectado un control conectado. ¿Desea configurarlo ahora?,"A connected gamepad has been detected, do you want to configure it now?",
-IGOTYOU,¡Te tengo!,I got you!,
-SPECTROSCOPE,Espectroscopio,Spectroscope,
-INCREASE,Incrementar,Increase,
-NEUMANPUZZLELABHINT,"De los siete metales, se encuentra aquella que resplandece como la estrella del día. A su lado, reflejando aquella luz, la guardiana de la noche.","Of the seven metals, there is the one that shines like the day star. Next to it, reflecting that light, the guardian of the night.",
-WAITRESS,Camarera,Waitress,
-SEE_SOCIAL_LINKS,Ver redes sociales,See social links,
-DIFFICULTY_DESCRIPTION_0,No quiero estresarme.,I don't want to stress.,
-DIFFICULTY_DESCRIPTION_1,Daré lo mejor de mí ante cualquier reto.,I will do my best to any challenge.,
-DIFFICULTY_DESCRIPTION_2,Prepárate para morir.,Prepare to die.,
-SELECT_DIFFICULTY,Seleccione dificultad,Select difficulty,
-LOCKED,Bloqueado,Locked,
-PRESSFORKEYBOARDARROWSETTING,"Presiona ""Enter"" para usar flechas en teclado","Press ""Enter"" for Arrow keyboard mode",
-PRESSFORWASDSETTING,"Presiona ""W"" para usar modo WASD en teclado","Press ""W"" for Keyboard WASD+Mouse mode",
-PRESSLETTERFILTERSCREEN,Presiona la letra del filtro de pantalla deseado,Press the letter option for screen filter,
-LIBRARY_ARCHIVES,Archivos de la biblioteca,Library archives,
-INTHENEXTUPDATE,En la próxima actualización...,In the next update...,
-ACH1TITLE,El ataque de los hombres muertos,Attack of the Dead Men,
-ACH2TITLE,La bruja del radium,The Radium Witch,
-ACH3TITLE,Viaje en el Expreso Oriental,Travel on the Orient Express,
-ACH4TITLE,,Oxygenium Adeptis,
-ACH5TITLE,,Crux simplex ad infixionem,
-ACH6TITLE,Masa crítica,Critical mass,
-ACH1DESC,Enfrentate por primera vez a la Alquimista de Cloro.,Face the Chlorine Alchemist for the first time.,
-ACH2DESC,Rescata a la responsable del laboratorio de química.,Rescue the chemistry lab manager.,
-ACH3DESC,Protege al tren por encargo de Alessa.,Protect the train on behalf of Alessa.,
-ACH4DESC,Vence al Adeptis controlador del Oxígeno.,Defeat the Oxygen controlling Adeptis.,
-ACH5DESC,Rescata a la hija de Gabriel.,Rescue Gabriel's daughter.,
-ACH6DESC,Destruye el [arma definitiva] de los Ahuizotes.,Destroy the [ultimate weapon] of the Ahuizotes.,
-PROLOGUEFINISHED,Prólogo finalizado,Prologue finished,
-YOUWANTGOWAGON,¿Regresar al vagón inicial del tren?,Back to the initial car of the train?,
-RETURNAMERITHIA,¿Regresar a Amerithia?,Return to Amerithia?,
-DIFFCHANGEDTOEASY,"Dificultad cambiada a ""fácil""","Difficulty changed to ""easy""",
-ELEMENTALSAMPLENEEDED,Se necesita una muestra elemental,An elemental sample is required,
+UNBREAKABLEWILL,Voluntad Inquebrantable,Unbreakable Will,Vontade Indomável
+ABOUTUNBREAKABLEWILL,"Teniendo más del 20% de vida, al recibir daño critico el jugador todavía no morirá.","If the player has more than 20% health, then will not die when critically hit.","Se o jogador tem menos de 20% de saúde, não morrerá quando receber dano crítico."
+DYNAMICKNOCKBACK,Knockback Dinamico,Dynamic Knockback,Empurrão Dinâmico
+ABOUTDYNAMICKNOCKBACK,El jugador recibirá un empuje de acuerdo al daño recibido.,The player will experience knockback corresponding to the damage taken.,O jogador sofrerá um empurrão correspondendo ao dano recebido.
+DIFFICULTY_OPTIONS,Opciones de Dificultad,Difficulty Options,Opções de Dificuldade
+THISLANGISFANMADE,Traducción hecha por fans,Fan-made Translation,Tradução feita por fãs
+ABOUTFANMADETRANSLATIONS,"Esta es una traducción hecha por fans, cualquier persona es bienvenida a ayudar a traducir el juego voluntariamente.",This is a fan-made translation. Anyone is welcome to help translate the game voluntarily.,Esta é uma tradução feita por fã. Todos são bem vindos a ajudar a traduzir o jogo de forma voluntária.
+LEARNMORE,Conocer más,Learn more,Saiba mais
+TOBECONTINUED,Esta historia continuará...,To be continued...,Continua…
+WEBSITE,Sitio web,Website,Website
+AERIAL_DASH,Dash aéreo,Aerial Dash,Dash aéreo
+WHILECIRUITBTNPRESSED,Manteniendo botón [Circuito],Holding [Circuit] button,Segurando o botão de [Circuito]
+USEVIRTUALJOYSTICK,Usar Joystick Virtual,Use Virtual Joystick,Usar Controle Virtual
+SAVE_CHANGES,Guardar Cambios,Save Changes,Salvar alterações
+LOADING,Cargando...,Loading...,Carregando…
+OBTAINED,Obtenido,Obtained,Obtido
+BUY,Comprar,Buy,Comprar
+SELL,Vender,Sell,Vender
+SHOP,Tienda,Shop,Loja
+SOLD,Vendido,Sold,Vendido
+SELECT_STATION,Seleccionar Estación,Select Station,Selecionar Estação
+ZOOMIN,Acercar,Zoom in,Ampliar
+ZOOMOUT,Alejar,Zoom out,Diminuir
+DESPERATIONATTACK,Ataque de Desesperación,Desperation Attack,Ataque Dramático
+ABOUTDESPERATIONATTACK,"Al vencer a un Adeptis, este realizará un último ataque.","When an Adeptis is defeated, it will make a last attack.","Quando um Adeptis é derrotado, fará um último ataque."
+GETREWARD,Obtener recompensa,Get reward,Receber recompensa
+ACHIEVEMENTS,Logros,Achievements,Conquistas
+ACHIEVEMENT_OBTAINED,Logro obtenido,Achievement obtained,Conquista obtida
+ACCEPT_CANCEL_CONFLICT,Botones Aceptar y Cancelar en conflicto,Conflicting Accept and Cancel buttons,Botões de Aceitar e Cancelar em conflito
+FOCUS_BTN_CONFLICT,Conflicting Previous Page and Next Page buttons,Conflicting Previous Page and Next Page buttons,Botões de Página Anterior e Próxima Página em conflito
+PRESSSESCTOEXIT,"Presione la tecla ""Escape"" para salir del menú de calibración.","Press ""Escape"" key to exit from calibration menu.",Pressione “Escape” para sair do menu de calibragem.
+START_CALIBRATION,Iniciar calibración,Start calibration,Começar calibragem
+THEBUTTONALREADYADDED,El botón ya ha sido asignado,The button has already been assigned,O botão já foi atribuído
+PRESSTHEBUTTONINGAMEPAD,Presione el botón correspondiente a la posición señalada.,Press the button corresponding to the indicated position.,Pressione o botão correspondente a posição indicada.
+HERECANMAPYOURCONTROL,Aquí podrá asignar los botones de su control.,Here you can assign the buttons of your control.,Aqui você pode atribuir os botões do seu controle.
+SELECTADEVICE,Seleccione un dispositivo,Select a device,Selecione um dispositivo
+CALIBRATIONFINISHED,Calibración finalizada,Calibration finished,Calibragem finalizada
+RESTARTMAYBEREQUIRED,Reinicie el juego para aplicar cambios.,Restart the game to apply changes.,Reinicie o game para aplicar as mudanças.
+CALIBRATEGAMEPAD,Calibrar Mando,Calibrate Gamepad,Calibrar Gamepad
+SCHEME,Esquema,Scheme,Esquema
+CHANGE_SCHEME_ICONS,Cambiar esquema de íconos,Change Scheme icons,Mudar ícones do esquema
+CHANGESSAVED,Cambios guardados,Changes saved,Mudanças salvas
+PRESSSPACETOSTART,"Presiona ""Espacio"" para comenzar","Press ""Space"" to start",Pressione “Espaço” para começar
+AGAMEPADDETECTED,Se ha detectado un control conectado. ¿Desea configurarlo ahora?,"A connected gamepad has been detected, do you want to configure it now?","Um controle conectado foi detectado, Quer configurá-lo agora?"
+IGOTYOU,¡Te tengo!,I got you!,Te peguei!
+SPECTROSCOPE,Espectroscopio,Spectroscope,Espectrômetro
+INCREASE,Incrementar,Increase,Aumentar
+NEUMANPUZZLELABHINT,"De los siete metales, se encuentra aquella que resplandece como la estrella del día. A su lado, reflejando aquella luz, la guardiana de la noche.","Of the seven metals, there is the one that shines like the day star. Next to it, reflecting that light, the guardian of the night.","Dos sete metais, tem um que brilha como a estrela do dia. Ao seu lado, refletindo aquela luz, a guardiã da noite."
+WAITRESS,Camarera,Waitress,Garçonete
+SEE_SOCIAL_LINKS,Ver redes sociales,See social links,Ver redes sociais
+DIFFICULTY_DESCRIPTION_0,No quiero estresarme.,I don't want to stress.,Eu não quero me estressar.
+DIFFICULTY_DESCRIPTION_1,Daré lo mejor de mí ante cualquier reto.,I will do my best to any challenge.,Eu farei o meu melhor em qualquer desafio.
+DIFFICULTY_DESCRIPTION_2,Prepárate para morir.,Prepare to die.,Prepare para morrer.
+SELECT_DIFFICULTY,Seleccione dificultad,Select difficulty,Selecione a dificuldade
+LOCKED,Bloqueado,Locked,Bloqueado
+PRESSFORKEYBOARDARROWSETTING,"Presiona ""Enter"" para usar flechas en teclado","Press ""Enter"" for Arrow keyboard mode",Pressione “Enter” para o modo setas do teclado
+PRESSFORWASDSETTING,"Presiona ""W"" para usar modo WASD en teclado","Press ""W"" for Keyboard WASD+Mouse mode",Pressione “W” para o modo WASD do teclado + mouse
+PRESSLETTERFILTERSCREEN,Presiona la letra del filtro de pantalla deseado,Press the letter option for screen filter,Pressione a opção de letra para o filtro de tela
+LIBRARY_ARCHIVES,Archivos de la biblioteca,Library archives,Arquivos da biblioteca
+INTHENEXTUPDATE,En la próxima actualización...,In the next update...,Na próxima atualização…
+ACH1TITLE,El ataque de los hombres muertos,Attack of the Dead Men,Ataque dos Mortos Vivos
+ACH2TITLE,La bruja del radium,The Radium Witch,A Bruxa de Rádio
+ACH3TITLE,Viaje en el Expreso Oriental,Travel on the Orient Express,Viagem no Expresso do Oriente
+ACH4TITLE,,Oxygenium Adeptis,Adeptis de Oxigênio
+ACH5TITLE,,Crux simplex ad infixionem,Crux simplex ad infixionem 
+ACH6TITLE,Masa crítica,Critical mass,Massa crítica
+ACH1DESC,Enfrentate por primera vez a la Alquimista de Cloro.,Face the Chlorine Alchemist for the first time.,Enfrente a alquimista de Cloro pela primeira vez.
+ACH2DESC,Rescata a la responsable del laboratorio de química.,Rescue the chemistry lab manager.,Resgate a responsável pelo laboratório de química.
+ACH3DESC,Protege al tren por encargo de Alessa.,Protect the train on behalf of Alessa.,Proteja o trem em nome de Alessa.
+ACH4DESC,Vence al Adeptis controlador del Oxígeno.,Defeat the Oxygen controlling Adeptis.,Derrote o Adeptis controlador de Oxigênio.
+ACH5DESC,Rescata a la hija de Gabriel.,Rescue Gabriel's daughter.,Resgate a filha do Gabriel.
+ACH6DESC,Destruye el [arma definitiva] de los Ahuizotes.,Destroy the [ultimate weapon] of the Ahuizotes.,Destrua a [arma definitiva] dos Ahuizotes.
+PROLOGUEFINISHED,Prólogo finalizado,Prologue finished,Prólogo finalizado.
+YOUWANTGOWAGON,¿Regresar al vagón inicial del tren?,Back to the initial car of the train?,Voltar ao vagão inicial do trem?
+RETURNAMERITHIA,¿Regresar a Amerithia?,Return to Amerithia?,Retornar a Amerithia?
+DIFFCHANGEDTOEASY,"Dificultad cambiada a ""fácil""","Difficulty changed to ""easy""",Dificuldade modificada para “fácil”
+ELEMENTALSAMPLENEEDED,Se necesita una muestra elemental,An elemental sample is required,Uma amostra elemental é necessária
 ABOUTEABARRIER,Las barreras de fuego celeste solo desaparecerán cuando el [Early Access] termine.,The fire barriers will only disappear when [Early Access] ends.,
+ELDRALIS_WOODS,Bosque de Eldralis,Eldralis Woods,Floresta de Eldralis
+STRALSUND_RUINS,Ruinas de Stralsund,Stralsund Ruins,Ruínas de Stralsund
+TAHUATEPETL_ISLETS,Isletas de Tahuatepetl,Tahuatepetl Islets,Ilhotas Tahuatepetl
+ATHOS_ABBEY,Abadía de Athos,Athos Abbey,Abadia de Athos
+THE_ORDER_HEADQUARTERS,Sede de La Orden,The Order headquarters ,Sede d’A Ordem
+STORE,Tienda,Store,Loja
+LIBRARY,Biblioteca,Library ,Biblioteca
+ALCHEMY_LABORATORY,Laboratorio de Alquimia,Alchemy Laboratory,Laboratório de Alquimia
+RESTAURANT,Restaurante,Restaurant,Restaurante
+XANDRIASHOUSE,Casa de Xandria,Xandria's House,Casa da Xandria
+TAHUATEPETL_VOLCANO,Volcán Tahuatepetl,Tahutatepetl Volcano ,Vulcão Tahutatepetl
+GRIJAYLA_TOWN,Ciudad de Grijayla,Grijayla Town,Cidade de Grijayla
+BIRSTALL_PASS,Ciudad de Birstall,Birstall City,Cidade de Birstall
+ARIDIAH_DESERT,Desierto de Aridiah,Aridiah Desert,Deserto de Aridiah
+LOGINPLAYGAMES,Entrar en GooglePlayGames,Login GooglePlayGames,
+ABOUT_RESTORE_PLAYGAMES,Utilizando su cuenta de Google PlayGames podrá restaurar partidas que se respaldaron automáticamente al guardar.,Using your Google PlayGames account you will be able to restore games that were automatically backed up when saving.,
+RESTORE_DATA,Restaurar datos,Restore data,
+SELECT_GAMESAVE_TO_RESTORE,Seleccione partida a restaurar,Select savegame to restore,
+ARESURETORESTOREDATA,¿Está seguro de restaurar los datos de juego en el slot seleccionado?,Are you sure to restore the game data in the selected slot?,
+RESTORING_DATA,Restaurando datos...,Restoring data...,
+DATA_RESTORED,Los datos han sido restaurados.,Data has been restored.,
+SAVEDATABACKED,Datos respaldados,Backed up data,
+RESTORE,Restaurar,Restore,

@@ -15,7 +15,15 @@ Follow the orders of the Adeptis primera and head to the northwest part of the c
 
 Receive this map to leave no place unchecked.
 
-Athos be with you.",
+Athos be with you.","[Carta encontrada em Grijayla, endereçada aos Ahuizotes].
+
+Irmãos, nos foi confiada a importante missão de auxiliar na criação do [Opus Magnum].
+
+Siga as ordens de Adeptis primera e sigam à parte noroeste da cidade na procura do [Prisma de Dispersão Reverso]
+
+Receba esse mapa e não deixem nenhum local checado.
+
+Athos esteja com vocês."
 ENEMIES_NOTE_GRIJAYLA_ATTACK_TITLE,Ataque en Grijayla,Attack in Grijayla,Ataque em Grijayla
 ANON_LETTER_I_TITLE,Carta Anónima I,Anonymous letter I,Carta anônima 1
 ANON_LETTER_I_DESC,"[Carta encontrada en Grijayla, autor desconocido]
@@ -49,17 +57,20 @@ Eu não consigo explicar em palavras a felicidade que sinto ao encontrar a salva
 Eu deixarei este lugar para pregar a verdade absoluta.
 
 Se encontrar a si mesmos numa situação similar qua a minha, eu sugiro que abram seus corações e confiem a si mesmos a divina graça de Athos."
-ABOUT_VOLCAN_GAS_TITLE,Gases tóxicos en volcán,Toxic gas in volcano,
+ABOUT_VOLCAN_GAS_TITLE,Gases tóxicos en volcán,Toxic gas in volcano,Gás tóxico no vulcão
 ABOUT_VOLCAN_GAS_DESC,"Es nuestra primera expedición al volcán ubicado en una de las islas de Tahuatepet. El aire se combina con el dióxido de azufre, un gas infernal cuyos vapores podrían debilitarnos lo suficiente como para que los goblins, astutos demonios, aprovechen la oportunidad de despojarnos de nuestras pertenencias y de nuestras vidas.
 
 Debemos permanecer atentos al ennegrecimiento de la [Plata] que llevamos, ya que nos indicará aquellos lugares donde ese gas es abundante.","It's our first expedition to the volcano located on one of the islands of Tahuatepet. The air combines with sulfur dioxide, an infernal gas whose vapors could weaken us enough for the goblins, cunning demons, to take advantage of the opportunity to strip us of our belongings and our lives.
 
-We must remain attentive to the blackening of the [Silver] we carry, as it will indicate those places where this gas is abundant.",
-ALCHEMIST_DESC,"Son aquellas personas capaces de controlar el movimiento atómico de un elemento químico en específico, utilizando el flujo de maná en sus cuerpos.","They are those people capable of controlling the atomic movement of a specific chemical element, using the flow of mana in their bodies.",
-ALCHEMIST_TITLE,Alquimista,Alchemist,
-DEMON_TITLE,Demonios,Demons,
-DEMON_DESC,"Para describir a cualquier monstruo, se les llama ""Demonios"". Son criaturas peligrosas, sedientas de sangre. Atacan sin piedad y con poco razonamiento a cualquiera que se les cruce.","To describe any monster, they are called ""Demons"". They are dangerous, bloodthirsty creatures. They attack mercilessly and with little reasoning to anyone who crosses them.",
-TOZIUHA_TITLE,,Toziuha,
+We must remain attentive to the blackening of the [Silver] we carry, as it will indicate those places where this gas is abundant.","Esta é a nossa primeira expedição ao vulcão localizado em uma das ilhas de Tahuatepet. O ar combina com dióxido de enxofre, um gás infernal com vapores que podem nos enfraquecer o bastante para goblins, demônios ardilosos, de aproveitar a oportunidade de roubar nossas coisas e nossas vidas. 
+
+
+Nós devemos nos manter atentos ao escurecimento da [Prata] que carregamos, assim indicará os locais onde o gás é abundante."
+ALCHEMIST_DESC,"Son aquellas personas capaces de controlar el movimiento atómico de un elemento químico en específico, utilizando el flujo de maná en sus cuerpos.","They are those people capable of controlling the atomic movement of a specific chemical element, using the flow of mana in their bodies.","São pessoas capazes de controlar o movimento atômico de um elemento químico específico, usando o fluxo de mana em seus corpos."
+ALCHEMIST_TITLE,Alquimista,Alchemist,Alquimista.
+DEMON_TITLE,Demonios,Demons,Demônios
+DEMON_DESC,"Para describir a cualquier monstruo, se les llama ""Demonios"". Son criaturas peligrosas, sedientas de sangre. Atacan sin piedad y con poco razonamiento a cualquiera que se les cruce.","To describe any monster, they are called ""Demons"". They are dangerous, bloodthirsty creatures. They attack mercilessly and with little reasoning to anyone who crosses them.","Ao descrever qualquer monstro, eles são chamados “Demônios”. São criaturas perigosas e sedentas por sangue. Atacam de forma irracional e sem piedade a qualquer um que cruzam seu caminho. "
+TOZIUHA_TITLE,,Toziuha,Toziuha
 TOZIUHA_DESC,"Se denomina ""Toziuha"" a demonios mayores, seres que cuentan con inteligencia superior al de una persona promedio. 
 
 Sus poderes sobrepasan la comprensión humana, llegando sobrepasar sus límites en la última noche de octubre. Esto es lo que estiman los estudiosos sobre el tema.
@@ -72,8 +83,14 @@ Their powers surpass human comprehension, surpassing their limits on the last ni
 
 Fortunately they are rare creatures to encounter and despite their great power, they cannot attack or cause harm. For some unknown reason, it is as if they do not ""exist"" in our world.
 
-The Toziuha are known to seek out people with whom they make a ""pact"", in exchange for a fraction of their power, the person offers their ""soul"" as a means of exchange. It is not known for what purpose the Toziuha make pacts.",
-AHUIZOTE_TITLE,,Ahuizote,
+The Toziuha are known to seek out people with whom they make a ""pact"", in exchange for a fraction of their power, the person offers their ""soul"" as a means of exchange. It is not known for what purpose the Toziuha make pacts.","Eles chamam de ""Toziuha"" [toh-see-OO-ah] os grande demônios, seres com uma inteligência superior do que uma pessoa comum. 
+
+Os poderes deles superam a compreensão humana, superando seus limites na última noite de Outubro.. É o que é deduzido pelos estudiosos na área.
+
+Felizmente, são criaturas raras de encontrar e, apesar de seu grande poder, não atacam ou causam algum mal. Por algum motivo desconhecido, é como se eles não “existissem” no nosso mundo.
+
+Os Toziuha são conhecidos por procurarem pessoas com que desejam fazer um “pacto”, em troca de uma fração do poder deles, a pessoa oferece sua “alma”. Não é conhecido o propósito dos pactos dos Toziuha."
+AHUIZOTE_TITLE,,Ahuizote,Ahuizote
 AHUIZOTE_DESC,"Los ""Ahuizotes"" son un grupo religioso extremista, liderado por Johannes Trithemius, un hombre cuyo pasado se desconoce. Sus integrantes llevan máscaras y ropas negras para representar sus ""pecados"".
 
 Sus creencias se basan en la existencia de una persona llamada ""Athos"", que trajo sabiduría y paz a un antiguo reino sumido en la guerra; siendo denominado como el verdadero padre de la alquimia.
@@ -86,14 +103,22 @@ Their beliefs are based on the existence of a person called ""Athos"", who broug
 
 It is said that Athos was accused of heresy and condemned to death, betrayed by his best friend, ""Hermes Trimegistus"". The Ahuizotes claim that a day will come when they will achieve the miracle of resurrection and bring Athos back to life.
 
-However, no evidence of the existence of this person named Athos has been found.",
-ADEPTIS_TITLE,,Adeptis,
+However, no evidence of the existence of this person named Athos has been found.","""Ahuizotes"" [ah-wee-ZOH-teh] é um grupo extremista religioso, liderado po Johannes Trithemius, um homem com o passado desconhecido. Seus membros usam máscaras e roupas pretas para representar seus ""pecados"".
+
+Suas crenças são baseados na existência de um ente chamado ""Athos"", que trouxe sabedoria e paz a um reino antigo enterrado na guerra; Sendo chamado o verdadeiro pai da alquimia.
+
+É dito que Athos foi acusado de heresia e condenado a morte, traído pelo melhor amigo, ""Hermes Trimegistus"". Os Ahuizotes clamam que o dia chegará quando eles alcançarão o milagre da ressureição e trazer Athos de volta a vida.
+
+Porém, não há evidência encontrada da existência dessa pessoa chamada Athos."
+ADEPTIS_TITLE,,Adeptis,Adeptis
 ADEPTIS_DESC,"De entre los Ahuizotes, existe un grupo selecto de personas que ademas de ser miembros de la secta, también son Alquimistas. Operan bajo las órdenes directas de Johannes.
 
 El único adeptis del que se tiene registro, es Eva Brahm. Una mujer que se dice fue la primera Adeptis, además de posiblemente tener algún tipo de relación cercana con Johannes.","Among the Ahuizotes, there is a select group of people who, besides being members of the sect, are also Alchemists. They operate under the direct orders of Johannes.
 
-The only adeptis of whom details are known is Eva Brahm. A woman who is said to be the first Adeptis, as well as possibly having some kind of close relationship with Johannes.",
-RACHEL_TITLE,,Rachel Lavoisier,
+The only adeptis of whom details are known is Eva Brahm. A woman who is said to be the first Adeptis, as well as possibly having some kind of close relationship with Johannes.","Entre os Ahuizotes, há um seleto grupo que, apesar de serem memebros da seita, são Alquimistas. Eles operam sob as ordens diretas de Johannes.
+
+A única adeptis cujo os detalhes são conhecidos é sobre Eva Brahm. Uma mulher que é conhecida como a primeira Adeptis, e possivelmente tendo alguma relação próxima com Johannes."
+RACHEL_TITLE,,Rachel Lavoisier,Rachel Lavosier
 RACHEL_DESC,"Alquimista de Cobre. Una mujer de carácter tranquilo y amable. Actualmente está retirada, fue compañera de la actual directora de La Orden.
 
 Una de sus últimas misiones involucró un orfanato que estaba siendo controlado en secreto por los Ahuizotes. Ahí conoció a una niña llamada Xandria.
@@ -102,24 +127,32 @@ Rachel adoptó a la niña y viendo el potencial como Alquimista le enseñó a pe
 
 One of her last missions involved an orphanage that was being secretly controlled by the Ahuizotes. There she met a little girl named Xandria.
 
-Rachel adopted the girl and seeing potential as an Alchemist taught her how to fight.",
-ALESSA_TITLE,,Alessa Bollstad,
-ALESSA_DESC,"Es la directora de La Orden en Amerithia. Detrás de esa dulce sonrisa, se oculta una temible mujer. Se desconoce cuál es el elemento que Alessa domina, ya que quienes se han enfrentado a ella, no han vivido para contarlo.","She is the director of The Order in Amerithia. Behind that sweet smile, hides a fearsome woman. The element that Alessa masters is unknown, as those who have faced her have not lived to tell the tale.",
-THEORDER_TITLE,La Orden,The Order,
+Rachel adopted the girl and seeing potential as an Alchemist taught her how to fight.","Alquimista de Cobre. Uma mulher de caráter calmo e gentil. Atualmente aposentada, ela foi companheira da atual diretora da Ordem.
+
+Uma das últimas missões dela envolveu um orfanato que estava controlado secretamente pelos Ahuizotes. Nesse local, ela encontrou uma criança chamada Xandria.
+
+Rachel adotou a criança e vendo o potencial de ser uma Alquimista e a ensinando como lutar."
+ALESSA_TITLE,,Alessa Bollstad,Alessa Bollstad
+ALESSA_DESC,"Es la directora de La Orden en Amerithia. Detrás de esa dulce sonrisa, se oculta una temible mujer. Se desconoce cuál es el elemento que Alessa domina, ya que quienes se han enfrentado a ella, no han vivido para contarlo.","She is the director of The Order in Amerithia. Behind that sweet smile, hides a fearsome woman. The element that Alessa masters is unknown, as those who have faced her have not lived to tell the tale.","Ela é a diretora da Ordem em Amerithia. Por detrás do doce sorriso, esconde uma mulher assustadora. O elemento que Alessa domina é desconhecido, da mesma forma daqueles que a enfrentaram não viveram para contar a história."
+THEORDER_TITLE,La Orden,The Order,A Ordem
 THEORDER_DESC,"Una antigua organización de Alquimistas fundada por Hermes Trimegisto, cuyo objetivo es el de proteger a las personas de los Demonios o cualquier amenaza que atente a la paz.
 
 A pesar de contar con sedes en diferentes países, cada una es independiente y trabaja de formas distintas. Son raras las ocasiones en la que una sede solicita refuerzos o reuniones con otras sedes.","An ancient organization of Alchemists founded by Hermes Trimegistus, whose objective is to protect people from Demons or any threat to peace.
 
-Despite having headquarters in different countries, each one is independent and works in different ways. It is rare that one branch requests reinforcements or meetings with other branches.",
-MARGARET_TITLE,,Margaret Curie,
+Despite having headquarters in different countries, each one is independent and works in different ways. It is rare that one branch requests reinforcements or meetings with other branches.","Uma antiga organização de Alquimistas fundada por Hermes Trimegistus, cujo o objetivo é proteger a humanidade dos Demônios ou qualquer ameaça a paz.
+
+Apesar de ter sedes em diferentes países, cada um é independente e funciona de diferentes formas. É raro que uma filial solicitar reforços ou reuniões com outras filiais."
+MARGARET_TITLE,,Margaret Curie,Margaret Curie
 MARGARET_DESC,"Directora de la división de investigación de La Orden en Amerithia. Es una persona de gran inteligencia que ha hecho aportes importantes con artefactos que ayudan a Alquimistas en su lucha contra demonios.
 
 Se encuentra generalmente en el laboratorio de alquimia, aunque rara vez sale en busca de materiales o muestras para sus investigaciones.","Director of the research division of The Order in Amerithia. She is a person of great intelligence who has made important contributions with artifacts that help Alchemists in their fight against demons.
 
-She is usually in the alchemy laboratory, although she rarely goes out in search of materials or samples for her research.",
-GABRIEL_TITLE,,Gabriel Eclair,
-GABRIEL_DESC,"Trabaja en una tienda de Amerithia. Originario de la ciudad de Grijayla tuvo que mudarse debido a una invasión de demonios en Grijayla, durante el incidente su hija llamada Aura fue raptada por los Ahuizotes.","He works in a store in Amerithia. Originally from the city of Grijayla he had to move due to a demon invasion in Grijayla, during the incident his daughter named Aura was kidnapped by the Ahuizotes.",
-ABOUT_STRALSUND_TITLE,Stralsund y Cavendish,Stralsund & Cavendish,
+She is usually in the alchemy laboratory, although she rarely goes out in search of materials or samples for her research.","Diretora da divisão de pesquisas da Ordem em Amerithia. Ela é uma pessoa de grande inteligência que fez importantes contribuições com artefatos que ajudam Alquimistas na luta contra os demônios.
+
+Ela normalmente está no laboratório de alquimia, apesar de qu ela raramente sai à procura de materiais ou amostras para as suas pesquisas."
+GABRIEL_TITLE,,Gabriel Eclair,Gabriel Eclair
+GABRIEL_DESC,"Trabaja en una tienda de Amerithia. Originario de la ciudad de Grijayla tuvo que mudarse debido a una invasión de demonios en Grijayla, durante el incidente su hija llamada Aura fue raptada por los Ahuizotes.","He works in a store in Amerithia. Originally from the city of Grijayla he had to move due to a demon invasion in Grijayla, during the incident his daughter named Aura was kidnapped by the Ahuizotes.","Ele trabalha numa loja em Amerithia. Originalmente da cidade de Grijayla ele teve que se mudar por conta da invasão demoníaca em Grijayla, durante o incidente, sua filha chamada Aura foi raptada pelos Ahuizotes."
+ABOUT_STRALSUND_TITLE,Stralsund y Cavendish,Stralsund & Cavendish,Stralsund & Cavendish
 ABOUT_STRALSUND_DESC,"Stralsund fue una ciudad próspera gobernada por el aristócrata Herny Cavendish.
 
 La ciudad fue cuna de la revolución industrial y contaba con diversas instituciones de investigación Alquímica. 
@@ -136,8 +169,16 @@ Great alchemical geniuses such as Geber studied at the Stralsund academy.
 
 However, Cavendish became a member of the Ahuizotes. It is said that his fortune went to Johannes Trithemius to finance the sect.
 
-When this fact was discovered, Cavendish was sentenced with a warrant for his arrest, the Alchemists of the Order found him... but he was already dead, his cause of death: poisoning by arsenic. However, it could not be determined whether it was a suicide or not...",
-CAVENDISH_BROTHERS_TITLE,Hermanos Cavendish,Cavendish Brothers,
+When this fact was discovered, Cavendish was sentenced with a warrant for his arrest, the Alchemists of the Order found him... but he was already dead, his cause of death: poisoning by arsenic. However, it could not be determined whether it was a suicide or not...","Stralsund foi uma próspera cidade governada pelo aristocrata Herny Cavendish.
+
+A cidade foi o berço da revolução industrial e havia muitas instituições de pesquisa alquímica. 
+
+Grandes gênios como Geber estudaram na Academia Stralsund.
+
+Porém, Cavendish se tornou um membro dos Ahuizotes. É conhecido que sua fortuna foi para Johannes Trithemius para financiar a seita.
+
+Quando o fato foi descoberto, Cavendish foi sentenciado com um mandado de prisão, os Alquimistas da Ordem o encontraram... mas ele já estava morto. A causa da morte foi envenenamento por arsênico. Porém, não pode ser determinado se foi suicídio ou não..."
+CAVENDISH_BROTHERS_TITLE,Hermanos Cavendish,Cavendish Brothers,Irmãos Cavendish
 CAVENDISH_BROTHERS_DESC,"Joseph y Annette Cavendish, hermanos. Hijos de Henry Cavendish.
 
 Por alguna razón ahora son Adeptis de los Ahuizotes.
@@ -146,14 +187,20 @@ La hermana mayor, Annette, parece poseer un poder mayor al de su hermano, aunque
 
 For some reason they are now Adeptis of the Ahuizotes.
 
-The older sister, Annette, seems to possess greater power than her brother, although she behaves defensively, sooner or later she will take action.",
-AURA_TITLE,,Aura Eclair,
+The older sister, Annette, seems to possess greater power than her brother, although she behaves defensively, sooner or later she will take action.","Joseph e Annette Cavendish, irmãos. Filhos de Henry Cavendish.
+
+Por alguma razão, eles são agora Adeptis dos Ahuizotes.
+
+A irmã mais velha, Annette, aparenta possuir grande poder do que seu irmão, apesar dela agir de forma defensiva, cedo ou tarde ela agirá."
+AURA_TITLE,,Aura Eclair,Aura Eclair
 AURA_DESC,"Aura Eclair, es la hija de Gabriel, quien trabaja en una tienda en Amerithia.
 
 Ha pedido ayuda con encontrar a sus tres gatos que están perdidos en Grijayla. A cambio, dará como recompensa un objeto con forma de caja que encontró mientras jugaba, la caja lleva inscrito la palabra ""Daguerrotipo"".","Aura Eclair, is Gabriel's daughter, who works in a store in Amerithia.
 
-She has asked for help with finding her three cats that are lost in Grijayla. In return, she will give as a reward a box-shaped object she found while playing, the box is inscribed with the word ""Daguerreotype"".",
-TAHUATEPETL_TITLE,Isletas de Tahuatepetl,Tahuatepetl Islets,
+She has asked for help with finding her three cats that are lost in Grijayla. In return, she will give as a reward a box-shaped object she found while playing, the box is inscribed with the word ""Daguerreotype"".","Aura Eclair é filha do Gabriel, que trabalha numa loja em Amerithia.
+
+Ela pediu ajuda para encontrar seus três gatos perdidos em Grijayla. Em troca, ela te dará como recompensa um objeto em formato de caixa que ela encontrou enquanto brincava, a caixa está gravada com a palavra ""Daguerreótipo""."
+TAHUATEPETL_TITLE,Isletas de Tahuatepetl,Tahuatepetl Islets,Ilhotas Tahuatepetl
 TAHUATEPETL_DESC,"Recibe el nombre de ""Isletas de Tahuatepetl"" a una serie de más de trescientos islotes ubicadas en el mar de Niquira.
 
 Se cree que el origen de estas isletas se debe a un derrumbe del volcán que se encuentra en la ""isla mayor"" hace mil años.
@@ -162,8 +209,12 @@ Las isletas han sido pobladas por una tribu de personas especializadas en la pes
 
 It is believed that these islets originated from a volcanic collapse on the ""main island"" a thousand years ago.
 
-The islets have been inhabited by a tribe of people specializing in fishing for half a century. However, the largest islet remains uninhabited.",
-DLETTER_TITLE,"Carta de ""D"".","""D"" Letter.",
+The islets have been inhabited by a tribe of people specializing in fishing for half a century. However, the largest islet remains uninhabited.","É chamada ""Ilhotas Tahuatepetl"" uma série de mais de trezentas ilhotas localizadas no Mar de Niquira.
+
+Acredita-se que tais ilhotas foram originadas de uma uma caldeira vulcânica na “ilha principal” há mil anos atrás.
+
+Essas ilhotas foram habitadas por uma tribo especializada na pesca por meio século. Porém, a maior ilhota mantém inabitada."
+DLETTER_TITLE,"Carta de ""D"".","""D"" Letter.",Carta “D”
 DLETTER_DESC,"Espero que tu viaje a Grijayla haya transcurrido sin problemas, Gabriel.
 
 Has servido fielmente a nuestro señor durante dos décadas. Lamento tener que encargarte de esta gran responsabilidad con la señorita.
@@ -184,14 +235,24 @@ The various headquarters of The Order work independently and rarely share inform
 
 I am finalizing the last preparations for the trip. Please hold on a little longer.
 
-Sincerely, “D”.",
-BAKDASHONATK,Esquivar al atacar,Backdash on attack,
-NEGATIVESTATUS,Estados negativos,Negative status,
-THERMALRESIS,Resistencia térmica,Thermal resistance,
-ABOUTDAMAGEINFLICT,Acerca del daño inflingido,About the damage inflicted,
-RESISTANDWEAKNS,Resistencias y debilidades,Resistances and weaknesses,
-ABOUTMULTIPLEEQUIP,Acerca del equipamiento múltiple,About Multiple equipment,
-BAKDASHONATK_DESC,"Cuanto atacas no puedes moverte, si usas el botón para esquivar puedes evitar ser dañado por el enemigo, parece tonto decirlo pero hay personas que olvidan usarlo...","When you attack you can't move, if you use the dodge button you can avoid being damaged by the enemy, it seems silly to say it but there are people who forget to use it...",
+Sincerely, “D”.","Eu espero que sua viagem a Grijayla não houve contratempos, Gabriel.
+
+Você serviu fielmente o nosso lorde por duas décadas. Sinto muito de ter essa grande responsabilidade com a senhorita.
+
+Eu sei que parece loucura para você se mudar para uma cidade tão próxima da sede da Ordem em Amerithia, mas eu te asseguro que é o último lugar que eles irão te procurar.
+
+As várias sedes da Ordem trabalham independentemente e raramente compartilha informações entre elas.
+
+Estou finalizando as últimas preparações para a viagem. Por favor, espere um pouco mais.
+
+Sinceramente, “D”."
+BAKDASHONATK,Esquivar al atacar,Backdash on attack,Recuo no ataque
+NEGATIVESTATUS,Estados negativos,Negative status,Condição negativa
+THERMALRESIS,Resistencia térmica,Thermal resistance,Resistência termal
+ABOUTDAMAGEINFLICT,Acerca del daño inflingido,About the damage inflicted,Sobre o dano infligido
+RESISTANDWEAKNS,Resistencias y debilidades,Resistances and weaknesses,Resistências e fraquezas
+ABOUTMULTIPLEEQUIP,Acerca del equipamiento múltiple,About Multiple equipment,Sobre o Equipamento Múltiplo
+BAKDASHONATK_DESC,"Cuanto atacas no puedes moverte, si usas el botón para esquivar puedes evitar ser dañado por el enemigo, parece tonto decirlo pero hay personas que olvidan usarlo...","When you attack you can't move, if you use the dodge button you can avoid being damaged by the enemy, it seems silly to say it but there are people who forget to use it...","Quando você ataca você não consegue se mover, se usar o botão de esquiva você pode evitar de ser atacado pelo inimigo. Parece tolice, mas tem pessoas que se esquecem de usar…"
 NEGATIVESTATUS_DESC,"Existen tres estados negativos que algunos enemigos pueden infligirte.
 
 Envenenado: Pierdes un poco de salud gradualmente.
@@ -204,9 +265,15 @@ Poisoned: You gradually lose some health.
 Injured: Your stats are reduced by half.
 Cursed: You lose mana continuously.
 
-For each of these states there is an item that can heal you, consumables available in the store.",
-THERMALRESIS_DESC,"Existen lugares con climas extremos, el cuerpo humano no podrá permanecer mucho tiempo en estos ambientes, al llegar a un límite perderás salud gradualmente, existen consumibles u objetos en el entorno que podrá aliviar la temperatura corporal.","There are places with extreme climates, the human body will not be able to stay long in these environments, when you reach a limit you will gradually lose health, there are consumables or objects in the environment that can alleviate the body temperature.",
-ABOUTDAMAGEINFLICT_DESC,"Al dañar a un enemigo verás un número aparecer que representa el daño inflingido, puede ser de utilidad ver ese número para determinar si el plan actual es efectivo contra el enemigo.","When damaging an enemy you will see a number appear that represents the damage inflicted, it may be useful to see that number to determine if the current plan is effective against the enemy.",
+For each of these states there is an item that can heal you, consumables available in the store.","Há três condições negativas que alguns inimigos podem infligir em você:
+
+Envenenada: Gradualmente perderá saúde.
+Ferida: Suas habilidades são reduzidas pela metade.
+Amaldiçoada: Você perde mana continuamente.
+
+Para cada um, há um item que te cura, consumíveis disponíveis na loja."
+THERMALRESIS_DESC,"Existen lugares con climas extremos, el cuerpo humano no podrá permanecer mucho tiempo en estos ambientes, al llegar a un límite perderás salud gradualmente, existen consumibles u objetos en el entorno que podrá aliviar la temperatura corporal.","There are places with extreme climates, the human body will not be able to stay long in these environments, when you reach a limit you will gradually lose health, there are consumables or objects in the environment that can alleviate the body temperature.","Há locais com climas extremos, o corpo humano não será capaz de ficar por muito tempo nesses ambientes, quando você alcança um limite você gradualmente perderá saúde, há consumíveis ou objetos no ambiente que podem aliviar a temperatura corporal."
+ABOUTDAMAGEINFLICT_DESC,"Al dañar a un enemigo verás un número aparecer que representa el daño inflingido, puede ser de utilidad ver ese número para determinar si el plan actual es efectivo contra el enemigo.","When damaging an enemy you will see a number appear that represents the damage inflicted, it may be useful to see that number to determine if the current plan is effective against the enemy.","Quando atacar um inimigo, você verá um número aparecendo que representando o dano infligido, pode ser útil ver o número para determinar se o atual plano é efetivo."
 RESISTANDWEAKNS_DESC,"Los enemigos pueden ser resistentes, invulnerables o invencibles ante ciertas [propiedades elementales]. Cada aleación de tu arma o circuito elemental puede tener una propiedad elemental.
 
 Las propiedades son: Aqua, Pyro, Frigo, Aeria, Electro, Lux y Tenebris.
@@ -215,5 +282,9 @@ Algunos enemigos incluso pueden absorber el daño de una propiedad específica..
 
 The properties are: Aqua, Pyro, Frigo, Aeria, Electro, Lux and Tenebris.
 
-Some enemies can even absorb damage from a specific property...",
-ABOUTMULTIPLEEQUIP_DESC,"Existe un Circuito elemental que te permitirá cambiar sets de Aleación+Circuito, con esta habilidad podrás cambiar en tiempo real entre tres diferentes conjuntos de aleaciones y circuitos equipados, de esta manera podrás usar el arma adecuada con el enemigo adecuado.","There is an Elemental Circuit that will allow you to switch Alloy+Circuit sets, with this ability you can switch in real time between three different sets of alloys and equipped circuits, this way you can use the right weapon with the right enemy.",
+Some enemies can even absorb damage from a specific property...","Inimigos podem ser resistentes, invulneráveis ou invencíveis a certas [propriedades elementais]. Cada liga de sua arma ou circuito elemental pode ter uma propriedade elemental.
+
+As propriedades são: Aqua, Pyro, Frigo, Aeria, Electro, Lux and Tenebris.
+
+Alguns inimigos podem até absorver o dano de uma propriedade específica…"
+ABOUTMULTIPLEEQUIP_DESC,"Existe un Circuito elemental que te permitirá cambiar sets de Aleación+Circuito, con esta habilidad podrás cambiar en tiempo real entre tres diferentes conjuntos de aleaciones y circuitos equipados, de esta manera podrás usar el arma adecuada con el enemigo adecuado.","There is an Elemental Circuit that will allow you to switch Alloy+Circuit sets, with this ability you can switch in real time between three different sets of alloys and equipped circuits, this way you can use the right weapon with the right enemy.","Tem um Circuito Elemental que te permite trocar os conjuntos Liga+Circuito, com essa habilidade você pode trocar em tempo real entre trê diferentes conjuntos de ligas e circuitos equipados, desta forma você pode usar a arma certa no inimigo certo."
