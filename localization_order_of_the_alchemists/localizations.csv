@@ -131,7 +131,7 @@ GAME_SAVED,Partida Guardada,Game Saved,Jogo Salvo
 QUICKSAVE_DETECTED,Archivo de guardado rápido encontrado,Quicksave file found,Arquivo de salvamento rápido encontrado
 ABOUT_QUICKSAVE_EXISTS,Al cargar partida se eliminará el archivo de guardado rápido,Loading game will delete the quick save file,Carregar o jogo irá apagar o arquivo de salvamento rápido
 LOAD_QUICKSAVE,Cargar archivo de guardado rápido,Load quicksave file,Carregar arquivo de salvamento rápido
-LOAD_GAME,Cargar partida (Estatuas),Load game (Statue),Carregar o jogo (Estátua)
+LOAD_GAME,Cargar partida (Estatua),Load game (Statue),Carregar o jogo (Estátua)
 DELETE_DATA,Eliminar datos,Delete data,Apagar dados
 SELECT_SLOT_TO_DELETE,Seleccione Slot para eliminar,Select save slot to delete,Selecione arquivo salvo para apagar
 THIS_ACTION_CANT_BE_UNDO,Esta acción no podrá deshacerse,This action cannot be undone,Essa ação não pode ser desfeita
@@ -169,7 +169,8 @@ RESET,Reestablecer,Reset,Recomeçar
 OPACITY,Opacidad,Opacity,Opacidade
 SIZE,Escala,Size,Tamanho
 MINIMAP,Minimapa,Minimap,Mini-mapa
-ABOUT_CARPATITIA_DEATH,La Carpatitia permite regresar a la última estatua de guardado sin perder el progreso alcanzado.,The Carpatitia allows you to return to the last save statue without losing progress.,Permite retornar à última estátua de salvamento sem perder o seu progresso
+ABOUT_CARPATITIA_DEATH,La Carpatitia permite regresar a la última estatua de guardado sin perder el progreso alcanzado.,The Carpatitia allows you to return to the last save statue without losing progress.,Carpatitia permite retornar à última estátua de salvamento sem perder o seu progresso
+ABOUT_REVIVE,Revivir permite regresar a la última estatua de guardado sin perder el progreso alcanzado.,Revive allows you to return to the last save statue without losing progress.,Reviver permite retornar à última estátua de salvamento sem perder o seu progresso
 USE_CARPATITIAX2,Usar Carpatitia x2,Use Carpatitia x2,Usar Carpatithia x2
 AMPHIBIOUS_BREATHING,Respiración Anfibia,Amphibious Breathing,Respiração Anfíbia
 SWAPSET,Cambiar Set,Change Set,Mudar Set
@@ -250,6 +251,10 @@ ACH3DESC,Protege al tren por encargo de Alessa.,Protect the train on behalf of A
 ACH4DESC,Vence al Adeptis controlador del Oxígeno.,Defeat the Oxygen controlling Adeptis.,Derrote o Adeptis controlador de Oxigênio.
 ACH5DESC,Rescata a la hija de Gabriel.,Rescue Gabriel's daughter.,Resgate a filha do Gabriel.
 ACH6DESC,Destruye el [arma definitiva] de los Ahuizotes.,Destroy the [ultimate weapon] of the Ahuizotes.,Destrua a [arma definitiva] dos Ahuizotes.
+ACH7TITLE,,Vela del Candil,
+ACH7DESC,Entrega la máscara de Ahuizote a Margaret.,Deliver the Ahuizote mask to Margaret.,
+ACH8TITLE,,Chrysopoeia ,
+ACH8DESC,Realiza tu primera transmutación en el laboratorio de Alquimia.,Make your first transmutation in the Alchemy Lab.,
 PROLOGUEFINISHED,Prólogo finalizado,Prologue finished,Prólogo finalizado.
 YOUWANTGOWAGON,¿Regresar al vagón inicial del tren?,Back to the initial car of the train?,Voltar ao vagão inicial do trem?
 RETURNAMERITHIA,¿Regresar a Amerithia?,Return to Amerithia?,Retornar a Amerithia?
@@ -266,7 +271,7 @@ LIBRARY,Biblioteca,Library ,Biblioteca
 ALCHEMY_LABORATORY,Laboratorio de Alquimia,Alchemy Laboratory,Laboratório de Alquimia
 RESTAURANT,Restaurante,Restaurant,Restaurante
 XANDRIASHOUSE,Casa de Xandria,Xandria's House,Casa da Xandria
-TAHUATEPETL_VOLCANO,Volcán Tahuatepetl,Tahutatepetl Volcano ,Vulcão Tahutatepetl
+TAHUATEPETL_VOLCANO,Volcán Koapolkan,Koapolkan Volcano,Vulcão Koapolkan
 GRIJAYLA_TOWN,Ciudad de Grijayla,Grijayla Town,Cidade de Grijayla
 BIRSTALL_PASS,Ciudad de Birstall,Birstall City,Cidade de Birstall
 ARIDIAH_DESERT,Desierto de Aridiah,Aridiah Desert,Deserto de Aridiah
@@ -279,3 +284,30 @@ RESTORING_DATA,Restaurando datos...,Restoring data...,
 DATA_RESTORED,Los datos han sido restaurados.,Data has been restored.,
 SAVEDATABACKED,Datos respaldados,Backed up data,
 RESTORE,Restaurar,Restore,
+GETFULLGAME,Juego completo,Get full game,
+DEFEATED,Derrotado,Defeated,
+PROLOGUE,Prólogo,Prologue,
+SHOW_ENEMYNAMEDEFEATED,Ver nombre de enemigo derrotado,Show defeated enemy name,
+JUMPLAYERFLOATY,Salto en ataque flotante,Floating attack jump,
+SHOWINFOENEMY,Mostrar salud/atributos enemigo,Show enemy health/attributes,
+ABOUTENEMYINFOREALTIME,"Al atacar a un enemigo previamente derrotado, se mostrará su salud y atributos elementales.","When attacking a previously defeated enemy, its health and elemental attributes will be displayed.",
+QTYNOW,Disponible,Available,
+TRANSMUTATION,Transmutación,Transmutation,
+TRANSMUTE,Transmutar ahora,Transmute now,
+QTY,Cantidad,Quantity,
+OBJXTRANSMUTEDSUCCESS,¡[%s x%d] transmutado.,[%s x%d] transmuted.,
+QTY_INSUF,Cantidad insuficiente,Insufficient quantity,
+ANOBJTOACTIVMECHANISM,Un objeto para activar este mecanismo de engranajes...,An object to activate this gear mechanism...,
+GIVEOBJECT,Entregar objeto,Deliver item,
+RESTAURANTAMERITHIAHAVESTOCK,El restaurante en Amerithia tiene [color=yellow]comida disponible[/color] a la venta.,The restaurant at Amerithia has [color=yellow]food available[/color] for purchase.,
+EXPANDSCR,Expandir pantalla,Expand screen,
+OFFICIALART,Arte oficial,Official art,
+FANARTS,Arte de fans,Fan arts,
+CIRCUITREQUIRED,Circuito E. requerido,Required E. Circuit,
+IMPROVECIRCUIT,Mejorar circuito,Improve circuit,
+PRELOADROOM,Pre-carga habitación (experimental),Pre-load room (experimental),
+REVIVE,Revivir,Revive,Reviver
+ACH9TITLE,Nitrum Adeptis,Nitrum Adeptis,
+ACH9DESC,Derrota al Adeptis controlador del Nitrógeno.,Defeat the Nitrogen controlling Adeptis.,
+ACH10TITLE,Hydrogenium Adeptis,Hydrogenium Adeptis,
+ACH10DESC,Derrota al Adeptis controlador del Hidrógeno.,Defeat the Hydrogen controlling Adeptis.,
