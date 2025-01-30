@@ -251,16 +251,16 @@ ACH3DESC,Protege al tren por encargo de Alessa.,Protect the train on behalf of A
 ACH4DESC,Vence al Adeptis controlador del Oxígeno.,Defeat the Oxygen controlling Adeptis.,Derrote o Adeptis controlador de Oxigênio.
 ACH5DESC,Rescata a la hija de Gabriel.,Rescue Gabriel's daughter.,Resgate a filha do Gabriel.
 ACH6DESC,Destruye el [arma definitiva] de los Ahuizotes.,Destroy the [ultimate weapon] of the Ahuizotes.,Destrua a [arma definitiva] dos Ahuizotes.
-ACH7TITLE,,Vela del Candil,
-ACH7DESC,Entrega la máscara de Ahuizote a Margaret.,Deliver the Ahuizote mask to Margaret.,
-ACH8TITLE,,Chrysopoeia ,
-ACH8DESC,Realiza tu primera transmutación en el laboratorio de Alquimia.,Make your first transmutation in the Alchemy Lab.,
+ACH7TITLE,,Vela del Candil,Vela de Candeia
+ACH7DESC,Entrega la máscara de Ahuizote a Margaret.,Deliver the Ahuizote mask to Margaret.,Entregue a máscara de Ahuizote a Margaret.
+ACH8TITLE,,Chrysopoeia ,Crisopeia
+ACH8DESC,Realiza tu primera transmutación en el laboratorio de Alquimia.,Make your first transmutation in the Alchemy Lab.,Faça a sua primeira transmutação no Laboratório de Alquimia.
 PROLOGUEFINISHED,Prólogo finalizado,Prologue finished,Prólogo finalizado.
 YOUWANTGOWAGON,¿Regresar al vagón inicial del tren?,Back to the initial car of the train?,Voltar ao vagão inicial do trem?
 RETURNAMERITHIA,¿Regresar a Amerithia?,Return to Amerithia?,Retornar a Amerithia?
 DIFFCHANGEDTOEASY,"Dificultad cambiada a ""fácil""","Difficulty changed to ""easy""",Dificuldade modificada para “fácil”
 ELEMENTALSAMPLENEEDED,Se necesita una muestra elemental,An elemental sample is required,Uma amostra elemental é necessária
-ABOUTEABARRIER,Las barreras de fuego celeste solo desaparecerán cuando el [Early Access] termine.,The fire barriers will only disappear when [Early Access] ends.,
+ABOUTEABARRIER,Las barreras de fuego celeste solo desaparecerán cuando el [Early Access] termine.,The fire barriers will only disappear when [Early Access] ends.,As barreiras de fogo apenas desaparecerão quando o [Acesso Antecipado] acabar.
 ELDRALIS_WOODS,Bosque de Eldralis,Eldralis Woods,Floresta de Eldralis
 STRALSUND_RUINS,Ruinas de Stralsund,Stralsund Ruins,Ruínas de Stralsund
 TAHUATEPETL_ISLETS,Isletas de Tahuatepetl,Tahuatepetl Islets,Ilhotas Tahuatepetl
@@ -275,39 +275,39 @@ TAHUATEPETL_VOLCANO,Volcán Koapolkan,Koapolkan Volcano,Vulcão Koapolkan
 GRIJAYLA_TOWN,Ciudad de Grijayla,Grijayla Town,Cidade de Grijayla
 BIRSTALL_PASS,Ciudad de Birstall,Birstall City,Cidade de Birstall
 ARIDIAH_DESERT,Desierto de Aridiah,Aridiah Desert,Deserto de Aridiah
-LOGINPLAYGAMES,Entrar en GooglePlayGames,Login GooglePlayGames,
-ABOUT_RESTORE_PLAYGAMES,Utilizando su cuenta de Google PlayGames podrá restaurar partidas que se respaldaron automáticamente al guardar.,Using your Google PlayGames account you will be able to restore games that were automatically backed up when saving.,
-RESTORE_DATA,Restaurar datos,Restore data,
-SELECT_GAMESAVE_TO_RESTORE,Seleccione partida a restaurar,Select savegame to restore,
-ARESURETORESTOREDATA,¿Está seguro de restaurar los datos de juego en el slot seleccionado?,Are you sure to restore the game data in the selected slot?,
-RESTORING_DATA,Restaurando datos...,Restoring data...,
-DATA_RESTORED,Los datos han sido restaurados.,Data has been restored.,
-SAVEDATABACKED,Datos respaldados,Backed up data,
-RESTORE,Restaurar,Restore,
-GETFULLGAME,Juego completo,Get full game,
-DEFEATED,Derrotado,Defeated,
-PROLOGUE,Prólogo,Prologue,
-SHOW_ENEMYNAMEDEFEATED,Ver nombre de enemigo derrotado,Show defeated enemy name,
-JUMPLAYERFLOATY,Salto en ataque flotante,Floating attack jump,
-SHOWINFOENEMY,Mostrar salud/atributos enemigo,Show enemy health/attributes,
-ABOUTENEMYINFOREALTIME,"Al atacar a un enemigo previamente derrotado, se mostrará su salud y atributos elementales.","When attacking a previously defeated enemy, its health and elemental attributes will be displayed.",
-QTYNOW,Disponible,Available,
-TRANSMUTATION,Transmutación,Transmutation,
-TRANSMUTE,Transmutar ahora,Transmute now,
-QTY,Cantidad,Quantity,
-OBJXTRANSMUTEDSUCCESS,¡[%s x%d] transmutado.,[%s x%d] transmuted.,
-QTY_INSUF,Cantidad insuficiente,Insufficient quantity,
-ANOBJTOACTIVMECHANISM,Un objeto para activar este mecanismo de engranajes...,An object to activate this gear mechanism...,
-GIVEOBJECT,Entregar objeto,Deliver item,
-RESTAURANTAMERITHIAHAVESTOCK,El restaurante en Amerithia tiene [color=yellow]comida disponible[/color] a la venta.,The restaurant at Amerithia has [color=yellow]food available[/color] for purchase.,
-EXPANDSCR,Expandir pantalla,Expand screen,
-OFFICIALART,Arte oficial,Official art,
-FANARTS,Arte de fans,Fan arts,
-CIRCUITREQUIRED,Circuito E. requerido,Required E. Circuit,
-IMPROVECIRCUIT,Mejorar circuito,Improve circuit,
-PRELOADROOM,Pre-carga habitación (experimental),Pre-load room (experimental),
+LOGINPLAYGAMES,Entrar en GooglePlayGames,Login GooglePlayGames,Conectar GoogelPlayGames
+ABOUT_RESTORE_PLAYGAMES,Utilizando su cuenta de Google PlayGames podrá restaurar partidas que se respaldaron automáticamente al guardar.,Using your Google PlayGames account you will be able to restore games that were automatically backed up when saving.,"Usando sua conta Google PlayGames, você será capaz de recuperar partidas que foram automaticamente recuperadas ao salvar."
+RESTORE_DATA,Restaurar datos,Restore data,Recuperar dados
+SELECT_GAMESAVE_TO_RESTORE,Seleccione partida a restaurar,Select savegame to restore,Selecionar partida para recuperar
+ARESURETORESTOREDATA,¿Está seguro de restaurar los datos de juego en el slot seleccionado?,Are you sure to restore the game data in the selected slot?,Tem certeza de recuperar os dados do jogo na vaga selecionada?
+RESTORING_DATA,Restaurando datos...,Restoring data...,Recuperando dados…
+DATA_RESTORED,Los datos han sido restaurados.,Data has been restored.,Dados recuperados.
+SAVEDATABACKED,Datos respaldados,Backed up data,Dados reserva
+RESTORE,Restaurar,Restore,Restaurar
+GETFULLGAME,Juego completo,Get full game,Consiga o jogo completo
+DEFEATED,Derrotado,Defeated,Derrotado
+PROLOGUE,Prólogo,Prologue,Prólogo
+SHOW_ENEMYNAMEDEFEATED,Ver nombre de enemigo derrotado,Show defeated enemy name,Mostrar o nome do inimigo derrotado
+JUMPLAYERFLOATY,Salto en ataque flotante,Floating attack jump,Salto em ataque flutuante
+SHOWINFOENEMY,Mostrar salud/atributos enemigo,Show enemy health/attributes,Mostrar a saúde/atributos do inimigo
+ABOUTENEMYINFOREALTIME,"Al atacar a un enemigo previamente derrotado, se mostrará su salud y atributos elementales.","When attacking a previously defeated enemy, its health and elemental attributes will be displayed.","Ao atacar um inimigo previamente derrotado, mostrará sua saúde e atributos elementais."
+QTYNOW,Disponible,Available,Disponível
+TRANSMUTATION,Transmutación,Transmutation,Transmutação
+TRANSMUTE,Transmutar ahora,Transmute now,Transmutar agora
+QTY,Cantidad,Quantity,Quantidade
+OBJXTRANSMUTEDSUCCESS,¡[%s x%d] transmutado.,[%s x%d] transmuted.,[%s x%d] transmutado.
+QTY_INSUF,Cantidad insuficiente,Insufficient quantity,Quantidade insuficiente
+ANOBJTOACTIVMECHANISM,Un objeto para activar este mecanismo de engranajes...,An object to activate this gear mechanism...,Um objeto para ativar este mecanismo de engrenagens...
+GIVEOBJECT,Entregar objeto,Deliver item,Entregar item
+RESTAURANTAMERITHIAHAVESTOCK,El restaurante en Amerithia tiene [color=yellow]comida disponible[/color] a la venta.,The restaurant at Amerithia has [color=yellow]food available[/color] for purchase.,O restaurante em Amerithia tem [color=yellow]comida disponível[/color] à venda.
+EXPANDSCR,Expandir pantalla,Expand screen,Expandir tela
+OFFICIALART,Arte oficial,Official art,Arte oficial
+FANARTS,Arte de fans,Fan arts,Artes de fãs
+CIRCUITREQUIRED,Circuito E. requerido,Required E. Circuit,Circuito Elemental necessário
+IMPROVECIRCUIT,Mejorar circuito,Improve circuit,Aprimorar circuito
+PRELOADROOM,Pre-carga habitación (experimental),Pre-load room (experimental),Sala de Pré-carregamento (experimental)
 REVIVE,Revivir,Revive,Reviver
-ACH9TITLE,Nitrum Adeptis,Nitrum Adeptis,
-ACH9DESC,Derrota al Adeptis controlador del Nitrógeno.,Defeat the Nitrogen controlling Adeptis.,
-ACH10TITLE,Hydrogenium Adeptis,Hydrogenium Adeptis,
-ACH10DESC,Derrota al Adeptis controlador del Hidrógeno.,Defeat the Hydrogen controlling Adeptis.,
+ACH9TITLE,Nitrum Adeptis,Nitrum Adeptis,Nitrum Adeptis
+ACH9DESC,Derrota al Adeptis controlador del Nitrógeno.,Defeat the Nitrogen controlling Adeptis.,Derrote o Adeptis controlador de Nitrogênio.
+ACH10TITLE,Hydrogenium Adeptis,Hydrogenium Adeptis,Hydrogenium Adeptis
+ACH10DESC,Derrota al Adeptis controlador del Hidrógeno.,Defeat the Hydrogen controlling Adeptis.,Derrote o Adeptis controlador de Hidrogênio.

@@ -288,9 +288,9 @@ As propriedades são: Aqua, Pyro, Frigo, Aeria, Electro, Lux and Tenebris.
 
 Alguns inimigos podem até absorver o dano de uma propriedade específica…"
 ABOUTMULTIPLEEQUIP_DESC,"Existe un Circuito elemental que te permitirá cambiar sets de Aleación+Circuito, con esta habilidad podrás cambiar en tiempo real entre tres diferentes conjuntos de aleaciones y circuitos equipados, de esta manera podrás usar el arma adecuada con el enemigo adecuado.","There is an Elemental Circuit that will allow you to switch Alloy+Circuit sets, with this ability you can switch in real time between three different sets of alloys and equipped circuits, this way you can use the right weapon with the right enemy.","Tem um Circuito Elemental que te permite trocar os conjuntos Liga+Circuito, com essa habilidade você pode trocar em tempo real entre trê diferentes conjuntos de ligas e circuitos equipados, desta forma você pode usar a arma certa no inimigo certo."
-SHEAL_TITLE,,Sheal Avicena,
-SHEAL_DESC,"Sheal Avicena, alquimista de Nitrogeno. Un Adeptis que al ver sus planes frustrados, no hace más que escapar. Se ha refugiado en lo alto de una montaña ubicado en Eztilia.","Sheal Avicenna, alchemist of Nitrogen. An Adeptis who, seeing his plans frustrated, does nothing but escape. He has taken refuge on the top of a mountain located in Eztilia.",
-FIVEBIRDS_TITLE,Dioses alados,Winged Gods,
+SHEAL_TITLE,,Sheal Avicena,Sheal Avicena
+SHEAL_DESC,"Sheal Avicena, alquimista de Nitrogeno. Un Adeptis que al ver sus planes frustrados, no hace más que escapar. Se ha refugiado en lo alto de una montaña ubicado en Eztilia.","Sheal Avicenna, alchemist of Nitrogen. An Adeptis who, seeing his plans frustrated, does nothing but escape. He has taken refuge on the top of a mountain located in Eztilia.","Sheal Avicenna, alquimista de Nitrogênio. Um Adeptis que, ao ver seus planos ir por água abaixo, faz nada além de fugir. Ele buscou refúgio no topo de uma montanha localizada em Eztilia."
+FIVEBIRDS_TITLE,Dioses alados,Winged Gods,Deuses Alados
 FIVEBIRDS_DESC,"En un acto de sacrificio los cinco dioses reencarnaron en aves, para vigilar y proteger a sus pueblos desde los cielos...
 
 Anidando allí, donde el ahuacatl crece, sus plumas brillan como esmeraldas, ocultas en lo alto de un bosque neblinoso, el canto de [Ixchel] resuena durante las primeras luces del alba.
@@ -303,8 +303,14 @@ Nesting there, where the ahuacatl grows, their feathers shining like emeralds, h
 
 [Ek Chuah] and [Chaac] swing in pendulum long turquoise feathers near Koapolkán. [Chaac] likes to be near rivers and food made of corn. On the other side [Ek Chuah] doesn't come out of his hiding place, unless a butterfly is nearby when night falls.
 
-You must follow the path of the wind after a big rain and there [Hurakán] will appear. While [Itzamná] prefers to take care of her children in hidden and humid areas.",
-NEUMANDIARY_TITLE,Diario de Jean Neumann,Jean Neumann's Diary,
+You must follow the path of the wind after a big rain and there [Hurakán] will appear. While [Itzamná] prefers to take care of her children in hidden and humid areas.","Num ato de sacrifício, os cinco deuses reincarnaram como pássaros para observar e proteger seu povo dos céus.…
+
+Ao criar o ninho, onde ahuacatl cresce, suas penas brilham como esmeraldas nas profundezas de uma floresta anevoada, a canção de [Ixchel] resoa durante a primeira luz do amanhecer.
+
+[Ek Chuah] e [Chaac] se movimentam em pêndulo as longas penas cor de turquesa próximas ao vulcão Koapolkán. [Chaac] gosta de estar próximo de rios e alimentos feitos de milho. On the other side [Ek Chuah] doesn't come out of his hiding place, unless a butterfly is nearby when night falls.
+
+Você deve seguir o caminho do vento após uma chuva forte e [Hurakán] aparecerá. Enquanto [Itzamná] prefere cuidar de suas crias em áreas escondidas e úmidas."
+NEUMANDIARY_TITLE,Diario de Jean Neumann,Jean Neumann's Diary,Diário de Jean Neumann
 NEUMANDIARY_DESC,"En el diario del Doctor Neumann se encuentra una explicación sobre las diferentes etapas para la creación del Opus Magnum.
 
 En resumen Johannes planea utilizar un dispositivo de destrucción masiva, conocido como Núcleo del demonio.
@@ -317,6 +323,12 @@ In short Johannes plans to use a device of mass destruction, known as the Demon 
 
 He must also rely on the blood controlling alchemist to use the sacrificed lives ending with a power that allows an alchemist to control another element.
 
-There is more information being analyzed by Director Alessa and Margaret.",
-ELISIAADEPTIS_TITLE,Elisia Boyle,Elisia Boyle,
-ELISIAADEPTIS_DESC,Elisia Boyle es una de los Adeptis. En el pasado ella era también huerfana y vivía en el mismo orfanato que Xandria.,Elisia Boyle is one of the Adeptis. In the past she was also an orphan and lived in the same orphanage as Xandria.,
+There is more information being analyzed by Director Alessa and Margaret.","No diário de Dr. Neumann há uma explicação dos diferentes estágios da criação da Opus Magnum.
+
+Em resumo, Johannes planeja usar um dispositivo de destruição em massa, conhecido como o Núcleo Demoníaco.
+
+Ele também deve contar com um alquimista controlador de sangue para usar as vidas sacrificadas, finalizando com um poder que permita um alquimista controlar outro elemento.
+
+Há mais informação sendo analisada pela Diretora Alessa e Margaret."
+ELISIAADEPTIS_TITLE,Elisia Boyle,Elisia Boyle,Elisia Boyle
+ELISIAADEPTIS_DESC,Elisia Boyle es una de los Adeptis. En el pasado ella era también huerfana y vivía en el mismo orfanato que Xandria.,Elisia Boyle is one of the Adeptis. In the past she was also an orphan and lived in the same orphanage as Xandria.,"Elisia Boyle é uma integrante dos Adeptis. No passado, ela foi uma órfã que viveu no mesmo orfanato onde Xandria vivia."

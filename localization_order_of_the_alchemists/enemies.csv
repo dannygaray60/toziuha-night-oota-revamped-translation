@@ -1,5 +1,5 @@
 keys,es,en,pt_BR
-ZOMBIE0,Zombi Desgarrado,Torn Zombie,
-ZOMBIE0_DESC,"Un cadáver reanimado, pero con energía limitada y movimientos torpes.","A reanimated corpse, but with limited energy and clumsy movements.",
-ZOMBIE,Zombi,Zombie,
-ZOMBIE_DESC,Una criatura putrefacta que se mueve sin rumbo ni control.,A putrid creature that moves without direction or control.,
+ZOMBIE0,Zombi Desgarrado,Torn Zombie,Zumbi Despedaçado
+ZOMBIE0_DESC,"Un cadáver reanimado, pero con energía limitada y movimientos torpes.","A reanimated corpse, but with limited energy and clumsy movements.","Um cadáver reanimado, mas com energia limitada e movimentos grosseiros."
+ZOMBIE,Zombi,Zombie,Zumbi
+ZOMBIE_DESC,Una criatura putrefacta que se mueve sin rumbo ni control.,A putrid creature that moves without direction or control.,Uma criatura em putrefação que se move sem direção ou controle.

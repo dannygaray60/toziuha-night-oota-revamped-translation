@@ -177,41 +177,41 @@ GIANTBATWING_TITLE,Alas de Zotz,Zotz Wings,Asas de Zotz
 GIANTBATWING_DESC,Alas de murciélago gigante que es utilizado en varias pociones alquímicas.,Wings of a giant bat that is used in various alchemical potions.,Asas de um morcego gigante que é usado em várias poções alquímicas.
 CANDYDIFF_TITLE,Caramelo dulce,Sweet candy,Bala de caramelo
 CANDYDIFF_DESC,"¿Las cosas están difíciles? Con este caramelo cambia a nivel ""fácil"" la partida, el proceso es irreversible.","Things are difficult? With this candy, the game changes to “easy” level, the process is irreversible.","As coisas estão difíceis? Com essa bala, o jogo muda para “fácil”. O processo é irreversível."
-ACIDSULFUR_TITLE,Ácido sulfúrico,Sulfuric acid,
-ACIDSULFUR_DESC,Sustancia química altamente corrosiva que es necesaria para la transmutación de objetos. Solo se vende a Alquimistas Oficiales certificados por La Orden.,Highly corrosive chemical substance that is necessary for the transmutation of objects. Only sold to Official Alchemists certified by The Order.,
-PIGIRON_TITLE,Arrabio,Pig iron,
-PIGIRON_DESC,Materia prima obtenida de la fundición de Hierro más otros elementos a altas temperaturas.,Raw material obtained from the smelting of iron plus other elements at high temperatures.,
-AHUIZOTEMASK_TITLE,Máscara de Ahuizote,Ahuizote Mask,
-AHUIZOTEMASK_DESC,Una máscara que contiene sangre de un Ahuizote.,A mask containing blood from an Ahuizote.,
-GEARIRON_TITLE,Engranaje de acero,Steel gear,
-GEARIRON_DESC,"Un engranaje fabricado de acero, útil para completar mecanismos abandonados.","A gear made of steel, useful to complete abandoned mechanisms.",
-SUPERPOTIONHEALTH_TITLE,Superpoción de Salud,Health Super Potion,
-SUPERPOTIONHEALTH_DESC,Recupera la totalidad de la salud.,Restores full health.,
-SUPERCARPATITIA_TITLE,Carpatitia refinada,Carpatithia refined,
-SUPERCARPATITIA_DESC,"De uso automático, evita la muerte, recupera la totalidad de salud y otorga 10 segundos de invulnerabilidad.","Automatic use, prevents death, recovers full health and grants 10 seconds of invulnerability.",
-SUPERPOTIONMANA_TITLE,Superpoción de maná,Mana Super Potion,
-SUPERPOTIONMANA_DESC,Recupera la totalidad del maná.,Restores full mana.,
-MELONPAN_TITLE,Melonpan,Meronpan,
-MELONPAN_DESC,"Pan dulce que recupera la totalidad de salud, el pan favorito de cierto demonio.","Sweet bread that restores full health, the favorite bread of a certain demon.",
-NACATAMAL_TITLE,Nacatamal,Nacatamal,
-NACATAMAL_DESC,"Masa de maíz rellena con carne, arroz y vegetales, envuelta en hoja de plátano cocida al vapor. Aumenta la DEF ligeramente.","Corn dough stuffed with meat, rice and vegetables, wrapped in a steamed banana leaf. Increases DEF slightly.",
-GALLOPINTO_TITLE,Gallopinto,Gallopinto,
-GALLOPINTO_DESC,Platillo de arroz y frijoles mezclados. Aumenta ligeramente el ATK.,Mixed rice and beans dish. Slightly increases ATK.,
-VIGORON_TITLE,Vigorón,Vigorón,
-VIGORON_DESC,"Platillo que contiene yuca cocida, chicharrón y ensalada de repollo. Aumenta ligeramente la INT.","Dish containing cooked yucca, chicharrón and cabbage salad. Slightly increases INT.",
-PINOL_TITLE,Pinolillo,Pinolillo,
-PINOL_DESC,"Bebida dulce elaborada con maíz tostado con semillas de cacao y especias, servida en una Jícara. Aumenta la probabilidad de que un enemigo suelte su objeto más raro.","Sweet drink made from roasted corn with cocoa seeds and spices, served in a Jícara. Increases the probability that an enemy will drop its rarest item.",
-COFEE_TITLE,Taza de café,Coffee,
-COFEE_DESC,"Taza de café, hecha con granos cultivados en el volcán Koapolkán. Estabiliza la temperatura del cuerpo en las zonas de frío extremo.","Coffee cup, made with beans grown in the Koapolkán volcano. Stabilizes body temperature in areas of extreme cold.",
-CHICHA_TITLE,Vaso de Chicha,Chicha drink,
-CHICHA_DESC,Bebida dulce hecha de maíz molido. Remueve todos los estados negativos.,Sweet drink made from ground corn. Removes all negative states.,
-MEDALLION_H_DESC,"Medallón perteneciente a la Alquimista de Hidrógeno, Annette Cavendish.","Medallion belonging to the Hydrogen Alchemist, Annette Cavendish.",
-MEDALLION_H_TITLE,Medallón Hidrógeno,Hydrogen Medallion,
-MEDALLION_N_TITLE,Medallón Nitrógeno,Nitrogen Medallion,
-MEDALLION_N_DESC,"Medallón perteneciente al Alquimista de Hidrógeno, Sheal Avicena.","Medallion belonging to the Hydrogen Alchemist, Sheal Avicenna.",
-SHEALCOINS_TITLE,Par de monedas,Pair of coins,
-SHEALCOINS_DESC,"Monedas que tenía Sheal Avicena, parecen ser de otro país.","Coins held by Sheal Avicenna, appear to be from another country.",
-TALEBOOK_TITLE,Libro de cuentos,Storybook,
-TALEBOOK_DESC,"Un libro perteneciente a Annette Cavendish, el libro recopila diversos cuentos infantiles, el primer cuento se titula ""Los motivos del lobo"". Hay una nota escrita al pie de una página: ""Al señor Sheal le gusta este cuento, pero pude ver algo de tristeza cuando lo leyó...""","A book belonging to Annette Cavendish, the book collects several children's stories, the first story is entitled ""The Wolf's Motives"". There is a note written at the bottom of the page: ""Mr. Sheal likes this story, but I could see some sadness when he read it...""",
-DAGERROPLATE_TITLE,Placa de Daguerrotipo,Daguerreotype plate,
-DAGERROPLATE_DESC,"Placa de Cobre recubierta de plata para crear una ""Fotografía"". Se requiere un Daguerrotipo para ser usado.",Silver coated copper plate to create a “Photograph”. A Daguerreotype is required to be used.,
+ACIDSULFUR_TITLE,Ácido sulfúrico,Sulfuric acid,Ácido sulfúrico
+ACIDSULFUR_DESC,Sustancia química altamente corrosiva que es necesaria para la transmutación de objetos. Solo se vende a Alquimistas Oficiales certificados por La Orden.,Highly corrosive chemical substance that is necessary for the transmutation of objects. Only sold to Official Alchemists certified by The Order.,Substância química altamente corrosiva que é necessária para a transmutação de objetos. É vendido apenas para Alquimistas Oficiais certificados pel’A Ordem.
+PIGIRON_TITLE,Arrabio,Pig iron,Ferro-gusa
+PIGIRON_DESC,Materia prima obtenida de la fundición de Hierro más otros elementos a altas temperaturas.,Raw material obtained from the smelting of iron plus other elements at high temperatures.,Matéria prima obtida pela fundição de Ferro com mais outros elementos a altas temperaturas.
+AHUIZOTEMASK_TITLE,Máscara de Ahuizote,Ahuizote Mask,Máscara do Ahuizote
+AHUIZOTEMASK_DESC,Una máscara que contiene sangre de un Ahuizote.,A mask containing blood from an Ahuizote.,Uma máscara contendo sangue de um Ahuizote.
+GEARIRON_TITLE,Engranaje de acero,Steel gear,Engrenagem de aço
+GEARIRON_DESC,"Un engranaje fabricado de acero, útil para completar mecanismos abandonados.","A gear made of steel, useful to complete abandoned mechanisms.","Uma engrenagem feita de aço, útil para completar mecanismos abandonados."
+SUPERPOTIONHEALTH_TITLE,Superpoción de Salud,Health Super Potion,Super Poção de Saúde
+SUPERPOTIONHEALTH_DESC,Recupera la totalidad de la salud.,Restores full health.,Recupera toda a saúde
+SUPERCARPATITIA_TITLE,Carpatitia refinada,Carpatithia refined,Carpatithia refinada
+SUPERCARPATITIA_DESC,"De uso automático, evita la muerte, recupera la totalidad de salud y otorga 10 segundos de invulnerabilidad.","Automatic use, prevents death, recovers full health and grants 10 seconds of invulnerability.","Uso automático, previne morte, recupera toda a saúde e garante 10 segundos de invulnerabilidade."
+SUPERPOTIONMANA_TITLE,Superpoción de maná,Mana Super Potion,Super Poção de Mana
+SUPERPOTIONMANA_DESC,Recupera la totalidad del maná.,Restores full mana.,Recupera toda a mana
+MELONPAN_TITLE,Melonpan,Meronpan,Pão de melão
+MELONPAN_DESC,"Pan dulce que recupera la totalidad de salud, el pan favorito de cierto demonio.","Sweet bread that restores full health, the favorite bread of a certain demon.","Pão doce que recupera toda a saúde, é o pão favorito de um certo demônio."
+NACATAMAL_TITLE,Nacatamal,Nacatamal,Nacatamal
+NACATAMAL_DESC,"Masa de maíz rellena con carne, arroz y vegetales, envuelta en hoja de plátano cocida al vapor. Aumenta la DEF ligeramente.","Corn dough stuffed with meat, rice and vegetables, wrapped in a steamed banana leaf. Increases DEF slightly.","Massa de milho recheada com carne, arroz e vegetais, enrolada com folha de banana cozido no vapor. Aumenta um pouco a DEF."
+GALLOPINTO_TITLE,Gallopinto,Gallopinto,Gallo pinto
+GALLOPINTO_DESC,Platillo de arroz y frijoles mezclados. Aumenta ligeramente el ATK.,Mixed rice and beans dish. Slightly increases ATK.,Prato com arroz e feijão misturados. Aumenta um pouco o ATK.
+VIGORON_TITLE,Vigorón,Vigorón,Vigorón
+VIGORON_DESC,"Platillo que contiene yuca cocida, chicharrón y ensalada de repollo. Aumenta ligeramente la INT.","Dish containing cooked yucca, chicharrón and cabbage salad. Slightly increases INT.","Prato contendo yuca cozida (tipo de mandioca), chicharrón (tipo de torresmo) e salada de repolho. Aumenta um pouco a INT."
+PINOL_TITLE,Pinolillo,Pinolillo,Pinolillo
+PINOL_DESC,"Bebida dulce elaborada con maíz tostado con semillas de cacao y especias, servida en una Jícara. Aumenta la probabilidad de que un enemigo suelte su objeto más raro.","Sweet drink made from roasted corn with cocoa seeds and spices, served in a Jícara. Increases the probability that an enemy will drop its rarest item.","Bebida adocicada feita com milho assado com sementes de cacau e especiarias, servidas numa Jícara (tipo de cuia). Aumenta a probabilidade de um inimigo deixar seu item mais raro."
+COFEE_TITLE,Taza de café,Coffee,Café
+COFEE_DESC,"Taza de café, hecha con granos cultivados en el volcán Koapolkán. Estabiliza la temperatura del cuerpo en las zonas de frío extremo.","Coffee cup, made with beans grown in the Koapolkán volcano. Stabilizes body temperature in areas of extreme cold.","Copo de café, feito dos grãos que crescem no vulcão Koapolkán. Estabiliza a temperatura corporal em áreas de frio extremo."
+CHICHA_TITLE,Vaso de Chicha,Chicha drink,Chicha
+CHICHA_DESC,Bebida dulce hecha de maíz molido. Remueve todos los estados negativos.,Sweet drink made from ground corn. Removes all negative states.,Bebida doce feita de farinha de milho. Remove todos os status negativos.
+MEDALLION_H_DESC,"Medallón perteneciente a la Alquimista de Hidrógeno, Annette Cavendish.","Medallion belonging to the Hydrogen Alchemist, Annette Cavendish.","Medalhão pertencente a Alquimista de Hidrogênio, Annette Cavendish."
+MEDALLION_H_TITLE,Medallón Hidrógeno,Hydrogen Medallion,Medalhão de Hidrogênio
+MEDALLION_N_TITLE,Medallón Nitrógeno,Nitrogen Medallion,Medalhão de Nitrogênio
+MEDALLION_N_DESC,"Medallón perteneciente al Alquimista de Nitrógeno, Sheal Avicena.","Medallion belonging to the Nitrogen Alchemist, Sheal Avicenna.","Medalhão pertencente ao Alquimista de Nitrogênio, Sheal Avicenna."
+SHEALCOINS_TITLE,Par de monedas,Pair of coins,Par de moedas
+SHEALCOINS_DESC,"Monedas que tenía Sheal Avicena, parecen ser de otro país.","Coins held by Sheal Avicenna, appear to be from another country.","Moedas pertencentes a Sheal Avicenna, parecem ser de outro país."
+TALEBOOK_TITLE,Libro de cuentos,Storybook,Livro de Histórias
+TALEBOOK_DESC,"Un libro perteneciente a Annette Cavendish, el libro recopila diversos cuentos infantiles, el primer cuento se titula ""Los motivos del lobo"". Hay una nota escrita al pie de una página: ""Al señor Sheal le gusta este cuento, pero pude ver algo de tristeza cuando lo leyó...""","A book belonging to Annette Cavendish, the book collects several children's stories, the first story is entitled ""The Wolf's Motives"". There is a note written at the bottom of the page: ""Mr. Sheal likes this story, but I could see some sadness when he read it...""","Um livro pertencente a Annette Cavendish, o livro reúne diversas histórias infantis, a primeira história é intitulada ""Os Motivos do Lobo"". Há uma nota escrita no fundo da página: ""Sr. Sheal gosta dessa história, mas eu posso ver um pouco de tristeza quando ele lê…"""
+DAGERROPLATE_TITLE,Placa de Daguerrotipo,Daguerreotype plate,Placa de Daguerreótipo
+DAGERROPLATE_DESC,"Placa de Cobre recubierta de plata para crear una ""Fotografía"". Se requiere un Daguerrotipo para ser usado.",Silver coated copper plate to create a “Photograph”. A Daguerreotype is required to be used.,Placa de cobre revestida com prata para criar uma “Fotografia”. Um Daguerreótipo é necessário para ser usado.
