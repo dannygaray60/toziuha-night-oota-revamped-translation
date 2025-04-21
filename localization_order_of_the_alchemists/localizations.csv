@@ -275,6 +275,7 @@ TAHUATEPETL_VOLCANO,Volcán Koapolkan,Koapolkan Volcano,Vulcão Koapolkan
 GRIJAYLA_TOWN,Ciudad de Grijayla,Grijayla Town,Cidade de Grijayla
 BIRSTALL_PASS,Ciudad de Birstall,Birstall City,Cidade de Birstall
 ARIDIAH_DESERT,Desierto de Aridiah,Aridiah Desert,Deserto de Aridiah
+IXQUICTEMPLE,Templo de Ixquic,Ixquic Temple,
 LOGINPLAYGAMES,Entrar en GooglePlayGames,Login GooglePlayGames,Conectar GoogelPlayGames
 ABOUT_RESTORE_PLAYGAMES,Utilizando su cuenta de Google PlayGames podrá restaurar partidas que se respaldaron automáticamente al guardar.,Using your Google PlayGames account you will be able to restore games that were automatically backed up when saving.,"Usando sua conta Google PlayGames, você será capaz de recuperar partidas que foram automaticamente recuperadas ao salvar."
 RESTORE_DATA,Restaurar datos,Restore data,Recuperar dados
@@ -311,3 +312,18 @@ ACH9TITLE,Nitrum Adeptis,Nitrum Adeptis,Nitrum Adeptis
 ACH9DESC,Derrota al Adeptis controlador del Nitrógeno.,Defeat the Nitrogen controlling Adeptis.,Derrote o Adeptis controlador de Nitrogênio.
 ACH10TITLE,Hydrogenium Adeptis,Hydrogenium Adeptis,Hydrogenium Adeptis
 ACH10DESC,Derrota al Adeptis controlador del Hidrógeno.,Defeat the Hydrogen controlling Adeptis.,Derrote o Adeptis controlador de Hidrogênio.
+NOTAVAILABLE,No disponible,Not available,
+STATS,Estadísticas,Stats,
+CREATINGCONFINIT,"Creando un nuevo archivo de ajustes, por favor espere...","Creating New Settings file, please wait...",
+LOWHEALTH_ALERT,Alerta visual de salud baja,Low visual health alert,
+ACH11TITLE,Sílex Adeptis,Sílex Adeptis,
+ACH11DESC,Derrota al Adeptis controlador del Silicio.,Defeat the Silicon controlling Adeptis.,
+ACH12TITLE,Sulphur Adeptis,Sulphur Adeptis,
+ACH12DESC,Derrota al Adeptis controlador del Azufre.,Defeat the Sulfur controlling Adeptis.,
+ACH13TITLE,Cazador de demonios,Demon hunter,
+ACH13DESC,Supera la máxima puntuación en [MegaBoom Inferno].,Beat the high score in [MegaBoom Inferno].,
+ACH14TITLE,¿Puede correr Doom?,Can it run Doom?,
+ACH14DESC,Haz que ese juego corra en Toziuha Night.,Make that game run in Toziuha Night.,
+FIREACTION,Disparar,Fire,
+STRAFEACTION,Mover lateralmente,Strafe,
+CLOSEGAME,Cerrar juego,Close game,

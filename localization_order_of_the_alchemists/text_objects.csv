@@ -332,3 +332,57 @@ Ele também deve contar com um alquimista controlador de sangue para usar as vid
 Há mais informação sendo analisada pela Diretora Alessa e Margaret."
 ELISIAADEPTIS_TITLE,Elisia Boyle,Elisia Boyle,Elisia Boyle
 ELISIAADEPTIS_DESC,Elisia Boyle es una de los Adeptis. En el pasado ella era también huerfana y vivía en el mismo orfanato que Xandria.,Elisia Boyle is one of the Adeptis. In the past she was also an orphan and lived in the same orphanage as Xandria.,"Elisia Boyle é uma integrante dos Adeptis. No passado, ela foi uma órfã que viveu no mesmo orfanato onde Xandria vivia."
+NANALETTER_TITLE,Carta de Nana,Nana's Letter,
+NANALETTER_DESC,"Era una dulce niña, en un mundo de muerte y aflicción. Sus ojos carmesíes brillaban tiernamente como una flor, aunque su cabello parecía estar hecho de noche y de dolor.
+
+Llevando aquella flor que nunca se marchita, la dulce niña hará que el corazón de su hermano se agite, pues será la luz blanca que dará el último adiós al alma que ya se quebranta.","She was a sweet girl, in a world of grief and pain.
+Her crimson eyes shone softly, like a flower in the rain,
+Though her hair seemed woven from the night and sorrow's reign.
+
+Carrying that flower which never fades,
+The sweet girl will stir her brother’s heart,
+For it will be the white light that bids farewell,
+To the soul that's torn apart.",
+ABOUTDIRIAN_TITLE,Cacique Dirián Razhes,Cacique Dirián Razhes,
+ABOUTDIRIAN_DESC,"Dirián Razhes es el Cacique del pueblo que habita los islotes en el mar de Niquira. 
+
+Él tiene la responsabilidad de proteger un poder que se creía una leyenda que permite a un Alquimista, dominar otros elementos de la misma familia o período, en otras palabras, un elemento de la misma columna o fila correspondiente a la tabla periódica.
+
+Por ejemplo, un Alquimista de Hierro podría controlar el Cobre o un elemento radioactivo como el Plutonio.
+
+Un poder así es demasiado peligroso, teniendo en cuenta que Dirián se ha aliado con Johannes.
+","Dirian Razhes is the Cacique of the people who inhabit the islets in the Niquira Sea. 
+
+He has the responsibility to protect a power that was believed to be a legend that allows an Alchemist to dominate other elements of the same family or period, in other words, an element of the same column or row corresponding to the periodic table.
+
+For example, an Iron Alchemist could control Copper or a radioactive element such as Plutonium.
+
+Such a power is too dangerous, considering that Dirian has allied himself with Johannes.",
+ABOUTIXQUICCIRCUIT_TITLE,La bendición de Ixquic,The Ixquic blessing,
+ABOUTIXQUICCIRCUIT_DESC,"El legendario poder que protegía Dirián Razhes resultó ser un circuito elemental. 
+
+Johannes ha logrado adueñarse de un poder que permite a Alquimistas controlar otro elementos con la restricción de ser del mismo período o familia del elemento dominante.
+
+Pero al ser un Circuito elemental, cabe la posibilidad de mejorarlo y eliminar esta restricción...
+
+Al final, este circuito mejorado sería lo que Alquimistas llaman el [Opus Magnum.]","The legendary power that protected Dirian Razhes turned out to be an elemental circuit. 
+
+Johannes has managed to take possession of a power that allows Alchemists to control other elements with the restriction of being of the same period or family of the dominant element.
+
+But being an elemental circuit, it is possible to improve it and eliminate this restriction...
+
+In the end, this improved circuit would be what Alchemists call the [Opus Magnum.]",
+EVALETTER_TITLE,Informe de Eva Brahm,Eva Brahm's Report,
+EVALETTER_DESC,"Mi señor, tal como me lo ha ordenado estoy en Birstall, protegiendo la mitad del amuleto que bloquea el paso a los pisos superiores de la Abadía de Athos.
+
+La otra mitad queda en resguardo de los hermanos Cavendish, quienes han logrado sincronizar sus ondas de manipulación elemental. Juntos, ellos no dejarán que esa intrometida Alquimista pase más allá de la torre de reloj abandonada de Stralsund. Si algo falla, el Toziuha Ahalcaná estará al pendiente para realizar el pacto.
+
+Y por último, con los documentos dejados por Sheal, hemos conseguido una versión más potente de la sangre de athos, los Ahuizotes que la consumen experimentan un mayor poder y agresividad, se encuentran protegiendo la Abadía, no dejaremos que esa Alquimista ni La Orden interfiera en sus planes divinos.
+
+-- Eva Brahm.","My lord, as you have ordered me, I am in Birstall, protecting half of the amulet that blocks the passage to the upper floors of Athos Abbey.
+
+The other half remains in the custody of the Cavendish brothers, who have managed to synchronize their waves of elemental manipulation. Together, they will not let that meddling Alchemist pass beyond Stralsund's abandoned clock tower. If anything goes wrong, the Toziuha Ahalcaná will be on hand to carry out the pact.
+
+And finally, with the documents left by Sheal, we have obtained a more powerful version of the blood of athos, the Ahuizotes that consume it experience greater power and aggressiveness, they are protecting the Abbey, we will not let that Alchemist nor The Order interfere in your divine plans.
+
+-- Eva Brahm.",

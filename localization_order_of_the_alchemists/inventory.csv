@@ -126,7 +126,7 @@ Eu espero que cumpra a nossa missão de erradicar os Ahuizotes de uma vez por to
 
 -- Xóchitl Nahoa."
 MEDALLION_O_TITLE,Medallón Oxígeno,Oxygen Medallion,Medalhão de Oxigênio
-MEDALLION_O_DESC,"Medallón perteneciente al Alquimista del Oxígeno, Joseph Cavendish.","Medallion belonging to the Alchemist of Oxygen, Joseph Cavendish.","Medalhão pertencente ao Alquimista de Oxigênio, Joseph Cavendish."
+MEDALLION_O_DESC,"Medallón perteneciente al Alquimista del Oxígeno, Joseph Cavendish. Número atómico: 8.","Medallion belonging to the Alchemist of Oxygen, Joseph Cavendish. Atomic number: 8.","Medalhão pertencente ao Alquimista de Oxigênio, Joseph Cavendish."
 RUBY_TITLE,Rubí,Ruby,Rubi
 WATERSWORD_TITLE,Espada de Atargatis,Atargatis Sword,Espada de Atargatis
 RUBY_DESC,Un rubí grande y muy valioso. Un Witiko lo tenía en su posesión.,A large and very valuable ruby. A Witiko had it in his possession.,Um rubi muito precioso. Um Witiko possui um desse.
@@ -205,13 +205,36 @@ COFEE_TITLE,Taza de café,Coffee,Café
 COFEE_DESC,"Taza de café, hecha con granos cultivados en el volcán Koapolkán. Estabiliza la temperatura del cuerpo en las zonas de frío extremo.","Coffee cup, made with beans grown in the Koapolkán volcano. Stabilizes body temperature in areas of extreme cold.","Copo de café, feito dos grãos que crescem no vulcão Koapolkán. Estabiliza a temperatura corporal em áreas de frio extremo."
 CHICHA_TITLE,Vaso de Chicha,Chicha drink,Chicha
 CHICHA_DESC,Bebida dulce hecha de maíz molido. Remueve todos los estados negativos.,Sweet drink made from ground corn. Removes all negative states.,Bebida doce feita de farinha de milho. Remove todos os status negativos.
-MEDALLION_H_DESC,"Medallón perteneciente a la Alquimista de Hidrógeno, Annette Cavendish.","Medallion belonging to the Hydrogen Alchemist, Annette Cavendish.","Medalhão pertencente a Alquimista de Hidrogênio, Annette Cavendish."
+MEDALLION_H_DESC,"Medallón perteneciente a la Alquimista de Hidrógeno, Annette Cavendish. Número atómico: 1.","Medallion belonging to the Hydrogen Alchemist, Annette Cavendish. Atomic number: 1.","Medalhão pertencente a Alquimista de Hidrogênio, Annette Cavendish."
 MEDALLION_H_TITLE,Medallón Hidrógeno,Hydrogen Medallion,Medalhão de Hidrogênio
 MEDALLION_N_TITLE,Medallón Nitrógeno,Nitrogen Medallion,Medalhão de Nitrogênio
-MEDALLION_N_DESC,"Medallón perteneciente al Alquimista de Nitrógeno, Sheal Avicena.","Medallion belonging to the Nitrogen Alchemist, Sheal Avicenna.","Medalhão pertencente ao Alquimista de Nitrogênio, Sheal Avicenna."
+MEDALLION_N_DESC,"Medallón perteneciente al Alquimista de Nitrógeno, Sheal Avicena. Número atómico: 7.","Medallion belonging to the Nitrogen Alchemist, Sheal Avicenna. Atomic number: 7.","Medalhão pertencente ao Alquimista de Nitrogênio, Sheal Avicenna."
+MEDALLION_SI_TITLE,Medallón Silicio,Silicon Medallion,
+MEDALLION_SI_DESC,"Medallón perteneciente a la Alquimista del Silicio, Elisia Boyle. Número atómico: 14.","Medallion belonging to the Silicon Alchemist, Elisia Boyle. Atomic number: 14.",
+MEDALLION_S_TITLE,Medallón Azufre,Sulfur Medallion,
+MEDALLION_S_DESC,"Medallón perteneciente al Alquimista de Azufre, Dirián Razhes. Número atómico: 16.","Medallion belonging to the Sulfur Alchemist, Dirian Razhes. Atomic number: 16.",
 SHEALCOINS_TITLE,Par de monedas,Pair of coins,Par de moedas
 SHEALCOINS_DESC,"Monedas que tenía Sheal Avicena, parecen ser de otro país.","Coins held by Sheal Avicenna, appear to be from another country.","Moedas pertencentes a Sheal Avicenna, parecem ser de outro país."
 TALEBOOK_TITLE,Libro de cuentos,Storybook,Livro de Histórias
 TALEBOOK_DESC,"Un libro perteneciente a Annette Cavendish, el libro recopila diversos cuentos infantiles, el primer cuento se titula ""Los motivos del lobo"". Hay una nota escrita al pie de una página: ""Al señor Sheal le gusta este cuento, pero pude ver algo de tristeza cuando lo leyó...""","A book belonging to Annette Cavendish, the book collects several children's stories, the first story is entitled ""The Wolf's Motives"". There is a note written at the bottom of the page: ""Mr. Sheal likes this story, but I could see some sadness when he read it...""","Um livro pertencente a Annette Cavendish, o livro reúne diversas histórias infantis, a primeira história é intitulada ""Os Motivos do Lobo"". Há uma nota escrita no fundo da página: ""Sr. Sheal gosta dessa história, mas eu posso ver um pouco de tristeza quando ele lê…"""
 DAGERROPLATE_TITLE,Placa de Daguerrotipo,Daguerreotype plate,Placa de Daguerreótipo
 DAGERROPLATE_DESC,"Placa de Cobre recubierta de plata para crear una ""Fotografía"". Se requiere un Daguerrotipo para ser usado.",Silver coated copper plate to create a “Photograph”. A Daguerreotype is required to be used.,Placa de cobre revestida com prata para criar uma “Fotografia”. Um Daguerreótipo é necessário para ser usado.
+GASMASKFILTER_TITLE,Filtro para máscara gas,Filter for gas mask,Filter for gas mask
+GASMASKFILTER_DESC,Filtro de aire para Sulfuro de carbono y Dióxido de azufre. Requiere ser colocado en una máscara de gas.,Air filter for carbon sulfide and sulfur dioxide. Requires to be placed in a gas mask.,
+GASMASKBROKEN_TITLE,Máscara de gas dañada,Damaged gas mask,
+GASMASKBROKEN_DESC,Máscara de gas que necesita de reparaciones (Margaret puede ayudar) y un filtro de aire nuevo.,Gas mask in need of repairs (Margaret can help) and a new air filter.,
+NEEDJADEKEY,Requiere llave de Jade.,Requires Jade key.,
+JADEKEY_TITLE,Llave de jade,Jade key,
+JADEKEY_DESC,"Permite abrir puertas que reflejan un color verde, similar al Jade incrustado en la llave. Es de uso único.","It allows opening doors that reflect a green color, similar to the Jade embedded in the key. It's for single use only.",
+AHUIZOTES_PENDANT_TITLE,Colgante de los Ahuizotes,Ahuizotes Pendant,
+AHUIZOTES_PENDANT_DESC,Un adorno hecho de Pirita y Espinela que tiene forma del símbolo de Athos. Contiene una inscripción: Morir es vivir.,An ornament made of Pyrite and Spinel in the shape of the Athos symbol. It contains an inscription: Morir es vivir.,
+SKULLKEY_TITLE,Llave calavera,Skull key,
+SKULLKEY_DESC,Llave de aspecto siniestro hecha de hierro.,Sinister-looking key made of iron.,
+ELISIASTAFF_TITLE,Báculo de Elisia,Elisia's Staff,
+ELISIASTAFF_DESC,Objeto de alta rareza que era muy utilizado por los antiguos hechiceros antes de que la Alquimia fuera establecida en el continente.,An object of high rarity that was widely used by ancient sorcerers before Alchemy was established on the continent.,
+DIRIANCOPILLI_TITLE,Tocado de plumas,Feather headdress,
+DIRIANCOPILLI_DESC,"Adorno de plumas largas que se lleva sobre la cabeza, asemejandose a una corona. Representa la conexión entre lo terrenal y lo divino.","An adornment of long feathers worn on the head, resembling a crown. It represents the connection between the earthly and the divine.",
+GOLEMHELMET_TITLE,Casco de Golem,Golem helmet,
+GOLEMHELMET_DESC,Un casco de enorme tamaño hecho de metales muy valiosos.,A helmet of enormous size made of very valuable metals.,
+AMETHYSTKEY_TITLE,Llave Amatista,Amethyst Key,
+AMETHYSTKEY_DESC,"Permite abrir puertas que reflejan un color púrpura, similar a la Amatista incrustada en la llave. Es de uso único.","It allows to open doors that reflect a purple color, similar to the Amethyst embedded in the key. It's for single use only.",
