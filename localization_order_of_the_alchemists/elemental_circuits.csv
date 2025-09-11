@@ -11,7 +11,7 @@ WHIP_CRUSH_DESC,Deja caer todo el poder del látigo carmesí con el comando [↓
 PERMETRI_CALORIS_DESC,Genera calor en el área durante algunos segundos.,Generates heat in the area for a few seconds.,Gera calor numa área por poucos segundos
 DOUBLE_JUMP_DESC,Permite dar un salto adicional en el aire.,Allows an additional jump in the air.,Permite um pulo adicional no ar
 AIR_KICK_DESC,"Después de un doble salto, presionando ↓ + [Salto] realiza una patada hacia abajo.","After a double jump, pressing ↓ + [Jump] performs a downward kick.","Depois do pulo duplo, pressionando ↓ + [Pulo] faz um chute descendente"
-SWING_DESC,"Permite columpiarte con el látigo si mantienes presionado el botón ""Ataque"" después de golpear los anillos flotantes.","Allows you to swing with the whip if you hold down the ""Attack"" button after hitting the floating rings.",
+SWING_DESC,"Permite columpiarte con el látigo si mantienes presionado el botón ""Ataque"" después de golpear los anillos flotantes.","Allows you to swing with the whip if you hold down the ""Attack"" button after hitting the floating rings.","Te permite balançar o chicote se segurar o botão ""Ataque"" após atingir os anéis flutuantes."
 WALL_SLIDE_DESC,"Permite deslizarte en paredes si ""empujas"" en el aire hacia una pared.","Allows you to slide on walls if you ""push"" in the air towards a wall.","Te permite deslizar nas paredes se você ""empurrar"" no ar em direção à parede."
 MULTIPLE_EQUIPMENT_TITLE,Equipamiento Múltiple,Multiple Equipment,Equipamentos Múltiplos
 MULTIPLE_EQUIPMENT_DESC,Mantén presionado el botón de [Menú rápido] y presiona [Sig. Pág] o [Prev Pág] para cambiar el set de equipamiento.,Hold down the [Quick Menu] button and press [Next Pag] or [Prev Page] to change the equipment set.,Segure o botão de [Menu Rápido] e pressione [Próxima Página] ou [Página Anterior] para mudar o conjunto de equipamento
@@ -32,4 +32,14 @@ SANGRI_IMPALIA_DESC,Invoca lanzas desde el suelo que empalan a los enemigos.,Sum
 RUBRUS_DRACO_DESC,Ataca con el poder de un gran dragón. La cantidad de daño aumenta cuanta más sangre haya acumulado.,Attacks with the power of a great dragon. The amount of damage increases the more blood it has accumulated.,Ataca com o poder de um grande dragão. A quantidade de dano aumenta com a quantidade de sangue acumulado.
 CONGELATIO_DESC,Invoca una onda de frío que puede ser capaz de congelar grandes masas de agua.,Summons a cold wave that can freeze large bodies of water.,Invoca uma onda fria que pode congelar largos corpos d’água
 VOLTUSA_DESC,Crea un pequeño tornado de agua.,Creates a small water tornado.,Cria um pequeno tornado de água.
-CONTRARIUS_GRAVITAS_DESC,"Permite ""invertir"" la gravedad utilizando ferromagnetismo de bloques especiales de hierro.",It allows “reversing” gravity using ferromagnetism of special iron blocks.,
+CONTRARIUS_GRAVITAS_DESC,"Permite ""invertir"" la gravedad utilizando ferromagnetismo de bloques especiales de hierro.",It allows “reversing” gravity using ferromagnetism of special iron blocks.,Permite “reverter” gravidade usando ferromagnetismo de blocos especiais de ferro.
+PLUVIA_SANGRI_DESC,Invoca una lluvia de sangre que daña a todos los enemigos en pantalla. Requiere 50 de sangre.,Summon a rain of blood that damages all enemies on screen. Requires 50 of blood.,
+AERIAL_DASH_II_DESC,Permite realizar impulsos en el aire hasta que la estamina lo permita.,Allows you to dash in the air until your stamina runs out.,
+WHIP_ALLOY_IMPROV_DESC,Disminuye el gasto de maná y mejora poder de aleaciones.,Reduces mana cost and improves alloy power.,
+WHIP_ALLOY_IMPROV,Mejora de aleación,Alloy refinement,
+AETHERIS_GLADIO_MERIO_DESC,Ataca con múltiples ráfagas de viento.,Attacks with multiple gusts of wind.,
+FERRUM_STELLA_MERIO_DESC,Lanza tres proyectiles al mismo tiempo.,Cast three projectiles at the same time.,
+FERRUM_ASCIA_MERIO_DESC,Arroja una hacha de gran poder.,Throw a powerful axe.,
+PYRO_PROIECTUM_MERIO_DESC,Lanza una bola de fuego que daña todo a su paso.,Cast a fireball that damages everything in its path.,
+LUX_PILAR_MERIO_DESC,Aumenta poder de energía luminíca.,Increase light energy power.,
+FRIGUS_PILAR_MERIO_DESC,Invoca múltiples pilares de hielo.,Summon multiple pillars of ice.,

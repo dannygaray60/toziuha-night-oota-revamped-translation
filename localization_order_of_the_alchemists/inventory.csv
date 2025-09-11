@@ -11,7 +11,7 @@ POTION_HEALTH_TITLE,Poción Curativa,Healing Potion,Poção de cura
 FIRST_AID_KIT_TITLE,Kit de primeros auxilios,First Aid Box,Caixa de primeiros socorros
 BRONZE_KEY_TITLE,Llave de Bronce,Bronze Key,Chave de bronze
 BRONZE_KEY_DESC,"Una vieja llave de bronce, solo eso.",An old bronze key—just that.,"Uma chave de bronze antiga, só isso."
-POTION_HEALTH_DESC,Restaura una tercera parte de la salud total.,Restore one-third of the total health,Restaura um terço de sua saúde total
+POTION_HEALTH_DESC,Restaura una 40% de la salud total.,Restore 40% of the total health,Restaura 40% de sua saúde total
 POTION_POISON_DESC,Detiene los efectos negativos del veneno.,Stop negative effects of poison.,Para os efeitos negativos do veneno
 POTION_CURSE_DESC,Remueve maldiciones.,Remove Curses.,Remove Maldições
 FIRST_AID_KIT_DESC,"Sana el estado negativo ""Lesionado"" del cuerpo.","Heals the negative ""Injured"" state of the body.","Cura o estado negativo de ""ferido"" do corpo."
@@ -126,7 +126,7 @@ Eu espero que cumpra a nossa missão de erradicar os Ahuizotes de uma vez por to
 
 -- Xóchitl Nahoa."
 MEDALLION_O_TITLE,Medallón Oxígeno,Oxygen Medallion,Medalhão de Oxigênio
-MEDALLION_O_DESC,"Medallón perteneciente al Alquimista del Oxígeno, Joseph Cavendish. Número atómico: 8.","Medallion belonging to the Alchemist of Oxygen, Joseph Cavendish. Atomic number: 8.","Medalhão pertencente ao Alquimista de Oxigênio, Joseph Cavendish."
+MEDALLION_O_DESC,"Medallón perteneciente al Alquimista del Oxígeno, Joseph Cavendish. Número atómico: 8.","Medallion belonging to the Alchemist of Oxygen, Joseph Cavendish. Atomic number: 8.","Medalhão pertencente ao Alquimista de Oxigênio, Joseph Cavendish. Número atômico: 8."
 RUBY_TITLE,Rubí,Ruby,Rubi
 WATERSWORD_TITLE,Espada de Atargatis,Atargatis Sword,Espada de Atargatis
 RUBY_DESC,Un rubí grande y muy valioso. Un Witiko lo tenía en su posesión.,A large and very valuable ruby. A Witiko had it in his possession.,Um rubi muito precioso. Um Witiko possui um desse.
@@ -139,19 +139,19 @@ La caja incluye un lente de cristal y componentes internos mecánicos además de
 The box includes a glass lens and mechanical internal components and a silver sheet polished to the point that it looks like a mirror.","Uma caixa de madeira encontrada pela Aura, mas ela não sabe para que serve.
 
 A caixa inclui uma lente de vidro, componentes mecânicos em seu interior e uma chapa de prata polida ao ponto de parecer um espelho."
-PB_ELEMT_TITLE,Muestra de Plomo elemental,Elemental Lead Sample,Amostra de Chumbo Elemental
+PB_ELEMT_TITLE,Plomo elemental,Elemental Lead,Chumbo Elemental
 PB_ELEMT_DESC,"El plomo es un metal denso, blando y maleable, usado en protección contra radiación y contrapesos. ","Lead is a dense, soft and malleable metal used in radiation protection and counterweights. ","Chumbo é um metal denso, macio e maleável usado na proteção de radiação e contrapeso."
-HG_ELEMT_TITLE,Muestra de Mercurio elemental,Elemental Mercury Sample,Amostra de Mercúrio Elemental
+HG_ELEMT_TITLE,Mercurio elemental,Elemental Mercury,Mercúrio Elemental
 HG_ELEMT_DESC,"El mercurio es el único metal que es líquido a temperatura ambiente, conocido por su alta densidad y su uso en termómetros.","Mercury is the only metal that is liquid at ambient temperature, known for its high density and its use in thermometers.","Mercúrio é o único metal que é líquido na temperatura ambiente, conhecido por sua alta densidade e seu uso em termômetros."
-AU_ELEMT_TITLE,Muestra de Oro elemental,Elemental Gold Sample,Amostra de Ouro Elemental
+AU_ELEMT_TITLE,Oro elemental,Elemental Gold,Ouro Elemental
 AU_ELEMT_DESC,"El oro es un metal amarillo brillante, muy valorado por su uso en joyería, monedas y como reserva de valor. ","Gold is a bright yellow metal, highly valued for its use in jewelry, coins and as a store of value. ","Ouro é um metal amarelo e cintilante, de grande valor pelo seu uso na joalheria, moedas e como reserva de valor."
-SN_ELEMT_TITLE,Muestra de Estaño elemental,Elemental Tin Sample,Amostra de Estanho Elemental
+SN_ELEMT_TITLE,Estaño elemental,Elemental Tin,Estanho Elemental
 SN_ELEMT_DESC,"El estaño es un metal plateado y maleable, utilizado en la fabricación de aleaciones y recubrimientos protectores. ","Tin is a silvery, malleable metal used in the manufacture of alloys and protective coatings. ","Estanho é um metal prateado e maleável, usado na manufatura de ligas e revestimentos protetivos."
-AG_ELEMT_TITLE,Muestra de Plata elemental,Elemental Silver Sample,Amostra de Prata Elemental
+AG_ELEMT_TITLE,Plata elemental,Elemental Silver,Prata Elemental
 AG_ELEMT_DESC,"La plata es un metal blanco y brillante, apreciado por su uso en joyería, utensilios y como conductor eléctrico. ","Silver is a bright white metal, prized for its use in jewelry, utensils and as an electrical conductor. ","Prata é um metal branco e cintilante, valorizado pelo seu uso na joalheria, utensílios e como um condutor elétrico."
-CU_ELEMT_TITLE,Muestra de Cobre elemental,Elemental Copper Sample,Amostra de Cobre Elemental
+CU_ELEMT_TITLE,Cobre elemental,Elemental Copper,Cobre Elemental
 CU_ELEMT_DESC,"El cobre es un metal rojizo y conductor, ampliamente usado en cables eléctricos y en la construcción.","Copper is a reddish, conductive metal, widely used in electrical wiring and construction.","Cobre é um metal avermelhado e condutor, amplamente usado na construção e fiação elétrica."
-FE_ELEMT_TITLE,Muestra de Hierro elemental,Elemental Iron Sample,Amostra de Ferro Elemental
+FE_ELEMT_TITLE,Hierro elemental,Elemental Iron,Ferro Elemental
 FE_ELEMT_DESC,"El hierro es un metal fuerte y duradero, fundamental en la fabricación de acero y en la construcción de infraestructuras. ","Iron is a strong and durable metal, essential in steelmaking and infrastructure construction. ","Ferro é um metal durável e sólido, essencial na construção de infraestrutura e manufatura de aço."
 TEST_TUBE_TITLE,Tubo de ensayo,Test tube,Tubo de ensaio
 TEST_TUBE_DESC,Un tubo de vidrio usado para contener muestras pequeñas.,A glass tube used to contain small samples.,Um tubo de vidro usado para conter pequenas amostras.
@@ -205,36 +205,55 @@ COFEE_TITLE,Taza de café,Coffee,Café
 COFEE_DESC,"Taza de café, hecha con granos cultivados en el volcán Koapolkán. Estabiliza la temperatura del cuerpo en las zonas de frío extremo.","Coffee cup, made with beans grown in the Koapolkán volcano. Stabilizes body temperature in areas of extreme cold.","Copo de café, feito dos grãos que crescem no vulcão Koapolkán. Estabiliza a temperatura corporal em áreas de frio extremo."
 CHICHA_TITLE,Vaso de Chicha,Chicha drink,Chicha
 CHICHA_DESC,Bebida dulce hecha de maíz molido. Remueve todos los estados negativos.,Sweet drink made from ground corn. Removes all negative states.,Bebida doce feita de farinha de milho. Remove todos os status negativos.
-MEDALLION_H_DESC,"Medallón perteneciente a la Alquimista de Hidrógeno, Annette Cavendish. Número atómico: 1.","Medallion belonging to the Hydrogen Alchemist, Annette Cavendish. Atomic number: 1.","Medalhão pertencente a Alquimista de Hidrogênio, Annette Cavendish."
+MEDALLION_H_DESC,"Medallón perteneciente a la Alquimista de Hidrógeno, Annette Cavendish. Número atómico: 1.","Medallion belonging to the Hydrogen Alchemist, Annette Cavendish. Atomic number: 1.","Medalhão pertencente a Alquimista de Hidrogênio, Annette Cavendish. Número atômico: 1"
 MEDALLION_H_TITLE,Medallón Hidrógeno,Hydrogen Medallion,Medalhão de Hidrogênio
 MEDALLION_N_TITLE,Medallón Nitrógeno,Nitrogen Medallion,Medalhão de Nitrogênio
-MEDALLION_N_DESC,"Medallón perteneciente al Alquimista de Nitrógeno, Sheal Avicena. Número atómico: 7.","Medallion belonging to the Nitrogen Alchemist, Sheal Avicenna. Atomic number: 7.","Medalhão pertencente ao Alquimista de Nitrogênio, Sheal Avicenna."
-MEDALLION_SI_TITLE,Medallón Silicio,Silicon Medallion,
-MEDALLION_SI_DESC,"Medallón perteneciente a la Alquimista del Silicio, Elisia Boyle. Número atómico: 14.","Medallion belonging to the Silicon Alchemist, Elisia Boyle. Atomic number: 14.",
-MEDALLION_S_TITLE,Medallón Azufre,Sulfur Medallion,
-MEDALLION_S_DESC,"Medallón perteneciente al Alquimista de Azufre, Dirián Razhes. Número atómico: 16.","Medallion belonging to the Sulfur Alchemist, Dirian Razhes. Atomic number: 16.",
+MEDALLION_N_DESC,"Medallón perteneciente al Alquimista de Nitrógeno, Sheal Avicena. Número atómico: 7.","Medallion belonging to the Nitrogen Alchemist, Sheal Avicenna. Atomic number: 7.","Medalhão pertencente ao Alquimista de Nitrogênio, Sheal Avicenna. Número atômico: 7"
+MEDALLION_SI_TITLE,Medallón Silicio,Silicon Medallion,Medalhão de Silício
+MEDALLION_SI_DESC,"Medallón perteneciente a la Alquimista del Silicio, Elisia Boyle. Número atómico: 14.","Medallion belonging to the Silicon Alchemist, Elisia Boyle. Atomic number: 14.","Medalhão pertencente a Alquimista de Silício, Elisia Boyle. Número atômico: 14."
+MEDALLION_S_TITLE,Medallón Azufre,Sulfur Medallion,Medalhão de Enxofre
+MEDALLION_S_DESC,"Medallón perteneciente al Alquimista de Azufre, Dirián Razhes. Número atómico: 16.","Medallion belonging to the Sulfur Alchemist, Dirian Razhes. Atomic number: 16.","Medalhão pertencente ao Alquimista de Enxofre, Dirian Razhes. Número atômico: 16"
+MEDALLION_CL_TITLE,Medallón Cloro,Chlorine Medallion,
+MEDALLION_CL_DESC,"Medallón perteneciente a la Alquimista del Cloro, Eva Brahm. Número atómico: 17.","Medallion belonging to the Alchemist of Chlorine, Eva Brahm. Atomic number: 17.",
+MEDALLION_FE_TITLE,Medallón Hierro,Iron Medallion,
+MEDALLION_FE_DESC,"Medallón perteneciente al Alquimista de Hierro, Isaac Neumann. Número atómico: 26.","Medallion belonging to the Iron Alchemist, Isaac Neumann. Atomic number: 26.",
 SHEALCOINS_TITLE,Par de monedas,Pair of coins,Par de moedas
 SHEALCOINS_DESC,"Monedas que tenía Sheal Avicena, parecen ser de otro país.","Coins held by Sheal Avicenna, appear to be from another country.","Moedas pertencentes a Sheal Avicenna, parecem ser de outro país."
 TALEBOOK_TITLE,Libro de cuentos,Storybook,Livro de Histórias
 TALEBOOK_DESC,"Un libro perteneciente a Annette Cavendish, el libro recopila diversos cuentos infantiles, el primer cuento se titula ""Los motivos del lobo"". Hay una nota escrita al pie de una página: ""Al señor Sheal le gusta este cuento, pero pude ver algo de tristeza cuando lo leyó...""","A book belonging to Annette Cavendish, the book collects several children's stories, the first story is entitled ""The Wolf's Motives"". There is a note written at the bottom of the page: ""Mr. Sheal likes this story, but I could see some sadness when he read it...""","Um livro pertencente a Annette Cavendish, o livro reúne diversas histórias infantis, a primeira história é intitulada ""Os Motivos do Lobo"". Há uma nota escrita no fundo da página: ""Sr. Sheal gosta dessa história, mas eu posso ver um pouco de tristeza quando ele lê…"""
 DAGERROPLATE_TITLE,Placa de Daguerrotipo,Daguerreotype plate,Placa de Daguerreótipo
 DAGERROPLATE_DESC,"Placa de Cobre recubierta de plata para crear una ""Fotografía"". Se requiere un Daguerrotipo para ser usado.",Silver coated copper plate to create a “Photograph”. A Daguerreotype is required to be used.,Placa de cobre revestida com prata para criar uma “Fotografia”. Um Daguerreótipo é necessário para ser usado.
-GASMASKFILTER_TITLE,Filtro para máscara gas,Filter for gas mask,Filter for gas mask
-GASMASKFILTER_DESC,Filtro de aire para Sulfuro de carbono y Dióxido de azufre. Requiere ser colocado en una máscara de gas.,Air filter for carbon sulfide and sulfur dioxide. Requires to be placed in a gas mask.,
-GASMASKBROKEN_TITLE,Máscara de gas dañada,Damaged gas mask,
-GASMASKBROKEN_DESC,Máscara de gas que necesita de reparaciones (Margaret puede ayudar) y un filtro de aire nuevo.,Gas mask in need of repairs (Margaret can help) and a new air filter.,
-NEEDJADEKEY,Requiere llave de Jade.,Requires Jade key.,
-JADEKEY_TITLE,Llave de jade,Jade key,
-JADEKEY_DESC,"Permite abrir puertas que reflejan un color verde, similar al Jade incrustado en la llave. Es de uso único.","It allows opening doors that reflect a green color, similar to the Jade embedded in the key. It's for single use only.",
-AHUIZOTES_PENDANT_TITLE,Colgante de los Ahuizotes,Ahuizotes Pendant,
-AHUIZOTES_PENDANT_DESC,Un adorno hecho de Pirita y Espinela que tiene forma del símbolo de Athos. Contiene una inscripción: Morir es vivir.,An ornament made of Pyrite and Spinel in the shape of the Athos symbol. It contains an inscription: Morir es vivir.,
-SKULLKEY_TITLE,Llave calavera,Skull key,
-SKULLKEY_DESC,Llave de aspecto siniestro hecha de hierro.,Sinister-looking key made of iron.,
-ELISIASTAFF_TITLE,Báculo de Elisia,Elisia's Staff,
-ELISIASTAFF_DESC,Objeto de alta rareza que era muy utilizado por los antiguos hechiceros antes de que la Alquimia fuera establecida en el continente.,An object of high rarity that was widely used by ancient sorcerers before Alchemy was established on the continent.,
-DIRIANCOPILLI_TITLE,Tocado de plumas,Feather headdress,
-DIRIANCOPILLI_DESC,"Adorno de plumas largas que se lleva sobre la cabeza, asemejandose a una corona. Representa la conexión entre lo terrenal y lo divino.","An adornment of long feathers worn on the head, resembling a crown. It represents the connection between the earthly and the divine.",
-GOLEMHELMET_TITLE,Casco de Golem,Golem helmet,
-GOLEMHELMET_DESC,Un casco de enorme tamaño hecho de metales muy valiosos.,A helmet of enormous size made of very valuable metals.,
-AMETHYSTKEY_TITLE,Llave Amatista,Amethyst Key,
-AMETHYSTKEY_DESC,"Permite abrir puertas que reflejan un color púrpura, similar a la Amatista incrustada en la llave. Es de uso único.","It allows to open doors that reflect a purple color, similar to the Amethyst embedded in the key. It's for single use only.",
+GASMASKFILTER_TITLE,Filtro para máscara gas,Filter for gas mask,Filtro para a máscara de gás.
+GASMASKFILTER_DESC,Filtro de aire para Sulfuro de carbono y Dióxido de azufre. Requiere ser colocado en una máscara de gas.,Air filter for carbon sulfide and sulfur dioxide. Requires to be placed in a gas mask.,Filtro de ar para sulfeto de carbono e dióxido de enxofre. Requer se colocado na máscara de gás.
+GASMASKBROKEN_TITLE,Máscara de gas dañada,Damaged gas mask,Máscara de gás danificado.
+GASMASKBROKEN_DESC,Máscara de gas que necesita de reparaciones (Margaret puede ayudar) y un filtro de aire nuevo.,Gas mask in need of repairs (Margaret can help) and a new air filter.,Máscara de gás que precisa de reparos (Margaret pode ajudar) e de um novo filtro de ar.
+NEEDJADEKEY,Requiere llave de Jade.,Requires Jade key.,Necessita da Chave de Jade.
+JADEKEY_TITLE,Llave de jade,Jade key,Chave de Jade
+JADEKEY_DESC,"Permite abrir puertas que reflejan un color verde, similar al Jade incrustado en la llave. Es de uso único.","It allows opening doors that reflect a green color, similar to the Jade embedded in the key. It's for single use only.","Permite abrir portas que emitem uma cor verde, similar com a Jade embutida na chave. Uso único."
+AHUIZOTES_PENDANT_TITLE,Colgante de los Ahuizotes,Ahuizotes Pendant,Pingente dos Ahuizotes
+AHUIZOTES_PENDANT_DESC,Un adorno hecho de Pirita y Espinela que tiene forma del símbolo de Athos. Contiene una inscripción: Morir es vivir.,An ornament made of Pyrite and Spinel in the shape of the Athos symbol. It contains an inscription: Morir es vivir.,Um adorno feito de Pirita e Espínel no formato do símbolo de Athos. Contém a inscrição: MORRER É VIVER.
+SKULLKEY_TITLE,Llave calavera,Skull key,Chave caveira
+SKULLKEY_DESC,Llave de aspecto siniestro hecha de hierro.,Sinister-looking key made of iron.,Chave de aparência sinistra feita de ferro.
+ELISIASTAFF_TITLE,Báculo de Elisia,Elisia's Staff,Báculo de Elisia
+ELISIASTAFF_DESC,Objeto de alta rareza que era muy utilizado por los antiguos hechiceros antes de que la Alquimia fuera establecida en el continente.,An object of high rarity that was widely used by ancient sorcerers before Alchemy was established on the continent.,Um objeto de grande raridade que foi muito utilizado pelos antigos feiticeiros antes da Alquimia ser estabelecida no continente.
+DIRIANCOPILLI_TITLE,Tocado de plumas,Feather headdress,Cocar de Penas
+DIRIANCOPILLI_DESC,"Adorno de plumas largas que se lleva sobre la cabeza, asemejandose a una corona. Representa la conexión entre lo terrenal y lo divino.","An adornment of long feathers worn on the head, resembling a crown. It represents the connection between the earthly and the divine.","Um adorno de penas longas usado na cabeça, semelhante a uma coroa. Representa a conexão entre o terreno e o divino."
+GOLEMHELMET_TITLE,Casco de Golem,Golem helmet,Elmo de Golem
+GOLEMHELMET_DESC,Un casco de enorme tamaño hecho de metales muy valiosos.,A helmet of enormous size made of very valuable metals.,Um elmo de tamanho enorme feito de metais muito valiosos.
+AMETHYSTKEY_TITLE,Llave Amatista,Amethyst Key,Chave de Ametista
+AMETHYSTKEY_DESC,"Permite abrir puertas que reflejan un color púrpura, similar a la Amatista incrustada en la llave. Es de uso único.","It allows to open doors that reflect a purple color, similar to the Amethyst embedded in the key. It's for single use only.","Permite abrir portas que emitem uma cor púrpura, similar com a Ametista embutida na chave. Uso único."
+DIZZY_MEDICINE_TITLE,Medicina contra mareos,Dizziness medicine,
+DIZZY_MEDICINE_DESC,Pastillas de dimenhidrinato que ayuda contra los síntomas de vértigo o mareo.,Dimenhydrinate tablets that help against symptoms of vertigo or dizziness.,
+NEEDAMETHYSTKEY,Requiere llave Amatista.,Requires Amethyst key.,
+APPLECOIN_TITLE,Moneda Hespérides,Hesperides Coin,
+APPLECOIN_DESC,Moneda con el grabado de tres Ninfas recostadas sobre un árbol de manzanas.,Coin engraved with three nymphs reclining on an apple tree.,
+CARONTECOIN_TITLE,Moneda Caronte,Caronte coin,
+CARONTECOIN_DESC,Moneda con el grabado de un anciano remando un barco.,Coin engraved with an old man rowing a boat.,
+HINTCARONTECOIN,El pago necesario para comenzar el viaje final.,The payment required to begin the final journey.,
+HINTAPPLECOIN,La fruta de la vida eterna.,The fruit of eternal life.,
+EVAMASK_TITLE,Máscara de Eva,Eve's Mask,
+EVAMASK_DESC,Máscara de gas que parece ser de bastante calidad.,Gas mask that appears to be of fairly good quality.,
+ISAACSCY_TITLE,Guadaña de Hierro,Iron Scythe,
+ISAACSCY_DESC,El arma de un cuerpo reanimado que mantuvo restos de una alma...,The weapon of a reanimated body that retained remnants of a soul...,
+ROYALMEDAL_TITLE,Medalla Real,Royal Medal,
+ROYALMEDAL_DESC,"Premio prestigioso otorgado como reconocimiento por logros en el campo de la ciencia, perteneciente a Henry Cavendish.","A prestigious award given in recognition of achievements in the field of science, named after Henry Cavendish.",

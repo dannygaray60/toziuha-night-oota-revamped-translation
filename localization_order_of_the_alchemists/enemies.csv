@@ -3,40 +3,53 @@ ZOMBIE0,Zombi Desgarrado,Torn Zombie,Zumbi Despedaçado
 ZOMBIE0_DESC,"Un cadáver reanimado, pero con energía limitada y movimientos torpes.","A reanimated corpse, but with limited energy and clumsy movements.","Um cadáver reanimado, mas com energia limitada e movimentos grosseiros."
 ZOMBIE,Zombi,Zombie,Zumbi
 ZOMBIE_DESC,Una criatura putrefacta que se mueve sin rumbo ni control.,A putrid creature that moves without direction or control.,Uma criatura em putrefação que se move sem direção ou controle.
-OGREROCK,Ogro Lanzarrocas,Rock Ogre,
-GHOST,Fantasma,Ghost,
-SKELETON,Esqueleto,Skeleton,
-EYEBULLET,Ojo Bala,Bullet Eye,
-AMPHIBIEANWATER,Draco de Agua,Water Draco,
-OCTOLASER,Pulpo Maligno,Evil Octopus,
-GIANTSEASTAR,Estrella de mar,Starfish,
-GIANTFIRESTAR,Estrella de fuego,Firestar,
-BATCHASER,Murciélago Acechador,Stalker Bat,
-BAT,Murciélago,Bat,
-MUTANTRAT,Rata mutante,Mutant Rat,
-IMPALEDSKELETON,Esqueleto Empalado,Impaled Skeleton,
-AHUIZOTE_W_KNIFE,Ahuizote Cuchillo,Ahuizote Knife,
-AHUIZOTE_MOLOTOV,Ahuizote Molotov,Ahuizote Molotov,
-BLADESKELETON,Esqueleto Spada,Skeleton Spada,
-SKELETONWARRIOR,Esqueleto Guerrero,Skeleton Warrior,
-GOLUM,Golem,Golem,
-BOARWARRIOR,Javalí Guerrero,Boar Warrior,
-GUEGUENSE_DARK,Gueguense Oscuro,Dark Gueguense,
-ZOMBIEHAND,Mano de Zombie,Zombie Hand,
-SPIDERSKULL,Araña Calavera,Skull Spider,
-MUMMY,Momia,Mummy,
-GIANTSPIDER,Araña Gigante,Giant Spider,
-GIANTWORM,Gusano Gigante,Giant Worm,
-SKULLFIRE,Calavera de Fuego,Fire Skull,
-EVILVINECURSE,Evilvine Maldito,Evilvine Cursed,
-GOBLINSPEAR,Goblin de Lanza,Spear Goblin,
-GOBLINASSASIN,Goblin Asesino,Assasin Goblin,
-FIREBAT,Murciélago de Fuego,Fire Bat,
-GOBLINMAGE,Goblin Mago,Goblin Mage,
-AERIASKELETON,Esqueleto Mágico,Magical Skeleton,
-CROW,Cuervo,Raven,
-FLOATINGSKULL,Calavera Fantasma,Ghost Skull,
-OGREWARRIOR,Ogro Guerrero,Ogre Warrior,
-LIZARDMAN,Hombre Anfibio,Amphibian Man,
-ICEGOLEM,Golem de hielo,Ice Golem,
-CLAWDEMON,Demonio garra,Claw Demon,
+OGREROCK,Ogro Lanzarrocas,Rock Ogre,Ogro Lança Rochas
+GHOST,Fantasma,Ghost,Fantasma
+SKELETON,Esqueleto,Skeleton,Esqueleto
+EYEBULLET,Ojo Bala,Bullet Eye,Olho Bala
+AMPHIBIEANWATER,Draco de Agua,Water Draco,Draco de Água
+OCTOLASER,Pulpo Maligno,Evil Octopus,Polvo Maligno
+GIANTSEASTAR,Estrella de mar,Starfish,Estela do Mar
+GIANTFIRESTAR,Estrella de fuego,Firestar,Estrela de Fogo
+BATCHASER,Murciélago Acechador,Stalker Bat,Morcego perseguidor
+BAT,Murciélago,Bat,Morcego
+MUTANTRAT,Rata mutante,Mutant Rat,Rato Mutante
+IMPALEDSKELETON,Esqueleto Empalado,Impaled Skeleton,Esqueleto Empalado
+AHUIZOTE_W_KNIFE,Ahuizote Cuchillo,Ahuizote Knife,Ahuizote com Faca
+AHUIZOTE_MOLOTOV,Ahuizote Molotov,Ahuizote Molotov,Ahuizote do Molotov
+BLADESKELETON,Esqueleto Spada,Skeleton Spada,Esqueleto Espadachim
+SKELETONWARRIOR,Esqueleto Guerrero,Skeleton Warrior,Esqueleto Guerreiro
+GOLUM,Golem,Golem,Golem
+BOARWARRIOR,Javalí Guerrero,Boar Warrior,Javali Guerreiro
+GUEGUENSE_DARK,Gueguense Oscuro,Dark Gueguense,Gueguense Obscuro
+ZOMBIEHAND,Mano de Zombie,Zombie Hand,Mão Zumbi
+SPIDERSKULL,Araña Calavera,Skull Spider,Aranha Caveira
+MUMMY,Momia,Mummy,Múmia
+GIANTSPIDER,Araña Gigante,Giant Spider,Aranha Gigante
+GIANTWORM,Gusano Gigante,Giant Worm,Verme Gigante
+SKULLFIRE,Calavera de Fuego,Fire Skull,Caveira de Fogo
+EVILVINECURSE,Evilvine Maldito,Cursed Evilvine,Evilvine Amaldiçoada
+GOBLINSPEAR,Goblin de Lanza,Spear Goblin,Goblin Lanceiro
+GOBLINASSASIN,Goblin Asesino,Assasin Goblin,Goblin Assassino
+FIREBAT,Murciélago de Fuego,Fire Bat,Morcego de Fogo
+GOBLINMAGE,Goblin Mago,Goblin Mage,Goblin Mago
+AERIASKELETON,Esqueleto Mágico,Magical Skeleton,Esqueleto Mágico
+CROW,Cuervo,Raven,Corvo
+FLOATINGSKULL,Calavera Fantasma,Ghost Skull,Caveira Fantasma
+OGREWARRIOR,Ogro Guerrero,Ogre Warrior,Ogro Guerreiro
+LIZARDMAN,Hombre Anfibio,Amphibian Man,Homem Anfíbio
+ICEGOLEM,Golem de hielo,Ice Golem,Golem de Gelo
+CLAWDEMON,Demonio Hueco,Hueco Demon,Demônio da Garra
+HANDDEMON,Demonio Mano,Hand Demon,
+ARACHNEADEMON,Demonio Arachnea,Arachnea Demon,
+BLOODLESSDEMON,Demonio Sangría,Bloodless Demon,
+LANCEDEMON,Demonio Lanza,Demon Spear,
+SPINEDEMON,Demonio Garra,Claw Demon,
+AHUIZOTE_INVOKE,Ahuizote Invocador,Ahuizote Summoner,
+SPECTRALHOUND,Sabueso Espectral,Spectral Hound,
+AHUIZOTEINFECTED,Ahuizote Infectado,Infected Ahuizote,
+AHUIZOTEPIROMAN,Ahuizote Pirómano,Ahuizote Pyromaniac,
+THROWERSKELETON,Esqueleto Lanzador,Skeleton Thrower,
+BOARWARRIORLVL10,Javalí Guerrero Nvl. 10,Boar Warrior Lvl. 10,Javali Guerreiro Lvl. 10
+GARGOYLE,Gárgola,Gargoyle,
+SPECTRALHORSE,Caballo Espectral,Spectral Horse,

@@ -20,12 +20,12 @@ MAIN_MENU,Menú principal,Main menu,Menu principal
 GAMEPLAY,Jugabilidad,Gameplay,Jogabilidade
 VIDEO,Video,Video,Vídeo
 AUDIO,Audio,Audio,Áudio
-GAMEPAD,Mando,Gamepad,Controle
+GAMEPAD,Control,Controller,Controle
 KEYBOARD,Teclado,Keyboard,Teclado
 LANGUAGE,Idioma,Language,Idioma
 PLAYER_AFTERIMAGE,Estela fantasma del jugador,Player Afterimage,Pós-imagem do jogador
-MOVE_WITH_JOYSTICK,Mover personaje con joystick izquierdo,Move character with left joystick,Mover personagem com o joystick esquerdo
-GAMEPAD_VIBRTN,Vibración de mando,Gamepad vibration,Vibração do controle
+MOVE_WITH_JOYSTICK,Mover personaje con palanca izquierda,Move character with left stick,Mover personagem com o stick esquerdo
+GAMEPAD_VIBRTN,Vibración de control,Controller vibration,Vibração do controle
 SHAKE_CMR_DAMAGE,Sacudir cámara al recibir daño,Shake camera on damage,Vibrar a câmera durante o dano
 ICONS_BTNS,Íconos de botones,Button icons,Ícones dos botões
 CUSTOM_GAMEPAD_ICONS,Personalizar íconos de botones,Customize button icons,Personalizar os ícones dos botões
@@ -37,8 +37,8 @@ CRT_MODE,Filtro CRT,CRT filter,Filtro CRT
 SOUND_EFFECTS,Efectos de sonido,Sound effects,Efeitos de som
 MUSIC,Música,Music,Música
 VOICES,Voces,Voices,Vozes
-PRESS_NEW_KEY,Presiona la nueva tecla (teclado) o %s,Press new key (keyboard) or %s,Pressione uma nova tecla (teclado) ou %s
-PRESS_NEW_BTN,Presiona el nuevo botón (mando) o %s,Press new button (gamepad) or %s,Pressione um novo botão (controle) ou %s
+PRESS_NEW_KEY,Presiona la nueva tecla (teclado),Press new key (keyboard),Pressione uma nova tecla (teclado)
+PRESS_NEW_BTN,Presiona el nuevo botón (control),Press new button (controller),Pressione um novo botão (controle)
 PRESS_ESCAPE,Presiona [Escape],Press [Escape],Pressione [Esc]
 PRESS_BACK_ANDROID,Presiona [Atrás] (Móvil),Press [Back] (Mobile),Pressione [Voltar] (Mobile)
 ACTION_UI_START,Pausa / Equipamiento,Pause / Equipment,Pausar/ Equipamento
@@ -63,15 +63,15 @@ SOLVE_GAMEPAD_INCOMPATIBILITY,Solucionar problemas de compatibilidad,Fix compati
 WINDOW_BORDERLESS,Pantalla sin bordes,Borderless screen,Tela sem bordas
 WINDOWED,Ventana,Window,Janela
 MONITOR_RES,Resolución del monitor,Monitor Resolution,Resolução do monitor
-GAMEPAD_CONNECTED,Mando conectado,Gamepad connected,Controle conectado
-GAMEPAD_DISCONNECTED,Mando desconectado,Gamepad disconnected,Controle desconectado
+GAMEPAD_CONNECTED,Control conectado,Controller connected,Controle conectado
+GAMEPAD_DISCONNECTED,Control desconectado,Controller disconnected,Controle desconectado
 CONF_DEFAULT,Reestablecer configuración por defecto,Reset to default settings,Restaurar configuração inicial
 CONF_BY_DEFAULT_DONE,Configuración por defecto realizado,Default configuration complete,Configuração inicial realizado
 INPUT_DEVICE_INCORRECT,Se usó el dispositivo incorrecto,Input from incorrect device,Uso de dispositivo incorreto
 FULLSCREEN,Pantalla completa,Fullscreen,Tela inteira
 SELECT_NEW_ICON_FOR_ACTION,Selecciona el nuevo ícono para:\n%s,Select new icon for:\n%s,Selecione novo ícone para:\n%s 
 SELECT_ICON_TO_CHANGE,Selecciona el ícono a cambiar,Select the icon to be changed,Selecione o ícone para trocar
-TEST_GAMEPAD,Probar Mando,Test Gamepad,Testar Controle
+TEST_GAMEPAD,Probar control,Test Controller,Testar Controle
 MAPPING_UPDATED,Mapeo actualizado,Mapping updated,Mapeamento atualizado
 SEE_HELP,Ver la ayuda,See help,Ver Ajuda
 OPENING_LINK_WEB,Abriendo enlace web,Opening weblink,Abrindo link
@@ -191,7 +191,7 @@ TOBECONTINUED,Esta historia continuará...,To be continued...,Continua…
 WEBSITE,Sitio web,Website,Website
 AERIAL_DASH,Dash aéreo,Aerial Dash,Dash aéreo
 WHILECIRUITBTNPRESSED,Manteniendo botón [Circuito],Holding [Circuit] button,Segurando o botão de [Circuito]
-USEVIRTUALJOYSTICK,Usar Joystick Virtual,Use Virtual Joystick,Usar Controle Virtual
+USEVIRTUALJOYSTICK,Usar Palanca Virtual,Use Virtual Stick,Usar Controle Virtual
 SAVE_CHANGES,Guardar Cambios,Save Changes,Salvar alterações
 LOADING,Cargando...,Loading...,Carregando…
 OBTAINED,Obtenido,Obtained,Obtido
@@ -217,12 +217,12 @@ HERECANMAPYOURCONTROL,Aquí podrá asignar los botones de su control.,Here you c
 SELECTADEVICE,Seleccione un dispositivo,Select a device,Selecione um dispositivo
 CALIBRATIONFINISHED,Calibración finalizada,Calibration finished,Calibragem finalizada
 RESTARTMAYBEREQUIRED,Reinicie el juego para aplicar cambios.,Restart the game to apply changes.,Reinicie o game para aplicar as mudanças.
-CALIBRATEGAMEPAD,Calibrar Mando,Calibrate Gamepad,Calibrar Gamepad
+CALIBRATEGAMEPAD,Calibrar Control,Calibrate Controller,Calibrar Controle
 SCHEME,Esquema,Scheme,Esquema
 CHANGE_SCHEME_ICONS,Cambiar esquema de íconos,Change Scheme icons,Mudar ícones do esquema
 CHANGESSAVED,Cambios guardados,Changes saved,Mudanças salvas
 PRESSSPACETOSTART,"Presiona ""Espacio"" para comenzar","Press ""Space"" to start",Pressione “Espaço” para começar
-AGAMEPADDETECTED,Se ha detectado un control conectado. ¿Desea configurarlo ahora?,"A connected gamepad has been detected, do you want to configure it now?","Um controle conectado foi detectado, Quer configurá-lo agora?"
+AGAMEPADDETECTED,Se ha detectado un control conectado. ¿Desea configurarlo ahora?,"A connected controller has been detected, do you want to configure it now?","Um controle conectado foi detectado, Quer configurá-lo agora?"
 IGOTYOU,¡Te tengo!,I got you!,Te peguei!
 SPECTROSCOPE,Espectroscopio,Spectroscope,Espectrômetro
 INCREASE,Incrementar,Increase,Aumentar
@@ -239,22 +239,6 @@ PRESSFORWASDSETTING,"Presiona ""W"" para usar modo WASD en teclado","Press ""W""
 PRESSLETTERFILTERSCREEN,Presiona la letra del filtro de pantalla deseado,Press the letter option for screen filter,Pressione a opção de letra para o filtro de tela
 LIBRARY_ARCHIVES,Archivos de la biblioteca,Library archives,Arquivos da biblioteca
 INTHENEXTUPDATE,En la próxima actualización...,In the next update...,Na próxima atualização…
-ACH1TITLE,El ataque de los hombres muertos,Attack of the Dead Men,Ataque dos Mortos Vivos
-ACH2TITLE,La bruja del radium,The Radium Witch,A Bruxa de Rádio
-ACH3TITLE,Viaje en el Expreso Oriental,Travel on the Orient Express,Viagem no Expresso do Oriente
-ACH4TITLE,,Oxygenium Adeptis,Adeptis de Oxigênio
-ACH5TITLE,,Crux simplex ad infixionem,Crux simplex ad infixionem 
-ACH6TITLE,Masa crítica,Critical mass,Massa crítica
-ACH1DESC,Enfrentate por primera vez a la Alquimista de Cloro.,Face the Chlorine Alchemist for the first time.,Enfrente a alquimista de Cloro pela primeira vez.
-ACH2DESC,Rescata a la responsable del laboratorio de química.,Rescue the chemistry lab manager.,Resgate a responsável pelo laboratório de química.
-ACH3DESC,Protege al tren por encargo de Alessa.,Protect the train on behalf of Alessa.,Proteja o trem em nome de Alessa.
-ACH4DESC,Vence al Adeptis controlador del Oxígeno.,Defeat the Oxygen controlling Adeptis.,Derrote o Adeptis controlador de Oxigênio.
-ACH5DESC,Rescata a la hija de Gabriel.,Rescue Gabriel's daughter.,Resgate a filha do Gabriel.
-ACH6DESC,Destruye el [arma definitiva] de los Ahuizotes.,Destroy the [ultimate weapon] of the Ahuizotes.,Destrua a [arma definitiva] dos Ahuizotes.
-ACH7TITLE,,Vela del Candil,Vela de Candeia
-ACH7DESC,Entrega la máscara de Ahuizote a Margaret.,Deliver the Ahuizote mask to Margaret.,Entregue a máscara de Ahuizote a Margaret.
-ACH8TITLE,,Chrysopoeia ,Crisopeia
-ACH8DESC,Realiza tu primera transmutación en el laboratorio de Alquimia.,Make your first transmutation in the Alchemy Lab.,Faça a sua primeira transmutação no Laboratório de Alquimia.
 PROLOGUEFINISHED,Prólogo finalizado,Prologue finished,Prólogo finalizado.
 YOUWANTGOWAGON,¿Regresar al vagón inicial del tren?,Back to the initial car of the train?,Voltar ao vagão inicial do trem?
 RETURNAMERITHIA,¿Regresar a Amerithia?,Return to Amerithia?,Retornar a Amerithia?
@@ -275,7 +259,7 @@ TAHUATEPETL_VOLCANO,Volcán Koapolkan,Koapolkan Volcano,Vulcão Koapolkan
 GRIJAYLA_TOWN,Ciudad de Grijayla,Grijayla Town,Cidade de Grijayla
 BIRSTALL_PASS,Ciudad de Birstall,Birstall City,Cidade de Birstall
 ARIDIAH_DESERT,Desierto de Aridiah,Aridiah Desert,Deserto de Aridiah
-IXQUICTEMPLE,Templo de Ixquic,Ixquic Temple,
+IXQUICTEMPLE,Templo de Ixquic,Ixquic Temple,Templo de Ixquic
 LOGINPLAYGAMES,Entrar en GooglePlayGames,Login GooglePlayGames,Conectar GoogelPlayGames
 ABOUT_RESTORE_PLAYGAMES,Utilizando su cuenta de Google PlayGames podrá restaurar partidas que se respaldaron automáticamente al guardar.,Using your Google PlayGames account you will be able to restore games that were automatically backed up when saving.,"Usando sua conta Google PlayGames, você será capaz de recuperar partidas que foram automaticamente recuperadas ao salvar."
 RESTORE_DATA,Restaurar datos,Restore data,Recuperar dados
@@ -308,22 +292,59 @@ CIRCUITREQUIRED,Circuito E. requerido,Required E. Circuit,Circuito Elemental nec
 IMPROVECIRCUIT,Mejorar circuito,Improve circuit,Aprimorar circuito
 PRELOADROOM,Pre-carga habitación (experimental),Pre-load room (experimental),Sala de Pré-carregamento (experimental)
 REVIVE,Revivir,Revive,Reviver
+NOTAVAILABLE,No disponible,Not available,Não disponível 
+STATS,Estadísticas,Stats,Estatísticas
+CREATINGCONFINIT,"Creando un nuevo archivo de ajustes, por favor espere...","Creating new settings file, please wait...","Criando Novo Arquivo de configurações, por favor aguarde…"
+LOWHEALTH_ALERT,Alerta visual de salud baja,Low visual health alert,Alerta de baixa qualidade visual
+ACH1TITLE,El ataque de los hombres muertos,Attack of the Dead Men,Ataque dos Mortos Vivos
+ACH2TITLE,La bruja del radium,The Radium Witch,A Bruxa de Rádio
+ACH3TITLE,Viaje en el Expreso Oriental,Travel on the Orient Express,Viagem no Expresso do Oriente
+ACH4TITLE,,Oxygenium Adeptis,Adeptis de Oxigênio
+ACH5TITLE,,Crux simplex ad infixionem,Crux simplex ad infixionem 
+ACH6TITLE,Masa crítica,Critical mass,Massa crítica
+ACH1DESC,Enfrentate por primera vez a la Alquimista de Cloro.,Face the Chlorine Alchemist for the first time.,Enfrente a alquimista de Cloro pela primeira vez.
+ACH2DESC,Rescata a la responsable del laboratorio de química.,Rescue the chemistry lab manager.,Resgate a responsável pelo laboratório de química.
+ACH3DESC,Protege al tren por encargo de Alessa.,Protect the train on behalf of Alessa.,Proteja o trem em nome de Alessa.
+ACH4DESC,Vence al Adeptis controlador del Oxígeno.,Defeat the Oxygen controlling Adeptis.,Derrote o Adeptis controlador de Oxigênio.
+ACH5DESC,Rescata a la hija de Gabriel.,Rescue Gabriel's daughter.,Resgate a filha do Gabriel.
+ACH6DESC,Destruye el [arma definitiva] de los Ahuizotes.,Destroy the [ultimate weapon] of the Ahuizotes.,Destrua a [arma definitiva] dos Ahuizotes.
+ACH7TITLE,,Vela del Candil,Vela de Candeia
+ACH7DESC,Entrega la máscara de Ahuizote a Margaret.,Deliver the Ahuizote mask to Margaret.,Entregue a máscara de Ahuizote a Margaret.
+ACH8TITLE,,Chrysopoeia ,Crisopeia
+ACH8DESC,Realiza tu primera transmutación en el laboratorio de Alquimia.,Make your first transmutation in the Alchemy Lab.,Faça a sua primeira transmutação no Laboratório de Alquimia.
 ACH9TITLE,Nitrum Adeptis,Nitrum Adeptis,Nitrum Adeptis
 ACH9DESC,Derrota al Adeptis controlador del Nitrógeno.,Defeat the Nitrogen controlling Adeptis.,Derrote o Adeptis controlador de Nitrogênio.
 ACH10TITLE,Hydrogenium Adeptis,Hydrogenium Adeptis,Hydrogenium Adeptis
 ACH10DESC,Derrota al Adeptis controlador del Hidrógeno.,Defeat the Hydrogen controlling Adeptis.,Derrote o Adeptis controlador de Hidrogênio.
-NOTAVAILABLE,No disponible,Not available,
-STATS,Estadísticas,Stats,
-CREATINGCONFINIT,"Creando un nuevo archivo de ajustes, por favor espere...","Creating New Settings file, please wait...",
-LOWHEALTH_ALERT,Alerta visual de salud baja,Low visual health alert,
-ACH11TITLE,Sílex Adeptis,Sílex Adeptis,
-ACH11DESC,Derrota al Adeptis controlador del Silicio.,Defeat the Silicon controlling Adeptis.,
-ACH12TITLE,Sulphur Adeptis,Sulphur Adeptis,
-ACH12DESC,Derrota al Adeptis controlador del Azufre.,Defeat the Sulfur controlling Adeptis.,
-ACH13TITLE,Cazador de demonios,Demon hunter,
-ACH13DESC,Supera la máxima puntuación en [MegaBoom Inferno].,Beat the high score in [MegaBoom Inferno].,
-ACH14TITLE,¿Puede correr Doom?,Can it run Doom?,
-ACH14DESC,Haz que ese juego corra en Toziuha Night.,Make that game run in Toziuha Night.,
-FIREACTION,Disparar,Fire,
-STRAFEACTION,Mover lateralmente,Strafe,
-CLOSEGAME,Cerrar juego,Close game,
+ACH11TITLE,Sílex Adeptis,Sílex Adeptis,Adeptis de Sílex
+ACH11DESC,Derrota al Adeptis controlador del Silicio.,Defeat the Silicon controlling Adeptis.,Derrote o Adeptis que controla o Silício.
+ACH12TITLE,Sulphur Adeptis,Sulphur Adeptis,Adeptis de Enxofre
+ACH12DESC,Derrota al Adeptis controlador del Azufre.,Defeat the Sulfur controlling Adeptis.,Derrote o Adeptis que controla o Enxofre.
+ACH13TITLE,Cazador de demonios,Demon hunter,Caçador de demônios
+ACH13DESC,Supera la máxima puntuación en [MegaBoom Inferno].,Beat the high score in [MegaBoom Inferno].,Bata a pontuação mias alta em [MegaBoom Inferno].
+ACH14TITLE,¿Puede correr Doom?,Can it run Doom?,Dá para rodar Doom?
+ACH14DESC,Haz que ese juego corra en Toziuha Night.,Make that game run in Toziuha Night.,Faça o jogo rodar em Toziuha Night.
+ACH15TITLE,Chlorium Adeptis,Chlorium Adeptis,
+ACH15DESC,Derrota al Adeptis controlador del Cloro.,Defeat the Chlorine controlling Adeptis.,
+ACH16TITLE,Ferrum Adeptis,Ferrum Adeptis,
+ACH16DESC,Derrota al Adeptis controlador del Hierro.,Defeat the Iron controlling Adeptis.,
+ACH17TITLE,¡He venido a verte aniquilado!,I´ve come to see you annihilated!,
+ACH17DESC,Abre la puerta que conduce al lugar más alto de la Abadía.,Open the door that leads to the highest point of the Abbey.,
+ACH18TITLE,El fin de la melancolía,The end of melancholy,
+ACH18DESC,Alcanza el final malo.,Reach the bad ending.,
+FIREACTION,Disparar,Fire,Disparar
+STRAFEACTION,Mover lateralmente,Strafe,Se mover lateralmente
+CLOSEGAME,Cerrar juego,Close game,Fechar o jogo
+DIFFSMOLXANDEATH,Inire Pecunia,Inire Pecunia,
+DIFFSMOLXANDEATH_DESC,Evita la muerte del personaje reemplazando el daño por gasto de dinero.,Avoids character death by replacing damage by spending money.,Evita a morte do personagem ao substituir o dano por dinheiro gasto.
+REMOVE,Remover,Remove,
+USEJOYSTICKDINAMIC,Posición Palanca dinámica,Dinamic Stick position,
+CLOCK_TOWER,Torre de reloj,Clock tower,
+PRESSENTERTOSTART,Presiona [Enter] para comenzar,Press [Enter] to start,
+NOEXTERNALCONTROLLERS,No se han detectado controles adicionales,External controllers not detected,
+FINALES,Finales,Endings,
+IMPORTANT_TEXT,Texto importante,Relevant text,
+INTERACT,Interactuar,Interact,
+AERIAL_DASH_II,Dash aéreo II,Aerial Dash II,
+SEEFULLLICENSES,Ver otras atribuciones,See other attributions,
+ATTRIBUTIONS,Atribuciones,Attributions,

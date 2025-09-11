@@ -153,7 +153,7 @@ Ela normalmente está no laboratório de alquimia, apesar de qu ela raramente sa
 GABRIEL_TITLE,,Gabriel Eclair,Gabriel Eclair
 GABRIEL_DESC,"Trabaja en una tienda de Amerithia. Originario de la ciudad de Grijayla tuvo que mudarse debido a una invasión de demonios en Grijayla, durante el incidente su hija llamada Aura fue raptada por los Ahuizotes.","He works in a store in Amerithia. Originally from the city of Grijayla he had to move due to a demon invasion in Grijayla, during the incident his daughter named Aura was kidnapped by the Ahuizotes.","Ele trabalha numa loja em Amerithia. Originalmente da cidade de Grijayla ele teve que se mudar por conta da invasão demoníaca em Grijayla, durante o incidente, sua filha chamada Aura foi raptada pelos Ahuizotes."
 ABOUT_STRALSUND_TITLE,Stralsund y Cavendish,Stralsund & Cavendish,Stralsund & Cavendish
-ABOUT_STRALSUND_DESC,"Stralsund fue una ciudad próspera gobernada por el aristócrata Herny Cavendish.
+ABOUT_STRALSUND_DESC,"Stralsund fue una ciudad próspera gobernada por el aristócrata Henry Cavendish.
 
 La ciudad fue cuna de la revolución industrial y contaba con diversas instituciones de investigación Alquímica. 
 
@@ -161,7 +161,7 @@ Grandes genios de la alquimia como Geber estudiaron en la academia de Stralsund.
 
 Sin embargo, Cavendish se convirtió en miembro de los Ahuizotes. Se dice que su fortuna fue a parar a manos de Johannes Trithemius para financiar a la secta.
 
-Al descubrirse este hecho, Cavendish fue setenciado con orden de captura, los Alquimistas de la Orden lo encontraron... pero él ya estaba muerto, su causa de muerte: envenenamiento por Arsénico. No obstante no se pudo determinar si fue un suicido o no...","Stralsund was a prosperous city governed by the aristocrat Herny Cavendish.
+Al descubrirse este hecho, Cavendish fue setenciado con orden de captura, los Alquimistas de la Orden lo encontraron... pero él ya estaba muerto, su causa de muerte: envenenamiento por Arsénico. No obstante no se pudo determinar si fue un suicido o no...","Stralsund was a prosperous city governed by the aristocrat Henry Cavendish.
 
 The city was the cradle of the industrial revolution and had several alchemical research institutions. 
 
@@ -169,7 +169,7 @@ Great alchemical geniuses such as Geber studied at the Stralsund academy.
 
 However, Cavendish became a member of the Ahuizotes. It is said that his fortune went to Johannes Trithemius to finance the sect.
 
-When this fact was discovered, Cavendish was sentenced with a warrant for his arrest, the Alchemists of the Order found him... but he was already dead, his cause of death: poisoning by arsenic. However, it could not be determined whether it was a suicide or not...","Stralsund foi uma próspera cidade governada pelo aristocrata Herny Cavendish.
+When this fact was discovered, Cavendish was sentenced with a warrant for his arrest, the Alchemists of the Order found him... but he was already dead, his cause of death: poisoning by arsenic. However, it could not be determined whether it was a suicide or not...","Stralsund foi uma próspera cidade governada pelo aristocrata Henry Cavendish.
 
 A cidade foi o berço da revolução industrial e havia muitas instituições de pesquisa alquímica. 
 
@@ -332,7 +332,7 @@ Ele também deve contar com um alquimista controlador de sangue para usar as vid
 Há mais informação sendo analisada pela Diretora Alessa e Margaret."
 ELISIAADEPTIS_TITLE,Elisia Boyle,Elisia Boyle,Elisia Boyle
 ELISIAADEPTIS_DESC,Elisia Boyle es una de los Adeptis. En el pasado ella era también huerfana y vivía en el mismo orfanato que Xandria.,Elisia Boyle is one of the Adeptis. In the past she was also an orphan and lived in the same orphanage as Xandria.,"Elisia Boyle é uma integrante dos Adeptis. No passado, ela foi uma órfã que viveu no mesmo orfanato onde Xandria vivia."
-NANALETTER_TITLE,Carta de Nana,Nana's Letter,
+NANALETTER_TITLE,Carta de Nana,Nana's Letter,Carta da Nana
 NANALETTER_DESC,"Era una dulce niña, en un mundo de muerte y aflicción. Sus ojos carmesíes brillaban tiernamente como una flor, aunque su cabello parecía estar hecho de noche y de dolor.
 
 Llevando aquella flor que nunca se marchita, la dulce niña hará que el corazón de su hermano se agite, pues será la luz blanca que dará el último adiós al alma que ya se quebranta.","She was a sweet girl, in a world of grief and pain.
@@ -342,8 +342,15 @@ Though her hair seemed woven from the night and sorrow's reign.
 Carrying that flower which never fades,
 The sweet girl will stir her brother’s heart,
 For it will be the white light that bids farewell,
-To the soul that's torn apart.",
-ABOUTDIRIAN_TITLE,Cacique Dirián Razhes,Cacique Dirián Razhes,
+To the soul that's torn apart.","Ela era uma garota doce, num mundo de dor e tristeza.
+Os olhos carmesim dela brilhavam suavemente, como uma flor na chuva,
+Embora seu cabelo parecesse tecido pelo reinado da noite e da tristeza.
+
+Carregando aquela flor que nunca murcha,
+A doce menina comoverá o coração de seu irmão,
+Pois será a luz branca que dirá adeus,
+À alma dilacerada."
+ABOUTDIRIAN_TITLE,Cacique Dirián Razhes,Cacique Dirián Razhes,Cacique Dirián Razhes
 ABOUTDIRIAN_DESC,"Dirián Razhes es el Cacique del pueblo que habita los islotes en el mar de Niquira. 
 
 Él tiene la responsabilidad de proteger un poder que se creía una leyenda que permite a un Alquimista, dominar otros elementos de la misma familia o período, en otras palabras, un elemento de la misma columna o fila correspondiente a la tabla periódica.
@@ -357,8 +364,14 @@ He has the responsibility to protect a power that was believed to be a legend th
 
 For example, an Iron Alchemist could control Copper or a radioactive element such as Plutonium.
 
-Such a power is too dangerous, considering that Dirian has allied himself with Johannes.",
-ABOUTIXQUICCIRCUIT_TITLE,La bendición de Ixquic,The Ixquic blessing,
+Such a power is too dangerous, considering that Dirian has allied himself with Johannes.","Dirian Razhes é o Cacique do povo que habita as ilhotas do Mar Niquira. 
+
+Ele tem a resposabilidade de proteger um poder que se acreditava ser uma lenda, permitindo que um Alquimista dominasse outros elementos da mesma família ou período, ou seja, um elemento da mesma coluna ou linha correspondente à tabela periódica.
+
+Por exemplo, um Alquimista de Ferro poderia controlar o Cobre ou um elemento radioativo como o Plutônio.
+
+Tal poder é muito perigoso, considerando que Dirian se aliou com Johannes."
+ABOUTIXQUICCIRCUIT_TITLE,La bendición de Ixquic,The Ixquic blessing,A Bênção de Ixquic
 ABOUTIXQUICCIRCUIT_DESC,"El legendario poder que protegía Dirián Razhes resultó ser un circuito elemental. 
 
 Johannes ha logrado adueñarse de un poder que permite a Alquimistas controlar otro elementos con la restricción de ser del mismo período o familia del elemento dominante.
@@ -371,18 +384,160 @@ Johannes has managed to take possession of a power that allows Alchemists to con
 
 But being an elemental circuit, it is possible to improve it and eliminate this restriction...
 
-In the end, this improved circuit would be what Alchemists call the [Opus Magnum.]",
-EVALETTER_TITLE,Informe de Eva Brahm,Eva Brahm's Report,
-EVALETTER_DESC,"Mi señor, tal como me lo ha ordenado estoy en Birstall, protegiendo la mitad del amuleto que bloquea el paso a los pisos superiores de la Abadía de Athos.
+In the end, this improved circuit would be what Alchemists call the [Opus Magnum.]","O poder lendário que protegia Dirian Razhes revelou-se um circuito elemental.
 
-La otra mitad queda en resguardo de los hermanos Cavendish, quienes han logrado sincronizar sus ondas de manipulación elemental. Juntos, ellos no dejarán que esa intrometida Alquimista pase más allá de la torre de reloj abandonada de Stralsund. Si algo falla, el Toziuha Ahalcaná estará al pendiente para realizar el pacto.
+Johannes conseguiu tomar posse de um poder que permite aos Alquimistas controlar outros elementos com a restrição de serem do mesmo período ou família do elemento dominante.
+
+Mas, sendo um circuito elemental, é possível aprimorá-lo e eleiminar essa restrição...
+
+No fim, esse circuito aprimorado seria o que os Alquimistas chamam de [Opus Magnum.]"
+EVALETTER_TITLE,Informe de Eva Brahm,Eva Brahm's Report,Relatório de Eva Brahm
+EVALETTER_DESC,"Mi señor, tal como me lo ha ordenado estoy en Birstall, resguardando la moneda que bloquea el paso a los pisos superiores de la Abadía de Athos.
+
+La otra moneda la dejé con los hermanos Cavendish, quienes han logrado sincronizar sus ondas de manipulación elemental. Juntos, ellos no dejarán que esa intrometida Alquimista pase más allá de la torre de reloj abandonada de Stralsund. Si algo falla, el Toziuha Ahalcaná estará al pendiente para realizar el pacto.
 
 Y por último, con los documentos dejados por Sheal, hemos conseguido una versión más potente de la sangre de athos, los Ahuizotes que la consumen experimentan un mayor poder y agresividad, se encuentran protegiendo la Abadía, no dejaremos que esa Alquimista ni La Orden interfiera en sus planes divinos.
 
--- Eva Brahm.","My lord, as you have ordered me, I am in Birstall, protecting half of the amulet that blocks the passage to the upper floors of Athos Abbey.
+-- Eva Brahm.","My lord, as you commanded, I am in Birstall, guarding the coin that blocks access to the upper floors of Athos Abbey.
 
-The other half remains in the custody of the Cavendish brothers, who have managed to synchronize their waves of elemental manipulation. Together, they will not let that meddling Alchemist pass beyond Stralsund's abandoned clock tower. If anything goes wrong, the Toziuha Ahalcaná will be on hand to carry out the pact.
+I left the other coin with the Cavendish brothers, who have managed to synchronize their elemental manipulation waves. Together, they will not let that meddlesome Alchemist pass beyond the abandoned clock tower of Stralsund. If something goes wrong, the Toziuha Ahalcaná will be on hand to carry out the pact.
 
-And finally, with the documents left by Sheal, we have obtained a more powerful version of the blood of athos, the Ahuizotes that consume it experience greater power and aggressiveness, they are protecting the Abbey, we will not let that Alchemist nor The Order interfere in your divine plans.
+And finally, with the documents left by Sheal, we have obtained a more powerful version of the blood of Athos. The Ahuizotes who consume it experience greater power and aggressiveness, and they are protecting the Abbey. We will not let that Alchemist or the Order interfere with their divine plans.
 
--- Eva Brahm.",
+-- Eva Brahm.","Meu Senhor, como me ordenastes, estou em Birstall, protegendo metade do amuleto que bloqueia a passagem para os andares superiores da Abadia de Athos.
+
+A outra metade permanece sob a custódia dos Irmãos Cavendish, que conseguiram sincronizar suas ondas de manipulação. Juntos, não deixarão aquela Alquimista intrometida passar além da torre do relógio abandonada de Stralsund. Se algo der errado, Toziuha Ahalcaná estará à disposição para executar o pacto.
+
+E, finalmente, com os documentos deixados por Sheal, obtivemos uma versão mais poderosa do sangue de Athos, os Ahuizotes que o consomem experimentam maior poder e agressividade. Eles estão protegendo a Abadia, não deixaremos aquela Alquimista nem A Ordem interferirem em seus planos divinos.
+
+-- Eva Brahm."
+EVANEWS2_TITLE,Noticia sobre desaparición,News about disappearance,
+EVANEWS2_DESC,La ciudad de Birstall se sume en misterio tras la desconcertante desaparición de la actriz de teatro Evangelina Graham. Tras el brutal ataque que sufrió hace una semana...,The city of Birstall is shrouded in mystery following the baffling disappearance of theater actress Evangelina Graham. After the brutal attack she suffered a week ago...,
+EVANEWS1_TITLE,Noticia [ataque a actriz],News [attack on actress],
+EVANEWS1_DESC,"La Gaceta Nocturna – Edición Especial
+
+¡Tragedia en el Escenario! La Musa del teatro, Evangelina Graham, víctima de un brutal ataque.
+
+Birstall se halla conmocionada por el brutal ataque a Evangelina, la estrella fugaz del Teatro de la Fortuna. Evangelina ascendió rápidamente, cautivando a miles con su deslumbrante belleza y talento. Se convirtió en la joya del entretenimiento, deseada por numerosos admiradores de todas las clases sociales. Sin embargo, su éxito atrajo una sombra: un insistente y acaudalado noble quien no aceptaba sus reiterados rechazos.
+
+La tragedia ocurrió anoche, cuando, tras una función triunfal, Evangelina fue atacada al salir del teatro. Un chorro de ácido corrosivo impactó su rostro, causándole graves heridas. Los escenarios del Teatro de la Fortuna permanecen a oscuras, mientras el estado de salud de Evangelina, aún crítico, mantiene a todos en vilo...","The Night Gazette – Special Edition
+
+Tragedy on Stage! Theater muse Evangelina Graham victim of brutal attack.
+
+Birstall is in shock over the brutal attack on Evangelina, the shooting star of the Theater of Fortune. Evangelina rose quickly, captivating thousands with her dazzling beauty and talent. She became the jewel of entertainment, desired by numerous admirers from all walks of life. However, her success attracted a shadow: a persistent and wealthy nobleman who would not accept her repeated rejections.
+
+The tragedy occurred last night when, after a triumphant performance, Evangelina was attacked as she left the theater. A stream of corrosive acid struck her face, causing serious injuries. The stages of the Theater of Fortune remain dark, while Evangelina's condition, still critical, keeps everyone on edge...",
+XOCHILTLETTER_TITLE,Carta de Xóchitl,Xóchitl's letter,Carta de Xóchitl
+XOCHILTLETTER_DESC,"Carta encontrada dentro de un contenedor ignífugo que dice lo siguiente:
+
+En estos dos años como infiltrada en la secta de los Ahuizotes finalmente hice avances reuniendo información.
+
+Su líder proclama que los guiará hacia el ""milagro"" de la resurrección gracias al [Opus Magnum].
+
+Solo los Adeptis están al tanto sobre cómo crearán el Opus Magnum.
+
+Sin embargo, se sabe que consta de cuatro etapas para su transmutación:
+
+1-Rubedo, 2-Albedo, 3-Citrinitas, 4-Nigredo.
+
+Se dice que la primera etapa, Rubedo, fue alcanzada gracias a cierto incidente ocurrido en la región de Transilvania.
+
+La segunda etapa, Albedo, fue completada con la invasión de demonios en Grijayla.
+
+En esta ciudad los Ahuizotes descubrieron un laboratorio secreto de un investigador especializado en óptica llamado Jean Neumann.
+
+Desconozco de qué trata la 3ra y 4ta fase.
+
+Mi último descubrimiento es sobre el lugar donde se oculta Johannes Trithemius.
+
+Hay una puerta enorme en el lugar donde los Ahuizotes se reunen, una abadía antigua ubicada al norte, pasando por Eztilia. 
+
+Esta puerta solo se abre cuando todos los Adeptis se reunen, colocando sus medallones en un orden específico.
+
+Logré escabullirme y ver el orden en el que lo hacían: %s
+
+Espero que esto logre con nuestra misión de erradicar a los Ahuizotes de una vez por todas.
+
+-- Xóchitl Nahoa.","Letter found inside a fireproof container that reads as follows:
+
+In these two years as an infiltrator in the sect of the Ahuizotes I finally made progress gathering information.
+
+Their leader proclaims that he will guide them to the ""miracle"" of resurrection thanks to the [Opus Magnum].
+
+Only the Adeptis are aware of how they will create the Opus Magnum.
+
+However, it's known that it consists of four stages for its transmutation:
+
+1-Rubedo, 2-Albedo, 3- Citrinitas, 4-Nigredo.
+
+The first stage, Rubedo, is said to have been achieved thanks to a certain incident in the Transylvania region.
+
+The second stage, Albedo, was completed with the invasion of demons in Grijayla.
+
+In this city the Ahuizotes discovered a secret laboratory of a researcher specialized in optics named Jean Neumann.
+
+I don't know what the 3rd and 4th phases are about.
+
+My last discovery is about the place where Johannes Trithemius is hiding.
+
+There is a huge door in the place where the Ahuizotes gather, an ancient abbey located to the north, passing through Eztilia. 
+
+This door only opens when all the Adeptis gather, placing their medallions in a specific order.
+
+I managed to sneak in and see the order in which they did it: %s.
+
+I hope this accomplishes our mission to eradicate the Ahuizotes once and for all.
+
+-- Xóchitl Nahoa.","Carta encontrada dentro de um contêiner a prova de fogo, que diz:
+
+Nesses dois anos como um infiltrado na seita dos Ahuizotes, eu finalmente fiz progresso em coletar informação.
+
+O líder deles proclama que os guiará ao “milagre” da ressurreição graças ao [Opus Magnum].
+
+Apenas os Adeptis são cientes de como eles criarão o Opus Magnum.
+
+Porém, é sabido que consiste nos quatro estágios de sua transmutação:
+
+1-Rubedo, 2-Albedo, 3- Citrinitas, 4-Nigredo.
+
+O primeiro estágio, Rubedo, é dito que foi alcançado graças a um certo evento na região da Transilvânia.
+
+O segundo estágio, Albedo, foi completado com a invasão de demônios em Grijayla.
+
+Nessa cidade, os Ahuizotes descobriram um laboratório secreto de um pesquisador especializado em ótica chamado Jean Neumann.
+
+Eu não sei sobre o que se tratam das fases 3 e 4.
+
+Minha última descoberta é sobre o local onde Johannes Trithemius está se escondendo.
+
+Há uma porta enorme no local onde os Ahuizotes se reúnem, uma antiga abadia localizada ao norte, passando por Eztilia. 
+
+Essa porta apenas abre quando todos os Adeptis se reúnem, colocando seus medalhões numa ordem específica.
+
+Eu consegui me infiltrar e ver a ordem que eles colocaram: %s.
+
+Eu espero que cumpra a nossa missão de erradicar os Ahuizotes de uma vez por todas.
+
+-- Xóchitl Nahoa."
+ABOUTWITCHATHOS_DESC,"Se cuenta que la Abadía de Athos tiene más de mil años desde que fue construida.
+
+Los Ahuizotes se adueñaron de la abadía, pero ni siquiera ellos conocen todos los secretos que oculta esta edificación.
+
+Según algunos registros historicos se cuenta que existió una Bruja que dio origen a lo que hoy conocemos como [Circuitos Elementales].
+
+Esta bruja fue la que mandó a construir esta abadía. Y su altar se encuentra escondido en algún lugar, varias fuentes señalan que se encuentra ""al oeste de la habitación que gira"".
+
+Desconozco donde podría estar ubicado ya que no he tenido tiempo de explorar la abadía, quizás esa pista signifique algo para ti.
+
+Atentamente, ""D"".","It's said that the Athos Abbey is over a thousand years old since it was built.
+
+The Ahuizotes took over the abbey, but even they don't know all the secrets hidden within this building.
+
+According to some historical records, there was a witch who gave rise to what we now know as [Elemental Circuits].
+
+This witch was the one who ordered the construction of this abbey. And her altar is hidden somewhere; several sources indicate that it is located “west of the room that spins.”
+
+I don't know where it might be located since I haven't had time to explore the abbey, but perhaps that clue means something to you.
+
+Sincerely, ""D.""",
+ABOUTWITCHATHOS_TITLE,La bruja escondida,The hidden witch,

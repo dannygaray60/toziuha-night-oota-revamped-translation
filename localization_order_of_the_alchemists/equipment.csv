@@ -6,7 +6,7 @@ BATTLE_BOOTS_DESC,Botas básicas de cualquier alquimista.,Basic boots of any alc
 BATTLE_CLOTHES_TITLE,Vestido de Batalla,Battle Dress,Vestido de Batalha
 BATTLE_CLOTHES_DESC,Fue el regalo de Rachel por el ascenso de Xandria a [Alquimista Oficial].,Rachel's gift to Xandria for her promotion to [Official Alchemist].,Presente de Rachel para Xandria pela promoção a [Alquimista Oficial].
 WITCH_HAT_TITLE,Sombrero de Bruja,Witch Hat,Chapéu de Bruxa
-WITCH_HAT_DESC,Un viejo sombrero de bruja que proporciona un poco de inteligencia a su portador.,An old witch's hat that provides a bit of intelligence to its wearer.,Um velho chapéu de bruxa que provém um pouco de inteligência ao seu portador.
+WITCH_HAT_DESC,"Proporciona inteligencia a su portador, además de aumentar velocidad de recuperación de maná.","Provides intelligence to its wearer, as well as increasing mana recovery speed.","Provém de inteligência ao seu portador, além de aumentar a velocidade de recuperação de mana."
 DEMONSLAYERARMOR_TITLE,Armadura Matademonios,Demon Slayer Armor,Armadura de Matador de Demônios
 DEMONSLAYERARMOR_DESC,Armadura que emana un poder oscuro. Aumenta drásticamente las estadísticas pero mueres si un enemigo te toca.,Armor that emanates a dark power. Drastically increases stats but you die if an enemy touches you.,Armadura que emite poder negro. Aumenta drasticamente seus atributos mas você morre ao inimigo te tocar.
 HERMES_BOOTS_TITLE,Botas de Hermes,Hermes Boots,Botas de Hermes
@@ -24,7 +24,6 @@ RUSTY_CUPPARMOR_DESC,Parte de una armadura hecha de cobre oxidado.,Part of an ar
 PIRATESCARF_TITLE,Pañuelo pirata,Pirate scarf,Cachecol de um pirata
 PIRATESCARF_DESC,Un pañuelo como los que suelen usar algunos marineros.,A scarf like those used by some seamen.,Um cachecol como aqueles usados pelos homens do mar.
 DRACO_RING_TITLE,Anillo Dragón,Dragon ring,Anel do dragão
-DRACO_RING_DESC,Un valioso anillo que presenta a un dragón rodeando una piedra preciosa.,A valuable ring featuring a dragon surrounding a precious stone.,Um anel precioso exibindo um dragão ao redor de uma pedra preciosa.
 FISH_TOY_TITLE,Pez de juguete,Toy fish,Peixe de brinquedo
 FISH_TOY_DESC,Un juguete con forma de pez que ayudará a que los gatos de Aura entren en confianza.,A fish-shaped toy that will help Aura's cats gain confidence.,Um brinquedo no formato de peixe que ajudará os gatos de Aura a ganhar confiança.
 CAPEBLOOD_TITLE,Capa sangrienta,Bloody cape,Capa Sangrenta
@@ -35,7 +34,36 @@ SWIMSUIT_TITLE,Traje de baño,Swimsuit,Traje de banho
 SWIMSUIT_DESC,"Traje que no proporciona defensa o ataque, pero permite moverse velozmente en el agua.","Suit that does not provide defense or attack, but allows you to move swiftly in the water.","Traje que não provém defesa ou ataque, mas te permite mover-se mais rapidamente na água."
 MAGIC_EARING_TITLE,Arete mágico,Magic earring,Brincos mágicos
 MAGIC_EARING_DESC,Reduce el gasto de maná de los circuitos elementales a la mitad.,Reduces the mana expenditure of elemental circuits by half.,Reduz pela metade o gasto de mana dos circuitos elementais.
-BRACELETNONEG_TITLE,Brazalete Purificador,Purifying Bracelet,
-BRACELETNONEG_DESC,Accesorio que proporciona invulnerabilidad a estados negativos.,Accessory that provides invulnerability to negative states.,
-GASMASKSULFUR_TITLE,Máscara de Gas,Gas mask.,
-GASMASKSULFUR_DESC,"Máscara de gas que protege de gases como el Sulfuro de carbono, Dióxido de azufre y Cloro.","Gas mask that protects against gases such as Carbon Sulfide, Sulfur Dioxide and Chlorine.",
+BRACELETNONEG_TITLE,Brazalete Purificador,Purifying Bracelet,Bracelete Purificador
+BRACELETNONEG_DESC,Accesorio que proporciona invulnerabilidad a estados negativos.,Accessory that provides invulnerability to negative states.,Acessório que provém invulnerabilidade aos status negativos.
+GASMASKSULFUR_TITLE,Máscara de Gas,Gas mask,Máscara de Gás
+GASMASKSULFUR_DESC,"Máscara de gas que protege de gases como el Sulfuro de carbono, Dióxido de azufre y Cloro.","Gas mask that protects against gases such as Carbon Sulfide, Sulfur Dioxide and Chlorine.","Máscara de gás que protege contra gases como Sulfeto de Carbono, Dióxido de Enxofre e Cloro."
+DEXTRGLOVES_TITLE,Traje de Belmondo,Belmondo's suit,
+DEXTRGLOVES_DESC,Otorga mayor destreza en el manejo del látigo. Permite cancelar el ataque al aterrizar.,Increases whip handling skill. Allows you to cancel the attack upon landing.,
+HAIRPINRUBY_TITLE,Pasador Cabello,Hairpin,
+HAIRPINRUBY_DESC,"Un hermoso adorno para cabello, adornado con un caro Rubí.",A beautiful hair ornament adorned with an expensive ruby.,
+MASKCEREMONIAL_TITLE,Máscara antigua,Antique Mask,
+MASKCEREMONIAL_DESC,Una máscara rota y oxidada que requiere una restauración.,A broken and rusty mask that needs restoration.,
+SCOTTJACKET_TITLE,Chaqueta Scott,Scott Jacket,
+SCOTTJACKET_DESC,Una prenda de piel tan gruesa que evita mordeduras de zombies.,Made of leather so thick that it prevents zombie bites.,
+HIGHHEELS_TITLE,Tacones elegantes,Elegant heels,
+HIGHHEELS_DESC,Lo que una dama de alta sociedad luce en ocasiones especiales.,What a high society lady wears on special occasions.,
+ACADEMICCAP_TITLE,Birrete,Square academic cap,
+ACADEMICCAP_DESC,Sombrero que aumenta experiencia obtenida al derrotar enemigos.,Hat that increases experience gained from defeating enemies.,
+VAMPIRECOAT_TITLE,Capa vampírica,Vampiric cape,
+VAMPIRECOAT_DESC,Aumenta la sangre obtenida de enemigos.,Increases blood obtained from enemies.,
+GOLDENRING_TITLE,Anillo de oro,Gold ring,
+GOLDENRING_DESC,Accesorio que atrae la suerte de encontrar más dinero.,Accessory that attracts luck in finding more money.,
+LUCKCHARM_TITLE,Amuleto de la suerte,Lucky charm,
+LUCKCHARM_DESC,Aumenta probabilidad del objeto más raro que un enemigo puede soltar.,Increases the probability of the rarest item an enemy can drop.,
+MAGICARMOR_TITLE,Armadura mágica,Magic armor,
+MAGICARMOR_DESC,Usa la barra de maná como si fuera barra de vida.,Uses the mana bar as if it were a health bar.,
+SPIKEBOOTS_TITLE,Botas con púas,Spiked boots,
+SPIKEBOOTS_DESC,Aumenta daño al hacer patadas.,Increases damage when kicking.,
+GLASSESOFFICE_TITLE,Lentes de oficina,Office glasses,
+GLASSESOFFICE_DESC,Permite encontrar paredes que ocultan secretos.,Allows you to find walls that hide secrets.,
+RISKRING_TITLE,Anillo sangrante,Bleeding ring,
+RISKRING_DESC,"Al tener un solo punto de vida, aumenta a 15 el ATK e INT.",Having only one health point increases ATK and INT to 15.,
+MASKSACRIFICE_TITLE,Máscara sacrificio,Sacrifice mask,
+MASKSACRIFICE_DESC,El enemigo derrotado dejará caer un orbe que recupera vida.,The defeated enemy will drop an orb that restores health.,
+DRACO_RING_DESC,Un valioso anillo que presenta a un dragón rodeando una piedra preciosa. Aumenta la cantidad de sangre recolectable.,A valuable ring featuring a dragon surrounding a precious stone. Increases the amount of blood that can be collected.,
