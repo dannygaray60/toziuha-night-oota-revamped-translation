@@ -24,7 +24,7 @@ GAMEPAD,Control,Controller,Controle
 KEYBOARD,Teclado,Keyboard,Teclado
 LANGUAGE,Idioma,Language,Idioma
 PLAYER_AFTERIMAGE,Estela fantasma del jugador,Player Afterimage,Pós-imagem do jogador
-MOVE_WITH_JOYSTICK,Mover personaje con palanca izquierda,Move character with left stick,Mover personagem com o stick esquerdo
+MOVE_WITH_JOYSTICK,Mover personaje con palanca izquierda,Move character with left stick,Mover personagem com botão analógico (E)
 GAMEPAD_VIBRTN,Vibración de control,Controller vibration,Vibração do controle
 SHAKE_CMR_DAMAGE,Sacudir cámara al recibir daño,Shake camera on damage,Vibrar a câmera durante o dano
 ICONS_BTNS,Íconos de botones,Button icons,Ícones dos botões
@@ -239,7 +239,7 @@ PRESSFORWASDSETTING,"Presiona ""W"" para usar modo WASD en teclado","Press ""W""
 PRESSLETTERFILTERSCREEN,Presiona la letra del filtro de pantalla deseado,Press the letter option for screen filter,Pressione a opção de letra para o filtro de tela
 LIBRARY_ARCHIVES,Archivos de la biblioteca,Library archives,Arquivos da biblioteca
 INTHENEXTUPDATE,En la próxima actualización...,In the next update...,Na próxima atualização…
-PROLOGUEFINISHED,Prólogo finalizado,Prologue finished,Prólogo finalizado.
+PROLOGUEFINISHED,Prólogo finalizado,Prologue finished,Prólogo finalizado
 YOUWANTGOWAGON,¿Regresar al vagón inicial del tren?,Back to the initial car of the train?,Voltar ao vagão inicial do trem?
 RETURNAMERITHIA,¿Regresar a Amerithia?,Return to Amerithia?,Retornar a Amerithia?
 DIFFCHANGEDTOEASY,"Dificultad cambiada a ""fácil""","Difficulty changed to ""easy""",Dificuldade modificada para “fácil”
@@ -324,27 +324,36 @@ ACH13TITLE,Cazador de demonios,Demon hunter,Caçador de demônios
 ACH13DESC,Supera la máxima puntuación en [MegaBoom Inferno].,Beat the high score in [MegaBoom Inferno].,Bata a pontuação mias alta em [MegaBoom Inferno].
 ACH14TITLE,¿Puede correr Doom?,Can it run Doom?,Dá para rodar Doom?
 ACH14DESC,Haz que ese juego corra en Toziuha Night.,Make that game run in Toziuha Night.,Faça o jogo rodar em Toziuha Night.
-ACH15TITLE,Chlorium Adeptis,Chlorium Adeptis,
-ACH15DESC,Derrota al Adeptis controlador del Cloro.,Defeat the Chlorine controlling Adeptis.,
-ACH16TITLE,Ferrum Adeptis,Ferrum Adeptis,
-ACH16DESC,Derrota al Adeptis controlador del Hierro.,Defeat the Iron controlling Adeptis.,
-ACH17TITLE,¡He venido a verte aniquilado!,I´ve come to see you annihilated!,
-ACH17DESC,Abre la puerta que conduce al lugar más alto de la Abadía.,Open the door that leads to the highest point of the Abbey.,
-ACH18TITLE,El fin de la melancolía,The end of melancholy,
-ACH18DESC,Alcanza el final malo.,Reach the bad ending.,
+ACH15TITLE,Chlorium Adeptis,Chlorium Adeptis,Chlorium Adeptis
+ACH15DESC,Derrota al Adeptis controlador del Cloro.,Defeat the Chlorine controlling Adeptis.,Derrote o Adeptis controlador de Cloro.
+ACH16TITLE,Ferrum Adeptis,Ferrum Adeptis,Ferrum Adeptis
+ACH16DESC,Derrota al Adeptis controlador del Hierro.,Defeat the Iron controlling Adeptis.,Derrote o Adeptis controlador de Ferro.
+ACH17TITLE,¡He venido a verte aniquilado!,I´ve come to see you annihilated!,Vim para ver você aniquilado!
+ACH17DESC,Abre la puerta que conduce al lugar más alto de la Abadía.,Open the door that leads to the highest point of the Abbey.,Abra a porta que leva ao ponto mais alto da Abadia.
+ACH18TITLE,El fin de la melancolía,The end of melancholy,O fim da melancolia
+ACH18DESC,Alcanza el final malo.,Reach the bad ending.,Alcança o final ruim
+ACH19TITLE,,Marimba Hero,
+ACH19DESC,Toca todas las notas de la partitura.,Play all the notes in the score.,
+ACH20TITLE,El fin de la venganza,The end of revenge,
+ACH20DESC,Alcanza el final trágico.,Reach the tragic ending.,
 FIREACTION,Disparar,Fire,Disparar
 STRAFEACTION,Mover lateralmente,Strafe,Se mover lateralmente
 CLOSEGAME,Cerrar juego,Close game,Fechar o jogo
-DIFFSMOLXANDEATH,Inire Pecunia,Inire Pecunia,
+DIFFSMOLXANDEATH,Inire Pecunia,Inire Pecunia,Inire Pecunia
 DIFFSMOLXANDEATH_DESC,Evita la muerte del personaje reemplazando el daño por gasto de dinero.,Avoids character death by replacing damage by spending money.,Evita a morte do personagem ao substituir o dano por dinheiro gasto.
-REMOVE,Remover,Remove,
-USEJOYSTICKDINAMIC,Posición Palanca dinámica,Dinamic Stick position,
-CLOCK_TOWER,Torre de reloj,Clock tower,
-PRESSENTERTOSTART,Presiona [Enter] para comenzar,Press [Enter] to start,
-NOEXTERNALCONTROLLERS,No se han detectado controles adicionales,External controllers not detected,
-FINALES,Finales,Endings,
-IMPORTANT_TEXT,Texto importante,Relevant text,
-INTERACT,Interactuar,Interact,
-AERIAL_DASH_II,Dash aéreo II,Aerial Dash II,
-SEEFULLLICENSES,Ver otras atribuciones,See other attributions,
-ATTRIBUTIONS,Atribuciones,Attributions,
+REMOVE,Remover,Remove,Remover
+USEJOYSTICKDINAMIC,Posición Palanca dinámica,Dinamic Stick position,Posição dinâmica da alavanca
+CLOCK_TOWER,Torre de reloj,Clock tower,Torre do relógio
+PRESSENTERTOSTART,Presiona [Enter] para comenzar,Press [Enter] to start,Aperte [Enter] para começar
+NOEXTERNALCONTROLLERS,No se han detectado controles adicionales,External controllers not detected,Controles externos não detectados
+FINALES,Finales,Endings,Finais
+IMPORTANT_TEXT,Texto importante,Relevant text,Texto Relevante
+INTERACT,Interactuar,Interact,Interagir
+AERIAL_DASH_II,Dash aéreo II,Aerial Dash II,Dash aéreo II
+SEEFULLLICENSES,Ver otras atribuciones,See other attributions,Ver outras atribuições
+ATTRIBUTIONS,Atribuciones,Attributions,Atribuições
+EXPOSETIME,Tiempo de exposición: %.2fs,Exposure time: %.2fs,
+CAPTUREIMGCANCELED,Captura de imagen cancelada,Image capture canceled,
+HOLDRAISEKEY,Mantén para subir un tono,Hold to raise key,
+HOLDLOWERKEY,Mantén para bajar un tono,Hold to lower key,
+LAKEWATCH,Mirador del lago Niquira,Niquira lake viewpoint,

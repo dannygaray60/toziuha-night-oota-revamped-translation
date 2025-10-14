@@ -213,16 +213,16 @@ MEDALLION_SI_TITLE,Medallón Silicio,Silicon Medallion,Medalhão de Silício
 MEDALLION_SI_DESC,"Medallón perteneciente a la Alquimista del Silicio, Elisia Boyle. Número atómico: 14.","Medallion belonging to the Silicon Alchemist, Elisia Boyle. Atomic number: 14.","Medalhão pertencente a Alquimista de Silício, Elisia Boyle. Número atômico: 14."
 MEDALLION_S_TITLE,Medallón Azufre,Sulfur Medallion,Medalhão de Enxofre
 MEDALLION_S_DESC,"Medallón perteneciente al Alquimista de Azufre, Dirián Razhes. Número atómico: 16.","Medallion belonging to the Sulfur Alchemist, Dirian Razhes. Atomic number: 16.","Medalhão pertencente ao Alquimista de Enxofre, Dirian Razhes. Número atômico: 16"
-MEDALLION_CL_TITLE,Medallón Cloro,Chlorine Medallion,
-MEDALLION_CL_DESC,"Medallón perteneciente a la Alquimista del Cloro, Eva Brahm. Número atómico: 17.","Medallion belonging to the Alchemist of Chlorine, Eva Brahm. Atomic number: 17.",
-MEDALLION_FE_TITLE,Medallón Hierro,Iron Medallion,
-MEDALLION_FE_DESC,"Medallón perteneciente al Alquimista de Hierro, Isaac Neumann. Número atómico: 26.","Medallion belonging to the Iron Alchemist, Isaac Neumann. Atomic number: 26.",
+MEDALLION_CL_TITLE,Medallón Cloro,Chlorine Medallion,Medalhão de Cloro
+MEDALLION_CL_DESC,"Medallón perteneciente a la Alquimista del Cloro, Eva Brahm. Número atómico: 17.","Medallion belonging to the Alchemist of Chlorine, Eva Brahm. Atomic number: 17.","Medalhão pertencente a Alquimista de Cloro, Eva Brahm. Número atômico: 17."
+MEDALLION_FE_TITLE,Medallón Hierro,Iron Medallion,Medalhão de Ferro
+MEDALLION_FE_DESC,"Medallón perteneciente al Alquimista de Hierro, Isaac Neumann. Número atómico: 26.","Medallion belonging to the Iron Alchemist, Isaac Neumann. Atomic number: 26.","Medalhão pertencente ao Alquimista de Ferro, Isaac Neumann. Número atômico: 26."
 SHEALCOINS_TITLE,Par de monedas,Pair of coins,Par de moedas
 SHEALCOINS_DESC,"Monedas que tenía Sheal Avicena, parecen ser de otro país.","Coins held by Sheal Avicenna, appear to be from another country.","Moedas pertencentes a Sheal Avicenna, parecem ser de outro país."
 TALEBOOK_TITLE,Libro de cuentos,Storybook,Livro de Histórias
 TALEBOOK_DESC,"Un libro perteneciente a Annette Cavendish, el libro recopila diversos cuentos infantiles, el primer cuento se titula ""Los motivos del lobo"". Hay una nota escrita al pie de una página: ""Al señor Sheal le gusta este cuento, pero pude ver algo de tristeza cuando lo leyó...""","A book belonging to Annette Cavendish, the book collects several children's stories, the first story is entitled ""The Wolf's Motives"". There is a note written at the bottom of the page: ""Mr. Sheal likes this story, but I could see some sadness when he read it...""","Um livro pertencente a Annette Cavendish, o livro reúne diversas histórias infantis, a primeira história é intitulada ""Os Motivos do Lobo"". Há uma nota escrita no fundo da página: ""Sr. Sheal gosta dessa história, mas eu posso ver um pouco de tristeza quando ele lê…"""
 DAGERROPLATE_TITLE,Placa de Daguerrotipo,Daguerreotype plate,Placa de Daguerreótipo
-DAGERROPLATE_DESC,"Placa de Cobre recubierta de plata para crear una ""Fotografía"". Se requiere un Daguerrotipo para ser usado.",Silver coated copper plate to create a “Photograph”. A Daguerreotype is required to be used.,Placa de cobre revestida com prata para criar uma “Fotografia”. Um Daguerreótipo é necessário para ser usado.
+DAGERROPLATE_DESC,"Placa de Cobre recubierta de plata para crear una ""Fotografía"". Se requiere un Daguerrotipo para ser usado. Al capturar la imagen no se debe mover durante el tiempo de exposición.","Silver coated copper plate to create a “Photograph”. A Daguerreotype is required to be used. When capturing the image, don't move during the exposure time.",Placa de cobre revestida com prata para criar uma “Fotografia”. Um Daguerreótipo é necessário para ser usado.
 GASMASKFILTER_TITLE,Filtro para máscara gas,Filter for gas mask,Filtro para a máscara de gás.
 GASMASKFILTER_DESC,Filtro de aire para Sulfuro de carbono y Dióxido de azufre. Requiere ser colocado en una máscara de gas.,Air filter for carbon sulfide and sulfur dioxide. Requires to be placed in a gas mask.,Filtro de ar para sulfeto de carbono e dióxido de enxofre. Requer se colocado na máscara de gás.
 GASMASKBROKEN_TITLE,Máscara de gas dañada,Damaged gas mask,Máscara de gás danificado.
@@ -242,18 +242,38 @@ GOLEMHELMET_TITLE,Casco de Golem,Golem helmet,Elmo de Golem
 GOLEMHELMET_DESC,Un casco de enorme tamaño hecho de metales muy valiosos.,A helmet of enormous size made of very valuable metals.,Um elmo de tamanho enorme feito de metais muito valiosos.
 AMETHYSTKEY_TITLE,Llave Amatista,Amethyst Key,Chave de Ametista
 AMETHYSTKEY_DESC,"Permite abrir puertas que reflejan un color púrpura, similar a la Amatista incrustada en la llave. Es de uso único.","It allows to open doors that reflect a purple color, similar to the Amethyst embedded in the key. It's for single use only.","Permite abrir portas que emitem uma cor púrpura, similar com a Ametista embutida na chave. Uso único."
-DIZZY_MEDICINE_TITLE,Medicina contra mareos,Dizziness medicine,
-DIZZY_MEDICINE_DESC,Pastillas de dimenhidrinato que ayuda contra los síntomas de vértigo o mareo.,Dimenhydrinate tablets that help against symptoms of vertigo or dizziness.,
-NEEDAMETHYSTKEY,Requiere llave Amatista.,Requires Amethyst key.,
-APPLECOIN_TITLE,Moneda Hespérides,Hesperides Coin,
-APPLECOIN_DESC,Moneda con el grabado de tres Ninfas recostadas sobre un árbol de manzanas.,Coin engraved with three nymphs reclining on an apple tree.,
-CARONTECOIN_TITLE,Moneda Caronte,Caronte coin,
-CARONTECOIN_DESC,Moneda con el grabado de un anciano remando un barco.,Coin engraved with an old man rowing a boat.,
-HINTCARONTECOIN,El pago necesario para comenzar el viaje final.,The payment required to begin the final journey.,
-HINTAPPLECOIN,La fruta de la vida eterna.,The fruit of eternal life.,
-EVAMASK_TITLE,Máscara de Eva,Eve's Mask,
-EVAMASK_DESC,Máscara de gas que parece ser de bastante calidad.,Gas mask that appears to be of fairly good quality.,
-ISAACSCY_TITLE,Guadaña de Hierro,Iron Scythe,
-ISAACSCY_DESC,El arma de un cuerpo reanimado que mantuvo restos de una alma...,The weapon of a reanimated body that retained remnants of a soul...,
-ROYALMEDAL_TITLE,Medalla Real,Royal Medal,
-ROYALMEDAL_DESC,"Premio prestigioso otorgado como reconocimiento por logros en el campo de la ciencia, perteneciente a Henry Cavendish.","A prestigious award given in recognition of achievements in the field of science, named after Henry Cavendish.",
+DIZZY_MEDICINE_TITLE,Medicina contra mareos,Dizziness medicine,Remédio para tontura
+DIZZY_MEDICINE_DESC,Pastillas de dimenhidrinato que ayuda contra los síntomas de vértigo o mareo.,Dimenhydrinate tablets that help against symptoms of vertigo or dizziness.,Comprimidos de dimenidrinato que ajudam contra os sintomas de vertigem ou tontura.
+NEEDAMETHYSTKEY,Requiere llave Amatista.,Requires Amethyst key.,Requer Chave Ametista.
+APPLECOIN_TITLE,Moneda Hespérides,Hesperides Coin,Moeda das Hespérides
+APPLECOIN_DESC,Moneda con el grabado de tres Ninfas recostadas sobre un árbol de manzanas.,Coin engraved with three nymphs reclining on an apple tree.,Moeda gravada com três ninfas reclinadas em uma macieira.
+CARONTECOIN_TITLE,Moneda Caronte,Caronte coin,Moeda do Caronte
+CARONTECOIN_DESC,Moneda con el grabado de un anciano remando un barco.,Coin engraved with an old man rowing a boat.,Moeda gravada com um velho remando um barco.
+HINTCARONTECOIN,El pago necesario para comenzar el viaje final.,The payment required to begin the final journey.,O pagamento é necessário para iniciar a viagem final.
+HINTAPPLECOIN,La fruta de la vida eterna.,The fruit of eternal life.,O fruto da vida eterna.
+EVAMASK_TITLE,Máscara de Eva,Eve's Mask,Máscara de Eve
+EVAMASK_DESC,Máscara de gas que parece ser de bastante calidad.,Gas mask that appears to be of fairly good quality.,Máscara de gás que parece ser de ótima qualidade.
+ISAACSCY_TITLE,Guadaña de Hierro,Iron Scythe,Foice de Ferro
+ISAACSCY_DESC,El arma de un cuerpo reanimado que mantuvo restos de una alma...,The weapon of a reanimated body that retained remnants of a soul...,A arma de um corpo reanimado que retinha resquícios de uma alma…
+ROYALMEDAL_TITLE,Medalla Real,Royal Medal,Medalha Real
+ROYALMEDAL_DESC,"Premio prestigioso otorgado como reconocimiento por logros en el campo de la ciencia, perteneciente a Henry Cavendish.","A prestigious award given in recognition of achievements in the field of science, named after Henry Cavendish.","Um prêmio prestigiado concedido em reconhecimento às conquistas no campo da ciência, nomeado em homenagem a Henry Cavendish."
+FOTOGRAPHY_TITLE,Fotografía,Photograph,
+FOTOGRAPHY_DESC,"Una fotografía, que no muestra algo interesante, al menos se puede vender por sus materiales.",A photograph that does not show anything interesting can at least be sold for its materials.,
+FOTOGRAPHY_A_TITLE,Foto de Guardabarranco,Guardabarranco photo,
+FOTOGRAPHY_A_DESC,"Ave elegante de cola distinguida en forma de raqueta, hermano del Torogoz.","An elegant bird with a distinctive racket-shaped tail, brother of the Torogoz.",
+FOTOGRAPHY_B_TITLE,Foto de Quetzal,Quetzal photo,
+FOTOGRAPHY_B_DESC,"Se dice que posó sobre el cuerpo derrotado de un legendario guerrero, por lo que su pecho adquirió color rojo.","It’s said that it perched on the defeated body of a legendary warrior, which is why its chest turned red.",
+FOTOGRAPHY_C_TITLE,Foto de Torogoz,Torogoz photo,
+FOTOGRAPHY_C_DESC,"Si las ves quietas, notarás que mueven su cola como péndulo de reloj, hermano del Guardabarranco.","If you watch them closely, you will notice that they move their tails like a clock pendulum. Brother of the Guardabarranco.",
+FOTOGRAPHY_D_TITLE,Foto de Guacamaya,Guacamaya photo,
+FOTOGRAPHY_D_DESC,Un ave de la familia de Loros que es enorme y de plumaje vibrante.,A bird of the parrot family that is enormous and has vibrant plumage.,
+FOTOGRAPHY_E_TITLE,Foto de Yigüirro,Yigüirro photo,
+FOTOGRAPHY_E_DESC,Un ave pequeña de precioso canto que le gusta estar cerca de grandes fuentes de agua.,A small bird with a beautiful song that likes to be near large sources of water.,
+METIL_TITLE,Compuesto aminometano,Aminomethane compound,
+METIL_DESC,"Gas derivado del amoníaco, se emplea como materia prima en la síntesis de medicamentos.","A gas derived from ammonia, it is used as a raw material in the synthesis of medicines.",
+RATSAMPLE_TITLE,Muestra de animal,Animal sample,
+RATSAMPLE_DESC,Contiene una pequeña muestra extraída de una rata que merodeaba en Birstall.,Contains a small sample taken from a rat that was roaming around Birstall.,
+BOOKMUSIC_TITLE,Libro de música,Music book,
+BOOKMUSIC_DESC,"Un libro que enseña a tocar el instrumento llamado “Marimba”, además trae algunas partituras de canciones clásicas de una cultura antigua.","A book that teaches how to play the instrument called “Marimba,” and also includes some sheet music for classic songs from an ancient culture.",
+CALAVERAFRUIT_TITLE,Fruto Calavera,Calavera fruit,
+CALAVERAFRUIT_DESC,¿Una... fruta? Al cortarla a la mitad se puede ver la forma de un cráneo.,"A... fruit? When you cut it in half, you can see the shape of a skull.",

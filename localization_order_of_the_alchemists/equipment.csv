@@ -10,7 +10,7 @@ WITCH_HAT_DESC,"Proporciona inteligencia a su portador, además de aumentar velo
 DEMONSLAYERARMOR_TITLE,Armadura Matademonios,Demon Slayer Armor,Armadura de Matador de Demônios
 DEMONSLAYERARMOR_DESC,Armadura que emana un poder oscuro. Aumenta drásticamente las estadísticas pero mueres si un enemigo te toca.,Armor that emanates a dark power. Drastically increases stats but you die if an enemy touches you.,Armadura que emite poder negro. Aumenta drasticamente seus atributos mas você morre ao inimigo te tocar.
 HERMES_BOOTS_TITLE,Botas de Hermes,Hermes Boots,Botas de Hermes
-HERMES_BOOTS_DESC,Botas hechas de material ligero que aumenta la velocidad al correr.,Boots made of lightweight material that boosts running speed.,Botas feitas por um material leve que intensifica a velocidade.
+HERMES_BOOTS_DESC,Hechas de material ligero que aumenta la velocidad al correr y permite mantenerse en el aire al hacer daño con látigo.,Made of lightweight material that boosts running speed and allows you to stay in the air while attacking with the whip.,
 SORCERER_RING_TITLE,Anillo de Hechicero,Sorcerer Ring,Anel do Feiticeiro
 SORCERER_RING_DESC,Anillo con un gran poder mágico que evita perder maná.,Ring with great magical power that avoids losing mana.,Anel com grande poder mágico que evita de perder mana.
 VIGOR_BOOTS_TITLE,Botas de Vigor,Vigor Boots,Botas de Vigor
@@ -38,32 +38,32 @@ BRACELETNONEG_TITLE,Brazalete Purificador,Purifying Bracelet,Bracelete Purificad
 BRACELETNONEG_DESC,Accesorio que proporciona invulnerabilidad a estados negativos.,Accessory that provides invulnerability to negative states.,Acessório que provém invulnerabilidade aos status negativos.
 GASMASKSULFUR_TITLE,Máscara de Gas,Gas mask,Máscara de Gás
 GASMASKSULFUR_DESC,"Máscara de gas que protege de gases como el Sulfuro de carbono, Dióxido de azufre y Cloro.","Gas mask that protects against gases such as Carbon Sulfide, Sulfur Dioxide and Chlorine.","Máscara de gás que protege contra gases como Sulfeto de Carbono, Dióxido de Enxofre e Cloro."
-DEXTRGLOVES_TITLE,Traje de Belmondo,Belmondo's suit,
-DEXTRGLOVES_DESC,Otorga mayor destreza en el manejo del látigo. Permite cancelar el ataque al aterrizar.,Increases whip handling skill. Allows you to cancel the attack upon landing.,
-HAIRPINRUBY_TITLE,Pasador Cabello,Hairpin,
-HAIRPINRUBY_DESC,"Un hermoso adorno para cabello, adornado con un caro Rubí.",A beautiful hair ornament adorned with an expensive ruby.,
-MASKCEREMONIAL_TITLE,Máscara antigua,Antique Mask,
-MASKCEREMONIAL_DESC,Una máscara rota y oxidada que requiere una restauración.,A broken and rusty mask that needs restoration.,
-SCOTTJACKET_TITLE,Chaqueta Scott,Scott Jacket,
-SCOTTJACKET_DESC,Una prenda de piel tan gruesa que evita mordeduras de zombies.,Made of leather so thick that it prevents zombie bites.,
-HIGHHEELS_TITLE,Tacones elegantes,Elegant heels,
-HIGHHEELS_DESC,Lo que una dama de alta sociedad luce en ocasiones especiales.,What a high society lady wears on special occasions.,
-ACADEMICCAP_TITLE,Birrete,Square academic cap,
-ACADEMICCAP_DESC,Sombrero que aumenta experiencia obtenida al derrotar enemigos.,Hat that increases experience gained from defeating enemies.,
-VAMPIRECOAT_TITLE,Capa vampírica,Vampiric cape,
-VAMPIRECOAT_DESC,Aumenta la sangre obtenida de enemigos.,Increases blood obtained from enemies.,
-GOLDENRING_TITLE,Anillo de oro,Gold ring,
-GOLDENRING_DESC,Accesorio que atrae la suerte de encontrar más dinero.,Accessory that attracts luck in finding more money.,
-LUCKCHARM_TITLE,Amuleto de la suerte,Lucky charm,
-LUCKCHARM_DESC,Aumenta probabilidad del objeto más raro que un enemigo puede soltar.,Increases the probability of the rarest item an enemy can drop.,
-MAGICARMOR_TITLE,Armadura mágica,Magic armor,
-MAGICARMOR_DESC,Usa la barra de maná como si fuera barra de vida.,Uses the mana bar as if it were a health bar.,
-SPIKEBOOTS_TITLE,Botas con púas,Spiked boots,
-SPIKEBOOTS_DESC,Aumenta daño al hacer patadas.,Increases damage when kicking.,
-GLASSESOFFICE_TITLE,Lentes de oficina,Office glasses,
-GLASSESOFFICE_DESC,Permite encontrar paredes que ocultan secretos.,Allows you to find walls that hide secrets.,
-RISKRING_TITLE,Anillo sangrante,Bleeding ring,
-RISKRING_DESC,"Al tener un solo punto de vida, aumenta a 15 el ATK e INT.",Having only one health point increases ATK and INT to 15.,
-MASKSACRIFICE_TITLE,Máscara sacrificio,Sacrifice mask,
-MASKSACRIFICE_DESC,El enemigo derrotado dejará caer un orbe que recupera vida.,The defeated enemy will drop an orb that restores health.,
-DRACO_RING_DESC,Un valioso anillo que presenta a un dragón rodeando una piedra preciosa. Aumenta la cantidad de sangre recolectable.,A valuable ring featuring a dragon surrounding a precious stone. Increases the amount of blood that can be collected.,
+DEXTRGLOVES_TITLE,Traje de Belmondo,Belmondo's suit,Traje de Belmondo
+DEXTRGLOVES_DESC,Otorga mayor destreza en el manejo del látigo. Permite cancelar el ataque al aterrizar.,Increases whip handling skill. Allows you to cancel the attack upon landing.,Aumenta a habilidade de manejo do chicote. Permite cancelar o ataque ao aterrissar.
+HAIRPINRUBY_TITLE,Pasador Cabello,Hairpin,Grampo para cabelo
+HAIRPINRUBY_DESC,"Un hermoso adorno para cabello, adornado con un caro Rubí.",A beautiful hair ornament adorned with an expensive ruby.,"Um lindo ornamento de cabelo, decorado com um caro rubi."
+MASKCEREMONIAL_TITLE,Máscara antigua,Antique Mask,Máscara Antiga
+MASKCEREMONIAL_DESC,Una máscara rota y oxidada que requiere una restauración.,A broken and rusty mask that needs restoration.,Uma máscara quebrada e enferrujas que precisa de restauração.
+SCOTTJACKET_TITLE,Chaqueta Scott,Scott Jacket,Jaqueta Scott
+SCOTTJACKET_DESC,Una prenda de piel tan gruesa que evita mordeduras de zombies.,Made of leather so thick that it prevents zombie bites.,Feita de um couro tão espesso que previne mordidas de zumbis.
+HIGHHEELS_TITLE,Tacones elegantes,Elegant heels,Sapatos elegantes de salto alto
+HIGHHEELS_DESC,Lo que una dama de alta sociedad luce en ocasiones especiales.,What a high society lady wears on special occasions.,O que uma senhorita da alta sociedade usa em ocasiões especiais.
+ACADEMICCAP_TITLE,Birrete,Square academic cap,Boné acadêmico
+ACADEMICCAP_DESC,Sombrero que aumenta experiencia obtenida al derrotar enemigos.,Hat that increases experience gained from defeating enemies.,Boné que aumenta a experiência ganha ao derrotar os inimigos.
+VAMPIRECOAT_TITLE,Capa vampírica,Vampiric cape,Capa Vampírica
+VAMPIRECOAT_DESC,Aumenta la sangre obtenida de enemigos.,Increases blood obtained from enemies.,Aumenta o sangue obtido dos inimigos.
+GOLDENRING_TITLE,Anillo de oro,Gold ring,Anel de ouro
+GOLDENRING_DESC,Accesorio que atrae la suerte de encontrar más dinero.,Accessory that attracts luck in finding more money.,Acessório que atrai sorte ao encontrar mais dinheiro.
+LUCKCHARM_TITLE,Amuleto de la suerte,Lucky charm,Amuleto da sorte
+LUCKCHARM_DESC,Aumenta probabilidad del objeto más raro que un enemigo puede soltar.,Increases the probability of the rarest item an enemy can drop.,Aumenta a probabilidade de conseguir o item mais raro de um inimigo.
+MAGICARMOR_TITLE,Armadura mágica,Magic armor,Armadura mágica
+MAGICARMOR_DESC,Usa la barra de maná como si fuera barra de vida.,Uses the mana bar as if it were a health bar.,Usa a barra de mana como se fosse a barra de vida.
+SPIKEBOOTS_TITLE,Botas con púas,Spiked boots,Botas com pregos
+SPIKEBOOTS_DESC,Aumenta daño al hacer patadas.,Increases damage when kicking.,Aumenta o dano quando chuta.
+GLASSESOFFICE_TITLE,Lentes de oficina,Office glasses,Óculos de escritório
+GLASSESOFFICE_DESC,Permite encontrar paredes que ocultan secretos.,Allows you to find walls that hide secrets.,Te permite encontrar paredes que escondem segredos.
+RISKRING_TITLE,Anillo sangrante,Bleeding ring,Anel de Sangramento
+RISKRING_DESC,"Al tener un solo punto de vida, aumenta a 15 el ATK e INT.",Having only one health point increases ATK and INT to 15.,Tenso apenas um único ponto de vida aumenta ATK e INT para 15.
+MASKSACRIFICE_TITLE,Máscara sacrificio,Sacrifice mask,Máscara de Sacrifício
+MASKSACRIFICE_DESC,El enemigo derrotado dejará caer un orbe que recupera vida.,The defeated enemy will drop an orb that restores health.,Inimigo derrotado derrubará um orbe que recupera vida..
+DRACO_RING_DESC,Un valioso anillo que presenta a un dragón rodeando una piedra preciosa. Aumenta la cantidad de sangre recolectable.,A valuable ring featuring a dragon surrounding a precious stone. Increases the amount of blood that can be collected.,Um anel valioso com um dragão em volta de uma pedra preciosa. Aumenta a quantidade de sangue que pode ser coletada.

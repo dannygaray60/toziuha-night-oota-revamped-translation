@@ -33,13 +33,13 @@ RUBRUS_DRACO_DESC,Ataca con el poder de un gran dragón. La cantidad de daño au
 CONGELATIO_DESC,Invoca una onda de frío que puede ser capaz de congelar grandes masas de agua.,Summons a cold wave that can freeze large bodies of water.,Invoca uma onda fria que pode congelar largos corpos d’água
 VOLTUSA_DESC,Crea un pequeño tornado de agua.,Creates a small water tornado.,Cria um pequeno tornado de água.
 CONTRARIUS_GRAVITAS_DESC,"Permite ""invertir"" la gravedad utilizando ferromagnetismo de bloques especiales de hierro.",It allows “reversing” gravity using ferromagnetism of special iron blocks.,Permite “reverter” gravidade usando ferromagnetismo de blocos especiais de ferro.
-PLUVIA_SANGRI_DESC,Invoca una lluvia de sangre que daña a todos los enemigos en pantalla. Requiere 50 de sangre.,Summon a rain of blood that damages all enemies on screen. Requires 50 of blood.,
-AERIAL_DASH_II_DESC,Permite realizar impulsos en el aire hasta que la estamina lo permita.,Allows you to dash in the air until your stamina runs out.,
-WHIP_ALLOY_IMPROV_DESC,Disminuye el gasto de maná y mejora poder de aleaciones.,Reduces mana cost and improves alloy power.,
-WHIP_ALLOY_IMPROV,Mejora de aleación,Alloy refinement,
-AETHERIS_GLADIO_MERIO_DESC,Ataca con múltiples ráfagas de viento.,Attacks with multiple gusts of wind.,
-FERRUM_STELLA_MERIO_DESC,Lanza tres proyectiles al mismo tiempo.,Cast three projectiles at the same time.,
-FERRUM_ASCIA_MERIO_DESC,Arroja una hacha de gran poder.,Throw a powerful axe.,
-PYRO_PROIECTUM_MERIO_DESC,Lanza una bola de fuego que daña todo a su paso.,Cast a fireball that damages everything in its path.,
-LUX_PILAR_MERIO_DESC,Aumenta poder de energía luminíca.,Increase light energy power.,
-FRIGUS_PILAR_MERIO_DESC,Invoca múltiples pilares de hielo.,Summon multiple pillars of ice.,
+PLUVIA_SANGRI_DESC,Invoca una lluvia de sangre que daña a todos los enemigos en pantalla. Requiere 50 de sangre.,Summon a rain of blood that damages all enemies on screen. Requires 50 of blood.,Invoca uma chuva de sangue que ataca todos os inimigos na tela. Necessita de 50 de sangue.
+AERIAL_DASH_II_DESC,Permite realizar impulsos en el aire hasta que la estamina lo permita.,Allows you to dash in the air until your stamina runs out.,Te permite fazer dash no ar até sua resistência se esgotar.
+WHIP_ALLOY_IMPROV_DESC,Disminuye el gasto de maná y mejora poder de aleaciones.,Reduces mana cost and improves alloy power.,Reduz o custo de mana e aprimora o poder da liga.
+WHIP_ALLOY_IMPROV,Mejora de aleación,Alloy refinement,Refinamento de liga
+AETHERIS_GLADIO_MERIO_DESC,Ataca con múltiples ráfagas de viento.,Attacks with multiple gusts of wind.,Ataca com múltiplas rajadas de vento.
+FERRUM_STELLA_MERIO_DESC,Lanza tres proyectiles al mismo tiempo.,Cast three projectiles at the same time.,Lança três projéteis ao memso tempo.
+FERRUM_ASCIA_MERIO_DESC,Arroja una hacha de gran poder.,Throw a powerful axe.,Lança um machado com grande poder.
+PYRO_PROIECTUM_MERIO_DESC,Lanza una bola de fuego que daña todo a su paso.,Cast a fireball that damages everything in its path.,Lança uma bola de fogo que queima tudo em seu caminho.
+LUX_PILAR_MERIO_DESC,Aumenta poder de energía luminíca.,Increase light energy power.,Aumenta o poder de energia de luz.
+FRIGUS_PILAR_MERIO_DESC,Invoca múltiples pilares de hielo.,Summon multiple pillars of ice.,Invoca múltiplos pilares de gelo.

@@ -411,9 +411,9 @@ A outra metade permanece sob a custódia dos Irmãos Cavendish, que conseguiram 
 E, finalmente, com os documentos deixados por Sheal, obtivemos uma versão mais poderosa do sangue de Athos, os Ahuizotes que o consomem experimentam maior poder e agressividade. Eles estão protegendo a Abadia, não deixaremos aquela Alquimista nem A Ordem interferirem em seus planos divinos.
 
 -- Eva Brahm."
-EVANEWS2_TITLE,Noticia sobre desaparición,News about disappearance,
-EVANEWS2_DESC,La ciudad de Birstall se sume en misterio tras la desconcertante desaparición de la actriz de teatro Evangelina Graham. Tras el brutal ataque que sufrió hace una semana...,The city of Birstall is shrouded in mystery following the baffling disappearance of theater actress Evangelina Graham. After the brutal attack she suffered a week ago...,
-EVANEWS1_TITLE,Noticia [ataque a actriz],News [attack on actress],
+EVANEWS2_TITLE,Noticia sobre desaparición,News about disappearance,Notícias sobre desaparecimento
+EVANEWS2_DESC,La ciudad de Birstall se sume en misterio tras la desconcertante desaparición de la actriz de teatro Evangelina Graham. Tras el brutal ataque que sufrió hace una semana...,The city of Birstall is shrouded in mystery following the baffling disappearance of theater actress Evangelina Graham. After the brutal attack she suffered a week ago...,"A cidade de Birstall está envolvida em mistério, seguido pelo desconcertante desaparecimento da atriz de teatro Evangelina Graham. Após o ataque brutal que ela sofreu a uma semana atrás…"
+EVANEWS1_TITLE,Noticia [ataque a actriz],News [attack on actress],Notícias [atentado à atriz]
 EVANEWS1_DESC,"La Gaceta Nocturna – Edición Especial
 
 ¡Tragedia en el Escenario! La Musa del teatro, Evangelina Graham, víctima de un brutal ataque.
@@ -426,7 +426,13 @@ Tragedy on Stage! Theater muse Evangelina Graham victim of brutal attack.
 
 Birstall is in shock over the brutal attack on Evangelina, the shooting star of the Theater of Fortune. Evangelina rose quickly, captivating thousands with her dazzling beauty and talent. She became the jewel of entertainment, desired by numerous admirers from all walks of life. However, her success attracted a shadow: a persistent and wealthy nobleman who would not accept her repeated rejections.
 
-The tragedy occurred last night when, after a triumphant performance, Evangelina was attacked as she left the theater. A stream of corrosive acid struck her face, causing serious injuries. The stages of the Theater of Fortune remain dark, while Evangelina's condition, still critical, keeps everyone on edge...",
+The tragedy occurred last night when, after a triumphant performance, Evangelina was attacked as she left the theater. A stream of corrosive acid struck her face, causing serious injuries. The stages of the Theater of Fortune remain dark, while Evangelina's condition, still critical, keeps everyone on edge...","A Gazeta Noturna – Edição Especial
+
+Tragédia no Palco! Musa Evangelina Graham é vítima de um ataque brutal.
+
+Birstall está em choque com o ataque brutal a Evangelina, a estrela do Teatro da Fortuna. Evangelina ascendeu rapidamente, cativando milhares com sua beleza e talento deslumbrantes. Tornou-se a jóia do entretenimento, desejada por inúmeros admiradores de todas as esferas da vida. No entanto, seu sucesso atraiu uma sombra: um nobre persistente e rico que não aceitava suas repetidas rejeições.
+
+A tragédia ocorreu ontem à noite quando, após uma apresentação triunfal, Evangelina foi atacada ao sair do teatro. Um jato de ácido corrosivo atingiu seu rosto, causando ferimentos graves. Os palcos do Teatro da Fortuna permanecem às escuras, enquanto o estado de Evangelina, ainda crítico, mantém todos em alerta..."
 XOCHILTLETTER_TITLE,Carta de Xóchitl,Xóchitl's letter,Carta de Xóchitl
 XOCHILTLETTER_DESC,"Carta encontrada dentro de un contenedor ignífugo que dice lo siguiente:
 
@@ -539,5 +545,59 @@ This witch was the one who ordered the construction of this abbey. And her altar
 
 I don't know where it might be located since I haven't had time to explore the abbey, but perhaps that clue means something to you.
 
-Sincerely, ""D.""",
-ABOUTWITCHATHOS_TITLE,La bruja escondida,The hidden witch,
+Sincerely, ""D.""","Dizem que a Abadia de Athos tem mais de mil anos desde que foi construída.
+
+Os Ahuizotes tomaram conta da abadia, mas não conhecem todos os segredos escondidos dentro do edifício.
+
+De acordo com registros históricos, havia uma bruxa que deu origem ao que hoje conhecemos como [Circuitos Elementais].
+
+Esta bruxa foi quem ordenou a construção desta abadia. E seu altar está escondido em algum lugar; várias fontes indicam que está localizado “a oeste da sala que gira.”
+
+Não sei onde está localizado, já que não tive tempo de explorar a abadia, mas talvez essa pista signifique algo para você.
+
+Sinceramente, ""D."""
+ABOUTWITCHATHOS_TITLE,La bruja escondida,The hidden witch,A bruxa escondida
+ABOUTTOZIUHANIGHT_TITLE,La noche de los Toziuha,The Toziuha night,
+ABOUTTOZIUHANIGHT_DESC,Se le conoce de esta manera al evento ocurrido durante la última semana de octubre. Es el momento cuando los demonios reciben un mayor poder debido a que las puertas del inframundo se abren.,This is the name given to the event that occurs during the last week of October. It is the moment when demons receive greater power because the gates of the underworld open.,
+DIRIANLETTER_TITLE,Carta de Dirián Razhes,Dirián Razhes' letter,
+DIRIANLETTER_DESC,"Xandria, sí estás leyendo esto, seguramente yo ya dejé este mundo terrenal.
+
+Se siente raro escribir esto, es la primera vez que escribo una carta y debe ser de esta manera.
+
+Me alié con Johannes porque sabía que él quería la bendición de Ixquic, ya sabes, ""mantén a tus amigos cerca y a tus enemigos más cerca"".
+
+Cuando estuve en la abadía, mantuve contacto con una alquimista infiltrada que era nativa de nuestro pueblo. Intercambiamos información vital. Es una lástima lo que le pasó...
+
+En fin, no fue el único alquimista con el que tuve contacto. Me encontré con alguien llamado Damián quien dice haberte conocido, me entregó un libro que habla sobre la construcción de la abadía de Athos.
+
+Según lo que leí, al parecer existe una entrada secreta, algo que ni siquiera los Adeptis sabiamos.
+
+Tengo una corazonada, de que Johannes nos ocultó esta información. Para quizás resguardar algo o alguien importante en su plan.
+
+""Busca a la bruja escondida, arrodíllate frente a ella hasta que el gato negro aparezca, entonces será el momento cuando el guardián Aguila te deje pasar.""
+
+No tengo idea de lo que eso significa, pero estaba escrito en el libro y parece importante.
+
+Te deseo lo mejor y que nuesto pueblo... pero también el resto pueda ser salvado. La gente buena merece ver un nuevo amanecer.
+
+Atentamente, Dirián Razhes.","Xandria, if you're reading this, I've probably already left this earthly world.
+
+It feels strange to write this; it's the first time I've ever written a letter, and it has to be this way.
+
+I allied myself with Johannes because I knew he wanted Ixquic's blessing. You know, “keep your friends close and your enemies closer.”
+
+When I was at the abbey, I kept in touch with an infiltrated alchemist who was a native of our village. We exchanged vital information. It's a shame what happened to her...
+
+Anyway, she wasn't the only alchemist I had contact with. I met someone named Damian who claims to have known you. He gave me a book about the construction of the Athos Abbey.
+
+According to what I read, there seems to be a secret entrance, something that even we Adeptis didn't know about.
+
+I have a hunch that Johannes hid this information from us. Perhaps to protect something or someone important to his plan.
+
+“Find the hidden witch, kneel before her until the black cat appears, then it will be time for the guardian Eagle to let you pass.”
+
+I have no idea what that means, but it was written in the book and it seems important.
+
+I wish you the best and hope that our people... but also the rest can be saved. Good people deserve to see a new dawn.
+
+Sincerely, Dirián Razhes.",
