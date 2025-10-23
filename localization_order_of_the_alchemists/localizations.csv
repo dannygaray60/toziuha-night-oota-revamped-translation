@@ -336,6 +336,8 @@ ACH19TITLE,,Marimba Hero,
 ACH19DESC,Toca todas las notas de la partitura.,Play all the notes in the score.,
 ACH20TITLE,El fin de la venganza,The end of revenge,
 ACH20DESC,Alcanza el final trágico.,Reach the tragic ending.,
+ACH21TITLE,Canción de cuna,Lullaby,
+ACH21DESC,Haz que cierta Alquimista consiga el sueño eterno.,Make a certain Alchemist achieve eternal sleep.,
 FIREACTION,Disparar,Fire,Disparar
 STRAFEACTION,Mover lateralmente,Strafe,Se mover lateralmente
 CLOSEGAME,Cerrar juego,Close game,Fechar o jogo
