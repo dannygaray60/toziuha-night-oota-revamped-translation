@@ -169,9 +169,9 @@ RESET,Reestablecer,Reset,Recomeçar
 OPACITY,Opacidad,Opacity,Opacidade
 SIZE,Escala,Size,Tamanho
 MINIMAP,Minimapa,Minimap,Mini-mapa
-ABOUT_CARPATITIA_DEATH,La Carpatitia permite regresar a la última estatua de guardado sin perder el progreso alcanzado.,The Carpatitia allows you to return to the last save statue without losing progress.,Carpatitia permite retornar à última estátua de salvamento sem perder o seu progresso
+ABOUT_CARPATITIA_DEATH,La Carpatitia permite regresar a la última estatua de guardado sin perder el progreso alcanzado.,The Carpatithia allows you to return to the last save statue without losing progress.,Carpatitia permite retornar à última estátua de salvamento sem perder o seu progresso
 ABOUT_REVIVE,Revivir permite regresar a la última estatua de guardado sin perder el progreso alcanzado.,Revive allows you to return to the last save statue without losing progress.,Reviver permite retornar à última estátua de salvamento sem perder o seu progresso
-USE_CARPATITIAX2,Usar Carpatitia x2,Use Carpatitia x2,Usar Carpatithia x2
+USE_CARPATITIAX2,Usar Carpatitia x2,Use Carpatithia x2,Usar Carpatithia x2
 AMPHIBIOUS_BREATHING,Respiración Anfibia,Amphibious Breathing,Respiração Anfíbia
 SWAPSET,Cambiar Set,Change Set,Mudar Set
 ONSCREENBUTTONSALWAYSVISIBLE,Botones en pantalla siempre visibles,On-screen buttons always visible,Botões na tela sempre visíveis
@@ -180,7 +180,7 @@ GETTHEPREQUEL,Jugar la Precuela,Play the Prequel,Jogar prólogo
 DETAILS_QUICKMENU,Info extra en Menú Rápido,Extra info on Quick Menu,Info extra no Menu Rápido
 GALLERY,Galería,Gallery,Galeria
 UNBREAKABLEWILL,Voluntad Inquebrantable,Unbreakable Will,Vontade Indomável
-ABOUTUNBREAKABLEWILL,"Teniendo más del 20% de vida, al recibir daño critico el jugador todavía no morirá.","If the player has more than 20% health, then will not die when critically hit.","Se o jogador tem menos de 20% de saúde, não morrerá quando receber dano crítico."
+ABOUTUNBREAKABLEWILL,"Teniendo más del 20% de vida, al recibir daño critico el jugador todavía no morirá.","If the player has more than 20% health, they will not die when critically hit.","Se o jogador tem menos de 20% de saúde, não morrerá quando receber dano crítico."
 DYNAMICKNOCKBACK,Knockback Dinamico,Dynamic Knockback,Empurrão Dinâmico
 ABOUTDYNAMICKNOCKBACK,El jugador recibirá un empuje de acuerdo al daño recibido.,The player will experience knockback corresponding to the damage taken.,O jogador sofrerá um empurrão correspondendo ao dano recebido.
 DIFFICULTY_OPTIONS,Opciones de Dificultad,Difficulty Options,Opções de Dificuldade
@@ -203,7 +203,7 @@ SELECT_STATION,Seleccionar Estación,Select Station,Selecionar Estação
 ZOOMIN,Acercar,Zoom in,Ampliar
 ZOOMOUT,Alejar,Zoom out,Diminuir
 DESPERATIONATTACK,Ataque de Desesperación,Desperation Attack,Ataque Dramático
-ABOUTDESPERATIONATTACK,"Al vencer a un Adeptis, este realizará un último ataque.","When an Adeptis is defeated, it will make a last attack.","Quando um Adeptis é derrotado, fará um último ataque."
+ABOUTDESPERATIONATTACK,"Al vencer a un Adeptis, este realizará un último ataque.","Upon defeating an Adeptis, it will perform one last attack.","Quando um Adeptis é derrotado, fará um último ataque."
 GETREWARD,Obtener recompensa,Get reward,Receber recompensa
 ACHIEVEMENTS,Logros,Achievements,Conquistas
 ACHIEVEMENT_OBTAINED,Logro obtenido,Achievement obtained,Conquista obtida
@@ -213,7 +213,7 @@ PRESSSESCTOEXIT,"Presione la tecla ""Escape"" para salir del menú de calibraci�
 START_CALIBRATION,Iniciar calibración,Start calibration,Começar calibragem
 THEBUTTONALREADYADDED,El botón ya ha sido asignado,The button has already been assigned,O botão já foi atribuído
 PRESSTHEBUTTONINGAMEPAD,Presione el botón correspondiente a la posición señalada.,Press the button corresponding to the indicated position.,Pressione o botão correspondente a posição indicada.
-HERECANMAPYOURCONTROL,Aquí podrá asignar los botones de su control.,Here you can assign the buttons of your control.,Aqui você pode atribuir os botões do seu controle.
+HERECANMAPYOURCONTROL,Aquí podrá asignar los botones de su control.,Here you can assign the buttons on your controller.,Aqui você pode atribuir os botões do seu controle.
 SELECTADEVICE,Seleccione un dispositivo,Select a device,Selecione um dispositivo
 CALIBRATIONFINISHED,Calibración finalizada,Calibration finished,Calibragem finalizada
 RESTARTMAYBEREQUIRED,Reinicie el juego para aplicar cambios.,Restart the game to apply changes.,Reinicie o game para aplicar as mudanças.
@@ -222,15 +222,15 @@ SCHEME,Esquema,Scheme,Esquema
 CHANGE_SCHEME_ICONS,Cambiar esquema de íconos,Change Scheme icons,Mudar ícones do esquema
 CHANGESSAVED,Cambios guardados,Changes saved,Mudanças salvas
 PRESSSPACETOSTART,"Presiona ""Espacio"" para comenzar","Press ""Space"" to start",Pressione “Espaço” para começar
-AGAMEPADDETECTED,Se ha detectado un control conectado. ¿Desea configurarlo ahora?,"A connected controller has been detected, do you want to configure it now?","Um controle conectado foi detectado, Quer configurá-lo agora?"
+AGAMEPADDETECTED,Se ha detectado un control conectado. ¿Desea configurarlo ahora?,A connected controller has been detected. Do you want to configure it now?,"Um controle conectado foi detectado, Quer configurá-lo agora?"
 IGOTYOU,¡Te tengo!,I got you!,Te peguei!
 SPECTROSCOPE,Espectroscopio,Spectroscope,Espectrômetro
 INCREASE,Incrementar,Increase,Aumentar
-NEUMANPUZZLELABHINT,"De los siete metales, se encuentra aquella que resplandece como la estrella del día. A su lado, reflejando aquella luz, la guardiana de la noche.","Of the seven metals, there is the one that shines like the day star. Next to it, reflecting that light, the guardian of the night.","Dos sete metais, tem um que brilha como a estrela do dia. Ao seu lado, refletindo aquela luz, a guardiã da noite."
+NEUMANPUZZLELABHINT,"De los siete metales, se encuentra aquella que resplandece como la estrella del día. A su lado, reflejando aquella luz, la guardiana de la noche.","Of the seven metals, there is one that shines like the day star. Next to it, reflecting that light, the guardian of the night.","Dos sete metais, tem um que brilha como a estrela do dia. Ao seu lado, refletindo aquela luz, a guardiã da noite."
 WAITRESS,Camarera,Waitress,Garçonete
 SEE_SOCIAL_LINKS,Ver redes sociales,See social links,Ver redes sociais
 DIFFICULTY_DESCRIPTION_0,No quiero estresarme.,I don't want to stress.,Eu não quero me estressar.
-DIFFICULTY_DESCRIPTION_1,Daré lo mejor de mí ante cualquier reto.,I will do my best to any challenge.,Eu farei o meu melhor em qualquer desafio.
+DIFFICULTY_DESCRIPTION_1,Daré lo mejor de mí ante cualquier reto.,I will give my best to any challenge.,Eu farei o meu melhor em qualquer desafio.
 DIFFICULTY_DESCRIPTION_2,Prepárate para morir.,Prepare to die.,Prepare para morrer.
 SELECT_DIFFICULTY,Seleccione dificultad,Select difficulty,Selecione a dificuldade
 LOCKED,Bloqueado,Locked,Bloqueado
@@ -249,7 +249,7 @@ ELDRALIS_WOODS,Bosque de Eldralis,Eldralis Woods,Floresta de Eldralis
 STRALSUND_RUINS,Ruinas de Stralsund,Stralsund Ruins,Ruínas de Stralsund
 TAHUATEPETL_ISLETS,Isletas de Tahuatepetl,Tahuatepetl Islets,Ilhotas Tahuatepetl
 ATHOS_ABBEY,Abadía de Athos,Athos Abbey,Abadia de Athos
-THE_ORDER_HEADQUARTERS,Sede de La Orden,The Order headquarters ,Sede d’A Ordem
+THE_ORDER_HEADQUARTERS,Sede de La Orden,The Order Headquarters ,Sede d’A Ordem
 STORE,Tienda,Store,Loja
 LIBRARY,Biblioteca,Library ,Biblioteca
 ALCHEMY_LABORATORY,Laboratorio de Alquimia,Alchemy Laboratory,Laboratório de Alquimia
@@ -261,10 +261,10 @@ BIRSTALL_PASS,Ciudad de Birstall,Birstall City,Cidade de Birstall
 ARIDIAH_DESERT,Desierto de Aridiah,Aridiah Desert,Deserto de Aridiah
 IXQUICTEMPLE,Templo de Ixquic,Ixquic Temple,Templo de Ixquic
 LOGINPLAYGAMES,Entrar en GooglePlayGames,Login GooglePlayGames,Conectar GoogelPlayGames
-ABOUT_RESTORE_PLAYGAMES,Utilizando su cuenta de Google PlayGames podrá restaurar partidas que se respaldaron automáticamente al guardar.,Using your Google PlayGames account you will be able to restore games that were automatically backed up when saving.,"Usando sua conta Google PlayGames, você será capaz de recuperar partidas que foram automaticamente recuperadas ao salvar."
+ABOUT_RESTORE_PLAYGAMES,Utilizando su cuenta de Google PlayGames podrá restaurar partidas que se respaldaron automáticamente al guardar.,"Using your Google PlayGames account, you will be able to restore games that were automatically backed up when saving.","Usando sua conta Google PlayGames, você será capaz de recuperar partidas que foram automaticamente recuperadas ao salvar."
 RESTORE_DATA,Restaurar datos,Restore data,Recuperar dados
 SELECT_GAMESAVE_TO_RESTORE,Seleccione partida a restaurar,Select savegame to restore,Selecionar partida para recuperar
-ARESURETORESTOREDATA,¿Está seguro de restaurar los datos de juego en el slot seleccionado?,Are you sure to restore the game data in the selected slot?,Tem certeza de recuperar os dados do jogo na vaga selecionada?
+ARESURETORESTOREDATA,¿Está seguro de restaurar los datos de juego en el slot seleccionado?,Are you sure you want to restore game data to the selected slot?,Tem certeza de recuperar os dados do jogo na vaga selecionada?
 RESTORING_DATA,Restaurando datos...,Restoring data...,Recuperando dados…
 DATA_RESTORED,Los datos han sido restaurados.,Data has been restored.,Dados recuperados.
 SAVEDATABACKED,Datos respaldados,Backed up data,Dados reserva
@@ -344,7 +344,7 @@ CLOSEGAME,Cerrar juego,Close game,Fechar o jogo
 DIFFSMOLXANDEATH,Inire Pecunia,Inire Pecunia,Inire Pecunia
 DIFFSMOLXANDEATH_DESC,Evita la muerte del personaje reemplazando el daño por gasto de dinero.,Avoids character death by replacing damage by spending money.,Evita a morte do personagem ao substituir o dano por dinheiro gasto.
 REMOVE,Remover,Remove,Remover
-USEJOYSTICKDINAMIC,Posición Palanca dinámica,Dinamic Stick position,Posição dinâmica da alavanca
+USEJOYSTICKDINAMIC,Posición Palanca dinámica,Dynamic Stick position,Posição dinâmica da alavanca
 CLOCK_TOWER,Torre de reloj,Clock tower,Torre do relógio
 PRESSENTERTOSTART,Presiona [Enter] para comenzar,Press [Enter] to start,Aperte [Enter] para começar
 NOEXTERNALCONTROLLERS,No se han detectado controles adicionales,External controllers not detected,Controles externos não detectados
