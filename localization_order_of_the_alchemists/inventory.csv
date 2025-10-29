@@ -176,7 +176,7 @@ CLOCKPOCKET_DESC,"Un reloj elegante que ha dejado caer Joseph, está marcado con
 GIANTBATWING_TITLE,Alas de Zotz,Zotz Wings,Asas de Zotz
 GIANTBATWING_DESC,Alas de murciélago gigante que es utilizado en varias pociones alquímicas.,Wings of a giant bat that is used in various alchemical potions.,Asas de um morcego gigante que é usado em várias poções alquímicas.
 CANDYDIFF_TITLE,Caramelo dulce,Sweet candy,Bala de caramelo
-CANDYDIFF_DESC,"¿Las cosas están difíciles? Con este caramelo cambia a nivel ""fácil"" la partida, el proceso es irreversible.","Things are difficult? With this candy, the game changes to “easy” level, the process is irreversible.","As coisas estão difíceis? Com essa bala, o jogo muda para “fácil”. O processo é irreversível."
+CANDYDIFF_DESC,"¿Las cosas están difíciles? Con este caramelo cambia a nivel ""fácil"" la partida.","Things are difficult? With this candy, the game changes to “easy” level.","As coisas estão difíceis? Com essa bala, o jogo muda para “fácil”."
 ACIDSULFUR_TITLE,Ácido sulfúrico,Sulfuric acid,Ácido sulfúrico
 ACIDSULFUR_DESC,Sustancia química altamente corrosiva que es necesaria para la transmutación de objetos. Solo se vende a Alquimistas Oficiales certificados por La Orden.,Highly corrosive chemical substance that is necessary for the transmutation of objects. Only sold to Official Alchemists certified by The Order.,Substância química altamente corrosiva que é necessária para a transmutação de objetos. É vendido apenas para Alquimistas Oficiais certificados pel’A Ordem.
 PIGIRON_TITLE,Arrabio,Pig iron,Ferro-gusa
@@ -281,3 +281,9 @@ GOLD_KEY_TITLE,Llave de Oro,Golden Key,
 GOLD_KEY_DESC,Una vieja llave hecha de oro.,An old golden key.,
 HATHAIRDECO_TITLE,Sombrero y Lazo,Hat and Ribbon,
 HATHAIRDECO_DESC,Objetos pertenecientes a los gemelos Cavendish.,Items belonging to the Cavendish twins.,
+RINGWIFE_TITLE,Anillos de bodas,Wedding rings,
+RINGWIFE_DESC,Pertenecientes a Johannes Trithemius y su esposa...,Belonging to Johannes Trithemius and his wife...,
+MEDALLIONTOZIUHA_TITLE,Medalla Toziuha,Toziuha Medallion,
+MEDALLIONTOZIUHA_DESC,Prueba de una lucha perfecta contra el señor del Xibalbá.,Proof of a perfect battle against the lord of Xibalba.,
+CANDYDIFF_TITLE,Caramelo agrio,Sour candy,
+CANDYDIFF_DESC,"¿Las cosas están muy fáciles? Con este caramelo cambia a nivel ""normal"" la partida.",Are things too easy? This candy changes the game to “normal” difficulty.,

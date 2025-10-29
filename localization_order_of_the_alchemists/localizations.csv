@@ -242,7 +242,7 @@ INTHENEXTUPDATE,En la próxima actualización...,In the next update...,Na próxi
 PROLOGUEFINISHED,Prólogo finalizado,Prologue finished,Prólogo finalizado
 YOUWANTGOWAGON,¿Regresar al vagón inicial del tren?,Back to the initial car of the train?,Voltar ao vagão inicial do trem?
 RETURNAMERITHIA,¿Regresar a Amerithia?,Return to Amerithia?,Retornar a Amerithia?
-DIFFCHANGEDTOEASY,"Dificultad cambiada a ""fácil""","Difficulty changed to ""easy""",Dificuldade modificada para “fácil”
+DIFFCHANGEDTOEASY,Dificultad cambiada,Difficulty changed,Dificuldade modificada
 ELEMENTALSAMPLENEEDED,Se necesita una muestra elemental,An elemental sample is required,Uma amostra elemental é necessária
 ABOUTEABARRIER,Las barreras de fuego celeste solo desaparecerán cuando el [Early Access] termine.,The fire barriers will only disappear when [Early Access] ends.,As barreiras de fogo apenas desaparecerão quando o [Acesso Antecipado] acabar.
 ELDRALIS_WOODS,Bosque de Eldralis,Eldralis Woods,Floresta de Eldralis
@@ -338,6 +338,20 @@ ACH20TITLE,El fin de la venganza,The end of revenge,
 ACH20DESC,Alcanza el final trágico.,Reach the tragic ending.,
 ACH21TITLE,Canción de cuna,Lullaby,
 ACH21DESC,Haz que cierta Alquimista consiga el sueño eterno.,Make a certain Alchemist achieve eternal sleep.,
+ACH22TITLE,El fin de la Alquimista,The end of the Alchemist,
+ACH22DESC,Alcanza el final bueno.,Reach the good ending.,
+ACH23TITLE,El fin del viaje,The end of the journey,
+ACH23DESC,Alcanza el final secreto.,Reach the secret ending.,
+ACH24TITLE,Cartografo,Cartographer,
+ACH24DESC,Completa el 100% del mapa.,Complete 100% of the map.,
+ACH25TITLE,Asesino de demonios,Demon Slayer,
+ACH25DESC,Completa el juego en modo díficil al derrotar a Johannes.,Complete the game in hard mode by defeating Johannes.,
+ACH26TITLE,Titanium Adeptis,Titanium Adeptis,
+ACH26DESC,Derrota al alquimista de Titanio.,Defeat the Titanium Alchemist.,
+ACH27TITLE,Señor del Xibalbá,Lord of Xibalbá,
+ACH27DESC,Derrota a Ahalcaná.,Defeat Ahalcaná.,
+ACH28TITLE,Sin piedad,No mercy,
+ACH28DESC,Consigue todos los tesoros de jefes por derrotarlos sin recibir daño.,Obtain all boss treasures by defeating them without taking damage.,
 FIREACTION,Disparar,Fire,Disparar
 STRAFEACTION,Mover lateralmente,Strafe,Se mover lateralmente
 CLOSEGAME,Cerrar juego,Close game,Fechar o jogo
@@ -359,3 +373,5 @@ CAPTUREIMGCANCELED,Captura de imagen cancelada,Image capture canceled,
 HOLDRAISEKEY,Mantén para subir un tono,Hold to raise key,
 HOLDLOWERKEY,Mantén para bajar un tono,Hold to lower key,
 LAKEWATCH,Mirador del lago Niquira,Niquira lake viewpoint,
+FIREMARGARET,¡¡¡FUEGO!!!,FIRE!!!,
+UNLOCKEDHARDMODE,Se ha desbloqueado el modo difícil.,Unlocked Hard mode.,
