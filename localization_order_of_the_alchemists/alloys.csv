@@ -9,9 +9,9 @@ AG_TITLE,Plata,Silver,Prata
 AG_DESC,"La aleación de Hierro+Plata tiene un alto índice de conductividad eléctrica. Además, permite detectar el dióxido de azufre, un gas abundante en volcanes activos.","Iron+Silver alloy has a high electrical conductivity index. Additionally, this alloy allows for the detection of sulfur dioxide, a gas abundant in active volcanoes.","A Liga Ferro+Prata tem uma fórmula com alta condutividade elétrica. Adicionalmente, essa liga permite a detecção de dióxido de enxofre, um gás abundante em vulcões ativos."
 N_DESC,Congela el aire alrededor del látigo a -200°C.,Freezes the air around the whip to -200°C.,Congela o ar em volta do chicote para -200°C.
 N_TITLE,Nitrógeno,Nitrogen,Nitrogênio
-O_TITLE,Oxígeno,Oxigen,Oxigênio
+O_TITLE,Oxígeno,Oxygen,Oxigênio
 O_DESC,Concentra átomos de Oxígeno en un espacio pequeño a una alta presión para crear un látigo de aire.,Concentrates Oxygen atoms in a small space at high pressure to create an air whip.,Concentra os átomos de Oxigênio num espaço pequeno em alta pressão para criar um chicote de ar.
 XE_TITLE,Xenón,Xenon,Xenônio
 XE_DESC,Invierte las cargas de las partículas de Xenon para crear 0.5 microgramos de Antimateria.,Reverses the charges of the Xenon particles to create 0.5 micrograms of Antimatter.,Reverte as cargas das partículas de Xenônio para criar 0.5 microgramas de Antimatéria.
-H_TITLE,Hidrógeno,Hidrogen,Hidrogênio
-H_DESC,A partir de átomos de hidrógeno y oxigeno del aire canaliza un látigo de agua.,From hydrogen atoms and oxygen from air it canalizes a water whip.,Dos átomos de hidrogênio e oxigênio (previamente adquiridas) canaliza um chicote de água.
+H_TITLE,Hidrógeno,Hydrogen,Hidrogênio
+H_DESC,A partir de átomos de hidrógeno y oxigeno del aire canaliza un látigo de agua.,"From hydrogen atoms and oxygen from air, it canalizes a water whip.",Dos átomos de hidrogênio e oxigênio (previamente adquiridas) canaliza um chicote de água.
