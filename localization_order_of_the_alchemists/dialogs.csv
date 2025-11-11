@@ -379,12 +379,12 @@ DLG58_1705090606,Entiendo.,I understand.,Eu entendo.
 DLG59_1705090606,"Me encargaré de ese asunto. Gracias a nuestros médicos y a la ciencia, tenemos el poder de curar esa enfermedad.","I will take care of that matter. Thanks to our doctors and science, we have the power to cure that disease.","Me encarregarei deste assunto. Graças aos nossos médicos e a ciência, nós temos o poder de curar essa doença."
 DLG60_1705090606,Pero si aquella niebla sigue cubriendo la ciudad podría entorpecer nuestros esfuerzos. ,"But if that fog continues to cover the city, it could hinder our efforts. ","Mas se essa neblina continuar cobrindo a cidade, pode impedir nossos esforços."
 DLG61_1705090606,"De eso me encargaré yo, buscaré la manera de adentrame más a fondo en la ciudad y acabar con el responsable.","That's what I'll take care of, I'll look for a way to go deeper into the city and find out who's responsible.","Disto eu me encarregarei, procurarei uma forma de me infiltrar a fundo na cidade e achar quem é o responsável."
-DLG61B1_1705090606,"Pero no debes ir contra Eva sin tomar precauciones, a menos que quieras cometer el mismo error.","But you should not go against Eva without taking precautions, unless you want to make the same mistake.",
-DLG61B2_1705090606,"Toma, este es un [color=yellow]filtro para mascara de gas[/color], efectivo para el [color=yellow]Sulfuro de Carbono.[/color]","Here, this is a [color=yellow]gas mask filter[/color], effective for [color=yellow]Carbon Sulfide.[/color]",
-DLG61B3_1705090606,El cual es un gas que sabemos que Eva ha utilizado en incidentes anteriores.,Which is a gas we know Eva has used in previous incidents.,
-DLG61B4_1705090606,"Pero me temo que deberás buscar una Máscara de gas, ya que en estos momentos no contamos con una para entregarte.","But I'm afraid you'll have to look for a Gas Mask, as we don't currently have one to give you.",
-DLG61B5_1705090606,Veré si encuentro alguna en el camino.,I'll see if I can find one on the way.,
-DLG61B6_1705090606,"Excelente, cuando la tengas ve a ver a Margarete, ella puede ayudarte en caso de que la máscara esté dañada.","Excellent, when you have it go see Margaret, she can help you in case the mask is damaged.",
+DLG61B1_1705090606,"Pero no debes ir contra Eva sin tomar precauciones, a menos que quieras cometer el mismo error.","But you should not go against Eva without taking precautions, unless you want to make the same mistake.","Mas você não deve ir contra Eva sem tomar precauções, a menos que queira cometer o mesmo erro."
+DLG61B2_1705090606,"Toma, este es un [color=yellow]filtro para mascara de gas[/color], efectivo para el [color=yellow]Sulfuro de Carbono.[/color]","Here, this is a [color=yellow]gas mask filter[/color], effective for [color=yellow]Carbon Sulfide.[/color]","Aqui, este é um [color=yellow]filtro de máscara de gás[/color], eficaz para [color=yellow]sulfeto de carbono.[/color]"
+DLG61B3_1705090606,El cual es un gas que sabemos que Eva ha utilizado en incidentes anteriores.,Which is a gas we know Eva has used in previous incidents.,Que é um gás que sabemos que Eva usou em incidentes anteriores.
+DLG61B4_1705090606,"Pero me temo que deberás buscar una Máscara de gas, ya que en estos momentos no contamos con una para entregarte.","But I'm afraid you'll have to look for a Gas Mask, as we don't currently have one to give you.","Mas receio que você terá que procurar uma máscara de gás, pois no momento não temos nenhuma para lhe fornecer."
+DLG61B5_1705090606,Veré si encuentro alguna en el camino.,I'll see if I can find one on the way.,Vou ver se encontro um no caminho.
+DLG61B6_1705090606,"Excelente, cuando la tengas ve a ver a Margarete, ella puede ayudarte en caso de que la máscara esté dañada.","Excellent, when you have it go see Margaret, she can help you in case the mask is damaged.","Ótimo, quando você tiver, vá ver Margaret, ela pode te ajudar caso a máscara esteja danificada."
 DLG62_1705090606,También he hablado con una anciana llamada Evelyn que está refugiada en la entrada de la ciudad.,I have also spoken to an old woman named Evelyn who is sheltering at the entrance to the city.,Eu também tenho conversado com uma anciã chamada Evelyn que está refugiada na entrada da cidade.
 DLG63_1705090606,Estoy segura que al menos ella les dejara hacer su trabajo.,I'm sure she will at least let them do their job.,Tenho certeza que ela pelo menos nos deixará fazer o trabalho.
 DLG66_1705090606,¿Qué?,What?,O que?
@@ -1804,271 +1804,271 @@ HEISENHELPED2,Justo lo que necesitaba. Muchas gracias por tomarse la molestia de
 HEISENHELPED3,Ahora la investigación de la sangre de Athos finalmente avanzará.,Now the research on Athos' blood will finally move forward.,Agora a pesquisa sobre o sangue de Athos finalmente avançará.
 HEISENHELPED4,"Por cierto, hablando de investigaciones, ¿sabe que la biblioteca privada de La Orden ya está abierta?","By the way, speaking of research, did you know that the Order's private library is now open?","A propósito, falando em pesquisa, você sabia que a biblioteca particular da Ordem está disponível agora?"
 HEISENHELPED5,"Si necesita encontrar información en alguna investigación que esté realizando, en la biblioteca de La Orden puede encontrar información útil.","If you need to find information for any research you're doing, you can find useful information in the Order’s library.","Se precisar encontrar informações para qualquer pesquisa que esteja fazendo, você pode encontrar informações úteis na biblioteca da Ordem."
-DLG90_1710539613B,"[color=yellow]¿Definitivamente esto es una enfermedad, pero cuál?[/color]","[color=yellow]This is definitely an illness, but which one?[/color]",
-DLG90_1710539613C,Creo que en la biblioteca privada de La Orden hay [color=yellow]libros de medicina…[/color],I believe there are [color=yellow]medical books[/color] in the Order's private library...,
-DLG90_1710539613D,"Sabiendo qué enfermedad se debe tratar, [color=yellow]podría conseguir muestras[/color] y ayudar al problema de esta ciudad.","Knowing which illness to treat, [color=yellow]I could obtain samples[/color] and help solve this city's problem.",
-BIRSTALLTALKRESOLVEDEVELYN1,He descubierto la enfermedad que afecta a los ciudadanos. Se trata de la Peste negra.,I have discovered the disease affecting the citizens. It is the Black Death.,
-BIRSTALLTALKRESOLVEDEVELYN2,"¿Peste negra? Eso suena muy malo, como salido de una profecía.","Black Death? That sounds very bad, like something out of a prophecy.",
-BIRSTALLTALKRESOLVEDEVELYN3,"Lo es. Pero afortunadamente hay tratamiento, es una enferdad que ya fue descrita en registros históricos.","It is. But fortunately, there is treatment; it is a disease that has already been described in historical records.",
-BIRSTALLTALKRESOLVEDEVELYN4,Los médicos de La Orden sabrán los procedimientos necesarios para evitar más infecciones y tratar a los enfermos.,The doctors of the Order will know the necessary procedures to prevent further infection and treat the sick.,
-BIRSTALLTALKRESOLVEDEVELYN5,"Solo hice lo necesario, una enfermedad como esta puede expandirse descontroladamente a otras ciudades si no se toman las medidas adecuadas.",I only did what was necessary. A disease like this can spread uncontrollably to other cities if the proper measures are not taken.,
-BIRSTALLTALKRESOLVEDEVELYN6,No quisiera que aparezcan más problemas de los que ya tengo.,I don't want any more problems than I already have.,
-BIRSTALLTALKRESOLVEDEVELYN7,Si usted lo dice...,If you say so...,
-BIRSTALLTALKRESOLVEDEVELYN8,"Bien, me voy. Ya no tengo nada más que hacer aquí.","All right, I'm leaving. There's nothing more for me to do here.",
-BIRSTALLTALKRESOLVEDEVELYN9,"Espere, antes de que se vaya…","Wait, before you go...",
-BIRSTALLTALKRESOLVEDEVELYN10,"Por favor, acéptelo.","Please, accept this.",
-BIRSTALLTALKRESOLVEDEVELYN11,¿Es un libro... de música?,Is it a book... about music?,
-BIRSTALLTALKRESOLVEDEVELYN12,Me han dicho que los Alquimistas aprecian cualquier fuente de conocimiento.,I've been told that Alchemists appreciate any source of knowledge.,
-BIRSTALLTALKRESOLVEDEVELYN13,Y esto es lo que le puedo ofrecer.,And this is what I can offer you.,
-BIRSTALLTALKRESOLVEDEVELYN14,"No es como si estuviera interesada en la música... Pero gracias, supongo...","It's not as if I'm interested in music... But thank you, I suppose...",
-BIRSTALLTALKRESOLVEDEVELYN15,"Al contrario, Gracias a usted.","On the contrary, thank you.",
-BIRSTALLTALKRESOLVEDEVELYN16,Le deseo lo mejor.,I wish you well.,
-DLG1_1758213686,"La biblioteca privada de La Orden cuenta con una amplia selección de libros, ordenados por diferentes categorías.","The Order's private library has a wide selection of books, organized into different categories.",
-DLG2_1758213686,Botánica,Botany,
-DLG3_1758213686,La botánica es la rama de la biología que se dedica al estudio científico de las plantas.,Botany is the branch of biology dedicated to the scientific study of plants.,
-DLG5_1758213686,Mineralogía,Mineralogy,
-DLG6_1758213686,La ciencia de la Mineralogía estudia aquellas especies inorgánicas llamadas minerales.,The science of mineralogy studies inorganic species called minerals.,
-DLG8_1758213686,Medicina,Medicine,
-DLG9_1758213686,"La medicina es la ciencia dedicada a la prevención, diagnóstico, tratamiento y curación de enfermedades y afecciones del cuerpo humano.","Medicine is the science dedicated to the prevention, diagnosis, treatment, and cure of diseases and conditions of the human body.",
-DLG10_1758213686,Anatomía,Anatomy,
-DLG11_1758213686,"La anatomía es la rama de la biología y la medicina que estudia la estructura y forma de los seres vivos, incluyendo la ubicación y relación de sus órganos y sistemas.","Anatomy is the branch of biology and medicine that studies the structure and form of living beings, including the location and relationship of their organs and systems.",
-DLG13_1758213686,Crónicas de enfermedades,Chronicles of diseases,
-DLG14_1758213686,"Relatos y descripciones de las grandes epidemias históricas, sus orígenes, síntomas, tratamientos conocidos.","Accounts and descriptions of major historical epidemics, their origins, symptoms, and known treatments.",
-DLG15_1758213686,Este tratado se propone clasificar y describir con diligencia las enfermedades más comunes...,This treatise aims to diligently classify and describe the most common diseases...,
-DLG16_1758213686,A través de una cuidadosa observación... Uno puede aprender a diferenciar una dolencia de otra y a aplicar el remedio correcto.,Through careful observation... One can learn to differentiate one ailment from another and apply the correct remedy.,
-DLG17_1758213686,"La [color=yellow]lepra comienza con fiebre y debilidad muscular[/color], manifestándose en la piel con [color=yellow]lesiones cutáneas[/color] que se extienden.","Leprosy begins with fever and muscle weakness, manifesting itself on the skin with spreading skin lesions.",
-DLG18_1758213686,"El tifus se presenta con [color=yellow]fiebre alta, dolor de cabeza, escalofríos y un sarpullido[/color] distintivo en la piel.","Typhus presents with [color=yellow]high fever, headache, chills, and a distinctive rash[/color] on the skin.",
-DLG19_1758213686,"La [color=yellow]peste negra[/color] es una enfermedad aguda y grave, caracterizada por [color=yellow]fiebre, vómitos, la aparición de necrosis en las extremidades y severa dificultad respiratoria.[/color]","The [color=yellow]Black Death[/color] is an acute and serious disease, characterized by [color=yellow]fever, vomiting, the appearance of necrosis in the extremities, and severe respiratory distress.[/color]",
-DLG20_1758213686,"La [color=yellow]fiebre escarlatina[/color], que afecta principalmente a niños, se reconoce por una [color=yellow]fiebre intensa, la piel y la lengua enrojecidas, vómitos y dolor[/color] en el cuerpo.","Scarlet fever, which mainly affects children, is recognized by a high fever, red skin and tongue, vomiting, and body aches.",
-DLG22_1758213686,"De todas estas enfermedades, una de ellas es la que afecta a la ciudad de Birstall.","Of all these diseases, one of them is affecting the town of Birstall.",
-DLG23_1758213686,Si comparo sus síntomas a lo que la anciana me comentó...,If I compare its symptoms to what the old woman told me...,
-DLG24_1758213686,Qué enfermedad estoy buscando...,What disease am I looking for...,
-DLG25_1758213686,Fiebre escarlantina,Scarlet fever,
-DLG26_1758213686,"Esto puede ser lo que estoy buscando, hay síntomas que se parecen, aunque falta algo...","This may be what I'm looking for, there are similar symptoms, although something is missing...",
-DLG28_1758213686,Lepra,Leprosy,
-DLG29_1758213686,Varios de los síntomas concuerdan con esta enfermedad.,Several of the symptoms match this disease.,
-DLG31_1758213686,Peste negra,Black Death,
-DLG32_1758213686,"Todos los síntomas concuerdan con lo que mencionó la anciana, debo seguir leyendo...","All the symptoms match what the old woman mentioned, I must read on...",
-DLG33_1758213686,"Es imperativo que para estar seguros que la afección es resultado de la peste negra, [color=yellow]se debe tomar muestras[/color] de animales en el ambiente para su analisis...","To be sure that the condition is the result of the Black Death, it is imperative that samples be taken from animals in the environment for analysis...",
-DLG34_1758213686,"Por ejemplo una [color=yellow]rata[/color], además la muestra debe ser contenida en un recipiente que evite contaminación externa, [color=yellow]como un tubo de muestra.[/color]","For example, [color=yellow]a rat.[/color] In addition, the sample must be contained in a container that prevents external contamination, [color=yellow]such as a sample tube.[/color]",
-DLG35_1758213686,Debo conseguir algo para poder guardar una muestra...,I must find something to store a sample in...,
-DLG36_1758213686,Y en algún lugar de Birstall había visto una rata... pero no recuerdo donde... que molestia...,And somewhere in Birstall I had seen a rat... but I can't remember where... how annoying...,
-DLG39_1758213686,Tifus,Typhus,
-DLG40_1758213686,Se parece mucho a los síntomas que mencionó la anciana.,It is very similar to the symptoms mentioned by the old woman.,
-DLG44_1758213686,Venenos y antídotos,Poisons and antidotes,
-DLG45_1758213686,"Una selección de material sobre compuestos venenosos, su formulación química y antídotos conocidos.","A selection of material on poisonous compounds, their chemical formulation, and known antidotes.",
-DLG47_1758213686,Teoría humoral,Humoral theory,
-DLG48_1758213686,"Tratados antiguos que explican que las enfermedades dependen del equilibrio de los cuatro fluidos corporales o humores: sangre, flema, bilis amarilla y bilis negra.","Ancient treatises explaining that diseases depend on the balance of the four bodily fluids or humors: blood, phlegm, yellow bile, and black bile.",
-DLG50_1758213686,Elixires y Tinturas,Elixirs and Tinctures,
-DLG51_1758213686,Manuales con fórmulas detalladas para destilar la quintaesencia de las sustancias y crear elixires curativos.,Manuals with detailed formulas for distilling the quintessence of substances and creating healing elixirs.,
-DLG58_1758213686,Después de largas horas de lectura has aprendido nuevos temas que podrían (o tal vez no) ayudar en diferentes situaciones.,"After long hours of reading, you have learned new topics that could (or perhaps could not) help in different situations.",
-DLG5_1758213678,Hola señorita Xandria.,"Hello, Miss Xandria.",
-DLG6_1758213678,"Atreu, qué bueno verte de nuevo.","Atreu, it's good to see you again.",
-DLG7_1758213678,¿Cómo sigues de tus heridas?,How are your wounds?,
-DLG8_1758213678,¡Bastante bien!,Pretty good!,
-DLG9_1758213678,"Los medicos se sorprendieron cuando me atendieron, porque a pesar de la herida no sufrí un sangrado excesivo.","The doctors were surprised when they treated me, because despite the wound, I didn't suffer excessive bleeding.",
-DLG10_1758213678,[color=yellow]Casi como si controlaran el flujo de mi sangre...[/color],[color=yellow]Almost as if they were controlling the flow of my blood...[/color],
-DLG12_1758213678,"¿Usted usó su alquimia, verdad?","You used your alchemy, didn't you?",
-DLG13_1758213678,"Es lo menos que podía hacer, arriesgaste tu vida por ayudarme...",It was the least I could do. You risked your life to help me...,
-DLG14_1758213678,Qué poder tan sorprendente...,What amazing power...,
-DLG15_1758213678,"Je, je, je. Sabía que usted que era una gran persona.","Heh, heh, heh. I knew you were a great person.",
-DLG17_1758213678,"¡Que no se vuelva a repetir, escuchaste mocoso!","Don't let it happen again, you hear me, brat!",
-DLG18_1758213678,Si hay problemas que sobrepasan tus capacidades debes pedir ayuda.,"If there are problems beyond your capabilities, you must ask for help.",
-DLG19_1758213678,Está bien...,All right...,
-DLG20_1758213678,Pero usted en Grijayla fue sola sin esperar refuerzos...,But you went to Grijayla alone without waiting for reinforcements...,
-DLG21_1758213678,Cierra la boca.,Shut up.,
-DLG22_1758213678,"Está bien, lo que usted diga... No la interrumpo más, seguro debe estar bastante ocupada.","All right, whatever you say... I won't interrupt you anymore, I'm sure you must be quite busy.",
-DLG24_1758213678,"Esta biblioteca es impresionante, hay muchos libros que son muy raros de encontrar.","This library is impressive, there are many books that are very rare to find.",
-DLG25_1758213678,Sí... es la biblioteca privada de La Orden... estaba cerrada porque la estaban remodelando...,Yes... it's the Order's private library... it was closed because they were remodeling it...,
-DLG26_1758213678,"Es un lugar al que solo pueden acceder Alquimistas Oficiales, ¿tú qué rayos haces aquí?",It's a place that only Official Alchemists can access. What the hell are you doing here?,
-DLG27_1758213678,La Directora Alessa me ha dado un permiso especial.,Director Alessa has given me special permission.,
-DLG28_1758213678,¿Y eso a qué se debe?,And why is that?,
-DLG29_1758213678,No estoy seguro...,I'm not sure...,
-DLG30_1758213678,La señorita Margaret mencionó que [color=yellow]mi poder como Alquimista de plomo puede ser de utilidad.[/color],Miss Margaret mentioned that [color=yellow]my power as a Lead Alchemist might be useful.[/color],
-DLG31_1758213678,Así que me recomendó venir aquí y leer varios libros para poder mejorar mis habilidades.,So she recommended that I come here and read several books to improve my skills.,
-DLG32_1758213678,Ya veo...,I see...,
-DLG35_1758213678,Aprovecharé para [color=yellow]leer algunos libros[/color] del estante que está a la izquierda.,I'll take this opportunity to [color=yellow]read some books[/color] from the shelf on the left.,
-CHECKMARIMBA1,Qué rayos es esta cosa...,What the heck is this thing...,
-CHECKMARIMBA2,Parece un piano... ¿pero es de madera? No entiendo...,It looks like a piano... but it’s made of wood? I don't understand...,
-CHECKMARIMBA3,Esto... se parece a lo que está ilustrado en el libro que me dio aquella anciana...,This... looks like what's illustrated in the book that old lady gave me...,
-CHECKMARIMBA4,Así que esto es una marimba...,So this is a marimba...,
-CHECKMARIMBA5,"El Libro contiene información sobre como leer notación musical, además de partituras para tocar en este instrumento...","The book contains information on how to read musical notation, as well as sheet music for playing this instrument...",
-CHECKMARIMBA6,Tal vez pueda echarle un vistazo a esta cosa...,Maybe I can take a look at this thing...,
-CHECKMARIMBA7,Qué hago ahora...,What do I do now...,
-CHECKMARIMBA8,Tocar instrumento libremente,Play the instrument freely,
-CHECKMARIMBA9,Tocar partitura del libro,Play the sheet music,
-CHECKMARIMBA10,Toca las notas indicadas cuando estén sobre la línea celeste.,Play the notes indicated when they are on the blue line.,
-CHECKMARIMBA11,No tocar,Don't play,
-JOHANNES2NDPHASEDLG1,Basta de juegos.,Enough games.,
-JOHANNES2NDPHASEDLG2,Te mostraré lo que es ser un verdadero controlador de la sangre.,I'll show you what it means to be a true blood controller.,
-DLG3_1759940937,¡Johannes!,Johannes!,
-DLG4_1759940937,Te has tardado bastante Xandria.,"You've taken long enough, Xandria.",
-DLG5_1759940937,Serás testigo del poder del milagro. Hoy el Opus Magnum se manifestará y me otorgará el poder que merezco.,"You will witness the power of the miracle. Today, the Opus Magnum will manifest itself and grant me the power I deserve.",
-DLG6_1759940937,Maldito bastardo...,Damn bastard...,
-DLG7_1759940937,"Solo eres un hombre sin corazón, no te mereces absolutamente nada.","You're just a heartless man, you deserve absolutely nothing.",
-DLG8_1759940937,Y yo seré quién ponga fin a tu miserable existencia.,And I will be the one to end your miserable existence.,
-DLG9_1759940937,"Solo hablas y hablas de acabar conmigo, ¿por que tanta necesad? ¿por qué luchas?","You just talk and talk about finishing me off, why so desperate? Why are you fighting?",
-DLG12_1759940937,Yo...,I...,
-DLG15_1759940937,¡Lucho para vengarme!,I'm fighting for revenge!,
-DLG16_1759940937,"¡He vivido para este momento, y devolverte todo el daño que me has hecho!","I've lived for this moment, to pay you back for all the harm you've done to me!",
-DLG17_1759940937,Maravilloso...,Wonderful...,
-DLG18_1759940937,Sigues siendo la misma niña estúpida.,You're still the same stupid girl.,
-DLG21_1759940937,¡Lucho por hacerte pagar por tus crímenes!,I fight to make you pay for your crimes!,
-DLG22_1759940937,"Oh, ¿en serio? ¿Quién te crees que eres?","Oh, really? Who do you think you are?",
-DLG23_1759940937,"Alguien que ha sufrido tanto, que no desea que otra persona inocente pase por lo mismo.",Someone who has suffered so much that she doesn't want another innocent person to go through the same thing.,
-DLG24_1759940937,Que cursilerías estás diciendo...,What corny things you're saying...,
-DLG27_1759940937,¡Lucho por aquellos inocentes que merecen ver otro día amanecer!,I fight for those innocent people who deserve to see another day dawn!,
-DLG28_1759940937,Por aquellos de los que te has aprovechado.,For those you've taken advantage of.,
-DLG29_1759940937,Por aquellos a los que has utilizado y desechado como simples herramientas.,For those you've used and discarded like mere tools.,
-DLG30_1759940937,Y también por mi hermano... por Nana... y todos los que desean un mundo mejor.,"And also for my brother... For Nana, Elisia, and all those who want a better world.",
-DLG33_1759940937,Qué importa de todas formas...,What does it matter anyway...,
-DLG34_1759940937,Has llegado demasiado tarde.,You're too late.,
-DLG35_1759940937,Tuve el tiempo suficiente para [color=yellow]poder controlar el circuito base para el cambio de dominio de elemento.[/color],I had enough time to [color=yellow]control the base circuit for the elemental domain change.[/color],
-DLG36_1759940937,¿La bendición de Ixquic?,Ixquic's blessing?,
-DLG37_1759940937,"Así es, ahora con el cambio de elemento, [color=yellow]puedo controlar el hierro.[/color]","That's right, now with the element change, [color=yellow]I can control iron.[/color]",
-DLG38_1759940937,"Aquel ""hermano"" tuyo ya no me es necesario y tampoco tú.","I no longer need that “brother” of yours, nor do I need you.",
-DLG39_1759940937,"Al final, si uno quiere que las cosas salgan bien, uno mismo debe hacerlo.","In the end, if you want things to turn out right, you have to do it yourself.",
-DLG2_1759940973,Es hora de terminar todo.,It's time to end everything.,
-DLG3_1759940973,Eso que has bebido es...,What you drank is...,
-DLG4_1759940973,Es lo que llamamos la [color=yellow]Sangre de Athos.[/color],It's what we call the [color=yellow]Blood of Athos.[/color],
-DLG5_1759940973,Sin importar el resultado de nuestra pelea...,Regardless of the outcome of our fight...,
-DLG7_1759940973,¡Tu muerte está asegurada!,Your death is assured!,
-DLG8_1759940973,Maldito... ¿Hasta donde piensas llegar con esto?,Damn you... How far do you plan to take this?,
-DLG2_1759956751,Esto no puede ser posible...,This can't be possible...,
-DLG3_1759956751,Yo debía ser vencedor...,I was supposed to be the victor...,
-DLG4_1759956751,¡Muere de una maldita vez!,Just fucking die already!,
-DLG8_1759956751,"Pero no importa, al final gano yo.","But it doesn't matter, in the end I win.",
-DLG9_1759956751,¿Eh?,Huh?,
-DLG1_1759960392,¿¡Una explosion!?,An explosion!?,
-DLG2_1759960392,No...,No...,
-DLG4_1759960392,¡El núcleo del demonio!,The demon's core!,
-DLG3_1760026992,"Al salir de la abadía, desde lo alto después de una extenuante batalla...","Leaving the abbey, from above after an exhausting battle...",
-DLG4_1760026992,Xandria no podía creer lo que estaba viendo...,Xandria couldn't believe what she was seeing...,
-DLG6_1760026992,"Una nube gigantezca en forma de hongo, arrastrando cenizas y desolación...","A giant mushroom cloud, trailing ash and desolation...",
-DLG7_1760026992,Amerithia y las ciudades a su alrededor fueron destruidas.,Amerithia and the surrounding cities were destroyed.,
-DLG8_1760026992,Xandría ya no veía aquella ciudad por la que incontables veces pasó.,Xandria no longer saw the city she had passed through countless times.,
-DLG10_1760026992,Aquella noche...,That night...,
-DLG11_1760026992,Xandria fue testigo del poder aterrador del [color=yellow]Núcleo del demonio.[/color],Xandria witnessed the terrifying power of the [color=yellow]Demon Core.[/color],
-DLG2_1760285442,Así que eras tú...,So it was you...,
-DLG3_1760285442,¿Señora Isabel? ¿Qué pasa?,Mrs. Isabel? What's wrong?,
-DLG4_1760285442,Esa melodía... la que has tocado...,That melody... the one you played...,
-DLG5_1760285442,No sé... solo estaba tocando lo que dice en este libro...,I don't know... I was just playing what it says in this book...,
-DLG6_1760285442,¿Puedo verlo?,Can I see it?,
-DLG7_1760285442,Claro...,Sure...,
-DLG8_1760285442,Ya veo... el autor de este libro fue un músico muy reconocido en nuestro pueblo hace muchos años...,I see... the author of this book was a well-known musician in our town many years ago...,
-DLG9_1760285442,Un día decidió salir y explorar el mundo para hacer llegar su música a mucha más gente.,One day he decided to go out and explore the world to bring his music to many more people.,
-DLG10_1760285442,Después de eso no supimos más de él.,"After that, we never heard from him again.",
-DLG11_1760285442,Ya veo... qué pequeño puede resultar el mundo a veces...,I see... how small the world can be sometimes...,
-DLG12_1760285442,Me han contado que tienes cuentas por arreglar con aquel hombre rubio...,I've been told that you have a score to settle with that blond man...,
-DLG13_1760285442,"Pero te veo aquí, desviandote de tu camino y has ayudado a muchas personas...","But I see you here, straying from your path and helping many people...",
-DLG14_1760285442,Definitivamente Dirián vio algo muy especial en ti...,Dirián definitely saw something very special in you...,
-DLG15_1760285442,No sé que decir al respecto...,I don't know what to say about that...,
-DLG16_1760285442,"Sígueme, tengo algo importante de lo que hablar contigo.","Follow me, I have something important to talk to you about.",
-DLG2_1760304083,¿De qué quería hablarme?,What did you want to talk to me about?,
-DLG3_1760304083,Logré ver a Dirián durante sus ultimos momentos...,I managed to see Dirián during his last moments...,
-DLG5_1760304083,Al menos tuve tiempo de despedirme...,At least I had time to say goodbye...,
-DLG6_1760304083,De verdad lo lamento...,I'm truly sorry...,
-DLG7_1760304083,¿Era Dirián un familiar suyo?,Was Dirián a relative of yours?,
-DLG8_1760304083,"No, solamente eramos amigos de la infancia. Soy un poco mayor que él, así que fui para Dirián como una hermana mayor...","No, we were just childhood friends. I'm a little older than him, so I was like an older sister to Dirián...",
-DLG9_1760304083,"Aun en sus últimos momentos no dejaba de sonreír, de verdad que fue un hombre tan único...","Even in his last moments, he never stopped smiling. He really was such a unique man...",
-DLG10_1760304083,También me contó cosas buenas de ti…,He also told me good things about you...,
-DLG11_1760304083,"Ahora estoy totalmente segura, que [color=yellow]tú eres ese rayo de esperanza que disipará la horrible oscuridad que se avecina.[/color]",Now I am absolutely certain that [color=yellow]you are the ray of hope that will dispel the horrible darkness that is coming.[/color],
-DLG13_1760304083,¿A qué se refiere?,What do you mean?,
-DLG14_1760304083,[color=yellow]La noche de los Toziuha[/color] se acerca.,[color=yellow]The Toziuha night[/color] is approaching.,
-DLG14B_1760304083,[color=yellow]La noche de los Toziuha[/color] ha llegado…,[color=yellow]The Toziuha Night[/color] has arrived...,
-DLG14C_1760304083,La puerta está abierta para que el demonio traiga el caos a nuestro mundo.,The door is open for the demon to bring chaos to our world.,
-DLG14D_1760304083,"Y será momento cuando la puerta se abra, permitiendo el paso al demonio que traerá caos a nuestro mundo.","And it will be time when the door opens, allowing the demon to pass through and bring chaos to our world.",
-DLG16_1760304083,No dejes que la ira te ciegue.,Don't let anger blind you.,
-DLG17_1760304083,La mayoría de los Toziuha son demonios astutos que buscan siempre el beneficio propio.,Most Toziuha are cunning demons who always seek their own benefit.,
-DLG18_1760304083,¿La mayoría?,Most?,
-DLG19_1760304083,Ellos son seres que provienen de un mundo diferente al nuestro.,They are beings who come from a world different from ours.,
-DLG20_1760304083,"Son seres que se alimentan de almas humanas, del sufrimiento de los mortales...","They are beings who feed on human souls, on the suffering of mortals...",
-DLG21_1760304083,Pero no todos los Toziuha son iguales...,But not all Toziuha are the same...,
-DLG22_1760304083,"Como sea, de todas formas no es el momento de discutir sobre eso...","Anyway, this is not the time to discuss that...",
-DLG23_1760304083,El tiempo corre y aquel hombre rubio que hizo el pacto con el Toziuha debe ser detenido.,"Time is running out, and that blond man who made the pact with the Toziuha must be stopped.",
-DLG24_1760304083,Espero que puedas cumplir con el último deseo de Dirián...,I hope you can fulfill Dirián's last wish...,
-DLG25_1760304083,Lo tendré en cuenta...,I'll keep that in mind...,
-DLG26_1760304083,Te deseo mucha suerte en tu misión.,I wish you the best of luck on your mission.,
-DLG2_1760304084,Esto es... ¿Un retrato tallado en madera?,This is... a portrait carved in wood?,
-DLG3_1760304084,Simboliza a nuestra [color=yellow]Diosa Ixquic.[/color],It symbolizes our [color=yellow]Goddess Ixquic.[/color],
-DLG4_1760304084,Guardiana del inframundo y madre de los dioses gemelos que mantuvieron nuestro mundo en equilibrio durante dos milenios.,Guardian of the underworld and mother of the twin gods who kept our world in balance for two millennia.,
-DLG5_1760304084,"Pero el equilibrio se perdió, y en consecuencia, los Toziuha pudieron salir del inframundo.","But the balance was lost, and as a result, the Toziuha were able to escape from the underworld.",
-DLG6_1760304084,"¿Guardiana del inframundo, eh?","Guardian of the underworld, huh?",
-DLG9_1760304084,Hay un texto escrito en la parte inferior del retrato...,There is some text written at the bottom of the portrait...,
-DLG10_1760304084,[color=yellow]Ixquic desafió a los señores del Xibalbá con la única intención de degustar los frutos del árbol calavera.[/color],[color=yellow]Ixquic challenged the lords of Xibalba with the sole intention of tasting the fruits of the skull tree.[/color],
-DLGTRAGICENDTXT1,"Maldito, mereces arder eternamente...","Damn you, you deserve to burn forever...",
-DLGTRAGICENDTXT2,"Por todo el dolor que me has provocado, debería hacerte sufrir más...","For all the pain you've caused me, I should make you suffer more...",
-DLGTRAGICENDTXT3,¡Muere!,Die!,
-DLGTRAGICENDTXT4,"Ja, ja, ja...","Ha, ha, ha...",
-DLGTRAGICENDTXT5,¿De qué te ríes imbécil?,"What are you laughing at, you idiot?",
-DLGTRAGICENDTXT6,Mi plan hubiera sido perfecto si te mataba...,My plan would have been perfect if I had killed you...,
-DLG5_1760394027,¿Eh? Qué está pasando...,Huh? What's going on...,
-DLG6_1760394027,Así que eres la mortal que me ofrece tributo...,So you're the mortal offering tribute...,
-DLG8_1760394027,¿Ah? Hay una voz sonando en mi cabeza...,Huh? There's a voice ringing in my head...,
-DLG9_1760394027,¿Quién eres?,Who are you?,
-DLG10_1760394027,Soy la guardiana del Xibalbá.,I am the guardian of Xibalba.,
-DLG12_1760394027,Ya veo... así que eres tú...,I see... so it's you...,
-DLG13_1760394027,No te percibo tan sorprendida...,You don't seem that surprised...,
-DLG15_1760394027,No es como si fuera la primera vez que estoy hablando con un Toziuha.,It's not like this is the first time I've spoken to a Toziuha.,
-DLG15B_1760394027,Te he pagado un tributo porque quiero respuestas.,I have paid you tribute because I want answers.,
-DLG15C_1760394027,¿Cuál es el objetivo de Ahalcaná?,What is Ahalcaná's goal?,
-DLG15D_1760394027,Él… busca salir del inframundo.,He... seeks to leave the underworld.,
-DLG15E_1760394027,¿Qué? ¿Acaso ya no había salido?,What? Hasn't he already left?,
-DLG15F_1760394027,"Sé que te has encontrado con Ahalcaná, [color=yellow]pero solo es una ilusión.[/color]","I know you have encountered Ahalcaná, [color=yellow]but it is only an illusion.[/color]",
-DLG15G_1760394027,[color=yellow]Su poder sigue encerrado en el Xibalbá.[/color],[color=yellow]His power remains sealed in Xibalba.[/color],
-DLG15H_1760394027,De hecho es así con todos los Toziuha.,"In fact, this is true of all Toziuha.",
-DLG15I_1760394027,Es una de las cosas que nos diferencia de cualquier demonio.,It's one of the things that sets us apart from any demon.,
-DLG15J_1760394027,Te has dado cuenta eh…,"You've noticed, eh...",
-DLG15K_1760394027,Eres más inteligente de lo que pensaba.,You're smarter than I thought.,
-DLG18_1760394027,Te he pagado un tributo porque necesito de tu ayuda...,I have paid you tribute because I need your help...,
-DLG20_1760394027,Me enteré que Ahalcaná está cerca de lograr su objetivo... ,I heard that Ahalcaná is close to achieving its goal... ,
-DLG20B_1760394027,Es cuestión de tiempo para que su poder sea completamente restaurado.,It’s only a matter of time before his power is fully restored.,
-DLG21_1760394027,Yo lo detendré.,I will stop him.,
-DLG22_1760394027,"Vaya, vaya... Una mujer muy decidida, aunque esté diciendo disparates.","Well, well... A very determined woman, even if she is talking nonsense.",
-DLG23_1760394027,Normalmente no dejaría pasar a un humano al Xibalbá...,"Normally, I would not allow a human to enter Xibalba...",
-DLG27_1760394027,Pero [color=yellow]los descendientes del rey Dirián[/color] te tienen en alta estima...,But [color=yellow]the descendants of King Dirián[/color] hold you in high esteem...,
-DLG28_1760394027,"Le debía un favor, así que por esta vez lo permitiré.","I owed him a favor, so I will allow it this once.",
-DLG31_1760394027,"Deja que llegue hacia Ahalcaná, yo me haré cargo del resto.","Let him reach Ahalcana, I will take care of the rest.",
-DLG32_1760394027,Pues que así sea...,So be it...,
-DLG33_1760394027,Y más te vale no fallar...,And you'd better not fail...,
-DLG34_1760394027,"[color=yellow]De lo contrario, te haré sufrir por el resto de la eternidad.[/color]","[color=yellow]Otherwise, I will make you suffer for the rest of eternity.[/color]",
-DLG2_1760476923,Annette... detente... no quiero hacerte daño...,Annette... stop... I don't want to hurt you...,
-DLG3_1760476923,¿Ah? ¿Qué tonterías dices?,Huh? What nonsense are you talking about?,
-DLG5_1760476923,¡Cállate! ¡Cállate! ¡Cállate de una maldita vez!,"Shut up! Shut up! Shut up, damn it!",
-DLG6_1760476923,Tú... pagarás... con tu vida...,You... will pay... with your life...,
-DLG7_1760476923,"Con el Opus Magnum traeré a mi hermano, a mi padre...","With the Opus Magnum, I will bring my brother, my father...",
-DLG8_1760476923,Haré que tú y todos aquellos que amas sean el sacrificio que necesita el señor Johannes.,I will make you and all those you love the sacrifice that Lord Johannes needs.,
-DLG11_1760476923,¡Muere ahora!,Die now!,
-DLG2_1760891963,¿Eh? ¿Voy... a morir?,Huh? Am I... going to die?,
-DLG3_1760891963,No... por favor... no me hagan esto...,No... please... don't do this to me...,
-DLG4_1760891963,Lo siento... Annette...,I'm sorry... Annette...,
-DLG5_1760891963,Ah... a esto es lo que he llegado... perdón hermano... no pude vengarte...,"Ah... this is what I've come to... I'm sorry, brother... I couldn't avenge you...",
-DLG1_1760892238,Se acabó...,It's over...,
-DLG2_1760892238,Sin el poder de Annette... Johannes no tendrá escapatoria...,Without Annette's power... Johannes will have no escape...,
-DLG1_1760892582,Lo que faltaba... vienen más enemigos...,Just what we needed... more enemies are coming...,
-DLG2_1760892582,Aunque esta vez parecen algo diferentes...,Although this time they seem a little different...,
-DLG3_1760892720,"Señora Rachel, señora Alessa, finalmente llegaron... He logrado derrotar a Annette.","Mrs. Rachel, Mrs. Alessa, you're finally here... I've managed to defeat Annette.",
-DLG4_1760892720, Su poder era lo último que Johannes necesitaba en la activación del Núcleo del Demonio.,Her power was the last thing Johannes needed to activate the Demon Core.,
-DLG5_1760892720,Buen trabajo Xandria... no debió ser tan fácil...,"Good job, Xandria... it couldn't have been that easy...",
-DLG6_1760892720,Yo solo hice lo que debía hacer...,I just did what I had to do...,
-DLG8_1760892720,Solo queda [color=yellow]ir donde Johannes y acabar con él[/color] de una vez por todas.,All that's left is to [color=yellow]go to Johannes and finish him off[/color] once and for all.,
-DLG9_1760892720,Pero las cosas siguen empeorando Xandria... ¿has visto a los demonios de hace poco?,"But things keep getting worse, Xandria... Did you see the demons from earlier?",
-DLG10_1760892720,Sí... el poder que emanan... Acaso...,Yes... the power they emanate... Could it be...,
-DLG11_1760892720,Me temo que así es... [color=yellow]La noche de los Toziuha ha empezado.[/color],I'm afraid so... [color=yellow]The Toziuha Night has begun.[/color],
-DLG12_1760892720,"Su poder ha aumentado a niveles extraordinarios, [color=yellow]cualquier enemigo puede representar una amenaza[/color] incluso contra un Alquimista oficial.","Their power has increased to extraordinary levels, [color=yellow]any enemy can pose a threat[/color] even to an official Alchemist.",
-DLG13_1760892720,Xandria... no estás sola en esto...,Xandria... you are not alone in this...,
-DLG14_1760892720,Pero debo pedirte el favor de que ganes tiempo contra Johannes y no dejar que tus emociones sobrepasen a la razón.,But I must ask you to buy time against Johannes and not let your emotions overcome your reason.,
-DLG15_1760892720,"Señora Rachel... No, maestra, gracias por todas sus enseñanzas...","Mrs. Rachel... No, Master, thank you for all your teachings...",
-DLG16_1760892720,Todo este tiempo luché con un único objetivo...,All this time I fought with a single goal...,
-DLG17_1760892720,Xandria...,Xandria...,
-DLG18_1760892720,[color=yellow]Haré lo que sea necesario[/color] para detener a Johannes.,[color=yellow]I will do whatever it takes[/color] to stop Johannes.,
-DLG19_1760892720,"Rachel, déjala ir... nosotras también tenemos que hacer nuestra parte...","Rachel, let her go... we have to do our part too...",
-DLG20_1760892720,"Señora Alessa, maestra... Adiós.","Mrs. Alessa, Master... Farewell.",
-DLGENDCHOICETXTA,Por venganza...,For revenge...,
-DLGENDCHOICETXTB,Por justicia...,For justice...,
-DLGENDCHOICETXTC,Por salvar al mundo...,To save the world...,
-DLGENDCHOICETXT,¿Por qué razón lucho?,Why am I fighting?,
-DLGENDCHOICETXTSKIP,¿Volver a tomar una decisión?,Make another decision?,
+DLG90_1710539613B,"[color=yellow]¿Definitivamente esto es una enfermedad, pero cuál?[/color]","[color=yellow]This is definitely an illness, but which one?[/color]","[color=yellow]Isso é definitivamente uma doença, mas qual?[/color]"
+DLG90_1710539613C,Creo que en la biblioteca privada de La Orden hay [color=yellow]libros de medicina…[/color],I believe there are [color=yellow]medical books[/color] in the Order's private library...,Acredito que haja [color=yellow]livros de medicina[/color] na biblioteca particular da Ordem…
+DLG90_1710539613D,"Sabiendo qué enfermedad se debe tratar, [color=yellow]podría conseguir muestras[/color] y ayudar al problema de esta ciudad.","Knowing which illness to treat, [color=yellow]I could obtain samples[/color] and help solve this city's problem.","Sabendo qual doença tratar, [color=yellow]eu poderia obter amostras[/color] e ajudar a resolver o problema desta cidade."
+BIRSTALLTALKRESOLVEDEVELYN1,He descubierto la enfermedad que afecta a los ciudadanos. Se trata de la Peste negra.,I have discovered the disease affecting the citizens. It is the Black Death.,Descobri a doença que afeta os cidadãos. É a Peste Negra.
+BIRSTALLTALKRESOLVEDEVELYN2,"¿Peste negra? Eso suena muy malo, como salido de una profecía.","Black Death? That sounds very bad, like something out of a prophecy.","Peste Negra? Isso soa muito ruim, como algo saído de uma profecia."
+BIRSTALLTALKRESOLVEDEVELYN3,"Lo es. Pero afortunadamente hay tratamiento, es una enferdad que ya fue descrita en registros históricos.","It is. But fortunately, there is treatment; it is a disease that has already been described in historical records.","Sim, é verdade. Mas, felizmente, existe tratamento; trata-se de uma doença que já foi descrita em registros históricos."
+BIRSTALLTALKRESOLVEDEVELYN4,Los médicos de La Orden sabrán los procedimientos necesarios para evitar más infecciones y tratar a los enfermos.,The doctors of the Order will know the necessary procedures to prevent further infection and treat the sick.,Os médicos da Ordem conhecerão os procedimentos necessários para prevenir novas infecções e tratar os doentes.
+BIRSTALLTALKRESOLVEDEVELYN5,"Solo hice lo necesario, una enfermedad como esta puede expandirse descontroladamente a otras ciudades si no se toman las medidas adecuadas.",I only did what was necessary. A disease like this can spread uncontrollably to other cities if the proper measures are not taken.,Eu apenas fiz o necessário. Uma doença como essa pode se espalhar descontroladamente para outras cidades se as medidas adequadas não forem tomadas.
+BIRSTALLTALKRESOLVEDEVELYN6,No quisiera que aparezcan más problemas de los que ya tengo.,I don't want any more problems than I already have.,Não quero mais problemas do que já tenho.
+BIRSTALLTALKRESOLVEDEVELYN7,Si usted lo dice...,If you say so...,Se você diz…
+BIRSTALLTALKRESOLVEDEVELYN8,"Bien, me voy. Ya no tengo nada más que hacer aquí.","All right, I'm leaving. There's nothing more for me to do here.","Muito bem, estou indo embora. Não tenho mais nada para fazer aqui."
+BIRSTALLTALKRESOLVEDEVELYN9,"Espere, antes de que se vaya…","Wait, before you go...","Espere, antes de ir…"
+BIRSTALLTALKRESOLVEDEVELYN10,"Por favor, acéptelo.","Please, accept this.","Por favor, aceite isto."
+BIRSTALLTALKRESOLVEDEVELYN11,¿Es un libro... de música?,Is it a book... about music?,É um livro... sobre música?
+BIRSTALLTALKRESOLVEDEVELYN12,Me han dicho que los Alquimistas aprecian cualquier fuente de conocimiento.,I've been told that Alchemists appreciate any source of knowledge.,Me disseram que os Alquimistas apreciam qualquer fonte de conhecimento.
+BIRSTALLTALKRESOLVEDEVELYN13,Y esto es lo que le puedo ofrecer.,And this is what I can offer you.,E isto é o que posso lhe oferecer.
+BIRSTALLTALKRESOLVEDEVELYN14,"No es como si estuviera interesada en la música... Pero gracias, supongo...","It's not as if I'm interested in music... But thank you, I suppose...","Não é que eu me interesse por música... Mas obrigado, suponho…"
+BIRSTALLTALKRESOLVEDEVELYN15,"Al contrario, Gracias a usted.","On the contrary, thank you.","Pelo contrário, obrigado."
+BIRSTALLTALKRESOLVEDEVELYN16,Le deseo lo mejor.,I wish you well.,Te desejo tudo de bom.
+DLG1_1758213686,"La biblioteca privada de La Orden cuenta con una amplia selección de libros, ordenados por diferentes categorías.","The Order's private library has a wide selection of books, organized into different categories.","A biblioteca particular d’A Ordem possui uma vasta seleção de livros, organizados em diferentes categorias."
+DLG2_1758213686,Botánica,Botany,Botânica
+DLG3_1758213686,La botánica es la rama de la biología que se dedica al estudio científico de las plantas.,Botany is the branch of biology dedicated to the scientific study of plants.,A botânica é o ramo da biologia dedicado ao estudo científico das plantas.
+DLG5_1758213686,Mineralogía,Mineralogy,Mineralogia
+DLG6_1758213686,La ciencia de la Mineralogía estudia aquellas especies inorgánicas llamadas minerales.,The science of mineralogy studies inorganic species called minerals.,A mineralogia é a ciência que estuda espécies inorgânicas chamadas minerais.
+DLG8_1758213686,Medicina,Medicine,Medicina
+DLG9_1758213686,"La medicina es la ciencia dedicada a la prevención, diagnóstico, tratamiento y curación de enfermedades y afecciones del cuerpo humano.","Medicine is the science dedicated to the prevention, diagnosis, treatment, and cure of diseases and conditions of the human body.","A medicina é a ciência dedicada à prevenção, diagnóstico, tratamento e cura de doenças e doenças do corpo humano."
+DLG10_1758213686,Anatomía,Anatomy,Anatomia
+DLG11_1758213686,"La anatomía es la rama de la biología y la medicina que estudia la estructura y forma de los seres vivos, incluyendo la ubicación y relación de sus órganos y sistemas.","Anatomy is the branch of biology and medicine that studies the structure and form of living beings, including the location and relationship of their organs and systems.","Anatomia é o ramo da biologia e da medicina que estuda a estrutura e a forma dos seres vivos, incluindo a localização e a relação de seus órgãos e sistemas."
+DLG13_1758213686,Crónicas de enfermedades,Chronicles of diseases,Relatos de enfermidades
+DLG14_1758213686,"Relatos y descripciones de las grandes epidemias históricas, sus orígenes, síntomas, tratamientos conocidos.","Accounts and descriptions of major historical epidemics, their origins, symptoms, and known treatments.","Relatos e descrições das principais epidemias históricas, suas origens, sintomas e tratamentos conhecidos."
+DLG15_1758213686,Este tratado se propone clasificar y describir con diligencia las enfermedades más comunes...,This treatise aims to diligently classify and describe the most common diseases...,Este tratado tem como objetivo classificar e descrever diligentemente as doenças mais comuns…
+DLG16_1758213686,A través de una cuidadosa observación... Uno puede aprender a diferenciar una dolencia de otra y a aplicar el remedio correcto.,Through careful observation... One can learn to differentiate one ailment from another and apply the correct remedy.,"Por meio de observação cuidadosa, é possível aprender a diferenciar uma doença da outra e aplicar o remédio correto."
+DLG17_1758213686,"La [color=yellow]lepra comienza con fiebre y debilidad muscular[/color], manifestándose en la piel con [color=yellow]lesiones cutáneas[/color] que se extienden.","Leprosy begins with fever and muscle weakness, manifesting itself on the skin with spreading skin lesions.","A hanseníase começa com febre e fraqueza muscular, manifestando-se na pele com lesões cutâneas que se espalham."
+DLG18_1758213686,"El tifus se presenta con [color=yellow]fiebre alta, dolor de cabeza, escalofríos y un sarpullido[/color] distintivo en la piel.","Typhus presents with [color=yellow]high fever, headache, chills, and a distinctive rash[/color] on the skin.","O tifo se manifesta com [color=yellow]febre alta, dor de cabeça, calafrios e uma erupção cutânea característica[/color]."
+DLG19_1758213686,"La [color=yellow]peste negra[/color] es una enfermedad aguda y grave, caracterizada por [color=yellow]fiebre, vómitos, la aparición de necrosis en las extremidades y severa dificultad respiratoria.[/color]","The [color=yellow]Black Death[/color] is an acute and serious disease, characterized by [color=yellow]fever, vomiting, the appearance of necrosis in the extremities, and severe respiratory distress.[/color]","A [color=yellow]Peste Negra[/color] é uma doença aguda e grave, caracterizada por [color=yellow]febre, vômitos, aparecimento de necrose nas extremidades e insuficiência respiratória grave.[/color]"
+DLG20_1758213686,"La [color=yellow]fiebre escarlatina[/color], que afecta principalmente a niños, se reconoce por una [color=yellow]fiebre intensa, la piel y la lengua enrojecidas, vómitos y dolor[/color] en el cuerpo.","Scarlet fever, which mainly affects children, is recognized by a high fever, red skin and tongue, vomiting, and body aches.","A escarlatina, que afeta principalmente crianças, é reconhecida por febre alta, pele e língua vermelhas, vômitos e dores no corpo."
+DLG22_1758213686,"De todas estas enfermedades, una de ellas es la que afecta a la ciudad de Birstall.","Of all these diseases, one of them is affecting the town of Birstall.","De todas essas doenças, uma delas está afetando a cidade de Birstall."
+DLG23_1758213686,Si comparo sus síntomas a lo que la anciana me comentó...,If I compare its symptoms to what the old woman told me...,Se eu comparar os sintomas com o que a velha me contou…
+DLG24_1758213686,Qué enfermedad estoy buscando...,What disease am I looking for...,Que doença devo procurar…
+DLG25_1758213686,Fiebre escarlantina,Scarlet fever,Escarlatina
+DLG26_1758213686,"Esto puede ser lo que estoy buscando, hay síntomas que se parecen, aunque falta algo...","This may be what I'm looking for, there are similar symptoms, although something is missing...","Talvez seja isso que estou procurando, os sintomas são parecidos, embora falte alguma coisa…"
+DLG28_1758213686,Lepra,Leprosy,Hanseníase 
+DLG29_1758213686,Varios de los síntomas concuerdan con esta enfermedad.,Several of the symptoms match this disease.,Vários dos sintomas correspondem a esta doença.
+DLG31_1758213686,Peste negra,Black Death,Peste Negra
+DLG32_1758213686,"Todos los síntomas concuerdan con lo que mencionó la anciana, debo seguir leyendo...","All the symptoms match what the old woman mentioned, I must read on...","Todos os sintomas coincidem com o que a idosa mencionou, preciso continuar pesquisando..."
+DLG33_1758213686,"Es imperativo que para estar seguros que la afección es resultado de la peste negra, [color=yellow]se debe tomar muestras[/color] de animales en el ambiente para su analisis...","To be sure that the condition is the result of the Black Death, it is imperative that samples be taken from animals in the environment for analysis...","Para ter certeza de que a condição é resultado da Peste Negra, é imprescindível coletar amostras de animais no ambiente para análise…"
+DLG34_1758213686,"Por ejemplo una [color=yellow]rata[/color], además la muestra debe ser contenida en un recipiente que evite contaminación externa, [color=yellow]como un tubo de muestra.[/color]","For example, [color=yellow]a rat.[/color] In addition, the sample must be contained in a container that prevents external contamination, [color=yellow]such as a sample tube.[/color]","Por exemplo, [color=yellow]um rato.[/color] Além disso, a amostra deve ser contida em um recipiente que impeça a contaminação externa, [color=yellow]como um tubo de amostra.[/color]"
+DLG35_1758213686,Debo conseguir algo para poder guardar una muestra...,I must find something to store a sample in...,Preciso encontrar algo para guardar uma amostra…
+DLG36_1758213686,Y en algún lugar de Birstall había visto una rata... pero no recuerdo donde... que molestia...,And somewhere in Birstall I had seen a rat... but I can't remember where... how annoying...,E em algum lugar em Birstall eu tinha visto um rato... mas não consigo me lembrar onde... que chato…
+DLG39_1758213686,Tifus,Typhus,Tifo
+DLG40_1758213686,Se parece mucho a los síntomas que mencionó la anciana.,It is very similar to the symptoms mentioned by the old woman.,É muito semelhante aos sintomas mencionados pela idosa.
+DLG44_1758213686,Venenos y antídotos,Poisons and antidotes,Venenos e antídotos
+DLG45_1758213686,"Una selección de material sobre compuestos venenosos, su formulación química y antídotos conocidos.","A selection of material on poisonous compounds, their chemical formulation, and known antidotes.","Uma seleção de material sobre compostos venenosos, sua formulação química e antídotos conhecidos."
+DLG47_1758213686,Teoría humoral,Humoral theory,Teoria humoral 
+DLG48_1758213686,"Tratados antiguos que explican que las enfermedades dependen del equilibrio de los cuatro fluidos corporales o humores: sangre, flema, bilis amarilla y bilis negra.","Ancient treatises explaining that diseases depend on the balance of the four bodily fluids or humors: blood, phlegm, yellow bile, and black bile.","Tratados antigos explicavam que as doenças dependem do equilíbrio dos quatro fluidos corporais ou humores: sangue, fleuma, bile amarela e bile negra."
+DLG50_1758213686,Elixires y Tinturas,Elixirs and Tinctures,Elixires e Tinturas
+DLG51_1758213686,Manuales con fórmulas detalladas para destilar la quintaesencia de las sustancias y crear elixires curativos.,Manuals with detailed formulas for distilling the quintessence of substances and creating healing elixirs.,Manuais com fórmulas detalhadas para destilar a essência das substâncias e criar elixires curativos.
+DLG58_1758213686,Después de largas horas de lectura has aprendido nuevos temas que podrían (o tal vez no) ayudar en diferentes situaciones.,"After long hours of reading, you have learned new topics that could (or perhaps could not) help in different situations.","Após longas horas de leitura, você aprendeu novos tópicos que podem (ou talvez não) ser úteis em diferentes situações."
+DLG5_1758213678,Hola señorita Xandria.,"Hello, Miss Xandria.","Olá, Senhorita Xandria."
+DLG6_1758213678,"Atreu, qué bueno verte de nuevo.","Atreu, it's good to see you again.","Atreu, é bom te ver novamente."
+DLG7_1758213678,¿Cómo sigues de tus heridas?,How are your wounds?,Como estão seus ferimentos?
+DLG8_1758213678,¡Bastante bien!,Pretty good!,Muito bem!
+DLG9_1758213678,"Los medicos se sorprendieron cuando me atendieron, porque a pesar de la herida no sufrí un sangrado excesivo.","The doctors were surprised when they treated me, because despite the wound, I didn't suffer excessive bleeding.","Os médicos ficaram surpresos ao me tratarem, pois, apesar do ferimento, não sofri sangramento excessivo."
+DLG10_1758213678,[color=yellow]Casi como si controlaran el flujo de mi sangre...[/color],[color=yellow]Almost as if they were controlling the flow of my blood...[/color],[color=yellow]Quase como se estivessem controlando o fluxo do meu sangue...[/color]
+DLG12_1758213678,"¿Usted usó su alquimia, verdad?","You used your alchemy, didn't you?","Você usou seus poderes de alquimia, não foi? "
+DLG13_1758213678,"Es lo menos que podía hacer, arriesgaste tu vida por ayudarme...",It was the least I could do. You risked your life to help me...,Era o mínimo que eu podia fazer. Você arriscou a sua vida para me ajudar…
+DLG14_1758213678,Qué poder tan sorprendente...,What amazing power...,Que poder incrível... 
+DLG15_1758213678,"Je, je, je. Sabía que usted que era una gran persona.","Heh, heh, heh. I knew you were a great person.","Heh, heh, heh. Eu sabia que você era uma ótima pessoa."
+DLG17_1758213678,"¡Que no se vuelva a repetir, escuchaste mocoso!","Don't let it happen again, you hear me, brat!","Não deixe isso acontecer de novo, ouviu bem, pirralho!"
+DLG18_1758213678,Si hay problemas que sobrepasan tus capacidades debes pedir ayuda.,"If there are problems beyond your capabilities, you must ask for help.","Se surgirem problemas que estejam além da sua capacidade, você deve pedir ajuda."
+DLG19_1758213678,Está bien...,All right...,Está bem…
+DLG20_1758213678,Pero usted en Grijayla fue sola sin esperar refuerzos...,But you went to Grijayla alone without waiting for reinforcements...,"Mas você foi para Grijayla só, sem esperar por reforços…"
+DLG21_1758213678,Cierra la boca.,Shut up.,Cale-se.
+DLG22_1758213678,"Está bien, lo que usted diga... No la interrumpo más, seguro debe estar bastante ocupada.","All right, whatever you say... I won't interrupt you anymore, I'm sure you must be quite busy.","Muito bem, como quiser... Não vou mais interromper, tenho certeza de que você deve estar bastante ocupada."
+DLG24_1758213678,"Esta biblioteca es impresionante, hay muchos libros que son muy raros de encontrar.","This library is impressive, there are many books that are very rare to find.","Esta biblioteca é impressionante, há muitos livros que são muito raros de encontrar."
+DLG25_1758213678,Sí... es la biblioteca privada de La Orden... estaba cerrada porque la estaban remodelando...,Yes... it's the Order's private library... it was closed because they were remodeling it...,Sim... é a biblioteca particular da Ordem... estava fechada porque estavam a remodelá-la…
+DLG26_1758213678,"Es un lugar al que solo pueden acceder Alquimistas Oficiales, ¿tú qué rayos haces aquí?",It's a place that only Official Alchemists can access. What the hell are you doing here?,É um lugar que só Alquimistas Oficiais podem acessar. Que diabos você está fazendo aqui?
+DLG27_1758213678,La Directora Alessa me ha dado un permiso especial.,Director Alessa has given me special permission.,A diretora Alessa me deu permissão especial.
+DLG28_1758213678,¿Y eso a qué se debe?,And why is that?,E a que se deve isso?
+DLG29_1758213678,No estoy seguro...,I'm not sure...,Eu não tenho certeza…
+DLG30_1758213678,La señorita Margaret mencionó que [color=yellow]mi poder como Alquimista de plomo puede ser de utilidad.[/color],Miss Margaret mentioned that [color=yellow]my power as a Lead Alchemist might be useful.[/color],A senhorita Margaret mencionou que [color=yellow]meu poder como Alquimista Chefe poderia ser útil.[/color]
+DLG31_1758213678,Así que me recomendó venir aquí y leer varios libros para poder mejorar mis habilidades.,So she recommended that I come here and read several books to improve my skills.,Então ela me recomendou que viesse aqui e lesse vários livros para aprimorar minhas habilidades.
+DLG32_1758213678,Ya veo...,I see...,Entendo…
+DLG35_1758213678,Aprovecharé para [color=yellow]leer algunos libros[/color] del estante que está a la izquierda.,I'll take this opportunity to [color=yellow]read some books[/color] from the shelf on the left.,Vou aproveitar esta oportunidade para [color=yellow]ler alguns livros[/color] da prateleira à esquerda.
+CHECKMARIMBA1,Qué rayos es esta cosa...,What the heck is this thing...,Que diabos é isso...? 
+CHECKMARIMBA2,Parece un piano... ¿pero es de madera? No entiendo...,It looks like a piano... but it’s made of wood? I don't understand...,Parece um piano... mas é feito de madeira? Não entendo…
+CHECKMARIMBA3,Esto... se parece a lo que está ilustrado en el libro que me dio aquella anciana...,This... looks like what's illustrated in the book that old lady gave me...,Isso... parece com o que está ilustrado no livro que aquela senhora me deu…
+CHECKMARIMBA4,Así que esto es una marimba...,So this is a marimba...,"Então, isto é uma marimba... "
+CHECKMARIMBA5,"El Libro contiene información sobre como leer notación musical, además de partituras para tocar en este instrumento...","The book contains information on how to read musical notation, as well as sheet music for playing this instrument...","O livro contém informações sobre como ler partituras musicais, bem como partituras para tocar este instrumento... "
+CHECKMARIMBA6,Tal vez pueda echarle un vistazo a esta cosa...,Maybe I can take a look at this thing...,Talvez eu possa dar uma olhada nisso... 
+CHECKMARIMBA7,Qué hago ahora...,What do I do now...,O que eu faço agora…
+CHECKMARIMBA8,Tocar instrumento libremente,Play the instrument freely,Tocar o instrumento livremente
+CHECKMARIMBA9,Tocar partitura del libro,Play the sheet music,Tocar a música da partitura
+CHECKMARIMBA10,Toca las notas indicadas cuando estén sobre la línea celeste.,Play the notes indicated when they are on the blue line.,Tocar as notas indicadas quando estiverem na linha azul.
+CHECKMARIMBA11,No tocar,Don't play,Não tocar
+JOHANNES2NDPHASEDLG1,Basta de juegos.,Enough games.,Chega de jogos.
+JOHANNES2NDPHASEDLG2,Te mostraré lo que es ser un verdadero controlador de la sangre.,I'll show you what it means to be a true blood controller.,Te mostrarei o que significa ser um verdadeiro controlador de sangue.
+DLG3_1759940937,¡Johannes!,Johannes!,Johannes!
+DLG4_1759940937,Te has tardado bastante Xandria.,"You've taken long enough, Xandria.",Te atrasei bastante Xandria.
+DLG5_1759940937,Serás testigo del poder del milagro. Hoy el Opus Magnum se manifestará y me otorgará el poder que merezco.,"You will witness the power of the miracle. Today, the Opus Magnum will manifest itself and grant me the power I deserve.","Você testemunhará o poder do milagre. Hoje, a Opus Magnum se manifestará e me concederá o poder que mereço."
+DLG6_1759940937,Maldito bastardo...,Damn bastard...,Maldito…
+DLG7_1759940937,"Solo eres un hombre sin corazón, no te mereces absolutamente nada.","You're just a heartless man, you deserve absolutely nothing.","Você é um homem sem coração, não merece absolutamente nada."
+DLG8_1759940937,Y yo seré quién ponga fin a tu miserable existencia.,And I will be the one to end your miserable existence.,E serei eu quem dará fim à sua existência miserável.
+DLG9_1759940937,"Solo hablas y hablas de acabar conmigo, ¿por que tanta necesad? ¿por qué luchas?","You just talk and talk about finishing me off, why so desperate? Why are you fighting?","Você só fala e fala em acabar comigo, por que tanto desespero? Por que você está lutando?"
+DLG12_1759940937,Yo...,I...,Eu…
+DLG15_1759940937,¡Lucho para vengarme!,I'm fighting for revenge!,Eu estou lutando por vingança!
+DLG16_1759940937,"¡He vivido para este momento, y devolverte todo el daño que me has hecho!","I've lived for this moment, to pay you back for all the harm you've done to me!","Vivi para este momento, e para te retribuir por todo o mal que me fez!"
+DLG17_1759940937,Maravilloso...,Wonderful...,Maravilhoso... 
+DLG18_1759940937,Sigues siendo la misma niña estúpida.,You're still the same stupid girl.,Você continua sendo a mesma garota estúpida. 
+DLG21_1759940937,¡Lucho por hacerte pagar por tus crímenes!,I fight to make you pay for your crimes!,Lutarei para que você pague pelos seus crimes!
+DLG22_1759940937,"Oh, ¿en serio? ¿Quién te crees que eres?","Oh, really? Who do you think you are?","Ah, é mesmo? Quem você pensa que é?"
+DLG23_1759940937,"Alguien que ha sufrido tanto, que no desea que otra persona inocente pase por lo mismo.",Someone who has suffered so much that she doesn't want another innocent person to go through the same thing.,Alguém que sofreu tanto que não quer que outra pessoa inocente passe pela mesma coisa.
+DLG24_1759940937,Que cursilerías estás diciendo...,What corny things you're saying...,Que bobagem piegas você está dizendo...
+DLG27_1759940937,¡Lucho por aquellos inocentes que merecen ver otro día amanecer!,I fight for those innocent people who deserve to see another day dawn!,Eu luto por aquelas pessoas inocentes que merecem ver o amanhecer de um novo dia!
+DLG28_1759940937,Por aquellos de los que te has aprovechado.,For those you've taken advantage of.,Para aqueles de quem você se aproveitou.
+DLG29_1759940937,Por aquellos a los que has utilizado y desechado como simples herramientas.,For those you've used and discarded like mere tools.,Para aqueles que você usou e descartou como meras ferramentas.
+DLG30_1759940937,Y también por mi hermano... por Nana... y todos los que desean un mundo mejor.,"And also for my brother... For Nana, Elisia, and all those who want a better world.","E também pelo meu irmão... por Nana, Elisia… e por todos aqueles que desejam um mundo melhor."
+DLG33_1759940937,Qué importa de todas formas...,What does it matter anyway...,"Afinal, que diferença faz…"
+DLG34_1759940937,Has llegado demasiado tarde.,You're too late.,Você chegou tarde demais.
+DLG35_1759940937,Tuve el tiempo suficiente para [color=yellow]poder controlar el circuito base para el cambio de dominio de elemento.[/color],I had enough time to [color=yellow]control the base circuit for the elemental domain change.[/color],Tive tempo suficiente para [color=yellow]controlar o circuito base para a mudança de domínio elementar.[/color]
+DLG36_1759940937,¿La bendición de Ixquic?,Ixquic's blessing?,A bênção de Ixquic?
+DLG37_1759940937,"Así es, ahora con el cambio de elemento, [color=yellow]puedo controlar el hierro.[/color]","That's right, now with the element change, [color=yellow]I can control iron.[/color]","Isso mesmo, agora com a mudança de elemento, [color=yellow]eu posso controlar o ferro.[/color]"
+DLG38_1759940937,"Aquel ""hermano"" tuyo ya no me es necesario y tampoco tú.","I no longer need that “brother” of yours, nor do I need you.","Eu não preciso mais desse seu ""irmão"", nem de você. "
+DLG39_1759940937,"Al final, si uno quiere que las cosas salgan bien, uno mismo debe hacerlo.","In the end, if you want things to turn out right, you have to do it yourself.","No fim das contas, se você quer que as coisas deem certo, você tem que fazer você mesmo."
+DLG2_1759940973,Es hora de terminar todo.,It's time to end everything.,Chegou a hora de acabar com tudo.
+DLG3_1759940973,Eso que has bebido es...,What you drank is...,O que você bebeu foi…
+DLG4_1759940973,Es lo que llamamos la [color=yellow]Sangre de Athos.[/color],It's what we call the [color=yellow]Blood of Athos.[/color],É o que chamamos de [color=yellow]Sangue de Athos.[/color]
+DLG5_1759940973,Sin importar el resultado de nuestra pelea...,Regardless of the outcome of our fight...,Independentemente do resultado da nossa luta... 
+DLG7_1759940973,¡Tu muerte está asegurada!,Your death is assured!,Sua morte está assegurada! 
+DLG8_1759940973,Maldito... ¿Hasta donde piensas llegar con esto?,Damn you... How far do you plan to take this?,Você é um desgraçado… Até onde pretende levar isso?
+DLG2_1759956751,Esto no puede ser posible...,This can't be possible...,Isso não pode ser possível…
+DLG3_1759956751,Yo debía ser vencedor...,I was supposed to be the victor...,Eu deveria ter sido o vencedor…
+DLG4_1759956751,¡Muere de una maldita vez!,Just fucking die already!,Apenas morra de uma vez!
+DLG8_1759956751,"Pero no importa, al final gano yo.","But it doesn't matter, in the end I win.","Mas não importa, no final eu venço. "
+DLG9_1759956751,¿Eh?,Huh?,O que?
+DLG1_1759960392,¿¡Una explosion!?,An explosion!?,Uma explosão!?
+DLG2_1759960392,No...,No...,Não...
+DLG4_1759960392,¡El núcleo del demonio!,The demon's core!,O Núcleo Demoníaco!
+DLG3_1760026992,"Al salir de la abadía, desde lo alto después de una extenuante batalla...","Leaving the abbey, from above after an exhausting battle...","Ao deixar a abadia, vindo das alturas após uma batalha exaustiva…"
+DLG4_1760026992,Xandria no podía creer lo que estaba viendo...,Xandria couldn't believe what she was seeing...,Xandria não conseguia acreditar no que estava vendo…
+DLG6_1760026992,"Una nube gigantezca en forma de hongo, arrastrando cenizas y desolación...","A giant mushroom cloud, trailing ash and desolation...","Uma gigantesca nuvem em forma de cogumelo, deixando um rastro de cinzas e desolação…"
+DLG7_1760026992,Amerithia y las ciudades a su alrededor fueron destruidas.,Amerithia and the surrounding cities were destroyed.,Amerithia e as cidades vizinhas foram destruídas.
+DLG8_1760026992,Xandría ya no veía aquella ciudad por la que incontables veces pasó.,Xandria no longer saw the city she had passed through countless times.,Xandria já não via a cidade pela qual havia passado inúmeras vezes.
+DLG10_1760026992,Aquella noche...,That night...,Naquela noite…
+DLG11_1760026992,Xandria fue testigo del poder aterrador del [color=yellow]Núcleo del demonio.[/color],Xandria witnessed the terrifying power of the [color=yellow]Demon Core.[/color],Xandria testemunhou o poder aterrador do [color=yellow]Núcleo Demoníaco.[/color]
+DLG2_1760285442,Así que eras tú...,So it was you...,Então foi você…
+DLG3_1760285442,¿Señora Isabel? ¿Qué pasa?,Mrs. Isabel? What's wrong?,Senhora Isabel? O que houve?
+DLG4_1760285442,Esa melodía... la que has tocado...,That melody... the one you played...,Aquela melodia... aquela que você tocou…
+DLG5_1760285442,No sé... solo estaba tocando lo que dice en este libro...,I don't know... I was just playing what it says in this book...,Não sei... Eu estava apenas seguindo as instruções deste livro…
+DLG6_1760285442,¿Puedo verlo?,Can I see it?,Posso ver?
+DLG7_1760285442,Claro...,Sure...,Claro…
+DLG8_1760285442,Ya veo... el autor de este libro fue un músico muy reconocido en nuestro pueblo hace muchos años...,I see... the author of this book was a well-known musician in our town many years ago...,Entendo... o autor deste livro era um músico muito conhecido em nossa cidade há muitos anos…
+DLG9_1760285442,Un día decidió salir y explorar el mundo para hacer llegar su música a mucha más gente.,One day he decided to go out and explore the world to bring his music to many more people.,"Um dia, ele decidiu sair e explorar o mundo para levar sua música a muito mais pessoas."
+DLG10_1760285442,Después de eso no supimos más de él.,"After that, we never heard from him again.","Depois disso, nunca mais tivemos notícias dele."
+DLG11_1760285442,Ya veo... qué pequeño puede resultar el mundo a veces...,I see... how small the world can be sometimes...,Entendo... como o mundo pode ser pequeno às vezes…
+DLG12_1760285442,Me han contado que tienes cuentas por arreglar con aquel hombre rubio...,I've been told that you have a score to settle with that blond man...,Me disseram que você tem contas a acertar com aquele loiro…
+DLG13_1760285442,"Pero te veo aquí, desviandote de tu camino y has ayudado a muchas personas...","But I see you here, straying from your path and helping many people...","Mas eu vejo você aqui, desviando-se do seu caminho e ajudando muitas pessoas…"
+DLG14_1760285442,Definitivamente Dirián vio algo muy especial en ti...,Dirián definitely saw something very special in you...,Dirián certamente viu algo muito especial em você…
+DLG15_1760285442,No sé que decir al respecto...,I don't know what to say about that...,Não sei o que dizer sobre isso…
+DLG16_1760285442,"Sígueme, tengo algo importante de lo que hablar contigo.","Follow me, I have something important to talk to you about.","Me siga, tenho algo importante para lhe contar."
+DLG2_1760304083,¿De qué quería hablarme?,What did you want to talk to me about?,Sobre o que você queria falar comigo?
+DLG3_1760304083,Logré ver a Dirián durante sus ultimos momentos...,I managed to see Dirián during his last moments...,Consegui ver Dirián em seus últimos momentos…
+DLG5_1760304083,Al menos tuve tiempo de despedirme...,At least I had time to say goodbye...,Pelo menos tive tempo de me despedir…
+DLG6_1760304083,De verdad lo lamento...,I'm truly sorry...,Sinto muito mesmo…
+DLG7_1760304083,¿Era Dirián un familiar suyo?,Was Dirián a relative of yours?,Dirián era seu parente?
+DLG8_1760304083,"No, solamente eramos amigos de la infancia. Soy un poco mayor que él, así que fui para Dirián como una hermana mayor...","No, we were just childhood friends. I'm a little older than him, so I was like an older sister to Dirián...","Não, éramos apenas amigos de infância. Sou um pouco mais velha que ele, então eu era como uma irmã mais velha para o Dirián…"
+DLG9_1760304083,"Aun en sus últimos momentos no dejaba de sonreír, de verdad que fue un hombre tan único...","Even in his last moments, he never stopped smiling. He really was such a unique man...","Mesmo em seus últimos momentos, ele nunca parou de sorrir. Ele era realmente um homem único…"
+DLG10_1760304083,También me contó cosas buenas de ti…,He also told me good things about you...,Ele também me falou coisas boas sobre você…
+DLG11_1760304083,"Ahora estoy totalmente segura, que [color=yellow]tú eres ese rayo de esperanza que disipará la horrible oscuridad que se avecina.[/color]",Now I am absolutely certain that [color=yellow]you are the ray of hope that will dispel the horrible darkness that is coming.[/color],Agora tenho absoluta certeza de que [color=yellow]você é o raio de esperança que dissipará a terrível escuridão que está por vir.[/color]
+DLG13_1760304083,¿A qué se refiere?,What do you mean?,O que você quer dizer?
+DLG14_1760304083,[color=yellow]La noche de los Toziuha[/color] se acerca.,[color=yellow]The Toziuha night[/color] is approaching.,[color=yellow]A noite de Toziuha[/color] está se aproximando.
+DLG14B_1760304083,[color=yellow]La noche de los Toziuha[/color] ha llegado…,[color=yellow]The Toziuha Night[/color] has arrived...,[color=yellow]A noite de Toziuha[/color] chegou…
+DLG14C_1760304083,La puerta está abierta para que el demonio traiga el caos a nuestro mundo.,The door is open for the demon to bring chaos to our world.,A porta está aberta para o diabo trazer o caos ao nosso mundo.
+DLG14D_1760304083,"Y será momento cuando la puerta se abra, permitiendo el paso al demonio que traerá caos a nuestro mundo.","And it will be time when the door opens, allowing the demon to pass through and bring chaos to our world.","E chegará o momento em que a porta se abrirá, permitindo que o demônio passe e traga o caos ao nosso mundo."
+DLG16_1760304083,No dejes que la ira te ciegue.,Don't let anger blind you.,Não deixe que a raiva te cegue.
+DLG17_1760304083,La mayoría de los Toziuha son demonios astutos que buscan siempre el beneficio propio.,Most Toziuha are cunning demons who always seek their own benefit.,A maioria dos Toziuha são demônios astutos que sempre buscam seu próprio benefício.
+DLG18_1760304083,¿La mayoría?,Most?,Maioria?
+DLG19_1760304083,Ellos son seres que provienen de un mundo diferente al nuestro.,They are beings who come from a world different from ours.,São seres que vêm de um mundo diferente do nosso.
+DLG20_1760304083,"Son seres que se alimentan de almas humanas, del sufrimiento de los mortales...","They are beings who feed on human souls, on the suffering of mortals...","São seres que se alimentam de almas humanas, do sofrimento dos mortais…"
+DLG21_1760304083,Pero no todos los Toziuha son iguales...,But not all Toziuha are the same...,Mas nem todos os Toziuha são iguais…
+DLG22_1760304083,"Como sea, de todas formas no es el momento de discutir sobre eso...","Anyway, this is not the time to discuss that...","Enfim, este não é o momento para discutir isso…"
+DLG23_1760304083,El tiempo corre y aquel hombre rubio que hizo el pacto con el Toziuha debe ser detenido.,"Time is running out, and that blond man who made the pact with the Toziuha must be stopped.","O tempo está se esgotando, e aquele loiro que fez o pacto com os Toziuha precisa ser detido."
+DLG24_1760304083,Espero que puedas cumplir con el último deseo de Dirián...,I hope you can fulfill Dirián's last wish...,Espero que você possa realizar o último desejo de Dirián…
+DLG25_1760304083,Lo tendré en cuenta...,I'll keep that in mind...,Levarei em consideração...
+DLG26_1760304083,Te deseo mucha suerte en tu misión.,I wish you the best of luck on your mission.,Desejo-lhe muita sorte em sua missão.
+DLG2_1760304084,Esto es... ¿Un retrato tallado en madera?,This is... a portrait carved in wood?,Isto é... um retrato esculpido em madeira?
+DLG3_1760304084,Simboliza a nuestra [color=yellow]Diosa Ixquic.[/color],It symbolizes our [color=yellow]Goddess Ixquic.[/color],Simboliza nossa [color=yellow]Deusa Ixquic.[/color]
+DLG4_1760304084,Guardiana del inframundo y madre de los dioses gemelos que mantuvieron nuestro mundo en equilibrio durante dos milenios.,Guardian of the underworld and mother of the twin gods who kept our world in balance for two millennia.,Guardiã do submundo e mãe dos deuses gêmeos que mantiveram o equilíbrio em nosso mundo por dois milênios.
+DLG5_1760304084,"Pero el equilibrio se perdió, y en consecuencia, los Toziuha pudieron salir del inframundo.","But the balance was lost, and as a result, the Toziuha were able to escape from the underworld.","Mas o equilíbrio foi perdido e, como resultado, os Toziuha conseguiram escapar do submundo."
+DLG6_1760304084,"¿Guardiana del inframundo, eh?","Guardian of the underworld, huh?","Guardião do submundo, hein?"
+DLG9_1760304084,Hay un texto escrito en la parte inferior del retrato...,There is some text written at the bottom of the portrait...,Há um texto escrito na parte inferior do retrato…
+DLG10_1760304084,[color=yellow]Ixquic desafió a los señores del Xibalbá con la única intención de degustar los frutos del árbol calavera.[/color],[color=yellow]Ixquic challenged the lords of Xibalba with the sole intention of tasting the fruits of the skull tree.[/color],[color=yellow]Ixquic desafiou os 12 senhores de Xibalba com a única intenção de provar os frutos da calavera.[/color]
+DLGTRAGICENDTXT1,"Maldito, mereces arder eternamente...","Damn you, you deserve to burn forever...","Seu maldito, você merece queimar para sempre..."
+DLGTRAGICENDTXT2,"Por todo el dolor que me has provocado, debería hacerte sufrir más...","For all the pain you've caused me, I should make you suffer more...","Por toda a dor que você me causou, eu deveria fazer você sofrer ainda mais... "
+DLGTRAGICENDTXT3,¡Muere!,Die!,Morra!
+DLGTRAGICENDTXT4,"Ja, ja, ja...","Ha, ha, ha...","Ha, ha, ha..."
+DLGTRAGICENDTXT5,¿De qué te ríes imbécil?,"What are you laughing at, you idiot?","Do que você está rindo, idiota?"
+DLGTRAGICENDTXT6,Mi plan hubiera sido perfecto si te mataba...,My plan would have been perfect if I had killed you...,Meu plano teria sido perfeito se eu tivesse te matado…
+DLG5_1760394027,¿Eh? Qué está pasando...,Huh? What's going on...,Hã? O que está acontecendo...?
+DLG6_1760394027,Así que eres la mortal que me ofrece tributo...,So you're the mortal offering tribute...,Então você é o mortal que oferece tributo…
+DLG8_1760394027,¿Ah? Hay una voz sonando en mi cabeza...,Huh? There's a voice ringing in my head...,Hã? Tem uma voz ecoando na minha cabeça…
+DLG9_1760394027,¿Quién eres?,Who are you?,Quem é você?
+DLG10_1760394027,Soy la guardiana del Xibalbá.,I am the guardian of Xibalba.,Eu sou o guardião de Xibalba.
+DLG12_1760394027,Ya veo... así que eres tú...,I see... so it's you...,Entendi... então é você…
+DLG13_1760394027,No te percibo tan sorprendida...,You don't seem that surprised...,Você não parece muito surpreso…
+DLG15_1760394027,No es como si fuera la primera vez que estoy hablando con un Toziuha.,It's not like this is the first time I've spoken to a Toziuha.,Não é como se esta fosse a primeira vez que falo com um Toziuha.
+DLG15B_1760394027,Te he pagado un tributo porque quiero respuestas.,I have paid you tribute because I want answers.,Prestei homenagem a você porque quero respostas.
+DLG15C_1760394027,¿Cuál es el objetivo de Ahalcaná?,What is Ahalcaná's goal?,Qual é o objetivo de Ahalcaná?
+DLG15D_1760394027,Él… busca salir del inframundo.,He... seeks to leave the underworld.,Ele... busca deixar o submundo.
+DLG15E_1760394027,¿Qué? ¿Acaso ya no había salido?,What? Hasn't he already left?,O quê? Ele já não foi embora?
+DLG15F_1760394027,"Sé que te has encontrado con Ahalcaná, [color=yellow]pero solo es una ilusión.[/color]","I know you have encountered Ahalcaná, [color=yellow]but it is only an illusion.[/color]","Eu sei que você já se deparou com Ahalcaná, [color=yellow]mas é apenas uma ilusão.[/color]"
+DLG15G_1760394027,[color=yellow]Su poder sigue encerrado en el Xibalbá.[/color],[color=yellow]His power remains sealed in Xibalba.[/color],[color=yellow]O poder dele permanece selado em Xibalba.[/color]
+DLG15H_1760394027,De hecho es así con todos los Toziuha.,"In fact, this is true of all Toziuha.","Na verdade, isso se aplica a todos os Toziuha."
+DLG15I_1760394027,Es una de las cosas que nos diferencia de cualquier demonio.,It's one of the things that sets us apart from any demon.,É uma das coisas que nos diferencia de qualquer demônio.
+DLG15J_1760394027,Te has dado cuenta eh…,"You've noticed, eh...","Você percebeu, né... "
+DLG15K_1760394027,Eres más inteligente de lo que pensaba.,You're smarter than I thought.,Você é mais inteligente do que eu pensava.
+DLG18_1760394027,Te he pagado un tributo porque necesito de tu ayuda...,I have paid you tribute because I need your help...,Te prestei homenagem porque preciso da tua ajuda...
+DLG20_1760394027,Me enteré que Ahalcaná está cerca de lograr su objetivo... ,I heard that Ahalcaná is close to achieving its goal... ,Ouvi dizer que Ahalcaná está perto de atingir seu objetivo…
+DLG20B_1760394027,Es cuestión de tiempo para que su poder sea completamente restaurado.,It’s only a matter of time before his power is fully restored.,É apenas uma questão de tempo até que seu poder seja totalmente restaurado.
+DLG21_1760394027,Yo lo detendré.,I will stop him.,Eu o impedirei.
+DLG22_1760394027,"Vaya, vaya... Una mujer muy decidida, aunque esté diciendo disparates.","Well, well... A very determined woman, even if she is talking nonsense.","Ora, ora… Uma mulher muito determinada, mesmo que esteja falando bobagens."
+DLG23_1760394027,Normalmente no dejaría pasar a un humano al Xibalbá...,"Normally, I would not allow a human to enter Xibalba...","Normalmente, eu não permitiria que um humano entrasse em Xibalba…"
+DLG27_1760394027,Pero [color=yellow]los descendientes del rey Dirián[/color] te tienen en alta estima...,But [color=yellow]the descendants of King Dirián[/color] hold you in high esteem...,Mas [color=yellow]os descendentes do Rei Dirián[/color] têm você em alta consideração...
+DLG28_1760394027,"Le debía un favor, así que por esta vez lo permitiré.","I owed him a favor, so I will allow it this once.","Eu te devia um favor, então vou permitir desta vez."
+DLG31_1760394027,"Deja que llegue hacia Ahalcaná, yo me haré cargo del resto.","Let him reach Ahalcana, I will take care of the rest.","Deixe-o chegar a Ahalcana, eu cuidarei do resto."
+DLG32_1760394027,Pues que así sea...,So be it...,Assim seja...
+DLG33_1760394027,Y más te vale no fallar...,And you'd better not fail...,E é melhor você não falhar…
+DLG34_1760394027,"[color=yellow]De lo contrario, te haré sufrir por el resto de la eternidad.[/color]","[color=yellow]Otherwise, I will make you suffer for the rest of eternity.[/color]","[color=yellow]Caso contrário, farei você sofrer pelo resto da eternidade.[/color] "
+DLG2_1760476923,Annette... detente... no quiero hacerte daño...,Annette... stop... I don't want to hurt you...,Annette... pare... eu não quero te machucar... 
+DLG3_1760476923,¿Ah? ¿Qué tonterías dices?,Huh? What nonsense are you talking about?,Hein? Que absurdo é esse que você está falando?
+DLG5_1760476923,¡Cállate! ¡Cállate! ¡Cállate de una maldita vez!,"Shut up! Shut up! Shut up, damn it!","Cala a boca! Cala a boca! Cala a boca, droga!"
+DLG6_1760476923,Tú... pagarás... con tu vida...,You... will pay... with your life...,Você... pagará... com a sua vida…
+DLG7_1760476923,"Con el Opus Magnum traeré a mi hermano, a mi padre...","With the Opus Magnum, I will bring my brother, my father...","Com a Opus Magnum, trarei meu irmão, meu pai…"
+DLG8_1760476923,Haré que tú y todos aquellos que amas sean el sacrificio que necesita el señor Johannes.,I will make you and all those you love the sacrifice that Lord Johannes needs.,Farei de você e de todos aqueles que você ama o sacrifício que Lorde Johannes precisa.
+DLG11_1760476923,¡Muere ahora!,Die now!,Morra agora!
+DLG2_1760891963,¿Eh? ¿Voy... a morir?,Huh? Am I... going to die?,Huh? Eu... vou morrer?
+DLG3_1760891963,No... por favor... no me hagan esto...,No... please... don't do this to me...,Não... por favor... não faça isso comigo…
+DLG4_1760891963,Lo siento... Annette...,I'm sorry... Annette...,Me desculpe… Annette...
+DLG5_1760891963,Ah... a esto es lo que he llegado... perdón hermano... no pude vengarte...,"Ah... this is what I've come to... I'm sorry, brother... I couldn't avenge you...","Ah... este é meu limite... Me desculpe, irmão... Eu não pude te vingar…"
+DLG1_1760892238,Se acabó...,It's over...,Acabou…
+DLG2_1760892238,Sin el poder de Annette... Johannes no tendrá escapatoria...,Without Annette's power... Johannes will have no escape...,Sem o poder da Annette... Johannes não terá escapatória…
+DLG1_1760892582,Lo que faltaba... vienen más enemigos...,Just what we needed... more enemies are coming...,Era exatamente o que nos faltava... mais inimigos estão a caminho...
+DLG2_1760892582,Aunque esta vez parecen algo diferentes...,Although this time they seem a little different...,Embora desta vez pareçam um pouco diferentes...
+DLG3_1760892720,"Señora Rachel, señora Alessa, finalmente llegaron... He logrado derrotar a Annette.","Mrs. Rachel, Mrs. Alessa, you're finally here... I've managed to defeat Annette.","Senhora Rachel, Senhora Alessa, vocês finalmente chegaram... Eu consegui derrotar Annette."
+DLG4_1760892720, Su poder era lo último que Johannes necesitaba en la activación del Núcleo del Demonio.,Her power was the last thing Johannes needed to activate the Demon Core.,O poder dela era a última coisa que Johannes precisava para ativar o Núcleo Demoníaco.
+DLG5_1760892720,Buen trabajo Xandria... no debió ser tan fácil...,"Good job, Xandria... it couldn't have been that easy...","Bom trabalho, Xandria... não deve ter sido tão fácil... "
+DLG6_1760892720,Yo solo hice lo que debía hacer...,I just did what I had to do...,Eu apenas fiz o que tinha que fazer... 
+DLG8_1760892720,Solo queda [color=yellow]ir donde Johannes y acabar con él[/color] de una vez por todas.,All that's left is to [color=yellow]go to Johannes and finish him off[/color] once and for all.,Só falta [color=yellow]ir até Johannes e acabar com ele[/color] de uma vez por todas.
+DLG9_1760892720,Pero las cosas siguen empeorando Xandria... ¿has visto a los demonios de hace poco?,"But things keep getting worse, Xandria... Did you see the demons from earlier?","Mas as coisas continuam piorando, Xandria... Você viu os demônios de antes?"
+DLG10_1760892720,Sí... el poder que emanan... Acaso...,Yes... the power they emanate... Could it be...,Sim... o poder que emanam... Será possível…
+DLG11_1760892720,Me temo que así es... [color=yellow]La noche de los Toziuha ha empezado.[/color],I'm afraid so... [color=yellow]The Toziuha Night has begun.[/color],Receio que sim... [color=yellow]A Noite de Toziuha começou.[/color]
+DLG12_1760892720,"Su poder ha aumentado a niveles extraordinarios, [color=yellow]cualquier enemigo puede representar una amenaza[/color] incluso contra un Alquimista oficial.","Their power has increased to extraordinary levels, [color=yellow]any enemy can pose a threat[/color] even to an official Alchemist.","Seu poder aumentou a níveis extraordinários, [color=yellow]qualquer inimigo pode representar uma ameaça[/color], mesmo para um Alquimista oficial. "
+DLG13_1760892720,Xandria... no estás sola en esto...,Xandria... you are not alone in this...,Xandria... você não está sozinha nisso…
+DLG14_1760892720,Pero debo pedirte el favor de que ganes tiempo contra Johannes y no dejar que tus emociones sobrepasen a la razón.,But I must ask you to buy time against Johannes and not let your emotions overcome your reason.,Mas te peço que ganhe tempo contra Johannes e não deixe que suas emoções se sobreponham à sua razão.
+DLG15_1760892720,"Señora Rachel... No, maestra, gracias por todas sus enseñanzas...","Mrs. Rachel... No, Master, thank you for all your teachings...","Sra. Rachel...digo, Mestra, obrigada por todos os seus ensinamentos..."
+DLG16_1760892720,Todo este tiempo luché con un único objetivo...,All this time I fought with a single goal...,Eu lutava durante todo esse tempo com um único objetivo…
+DLG17_1760892720,Xandria...,Xandria...,Xandria...
+DLG18_1760892720,[color=yellow]Haré lo que sea necesario[/color] para detener a Johannes.,[color=yellow]I will do whatever it takes[/color] to stop Johannes.,[color=yellow]Farei o que for necessário[/color] para deter Johannes.
+DLG19_1760892720,"Rachel, déjala ir... nosotras también tenemos que hacer nuestra parte...","Rachel, let her go... we have to do our part too...","Rachel, deixe-a ir... nós também temos que fazer a nossa parte..."
+DLG20_1760892720,"Señora Alessa, maestra... Adiós.","Mrs. Alessa, Master... Farewell.","Sra. Alessa, Mestra... Adeus."
+DLGENDCHOICETXTA,Por venganza...,For revenge...,Por vingança…
+DLGENDCHOICETXTB,Por justicia...,For justice...,Por justiça…
+DLGENDCHOICETXTC,Por salvar al mundo...,To save the world...,Para salvar o mundo…
+DLGENDCHOICETXT,¿Por qué razón lucho?,Why am I fighting?,Por que estou lutando?
+DLGENDCHOICETXTSKIP,¿Volver a tomar una decisión?,Make another decision?,Tomar outra decisão?
 AHALCANATOPHASE2_1,Insignificante humana... no podrás detenerme.,Insignificant human... you cannot stop me.,
 AHALCANATOPHASE2_2,Mi poder ha sido restaurado. Y ahora...,My power has been restored. And now...,
 AHALCANATOPHASE2_3,Descubrirás lo inútil de tu lucha.,You will discover the futility of your efforts.,

@@ -332,12 +332,12 @@ ACH17TITLE,¡He venido a verte aniquilado!,I´ve come to see you annihilated!,Vi
 ACH17DESC,Abre la puerta que conduce al lugar más alto de la Abadía.,Open the door that leads to the highest point of the Abbey.,Abra a porta que leva ao ponto mais alto da Abadia.
 ACH18TITLE,El fin de la melancolía,The end of melancholy,O fim da melancolia
 ACH18DESC,Alcanza el final malo.,Reach the bad ending.,Alcança o final ruim
-ACH19TITLE,,Marimba Hero,
-ACH19DESC,Toca todas las notas de la partitura.,Play all the notes in the score.,
-ACH20TITLE,El fin de la venganza,The end of revenge,
-ACH20DESC,Alcanza el final trágico.,Reach the tragic ending.,
-ACH21TITLE,Canción de cuna,Lullaby,
-ACH21DESC,Haz que cierta Alquimista consiga el sueño eterno.,Make a certain Alchemist achieve eternal sleep.,
+ACH19TITLE,,Marimba Hero,Herói da Marimba
+ACH19DESC,Toca todas las notas de la partitura.,Play all the notes in the score.,Toque todas as notas da partitura
+ACH20TITLE,El fin de la venganza,The end of revenge,O fim da vingança
+ACH20DESC,Alcanza el final trágico.,Reach the tragic ending.,Consiga o fim trágico.
+ACH21TITLE,Canción de cuna,Lullaby,Canção de ninar
+ACH21DESC,Haz que cierta Alquimista consiga el sueño eterno.,Make a certain Alchemist achieve eternal sleep.,Faça com que uma certa Alquimista alcance o sono eterno.
 ACH22TITLE,El fin de la Alquimista,The end of the Alchemist,
 ACH22DESC,Alcanza el final bueno.,Reach the good ending.,
 ACH23TITLE,El fin del viaje,The end of the journey,
@@ -358,7 +358,7 @@ FIREACTION,Disparar,Fire,Disparar
 STRAFEACTION,Mover lateralmente,Strafe,Se mover lateralmente
 CLOSEGAME,Cerrar juego,Close game,Fechar o jogo
 DIFFSMOLXANDEATH,Inire Pecunia,Inire Pecunia,Inire Pecunia
-DIFFSMOLXANDEATH_DESC,Evita la muerte del personaje reemplazando el daño por gasto de dinero. El efecto seguirá activo aún cuando ya no tengas dinero.,Avoids character death by replacing damage by spending money. The effect will remain active even when you no longer have money.,
+DIFFSMOLXANDEATH_DESC,Evita la muerte del personaje reemplazando el daño por gasto de dinero. El efecto seguirá activo aún cuando ya no tengas dinero.,Avoids character death by replacing damage by spending money. The effect will remain active even when you no longer have money.,Evita a morte do personagem ao substituir o dano por dinheiro gasto.
 REMOVE,Remover,Remove,Remover
 USEJOYSTICKDINAMIC,Posición Palanca dinámica,Dynamic Stick position,Posição dinâmica da alavanca
 CLOCK_TOWER,Torre de reloj,Clock tower,Torre do relógio
@@ -370,11 +370,11 @@ INTERACT,Interactuar,Interact,Interagir
 AERIAL_DASH_II,Dash aéreo II,Aerial Dash II,Dash aéreo II
 SEEFULLLICENSES,Ver otras atribuciones,See other attributions,Ver outras atribuições
 ATTRIBUTIONS,Atribuciones,Attributions,Atribuições
-EXPOSETIME,Tiempo de exposición: %.2fs,Exposure time: %.2fs,
-CAPTUREIMGCANCELED,Captura de imagen cancelada,Image capture canceled,
-HOLDRAISEKEY,Mantén para subir un tono,Hold to raise key,
-HOLDLOWERKEY,Mantén para bajar un tono,Hold to lower key,
-LAKEWATCH,Mirador del lago Niquira,Niquira lake viewpoint,
+EXPOSETIME,Tiempo de exposición: %.2fs,Exposure time: %.2fs,Tempo de exposição:  %.2fs
+CAPTUREIMGCANCELED,Captura de imagen cancelada,Image capture canceled,Captura de imagem cancelada
+HOLDRAISEKEY,Mantén para subir un tono,Hold to raise key,Segure para aumentar um tom
+HOLDLOWERKEY,Mantén para bajar un tono,Hold to lower key,Segure para diminuir um tom
+LAKEWATCH,Mirador del lago Niquira,Niquira lake viewpoint,Mirante do Lago Niquira
 FIREMARGARET,¡¡¡FUEGO!!!,FIRE!!!,
 UNLOCKEDHARDMODE,Se ha desbloqueado el modo difícil.,Unlocked Hard mode.,
 OTHERSTATUESDESTROYED,Las demás estatuas también serán destruidas.,The other statues will also be destroyed.,
