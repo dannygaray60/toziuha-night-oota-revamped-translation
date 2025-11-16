@@ -338,22 +338,22 @@ ACH20TITLE,El fin de la venganza,The end of revenge,O fim da vingança
 ACH20DESC,Alcanza el final trágico.,Reach the tragic ending.,Consiga o fim trágico.
 ACH21TITLE,Canción de cuna,Lullaby,Canção de ninar
 ACH21DESC,Haz que cierta Alquimista consiga el sueño eterno.,Make a certain Alchemist achieve eternal sleep.,Faça com que uma certa Alquimista alcance o sono eterno.
-ACH22TITLE,El fin de la Alquimista,The end of the Alchemist,
-ACH22DESC,Alcanza el final bueno.,Reach the good ending.,
-ACH23TITLE,El fin del viaje,The end of the journey,
-ACH23DESC,Alcanza el final secreto.,Reach the secret ending.,
-ACH24TITLE,Cartografo,Cartographer,
-ACH24DESC,Completa el 100% del mapa.,Complete 100% of the map.,
-ACH25TITLE,Asesino de demonios,Demon Slayer,
-ACH25DESC,Completa el juego en modo díficil al derrotar a Johannes.,Complete the game in hard mode by defeating Johannes.,
-ACH26TITLE,Titanium Adeptis,Titanium Adeptis,
-ACH26DESC,Derrota al alquimista de Titanio.,Defeat the Titanium Alchemist.,
-ACH27TITLE,Señor del Xibalbá,Lord of Xibalbá,
-ACH27DESC,Derrota a Ahalcaná.,Defeat Ahalcaná.,
-ACH28TITLE,Sin piedad,No mercy,
-ACH28DESC,Consigue todos los tesoros de jefes por derrotarlos sin recibir daño.,Obtain all boss treasures by defeating them without taking damage.,
-ACH29TITLE,Exterminio,Extermination,
-ACH29DESC,Derrota a todos los enemigos.,Defeat all enemies.,
+ACH22TITLE,El fin de la Alquimista,The end of the Alchemist,O fim da Alquimista
+ACH22DESC,Alcanza el final bueno.,Reach the good ending.,Alcance o final bom.
+ACH23TITLE,El fin del viaje,The end of the journey,O fim da jornada
+ACH23DESC,Alcanza el final secreto.,Reach the secret ending.,Alcance o final secreto.
+ACH24TITLE,Cartografo,Cartographer,Cartógrafa
+ACH24DESC,Completa el 100% del mapa.,Complete 100% of the map.,Complete 100% do mapa.
+ACH25TITLE,Asesino de demonios,Demon Slayer,Matador de Demônios
+ACH25DESC,Completa el juego en modo díficil al derrotar a Johannes.,Complete the game in hard mode by defeating Johannes.,Complete o jogo no modo difícil derrotando Johannes.
+ACH26TITLE,Titanium Adeptis,Titanium Adeptis,Adeptis de Titânio
+ACH26DESC,Derrota al alquimista de Titanio.,Defeat the Titanium Alchemist.,Derrote o Alquimista de Titânio.
+ACH27TITLE,Señor del Xibalbá,Lord of Xibalbá,Senhor de Xibalbá
+ACH27DESC,Derrota a Ahalcaná.,Defeat Ahalcaná.,Derrote Ahalcaná.
+ACH28TITLE,Sin piedad,No mercy,Sem misericórdia
+ACH28DESC,Consigue todos los tesoros de jefes por derrotarlos sin recibir daño.,Obtain all boss treasures by defeating them without taking damage.,Obtenha todos os tesouros dos chefes derrotando-os sem sofrer dano.
+ACH29TITLE,Exterminio,Extermination,Extermínio
+ACH29DESC,Derrota a todos los enemigos.,Defeat all enemies.,Derrote todos os inimigos.
 FIREACTION,Disparar,Fire,Disparar
 STRAFEACTION,Mover lateralmente,Strafe,Se mover lateralmente
 CLOSEGAME,Cerrar juego,Close game,Fechar o jogo
@@ -375,7 +375,7 @@ CAPTUREIMGCANCELED,Captura de imagen cancelada,Image capture canceled,Captura de
 HOLDRAISEKEY,Mantén para subir un tono,Hold to raise key,Segure para aumentar um tom
 HOLDLOWERKEY,Mantén para bajar un tono,Hold to lower key,Segure para diminuir um tom
 LAKEWATCH,Mirador del lago Niquira,Niquira lake viewpoint,Mirante do Lago Niquira
-FIREMARGARET,¡¡¡FUEGO!!!,FIRE!!!,
-UNLOCKEDHARDMODE,Se ha desbloqueado el modo difícil.,Unlocked Hard mode.,
-OTHERSTATUESDESTROYED,Las demás estatuas también serán destruidas.,The other statues will also be destroyed.,
-SLIDEHELPSMOLXANDRIA,"↓+Salto : Barrida en el suelo, permite atravesar trampas o enemigos sin recibir daño.","↓+Jump: Ground slide, allows you to pass through traps or enemies without taking damage.",
+FIREMARGARET,¡¡¡FUEGO!!!,FIRE!!!,DISPARAR!!!
+UNLOCKEDHARDMODE,Se ha desbloqueado el modo difícil.,Unlocked Hard mode.,Modo Difícil desbloqueado.
+OTHERSTATUESDESTROYED,Las demás estatuas también serán destruidas.,The other statues will also be destroyed.,As outras estátuas também serão destruídas.
+SLIDEHELPSMOLXANDRIA,"↓+Salto : Barrida en el suelo, permite atravesar trampas o enemigos sin recibir daño.","↓+Jump: Ground slide, allows you to pass through traps or enemies without taking damage.","↓+Pulo: Deslize no chão, permite passar por armadilhas ou inimigos sem sofrer dano."
