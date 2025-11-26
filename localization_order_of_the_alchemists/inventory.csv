@@ -176,7 +176,7 @@ CLOCKPOCKET_DESC,"Un reloj elegante que ha dejado caer Joseph, está marcado con
 GIANTBATWING_TITLE,Alas de Zotz,Zotz Wings,Asas de Zotz
 GIANTBATWING_DESC,Alas de murciélago gigante que es utilizado en varias pociones alquímicas.,Wings of a giant bat that is used in various alchemical potions.,Asas de um morcego gigante que é usado em várias poções alquímicas.
 CANDYDIFF_TITLE,Caramelo dulce,Sweet candy,Bala de caramelo
-CANDYDIFF_DESC,"¿Las cosas están difíciles? Con este caramelo cambia a nivel ""fácil"" la partida, el proceso es irreversible.","Are things difficult? With this candy, the game difficulty changes to “easy.” The process is irreversible.","As coisas estão difíceis? Com essa bala, o jogo muda para “fácil”. O processo é irreversível."
+CANDYDIFF_DESC,"¿Las cosas están difíciles? Con este caramelo cambia a nivel ""fácil"" la partida.","Are things difficult? With this candy, the game difficulty changes to “easy.”","As coisas estão difíceis? Com essa bala, o jogo muda para “fácil”."
 ACIDSULFUR_TITLE,Ácido sulfúrico,Sulfuric acid,Ácido sulfúrico
 ACIDSULFUR_DESC,Sustancia química altamente corrosiva que es necesaria para la transmutación de objetos. Solo se vende a Alquimistas Oficiales certificados por La Orden.,Highly corrosive chemical substance that is necessary for the transmutation of objects. Only sold to Official Alchemists certified by The Order.,Substância química altamente corrosiva que é necessária para a transmutação de objetos. É vendido apenas para Alquimistas Oficiais certificados pel’A Ordem.
 PIGIRON_TITLE,Arrabio,Pig iron,Ferro-gusa
@@ -257,27 +257,33 @@ ISAACSCY_TITLE,Guadaña de Hierro,Iron Scythe,Foice de Ferro
 ISAACSCY_DESC,El arma de un cuerpo reanimado que mantuvo restos de una alma...,The weapon of a reanimated body that retained remnants of a soul...,A arma de um corpo reanimado que retinha resquícios de uma alma…
 ROYALMEDAL_TITLE,Medalla Real,Royal Medal,Medalha Real
 ROYALMEDAL_DESC,"Premio prestigioso otorgado como reconocimiento por logros en el campo de la ciencia, perteneciente a Henry Cavendish.","A prestigious award given in recognition of achievements in the field of science, named after Henry Cavendish.","Um prêmio prestigiado concedido em reconhecimento às conquistas no campo da ciência, nomeado em homenagem a Henry Cavendish."
-FOTOGRAPHY_TITLE,Fotografía,Photograph,
-FOTOGRAPHY_DESC,"Una fotografía, que no muestra algo interesante, al menos se puede vender por sus materiales.",A photograph that does not show anything interesting can at least be sold for its materials.,
-FOTOGRAPHY_A_TITLE,Foto de Guardabarranco,Guardabarranco photo,
-FOTOGRAPHY_A_DESC,"Ave elegante de cola distinguida en forma de raqueta, hermano del Torogoz.","An elegant bird with a distinctive racket-shaped tail, brother of the Torogoz.",
-FOTOGRAPHY_B_TITLE,Foto de Quetzal,Quetzal photo,
-FOTOGRAPHY_B_DESC,"Se dice que posó sobre el cuerpo derrotado de un legendario guerrero, por lo que su pecho adquirió color rojo.","It’s said that it perched on the defeated body of a legendary warrior, which is why its chest turned red.",
-FOTOGRAPHY_C_TITLE,Foto de Torogoz,Torogoz photo,
-FOTOGRAPHY_C_DESC,"Si las ves quietas, notarás que mueven su cola como péndulo de reloj, hermano del Guardabarranco.","If you watch them closely, you will notice that they move their tails like a clock pendulum. Brother of the Guardabarranco.",
-FOTOGRAPHY_D_TITLE,Foto de Guacamaya,Guacamaya photo,
-FOTOGRAPHY_D_DESC,Un ave de la familia de Loros que es enorme y de plumaje vibrante.,A bird of the parrot family that is enormous and has vibrant plumage.,
-FOTOGRAPHY_E_TITLE,Foto de Yigüirro,Yigüirro photo,
-FOTOGRAPHY_E_DESC,Un ave pequeña de precioso canto que le gusta estar cerca de grandes fuentes de agua.,A small bird with a beautiful song that likes to be near large sources of water.,
-METIL_TITLE,Compuesto aminometano,Aminomethane compound,
-METIL_DESC,"Gas derivado del amoníaco, se emplea como materia prima en la síntesis de medicamentos.","A gas derived from ammonia, it is used as a raw material in the synthesis of medicines.",
-RATSAMPLE_TITLE,Muestra de animal,Animal sample,
-RATSAMPLE_DESC,Contiene una pequeña muestra extraída de una rata que merodeaba en Birstall.,Contains a small sample taken from a rat that was roaming around Birstall.,
-BOOKMUSIC_TITLE,Libro de música,Music book,
-BOOKMUSIC_DESC,"Un libro que enseña a tocar el instrumento llamado “Marimba”, además trae algunas partituras de canciones clásicas de una cultura antigua.","A book that teaches how to play the instrument called “Marimba,” and also includes some sheet music for classic songs from an ancient culture.",
-CALAVERAFRUIT_TITLE,Fruto Calavera,Calavera fruit,
-CALAVERAFRUIT_DESC,¿Una... fruta? Al cortarla a la mitad se puede ver la forma de un cráneo.,"A... fruit? When you cut it in half, you can see the shape of a skull.",
-GOLD_KEY_TITLE,Llave de Oro,Golden Key,
-GOLD_KEY_DESC,Una vieja llave hecha de oro.,An old golden key.,
-HATHAIRDECO_TITLE,Sombrero y Lazo,Hat and Ribbon,
-HATHAIRDECO_DESC,Objetos pertenecientes a los gemelos Cavendish.,Items belonging to the Cavendish twins.,
+FOTOGRAPHY_TITLE,Fotografía,Photograph,Fotografia
+FOTOGRAPHY_DESC,"Una fotografía, que no muestra algo interesante, al menos se puede vender por sus materiales.",A photograph that does not show anything interesting can at least be sold for its materials.,Uma fotografia que não mostra nada de interessante pode pelo menos ser vendida por seus materiais.
+FOTOGRAPHY_A_TITLE,Foto de Guardabarranco,Guardabarranco photo,Foto de Guardabarranco
+FOTOGRAPHY_A_DESC,"Ave elegante de cola distinguida en forma de raqueta, hermano del Torogoz.","An elegant bird with a distinctive racket-shaped tail, brother of the Torogoz.","Uma ave elegante com uma cauda distinta em formato de raquete, irmã do Torogoz."
+FOTOGRAPHY_B_TITLE,Foto de Quetzal,Quetzal photo,Foto de Quetzal
+FOTOGRAPHY_B_DESC,"Se dice que posó sobre el cuerpo derrotado de un legendario guerrero, por lo que su pecho adquirió color rojo.","It’s said that it perched on the defeated body of a legendary warrior, which is why its chest turned red.","Dizem que ele pousou no corpo derrotado de um guerreiro lendário, e é por isso que seu peito ficou vermelho."
+FOTOGRAPHY_C_TITLE,Foto de Torogoz,Torogoz photo,Foto de Torogoz
+FOTOGRAPHY_C_DESC,"Si las ves quietas, notarás que mueven su cola como péndulo de reloj, hermano del Guardabarranco.","If you watch them closely, you will notice that they move their tails like a clock pendulum. Brother of the Guardabarranco.","Se você observá-los atentamente, notará que eles movem a cauda como o pêndulo de um relógio. Irmão do Guardabarranco."
+FOTOGRAPHY_D_TITLE,Foto de Guacamaya,Guacamaya photo,Foto de Guacamaya
+FOTOGRAPHY_D_DESC,Un ave de la familia de Loros que es enorme y de plumaje vibrante.,A bird of the parrot family that is enormous and has vibrant plumage.,Uma ave da família dos papagaios que é enorme e tem plumagem vibrante.
+FOTOGRAPHY_E_TITLE,Foto de Yigüirro,Yigüirro photo,Foto de Yigüirro
+FOTOGRAPHY_E_DESC,Un ave pequeña de precioso canto que le gusta estar cerca de grandes fuentes de agua.,A small bird with a beautiful song that likes to be near large sources of water.,Um pequeno pássaro com um canto bonito que gosta de ficar perto de grandes fontes de água.
+METIL_TITLE,Compuesto aminometano,Aminomethane compound,Composto de aminometano
+METIL_DESC,"Gas derivado del amoníaco, se emplea como materia prima en la síntesis de medicamentos.","A gas derived from ammonia, it is used as a raw material in the synthesis of medicines.","Gás derivado da amônia, é utilizado como matéria-prima na síntese de medicamentos."
+RATSAMPLE_TITLE,Muestra de animal,Animal sample,Amostra animal
+RATSAMPLE_DESC,Contiene una pequeña muestra extraída de una rata que merodeaba en Birstall.,Contains a small sample taken from a rat that was roaming around Birstall.,Contém uma pequena amostra retirada de um rato que estava vagando por Birstall.
+BOOKMUSIC_TITLE,Libro de música,Music book,Livro de música
+BOOKMUSIC_DESC,"Un libro que enseña a tocar el instrumento llamado “Marimba”, además trae algunas partituras de canciones clásicas de una cultura antigua.","A book that teaches how to play the instrument called “Marimba,” and also includes some sheet music for classic songs from an ancient culture.",Um livro que ensina a tocar o instrumento chamado “Marimba” e também inclui algumas partituras de canções clássicas de uma cultura antiga.
+CALAVERAFRUIT_TITLE,Fruto Calavera,Calavera fruit,Fruta Calavera
+CALAVERAFRUIT_DESC,¿Una... fruta? Al cortarla a la mitad se puede ver la forma de un cráneo.,"A... fruit? When you cut it in half, you can see the shape of a skull.","Uma... fruta? Quando você a corta ao meio, você consegue ver o formato de uma caveira."
+GOLD_KEY_TITLE,Llave de Oro,Golden Key,Chave Dourada
+GOLD_KEY_DESC,Una vieja llave hecha de oro.,An old golden key.,Uma chave dourada antiga.
+HATHAIRDECO_TITLE,Sombrero y Lazo,Hat and Ribbon,Chapéu e Laço de Fita
+HATHAIRDECO_DESC,Objetos pertenecientes a los gemelos Cavendish.,Items belonging to the Cavendish twins.,Itens pertencentes aos Gêmeos Cavendish.
+RINGWIFE_TITLE,Anillos de bodas,Wedding rings,Alianças de casamento
+RINGWIFE_DESC,Pertenecientes a Johannes Trithemius y su esposa...,Belonging to Johannes Trithemius and his wife...,Pertencente a Johannes Trithemius e sua esposa...
+MEDALLIONTOZIUHA_TITLE,Medalla Toziuha,Toziuha Medallion,Medalhão Toziuha
+MEDALLIONTOZIUHA_DESC,Prueba de una lucha perfecta contra el señor del Xibalbá.,Proof of a perfect battle against the lord of Xibalba.,Prova de uma batalha perfeita contra o senhor de Xibalba.
+CANDYDIFFB_TITLE,Caramelo agrio,Sour candy,Doce azedo
+CANDYDIFFB_DESC,"¿Las cosas están muy fáciles? Con este caramelo cambia a nivel ""normal"" la partida.",Are things too easy? This candy changes the game to “normal” difficulty.,"Está tudo muito fácil? Este doce muda o jogo para a dificuldade ""normal""."

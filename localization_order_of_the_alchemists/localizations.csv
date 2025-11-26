@@ -242,7 +242,7 @@ INTHENEXTUPDATE,En la próxima actualización...,In the next update...,Na próxi
 PROLOGUEFINISHED,Prólogo finalizado,Prologue finished,Prólogo finalizado
 YOUWANTGOWAGON,¿Regresar al vagón inicial del tren?,Back to the initial car of the train?,Voltar ao vagão inicial do trem?
 RETURNAMERITHIA,¿Regresar a Amerithia?,Return to Amerithia?,Retornar a Amerithia?
-DIFFCHANGEDTOEASY,"Dificultad cambiada a ""fácil""","Difficulty changed to ""easy""",Dificuldade modificada para “fácil”
+DIFFCHANGEDTOEASY,Dificultad cambiada,Difficulty changed,Dificuldade modificada
 ELEMENTALSAMPLENEEDED,Se necesita una muestra elemental,An elemental sample is required,Uma amostra elemental é necessária
 ABOUTEABARRIER,Las barreras de fuego celeste solo desaparecerán cuando el [Early Access] termine.,The fire barriers will only disappear when [Early Access] ends.,As barreiras de fogo apenas desaparecerão quando o [Acesso Antecipado] acabar.
 ELDRALIS_WOODS,Bosque de Eldralis,Eldralis Woods,Floresta de Eldralis
@@ -332,17 +332,33 @@ ACH17TITLE,¡He venido a verte aniquilado!,I´ve come to see you annihilated!,Vi
 ACH17DESC,Abre la puerta que conduce al lugar más alto de la Abadía.,Open the door that leads to the highest point of the Abbey.,Abra a porta que leva ao ponto mais alto da Abadia.
 ACH18TITLE,El fin de la melancolía,The end of melancholy,O fim da melancolia
 ACH18DESC,Alcanza el final malo.,Reach the bad ending.,Alcança o final ruim
-ACH19TITLE,,Marimba Hero,
-ACH19DESC,Toca todas las notas de la partitura.,Play all the notes in the score.,
-ACH20TITLE,El fin de la venganza,The end of revenge,
-ACH20DESC,Alcanza el final trágico.,Reach the tragic ending.,
-ACH21TITLE,Canción de cuna,Lullaby,
-ACH21DESC,Haz que cierta Alquimista consiga el sueño eterno.,Make a certain Alchemist achieve eternal sleep.,
+ACH19TITLE,,Marimba Hero,Herói da Marimba
+ACH19DESC,Toca todas las notas de la partitura.,Play all the notes in the score.,Toque todas as notas da partitura
+ACH20TITLE,El fin de la venganza,The end of revenge,O fim da vingança
+ACH20DESC,Alcanza el final trágico.,Reach the tragic ending.,Consiga o fim trágico.
+ACH21TITLE,Canción de cuna,Lullaby,Canção de ninar
+ACH21DESC,Haz que cierta Alquimista consiga el sueño eterno.,Make a certain Alchemist achieve eternal sleep.,Faça com que uma certa Alquimista alcance o sono eterno.
+ACH22TITLE,El fin de la Alquimista,The end of the Alchemist,O fim da Alquimista
+ACH22DESC,Alcanza el final bueno.,Reach the good ending.,Alcance o final bom.
+ACH23TITLE,El fin del viaje,The end of the journey,O fim da jornada
+ACH23DESC,Alcanza el final secreto.,Reach the secret ending.,Alcance o final secreto.
+ACH24TITLE,Cartografo,Cartographer,Cartógrafa
+ACH24DESC,Completa el 100% del mapa.,Complete 100% of the map.,Complete 100% do mapa.
+ACH25TITLE,Asesino de demonios,Demon Slayer,Matador de Demônios
+ACH25DESC,Completa el juego en modo díficil al derrotar a Johannes.,Complete the game in hard mode by defeating Johannes.,Complete o jogo no modo difícil derrotando Johannes.
+ACH26TITLE,Titanium Adeptis,Titanium Adeptis,Adeptis de Titânio
+ACH26DESC,Derrota al alquimista de Titanio.,Defeat the Titanium Alchemist.,Derrote o Alquimista de Titânio.
+ACH27TITLE,Señor del Xibalbá,Lord of Xibalbá,Senhor de Xibalbá
+ACH27DESC,Derrota a Ahalcaná.,Defeat Ahalcaná.,Derrote Ahalcaná.
+ACH28TITLE,Sin piedad,No mercy,Sem misericórdia
+ACH28DESC,Consigue todos los tesoros de jefes por derrotarlos sin recibir daño.,Obtain all boss treasures by defeating them without taking damage.,Obtenha todos os tesouros dos chefes derrotando-os sem sofrer dano.
+ACH29TITLE,Exterminio,Extermination,Extermínio
+ACH29DESC,Derrota a todos los enemigos.,Defeat all enemies.,Derrote todos os inimigos.
 FIREACTION,Disparar,Fire,Disparar
 STRAFEACTION,Mover lateralmente,Strafe,Se mover lateralmente
 CLOSEGAME,Cerrar juego,Close game,Fechar o jogo
 DIFFSMOLXANDEATH,Inire Pecunia,Inire Pecunia,Inire Pecunia
-DIFFSMOLXANDEATH_DESC,Evita la muerte del personaje reemplazando el daño por gasto de dinero.,Avoids character death by replacing damage by spending money.,Evita a morte do personagem ao substituir o dano por dinheiro gasto.
+DIFFSMOLXANDEATH_DESC,Evita la muerte del personaje reemplazando el daño por gasto de dinero. El efecto seguirá activo aún cuando ya no tengas dinero.,Avoids character death by replacing damage by spending money. The effect will remain active even when you no longer have money.,Evita a morte do personagem ao substituir o dano por dinheiro gasto.
 REMOVE,Remover,Remove,Remover
 USEJOYSTICKDINAMIC,Posición Palanca dinámica,Dynamic Stick position,Posição dinâmica da alavanca
 CLOCK_TOWER,Torre de reloj,Clock tower,Torre do relógio
@@ -354,8 +370,12 @@ INTERACT,Interactuar,Interact,Interagir
 AERIAL_DASH_II,Dash aéreo II,Aerial Dash II,Dash aéreo II
 SEEFULLLICENSES,Ver otras atribuciones,See other attributions,Ver outras atribuições
 ATTRIBUTIONS,Atribuciones,Attributions,Atribuições
-EXPOSETIME,Tiempo de exposición: %.2fs,Exposure time: %.2fs,
-CAPTUREIMGCANCELED,Captura de imagen cancelada,Image capture canceled,
-HOLDRAISEKEY,Mantén para subir un tono,Hold to raise key,
-HOLDLOWERKEY,Mantén para bajar un tono,Hold to lower key,
-LAKEWATCH,Mirador del lago Niquira,Niquira lake viewpoint,
+EXPOSETIME,Tiempo de exposición: %.2fs,Exposure time: %.2fs,Tempo de exposição:  %.2fs
+CAPTUREIMGCANCELED,Captura de imagen cancelada,Image capture canceled,Captura de imagem cancelada
+HOLDRAISEKEY,Mantén para subir un tono,Hold to raise key,Segure para aumentar um tom
+HOLDLOWERKEY,Mantén para bajar un tono,Hold to lower key,Segure para diminuir um tom
+LAKEWATCH,Mirador del lago Niquira,Niquira lake viewpoint,Mirante do Lago Niquira
+FIREMARGARET,¡¡¡FUEGO!!!,FIRE!!!,DISPARAR!!!
+UNLOCKEDHARDMODE,Se ha desbloqueado el modo difícil.,Unlocked Hard mode.,Modo Difícil desbloqueado.
+OTHERSTATUESDESTROYED,Las demás estatuas también serán destruidas.,The other statues will also be destroyed.,As outras estátuas também serão destruídas.
+SLIDEHELPSMOLXANDRIA,"↓+Salto : Barrida en el suelo, permite atravesar trampas o enemigos sin recibir daño.","↓+Jump: Ground slide, allows you to pass through traps or enemies without taking damage.","↓+Pulo: Deslize no chão, permite passar por armadilhas ou inimigos sem sofrer dano."
