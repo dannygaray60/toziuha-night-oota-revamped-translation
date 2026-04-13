@@ -1,409 +1,409 @@
-keys,es,en,pt_BR
-YES,Sí,Yes,Sim
-NO,No,No,Não
-USEITEM,Usar item,Use item,Usar item
-CLOSE,Cerrar,Close,Fechar
-CONTINUE,Continuar,Continue,Continuar
-SKIP,Omitir,Skip,Pular
-PRESS,Presiona,Press,Pressionar
-TO_START,para comenzar,to start,Para começar
-TO_CONTINUE,para continuar,to continue,Para continuar
-TAP_TO_START,Toca para comenzar,Tap to start,Aperte para começar
-RETURN,Regresar,Return,Voltar
-MOVE,Mover,Move,Mover
-CHANGE,Cambiar,Change,Trocar
-SELECT,Seleccionar,Select,Selecionar
-START,Iniciar,Start,Começar
-OPTIONS,Opciones,Options,Opções
-EXIT,Salir,Exit,Sair
-MAIN_MENU,Menú principal,Main menu,Menu principal
-GAMEPLAY,Jugabilidad,Gameplay,Jogabilidade
-VIDEO,Video,Video,Vídeo
-AUDIO,Audio,Audio,Áudio
-GAMEPAD,Control,Controller,Controle
-KEYBOARD,Teclado,Keyboard,Teclado
-LANGUAGE,Idioma,Language,Idioma
-PLAYER_AFTERIMAGE,Estela fantasma del jugador,Player Afterimage,Pós-imagem do jogador
-MOVE_WITH_JOYSTICK,Mover personaje con palanca izquierda,Move character with left stick,Mover personagem com botão analógico (E)
-GAMEPAD_VIBRTN,Vibración de control,Controller vibration,Vibração do controle
-SHAKE_CMR_DAMAGE,Sacudir cámara al recibir daño,Shake camera on damage,Vibrar a câmera durante o dano
-ICONS_BTNS,Íconos de botones,Button icons,Ícones dos botões
-CUSTOM_GAMEPAD_ICONS,Personalizar íconos de botones,Customize button icons,Personalizar os ícones dos botões
-QUALITY,Calidad,Quality,Qualidade
-VISUALIZATION_MODE,Modo de visualización,Display Mode,Modo de visualização
-WINDOW_RESOLUTION,Resolución en modo ventana,Window Resolution,Resolução de janela
-FPS_LIMIT,Límite de FPS (depuración),FPS Limit (debug),Limite de FPS (debug)
-CRT_MODE,Filtro CRT,CRT filter,Filtro CRT
-SOUND_EFFECTS,Efectos de sonido,Sound effects,Efeitos de som
-MUSIC,Música,Music,Música
-VOICES,Voces,Voices,Vozes
-PRESS_NEW_KEY,Presiona la nueva tecla (teclado),Press new key (keyboard),Pressione uma nova tecla (teclado)
-PRESS_NEW_BTN,Presiona el nuevo botón (control),Press new button (controller),Pressione um novo botão (controle)
-PRESS_ESCAPE,Presiona [Escape],Press [Escape],Pressione [Esc]
-PRESS_BACK_ANDROID,Presiona [Atrás] (Móvil),Press [Back] (Mobile),Pressione [Voltar] (Mobile)
-ACTION_UI_START,Pausa / Equipamiento,Pause / Equipment,Pausar/ Equipamento
-ACTION_UI_SELECT,Abrir mapa,Open map,Abrir mapa
-ACTION_UI_ACCEPT,Aceptar,Accept,Aceitar
-ACTION_UI_CANCEL,Cancelar,Cancel,Cancelar
-ACTION_UI_UP,Arriba,Up,Cima
-ACTION_UI_DOWN,Abajo,Down,Baixo
-ACTION_UI_LEFT,Izquierda,Left,Esquerda
-ACTION_UI_RIGHT,Derecha,Right,Direita
-ACTION_UI_FOCUS_PREV,Página previa,Previous page,Página anterior
-ACTION_UI_FOCUS_NEXT,Página siguiente,Next page,Próxima página
-ACTION_JUMP,Saltar,Jump,Pular
-ACTION_QUICKMENU,Menú Rápido,Quick Menu,Menu Rápido
-ACTION_ATTACK,Atacar,Attack,Atacar
-ACTION_BACKDASH,Retroceder / Esquivar,Backdash / Dodge,Recuar / Esquivar
-ACTION_CIRCUIT,Circuito Elemental,Elemental Circuit,Circuito Elemental
-SHADERS_DYNAMIC_LIGHTS,Shaders y luces dinámicas (Alto),Shaders and dynamic lights (High),Shaders e luzes dinâmicas (Alta)
-SHADERS_SIMPLE_LIGHTS,Shaders y luces simples (Medio),Shaders and simple lights (Medium),Shaders e luzes simples (Média)
-SHADERS_NOT_SIMPLE_LIGHTS,Solo luces simples (Bajo),Just simple lights (Low),Apenas luzes simples (Baixa)
-SOLVE_GAMEPAD_INCOMPATIBILITY,Solucionar problemas de compatibilidad,Fix compatibility issues,Solucionar problemas de compatibilidade
-WINDOW_BORDERLESS,Pantalla sin bordes,Borderless screen,Tela sem bordas
-WINDOWED,Ventana,Window,Janela
-MONITOR_RES,Resolución del monitor,Monitor Resolution,Resolução do monitor
-GAMEPAD_CONNECTED,Control conectado,Controller connected,Controle conectado
-GAMEPAD_DISCONNECTED,Control desconectado,Controller disconnected,Controle desconectado
-CONF_DEFAULT,Reestablecer configuración por defecto,Reset to default settings,Restaurar configuração inicial
-CONF_BY_DEFAULT_DONE,Configuración por defecto realizado,Default configuration complete,Configuração inicial realizado
-INPUT_DEVICE_INCORRECT,Se usó el dispositivo incorrecto,Input from incorrect device,Uso de dispositivo incorreto
-FULLSCREEN,Pantalla completa,Fullscreen,Tela inteira
-SELECT_NEW_ICON_FOR_ACTION,Selecciona el nuevo ícono para:\n%s,Select new icon for:\n%s,Selecione novo ícone para:\n%s 
-SELECT_ICON_TO_CHANGE,Selecciona el ícono a cambiar,Select the icon to be changed,Selecione o ícone para trocar
-TEST_GAMEPAD,Probar control,Test Controller,Testar Controle
-MAPPING_UPDATED,Mapeo actualizado,Mapping updated,Mapeamento atualizado
-SEE_HELP,Ver la ayuda,See help,Ver Ajuda
-OPENING_LINK_WEB,Abriendo enlace web,Opening weblink,Abrindo link
-SHOW_MINIMAP,Mostrar Minimapa,Show Minimap,Mostrar mini-mapa
-MINIMAP_VISIBILITY,Visibilidad de Minimapa,Minimap visibility,Visibilidade do mini-mapa
-ELEMENTAL_CIRCUIT,Circuito Elemental,Elemental Circuit,Circuito Elemental
-ACTION,Acción,Action,Ação
-ABILITY,Habilidad,Skill,Habilidade
-SUBWEAPON,Subarma,Sub-Weapon,Arma secundária
-HEALTH_RECOVERED,Salud Recuperada,Restored Health,Saúde recuperada
-ALCHEMY,Alquimia,Alchemy,Alquimia
-INVENTORY,Inventario,Inventory,Inventário
-EQUIP,Equipo,Equip,Equipar
-TIME,Tiempo,Time,Tempo
-AREA,Área,Area,Área
-DEATHS,Muertes,Deaths,Mortes
-SCS,sgs,scs,Segundos
-ALLOY,Aleación,Alloy,Liga
-QUANTITY,Cantidad,Quantity,Quantidade
-AXE,Hacha,Axe,Machado
-SHURIKEN,Shuriken,Shuriken,Shuriken
-KNIFES,Cuchillos,Knives,Facas
-TORNADO_BLADES,Tornado de Cuchillas,Tornado Blades,Tornado de Lâminas
-HANDFAN,Abanico de mano,Hand Fan,Leque de Mão
-DOUBLE_JUMP,Doble Salto,Double Jump,Pulo duplo
-DODGE,Esquivar,Dodge,Esquivar
-SLIDE,Deslizarse,Slide,Deslizar
-AIR_KICK,Patada Aérea,Dive Kick,Voadora
-WALL_SLIDE,Deslizamiento en pared,Wall Slide,Deslizar na parede
-SWING,Balanceo de látigo,Whip Swing,Chicotada
-BLADE_WHIP,Látigo de Sangre,Blood Whip,Chicote de sangue
-WHIP_CRUSH,Ataque Crush,Whip Crush,Chicotada Esmagadora
-BLOOD_CONTROL,Control Sanguíneo,Blood Control,Controle Sanguíneo
-MULTIPLE_EQUIPMENT,Equipamiento Múltiple,Multiple Equipment,Equipamento Múltiplo
-CHAINED_ATTACK,Ataque Encadenado,Chained Attack,Ataque em Sequência
-EMPTY_INVENTORY,Inventario Vacío,Empty Inventory,Inventário Vazio
-STATUS,Estado,Status,Estado
-GOOD,Bueno,Good,Bem
-INJURED,Lesionado,Injured,Ferida
-POISONED,Envenenado,Poisoned,Envenenada
-CURSED,Maldito,Cursed,Amaldiçoada
-CENTER_MAP,Centrar,Center,Centro
-ADD_MARKER,Añadir Marcador,Add Marker,Adicionar Marcador
-EDIT_MARKER,Editar Marcador,Edit Marker,Editar Marcador
-QUICKSAVE_AND_EXIT,Guardado rápido y Salir,Quicksave & Exit,Salvamento rápido & Sair
-EXIT_N_GOTO_MMENU,Salir e ir al Menú Principal,Exit & go to Main menu,Sair & Ir até o Menu Principal
-MAP,Mapa,Map,Mapa
-KEYSOBJECTS,Objetos Clave,Key Items,Objetos Chave
-TREASURES,Tesoros,Treasures,Tesouros
-EMPTY_LIST,Lista Vacía,Empty List,Lista Vazia
-SAVE_MARKER,Guardar Marcador,Save Marker,Salvar Marcador
-DELETE_MARKER,Eliminar Marcador,Delete Marker,Apagar Marcador
-ENEMIES,Enemigos,Enemies,Inimigos
-ERASE,Borrar,Erase,Apagar
-WRITE_NAME_FOR_SAVE,Escriba un nombre para el guardado...,Type a name for the save...,Escreva um nome para salvar
-GAME_SAVED,Partida Guardada,Game Saved,Jogo Salvo
-QUICKSAVE_DETECTED,Archivo de guardado rápido encontrado,Quicksave file found,Arquivo de salvamento rápido encontrado
-ABOUT_QUICKSAVE_EXISTS,Al cargar partida se eliminará el archivo de guardado rápido,Loading game will delete the quick save file,Carregar o jogo irá apagar o arquivo de salvamento rápido
-LOAD_QUICKSAVE,Cargar archivo de guardado rápido,Load quicksave file,Carregar arquivo de salvamento rápido
-LOAD_GAME,Cargar partida (Estatua),Load game (Statue),Carregar o jogo (Estátua)
-DELETE_DATA,Eliminar datos,Delete data,Apagar dados
-SELECT_SLOT_TO_DELETE,Seleccione Slot para eliminar,Select save slot to delete,Selecione arquivo salvo para apagar
-THIS_ACTION_CANT_BE_UNDO,Esta acción no podrá deshacerse,This action cannot be undone,Essa ação não pode ser desfeita
-DELETE,Eliminar,Delete,Apagar
-DATA_ERASE,Datos eliminados,Deleted data,Dados Deletados
-NEW_GAME,Nueva Partida,New Game,Novo Jogo
-DEVROOM,La sala de las almas torturadas,Hall of Tortured Souls,Salão das Almas Torturadas
-SHOW_DEATH_COUNTER,Mostrar contador de muertes,Show death counter,Mostrar contador de mortes
-ATK_TITLE,Ataque,Attack,Ataque
-DEF_TITLE,Defensa,Defense,Defesa
-INT_TITLE,Inteligencia,Intelligence,Inteligência
-HP_TITLE,Salud,Health,Saúde
-MP_TITLE,Mana,Mana,Mana
-SP_TITLE,Estamina,Stamina,Vigor
-POTIONMAX_TITLE,Maximo de pociones,Potions Max,Máximo de Poções
-ACCESORY,Accesorio,Accessory,Acessório
-EQUIP_TOP,Equipo Superior,Top Equip,Equipamento Superior
-EQUIP_MID,Equipo Medio,Mid Equip,Equipamento Médio
-EQUIP_BOTTOM,Equipo Inferior,Bottom Equip,Equipamento Inferior
-NONE,Ninguno,None,Nenhum
-USE,Usar,Use,Usar
-PREVIOUS,Anterior,Previous,Anterior
-NEXT,Siguiente,Next,Próximo
-SCREEN_FILTER,Filtro de pantalla,Screen Filter,Filtro de tela
-OBJECT,Objeto,Item,Objeto
-ELEMENT,Elemento,Element,Elemento
-OBJECT_KEY,Objeto clave,Key item,Objeto Chave
-TREASURE,Tesoro,Treasure,Tesouro
-FINDINGS,Textos,Findings,Achados
-PRESS_DIR_TO_USE_QUICKMENU,Mantén presionado cualquier dirección para usar el item,Press any direction to use the desired item,Pressione qualquer direção para usar o item desejado
-WORK_IN_PROGRESS,Trabajo en progreso...,Work in progress...,Trabalho em progresso…
-EDIT_TOUCH_BTNS,Editar Botones Táctiles,Edit Touch Buttons,Editar Botões de Toque
-SAVE,Guardar,Save,Salvar
-RESET,Reestablecer,Reset,Recomeçar
-OPACITY,Opacidad,Opacity,Opacidade
-SIZE,Escala,Size,Tamanho
-MINIMAP,Minimapa,Minimap,Mini-mapa
-ABOUT_CARPATITIA_DEATH,La Carpatitia permite regresar a la última estatua de guardado sin perder el progreso alcanzado.,The Carpatithia allows you to return to the last save statue without losing progress.,Carpatitia permite retornar à última estátua de salvamento sem perder o seu progresso
-ABOUT_REVIVE,Revivir permite regresar a la última estatua de guardado sin perder el progreso alcanzado.,Revive allows you to return to the last save statue without losing progress.,Reviver permite retornar à última estátua de salvamento sem perder o seu progresso
-USE_CARPATITIAX2,Usar Carpatitia x2,Use Carpatithia x2,Usar Carpatithia x2
-AMPHIBIOUS_BREATHING,Respiración Anfibia,Amphibious Breathing,Respiração Anfíbia
-SWAPSET,Cambiar Set,Change Set,Mudar Set
-ONSCREENBUTTONSALWAYSVISIBLE,Botones en pantalla siempre visibles,On-screen buttons always visible,Botões na tela sempre visíveis
-CREDITS,Créditos,Credits,Créditos
-GETTHEPREQUEL,Jugar la Precuela,Play the Prequel,Jogar prólogo
-DETAILS_QUICKMENU,Info extra en Menú Rápido,Extra info on Quick Menu,Info extra no Menu Rápido
-GALLERY,Galería,Gallery,Galeria
-UNBREAKABLEWILL,Voluntad Inquebrantable,Unbreakable Will,Vontade Indomável
-ABOUTUNBREAKABLEWILL,"Teniendo más del 20% de vida, al recibir daño critico el jugador todavía no morirá.","If the player has more than 20% health, they will not die when critically hit.","Se o jogador tem menos de 20% de saúde, não morrerá quando receber dano crítico."
-DYNAMICKNOCKBACK,Knockback Dinamico,Dynamic Knockback,Empurrão Dinâmico
-ABOUTDYNAMICKNOCKBACK,El jugador recibirá un empuje de acuerdo al daño recibido.,The player will experience knockback corresponding to the damage taken.,O jogador sofrerá um empurrão correspondendo ao dano recebido.
-DIFFICULTY_OPTIONS,Opciones de Dificultad,Difficulty Options,Opções de Dificuldade
-THISLANGISFANMADE,Traducción hecha por fans,Fan-made Translation,Tradução feita por fãs
-ABOUTFANMADETRANSLATIONS,"Esta es una traducción hecha por fans, cualquier persona es bienvenida a ayudar a traducir el juego voluntariamente.",This is a fan-made translation. Anyone is welcome to help translate the game voluntarily.,Esta é uma tradução feita por fã. Todos são bem vindos a ajudar a traduzir o jogo de forma voluntária.
-LEARNMORE,Conocer más,Learn more,Saiba mais
-TOBECONTINUED,Esta historia continuará...,To be continued...,Continua…
-WEBSITE,Sitio web,Website,Website
-AERIAL_DASH,Dash aéreo,Aerial Dash,Dash aéreo
-WHILECIRUITBTNPRESSED,Manteniendo botón [Circuito],Holding [Circuit] button,Segurando o botão de [Circuito]
-USEVIRTUALJOYSTICK,Usar Palanca Virtual,Use Virtual Stick,Usar Controle Virtual
-SAVE_CHANGES,Guardar Cambios,Save Changes,Salvar alterações
-LOADING,Cargando...,Loading...,Carregando…
-OBTAINED,Obtenido,Obtained,Obtido
-BUY,Comprar,Buy,Comprar
-SELL,Vender,Sell,Vender
-SHOP,Tienda,Shop,Loja
-SOLD,Vendido,Sold,Vendido
-SELECT_STATION,Seleccionar Estación,Select Station,Selecionar Estação
-ZOOMIN,Acercar,Zoom in,Ampliar
-ZOOMOUT,Alejar,Zoom out,Diminuir
-DESPERATIONATTACK,Ataque de Desesperación,Desperation Attack,Ataque Dramático
-ABOUTDESPERATIONATTACK,"Al vencer a un Adeptis, este realizará un último ataque.","Upon defeating an Adeptis, it will perform one last attack.","Quando um Adeptis é derrotado, fará um último ataque."
-GETREWARD,Obtener recompensa,Get reward,Receber recompensa
-ACHIEVEMENTS,Logros,Achievements,Conquistas
-ACHIEVEMENT_OBTAINED,Logro obtenido,Achievement obtained,Conquista obtida
-ACCEPT_CANCEL_CONFLICT,Botones Aceptar y Cancelar en conflicto,Conflicting Accept and Cancel buttons,Botões de Aceitar e Cancelar em conflito
-FOCUS_BTN_CONFLICT,Conflicting Previous Page and Next Page buttons,Conflicting Previous Page and Next Page buttons,Botões de Página Anterior e Próxima Página em conflito
-PRESSSESCTOEXIT,"Presione la tecla ""Escape"" para salir del menú de calibración.","Press ""Escape"" key to exit from calibration menu.",Pressione “Escape” para sair do menu de calibragem.
-START_CALIBRATION,Iniciar calibración,Start calibration,Começar calibragem
-THEBUTTONALREADYADDED,El botón ya ha sido asignado,The button has already been assigned,O botão já foi atribuído
-PRESSTHEBUTTONINGAMEPAD,Presione el botón correspondiente a la posición señalada.,Press the button corresponding to the indicated position.,Pressione o botão correspondente a posição indicada.
-HERECANMAPYOURCONTROL,Aquí podrá asignar los botones de su control.,Here you can assign the buttons on your controller.,Aqui você pode atribuir os botões do seu controle.
-SELECTADEVICE,Seleccione un dispositivo,Select a device,Selecione um dispositivo
-CALIBRATIONFINISHED,Calibración finalizada,Calibration finished,Calibragem finalizada
-RESTARTMAYBEREQUIRED,Reinicie el juego para aplicar cambios.,Restart the game to apply changes.,Reinicie o game para aplicar as mudanças.
-CALIBRATEGAMEPAD,Calibrar Control,Calibrate Controller,Calibrar Controle
-SCHEME,Esquema,Scheme,Esquema
-CHANGE_SCHEME_ICONS,Cambiar esquema de íconos,Change Scheme icons,Mudar ícones do esquema
-CHANGESSAVED,Cambios guardados,Changes saved,Mudanças salvas
-PRESSSPACETOSTART,"Presiona ""Espacio"" para comenzar","Press ""Space"" to start",Pressione “Espaço” para começar
-AGAMEPADDETECTED,Se ha detectado un control conectado. ¿Desea configurarlo ahora?,A connected controller has been detected. Do you want to configure it now?,"Um controle conectado foi detectado, Quer configurá-lo agora?"
-IGOTYOU,¡Te tengo!,I got you!,Te peguei!
-SPECTROSCOPE,Espectroscopio,Spectroscope,Espectrômetro
-INCREASE,Incrementar,Increase,Aumentar
-NEUMANPUZZLELABHINT,"De los siete metales, se encuentra aquella que resplandece como la estrella del día. A su lado, reflejando aquella luz, la guardiana de la noche.","Of the seven metals, there is one that shines like the day star. Next to it, reflecting that light, the guardian of the night.","Dos sete metais, tem um que brilha como a estrela do dia. Ao seu lado, refletindo aquela luz, a guardiã da noite."
-WAITRESS,Camarera,Waitress,Garçonete
-SEE_SOCIAL_LINKS,Ver redes sociales,See social links,Ver redes sociais
-DIFFICULTY_DESCRIPTION_0,No quiero estresarme.,I don't want to stress.,Eu não quero me estressar.
-DIFFICULTY_DESCRIPTION_1,¡Muere monstruo!,Die monster!,
-DIFFICULTY_DESCRIPTION_2,¡Te mataré a tí y a la noche! ,I'll kill you and the night! ,I'll kill you and the night! 
-DIFFICULTY_DESCRIPTION_3,Prepárate para morir. Nivel máx 1.,Prepare to die. max LVL 1.,Prepare para morrer. LVL 1.
-SELECT_DIFFICULTY,Seleccione dificultad,Select difficulty,Selecione a dificuldade
-LOCKED,Bloqueado,Locked,Bloqueado
-PRESSFORKEYBOARDARROWSETTING,"Presiona ""Enter"" para usar flechas en teclado","Press ""Enter"" for Arrow keyboard mode",Pressione “Enter” para o modo setas do teclado
-PRESSFORWASDSETTING,"Presiona ""W"" para usar modo WASD en teclado","Press ""W"" for Keyboard WASD+Mouse mode",Pressione “W” para o modo WASD do teclado + mouse
-PRESSLETTERFILTERSCREEN,Presiona la letra del filtro de pantalla deseado,Press the letter option for screen filter,Pressione a opção de letra para o filtro de tela
-LIBRARY_ARCHIVES,Archivos de la biblioteca,Library archives,Arquivos da biblioteca
-INTHENEXTUPDATE,En la próxima actualización...,In the next update...,Na próxima atualização…
-PROLOGUEFINISHED,Prólogo finalizado,Prologue finished,Prólogo finalizado
-YOUWANTGOWAGON,¿Regresar al vagón inicial del tren?,Back to the initial car of the train?,Voltar ao vagão inicial do trem?
-RETURNAMERITHIA,¿Regresar a Amerithia?,Return to Amerithia?,Retornar a Amerithia?
-DIFFCHANGEDTOEASY,Dificultad cambiada,Difficulty changed,Dificuldade modificada
-ELEMENTALSAMPLENEEDED,Se necesita una muestra elemental,An elemental sample is required,Uma amostra elemental é necessária
-ABOUTEABARRIER,Las barreras de fuego celeste solo desaparecerán cuando el [Early Access] termine.,The fire barriers will only disappear when [Early Access] ends.,As barreiras de fogo apenas desaparecerão quando o [Acesso Antecipado] acabar.
-ELDRALIS_WOODS,Bosque de Eldralis,Eldralis Woods,Floresta de Eldralis
-STRALSUND_RUINS,Ruinas de Stralsund,Stralsund Ruins,Ruínas de Stralsund
-TAHUATEPETL_ISLETS,Isletas de Tahuatepetl,Tahuatepetl Islets,Ilhotas Tahuatepetl
-ATHOS_ABBEY,Abadía de Athos,Athos Abbey,Abadia de Athos
-THE_ORDER_HEADQUARTERS,Sede de La Orden,The Order Headquarters ,Sede d’A Ordem
-STORE,Tienda,Store,Loja
-LIBRARY,Biblioteca,Library ,Biblioteca
-ALCHEMY_LABORATORY,Laboratorio de Alquimia,Alchemy Laboratory,Laboratório de Alquimia
-RESTAURANT,Restaurante,Restaurant,Restaurante
-XANDRIASHOUSE,Casa de Xandria,Xandria's House,Casa da Xandria
-TAHUATEPETL_VOLCANO,Volcán Koapolkan,Koapolkan Volcano,Vulcão Koapolkan
-GRIJAYLA_TOWN,Ciudad de Grijayla,Grijayla Town,Cidade de Grijayla
-BIRSTALL_PASS,Ciudad de Birstall,Birstall City,Cidade de Birstall
-ARIDIAH_DESERT,Desierto de Aridiah,Aridiah Desert,Deserto de Aridiah
-IXQUICTEMPLE,Templo de Ixquic,Ixquic Temple,Templo de Ixquic
-LOGINPLAYGAMES,Entrar en GooglePlayGames,Login GooglePlayGames,Conectar GoogelPlayGames
-ABOUT_RESTORE_PLAYGAMES,Utilizando su cuenta de Google PlayGames podrá restaurar partidas que se respaldaron automáticamente al guardar.,"Using your Google PlayGames account, you will be able to restore games that were automatically backed up when saving.","Usando sua conta Google PlayGames, você será capaz de recuperar partidas que foram automaticamente recuperadas ao salvar."
-RESTORE_DATA,Restaurar datos,Restore data,Recuperar dados
-SELECT_GAMESAVE_TO_RESTORE,Seleccione partida a restaurar,Select savegame to restore,Selecionar partida para recuperar
-ARESURETORESTOREDATA,¿Está seguro de restaurar los datos de juego en el slot seleccionado?,Are you sure you want to restore game data to the selected slot?,Tem certeza de recuperar os dados do jogo na vaga selecionada?
-RESTORING_DATA,Restaurando datos...,Restoring data...,Recuperando dados…
-DATA_RESTORED,Los datos han sido restaurados.,Data has been restored.,Dados recuperados.
-SAVEDATABACKED,Datos respaldados,Backed up data,Dados reserva
-RESTORE,Restaurar,Restore,Restaurar
-GETFULLGAME,Juego completo,Get full game,Consiga o jogo completo
-DEFEATED,Derrotado,Defeated,Derrotado
-PROLOGUE,Prólogo,Prologue,Prólogo
-SHOW_ENEMYNAMEDEFEATED,Ver nombre de enemigo derrotado,Show defeated enemy name,Mostrar o nome do inimigo derrotado
-JUMPLAYERFLOATY,Salto en ataque flotante,Floating attack jump,Salto em ataque flutuante
-SHOWINFOENEMY,Mostrar salud/atributos enemigo,Show enemy health/attributes,Mostrar a saúde/atributos do inimigo
-ABOUTENEMYINFOREALTIME,"Al atacar a un enemigo previamente derrotado, se mostrará su salud y atributos elementales.","When attacking a previously defeated enemy, its health and elemental attributes will be displayed.","Ao atacar um inimigo previamente derrotado, mostrará sua saúde e atributos elementais."
-QTYNOW,Disponible,Available,Disponível
-TRANSMUTATION,Transmutación,Transmutation,Transmutação
-TRANSMUTE,Transmutar ahora,Transmute now,Transmutar agora
-QTY,Cantidad,Quantity,Quantidade
-OBJXTRANSMUTEDSUCCESS,¡[%s x%d] transmutado.,[%s x%d] transmuted.,[%s x%d] transmutado.
-QTY_INSUF,Cantidad insuficiente,Insufficient quantity,Quantidade insuficiente
-ANOBJTOACTIVMECHANISM,Un objeto para activar este mecanismo de engranajes...,An object to activate this gear mechanism...,Um objeto para ativar este mecanismo de engrenagens...
-GIVEOBJECT,Entregar objeto,Deliver item,Entregar item
-RESTAURANTAMERITHIAHAVESTOCK,El restaurante en Amerithia tiene [color=yellow]comida disponible[/color] a la venta.,The restaurant at Amerithia has [color=yellow]food available[/color] for purchase.,O restaurante em Amerithia tem [color=yellow]comida disponível[/color] à venda.
-EXPANDSCR,Expandir pantalla,Expand screen,Expandir tela
-OFFICIALART,Arte oficial,Official art,Arte oficial
-FANARTS,Arte de fans,Fan arts,Artes de fãs
-CIRCUITREQUIRED,Circuito E. requerido,Required E. Circuit,Circuito Elemental necessário
-IMPROVECIRCUIT,Mejorar circuito,Improve circuit,Aprimorar circuito
-PRELOADROOM,Pre-carga habitación (experimental),Pre-load room (experimental),Sala de Pré-carregamento (experimental)
-REVIVE,Revivir,Revive,Reviver
-NOTAVAILABLE,No disponible,Not available,Não disponível 
-STATS,Estadísticas,Stats,Estatísticas
-CREATINGCONFINIT,"Creando un nuevo archivo de ajustes, por favor espere...","Creating new settings file, please wait...","Criando Novo Arquivo de configurações, por favor aguarde…"
-LOWHEALTH_ALERT,Alerta visual de salud baja,Low visual health alert,Alerta de baixa qualidade visual
-ACH1TITLE,El ataque de los hombres muertos,Attack of the Dead Men,Ataque dos Mortos Vivos
-ACH2TITLE,La bruja del radium,The Radium Witch,A Bruxa de Rádio
-ACH3TITLE,Viaje en el Expreso Oriental,Travel on the Orient Express,Viagem no Expresso do Oriente
-ACH4TITLE,,Oxygenium Adeptis,Adeptis de Oxigênio
-ACH5TITLE,,Crux simplex ad infixionem,Crux simplex ad infixionem 
-ACH6TITLE,Masa crítica,Critical mass,Massa crítica
-ACH1DESC,Enfrentate por primera vez a la Alquimista de Cloro.,Face the Chlorine Alchemist for the first time.,Enfrente a alquimista de Cloro pela primeira vez.
-ACH2DESC,Rescata a la responsable del laboratorio de química.,Rescue the chemistry lab manager.,Resgate a responsável pelo laboratório de química.
-ACH3DESC,Protege al tren por encargo de Alessa.,Protect the train on behalf of Alessa.,Proteja o trem em nome de Alessa.
-ACH4DESC,Vence al Adeptis controlador del Oxígeno.,Defeat the Oxygen controlling Adeptis.,Derrote o Adeptis controlador de Oxigênio.
-ACH5DESC,Rescata a la hija de Gabriel.,Rescue Gabriel's daughter.,Resgate a filha do Gabriel.
-ACH6DESC,Destruye el [arma definitiva] de los Ahuizotes.,Destroy the [ultimate weapon] of the Ahuizotes.,Destrua a [arma definitiva] dos Ahuizotes.
-ACH7TITLE,,Vela del Candil,Vela de Candeia
-ACH7DESC,Entrega la máscara de Ahuizote a Margaret.,Deliver the Ahuizote mask to Margaret.,Entregue a máscara de Ahuizote a Margaret.
-ACH8TITLE,,Chrysopoeia ,Crisopeia
-ACH8DESC,Realiza tu primera transmutación en el laboratorio de Alquimia.,Make your first transmutation in the Alchemy Lab.,Faça a sua primeira transmutação no Laboratório de Alquimia.
-ACH9TITLE,Nitrum Adeptis,Nitrum Adeptis,Nitrum Adeptis
-ACH9DESC,Derrota al Adeptis controlador del Nitrógeno.,Defeat the Nitrogen controlling Adeptis.,Derrote o Adeptis controlador de Nitrogênio.
-ACH10TITLE,Hydrogenium Adeptis,Hydrogenium Adeptis,Hydrogenium Adeptis
-ACH10DESC,Derrota al Adeptis controlador del Hidrógeno.,Defeat the Hydrogen controlling Adeptis.,Derrote o Adeptis controlador de Hidrogênio.
-ACH11TITLE,Sílex Adeptis,Sílex Adeptis,Adeptis de Sílex
-ACH11DESC,Derrota al Adeptis controlador del Silicio.,Defeat the Silicon controlling Adeptis.,Derrote o Adeptis que controla o Silício.
-ACH12TITLE,Sulphur Adeptis,Sulphur Adeptis,Adeptis de Enxofre
-ACH12DESC,Derrota al Adeptis controlador del Azufre.,Defeat the Sulfur controlling Adeptis.,Derrote o Adeptis que controla o Enxofre.
-ACH13TITLE,Cazador de demonios,Demon hunter,Caçador de demônios
-ACH13DESC,Supera la máxima puntuación en [MegaBoom Inferno].,Beat the high score in [MegaBoom Inferno].,Bata a pontuação mias alta em [MegaBoom Inferno].
-ACH14TITLE,¿Puede correr Doom?,Can it run Doom?,Dá para rodar Doom?
-ACH14DESC,Haz que ese juego corra en Toziuha Night.,Make that game run in Toziuha Night.,Faça o jogo rodar em Toziuha Night.
-ACH15TITLE,Chlorium Adeptis,Chlorium Adeptis,Chlorium Adeptis
-ACH15DESC,Derrota al Adeptis controlador del Cloro.,Defeat the Chlorine controlling Adeptis.,Derrote o Adeptis controlador de Cloro.
-ACH16TITLE,Ferrum Adeptis,Ferrum Adeptis,Ferrum Adeptis
-ACH16DESC,Derrota al Adeptis controlador del Hierro.,Defeat the Iron controlling Adeptis.,Derrote o Adeptis controlador de Ferro.
-ACH17TITLE,¡He venido a verte aniquilado!,I´ve come to see you annihilated!,Vim para ver você aniquilado!
-ACH17DESC,Abre la puerta que conduce al lugar más alto de la Abadía.,Open the door that leads to the highest point of the Abbey.,Abra a porta que leva ao ponto mais alto da Abadia.
-ACH18TITLE,El fin de la melancolía,The end of melancholy,O fim da melancolia
-ACH18DESC,Alcanza el final malo.,Reach the bad ending.,Alcança o final ruim
-ACH19TITLE,Marimba Hero,Marimba Hero,Herói da Marimba
-ACH19DESC,Toca todas las notas de la partitura.,Play all the notes in the score.,Toque todas as notas da partitura
-ACH20TITLE,El fin de la venganza,The end of revenge,O fim da vingança
-ACH20DESC,Alcanza el final trágico.,Reach the tragic ending.,Consiga o fim trágico.
-ACH21TITLE,Canción de cuna,Lullaby,Canção de ninar
-ACH21DESC,Haz que cierta Alquimista consiga el sueño eterno.,Make a certain Alchemist achieve eternal sleep.,Faça com que uma certa Alquimista alcance o sono eterno.
-ACH22TITLE,El fin de la Alquimista,The end of the Alchemist,O fim da Alquimista
-ACH22DESC,Alcanza el final bueno.,Reach the good ending.,Alcance o final bom.
-ACH23TITLE,El fin del viaje,The end of the journey,O fim da jornada
-ACH23DESC,Alcanza el final secreto.,Reach the secret ending.,Alcance o final secreto.
-ACH24TITLE,Cartografo,Cartographer,Cartógrafa
-ACH24DESC,Completa el 100% del mapa.,Complete 100% of the map.,Complete 100% do mapa.
-ACH25TITLE,Asesino de demonios,Demon Slayer,Matador de Demônios
-ACH25DESC,Completa el juego en modo díficil al derrotar a Johannes.,Complete the game in hard mode by defeating Johannes.,Complete o jogo no modo difícil derrotando Johannes.
-ACH26TITLE,Titanium Adeptis,Titanium Adeptis,Adeptis de Titânio
-ACH26DESC,Derrota al alquimista de Titanio.,Defeat the Titanium Alchemist.,Derrote o Alquimista de Titânio.
-ACH27TITLE,Señor del Xibalbá,Lord of Xibalbá,Senhor de Xibalbá
-ACH27DESC,Derrota a Ahalcaná.,Defeat Ahalcaná.,Derrote Ahalcaná.
-ACH28TITLE,Sin piedad,No mercy,Sem misericórdia
-ACH28DESC,Consigue todos los tesoros de jefes por derrotarlos sin recibir daño.,Obtain all boss treasures by defeating them without taking damage.,Obtenha todos os tesouros dos chefes derrotando-os sem sofrer dano.
-ACH29TITLE,Exterminio,Extermination,Extermínio
-ACH29DESC,Derrota a todos los enemigos.,Defeat all enemies.,Derrote todos os inimigos.
-FIREACTION,Disparar,Fire,Disparar
-STRAFEACTION,Mover lateralmente,Strafe,Se mover lateralmente
-CLOSEGAME,Cerrar juego,Close game,Fechar o jogo
-DIFFSMOLXANDEATH,Inire Pecunia,Inire Pecunia,Inire Pecunia
-DIFFSMOLXANDEATH_DESC,Evita la muerte del personaje reemplazando el daño por gasto de dinero. El efecto seguirá activo aún cuando ya no tengas dinero.,Avoids character death by replacing damage by spending money. The effect will remain active even when you no longer have money.,Evita a morte do personagem ao substituir o dano por dinheiro gasto.
-REMOVE,Remover,Remove,Remover
-USEJOYSTICKDINAMIC,Posición Palanca dinámica,Dynamic Stick position,Posição dinâmica da alavanca
-CLOCK_TOWER,Torre de reloj,Clock tower,Torre do relógio
-PRESSENTERTOSTART,Presiona [Enter] para comenzar,Press [Enter] to start,Aperte [Enter] para começar
-NOEXTERNALCONTROLLERS,No se han detectado controles adicionales,External controllers not detected,Controles externos não detectados
-FINALES,Finales,Endings,Finais
-IMPORTANT_TEXT,Texto importante,Relevant text,Texto Relevante
-INTERACT,Interactuar,Interact,Interagir
-AERIAL_DASH_II,Dash aéreo II,Aerial Dash II,Dash aéreo II
-SEEFULLLICENSES,Ver otras atribuciones,See other attributions,Ver outras atribuições
-ATTRIBUTIONS,Atribuciones,Attributions,Atribuições
-EXPOSETIME,Tiempo de exposición: %.2fs,Exposure time: %.2fs,Tempo de exposição:  %.2fs
-CAPTUREIMGCANCELED,Captura de imagen cancelada,Image capture canceled,Captura de imagem cancelada
-HOLDRAISEKEY,Mantén para subir un tono,Hold to raise key,Segure para aumentar um tom
-HOLDLOWERKEY,Mantén para bajar un tono,Hold to lower key,Segure para diminuir um tom
-LAKEWATCH,Mirador del lago Niquira,Niquira lake viewpoint,Mirante do Lago Niquira
-FIREMARGARET,¡¡¡FUEGO!!!,FIRE!!!,DISPARAR!!!
-UNLOCKEDHARDMODE,Se ha desbloqueado el modo difícil y modo Lvl1.,Unlocked Hard mode and Lvl1.,Modo Difícil desbloqueado Lvl1.
-UNLOCKEDWITCH,Se ha desbloqueado el modo Solo-magia.,Unlocked Only-magic mode.,Modo Magia desbloqueado.
-UNLOCKEDATREU,Se ha desbloqueado el modo Atreu.,Unlocked Atreu mode.,Modo Atreu desbloqueado.
-UNLOCKEDATREU2,Escribe [ATREU] como nombre de partida nueva.,Type [ATREU] as the name of the new savegame.,Digite [ATREU] como nome da nova partida.
-UNLOCKEDWITCH2,Escribe [WITCHMODE] como nombre de partida nueva.,Type [WITCHMODE] as the name of the new savegame.,Digite [WITCHMODE] como nome da nova partida.
-OTHERSTATUESDESTROYED,Las demás estatuas también serán destruidas.,The other statues will also be destroyed.,As outras estátuas também serão destruídas.
-SLIDEHELPSMOLXANDRIA,"↓+Salto : Barrida en el suelo, permite atravesar trampas o enemigos sin recibir daño.","↓+Jump: Ground slide, allows you to pass through traps or enemies without taking damage.","↓+Pulo: Deslize no chão, permite passar por armadilhas ou inimigos sem sofrer dano."
-ACH30TITLE,Nahual Tzikin,Nahual Tzikin,Nahual Tzikin
-ACH30DESC,Completa los tributos a la diosa Ixquic.,Complete the tributes to the goddess Ixquic.,Complete os tributos à deusa Ixquic.
-ACH31TITLE,"Hasta la vista, baby","Hasta la vista, baby",
-ACH31DESC,Derrota al Toziuha usando los poderes de Atreu.,Defeat Toziuha using Atreu's powers.,
-TYPEWITCHMODE,Escribe [WITCHMODE] para jugar solo con magia,Type [WITCHMODE] for only-magic game,
-TYPEATREUMODE,Escribe [ATREU] para jugar con Atreu,Type [ATREU] for Atreu mode,
-XANDRIAOUTFITCHANG,Cambiar colores de vestido de Xandria,Change Xandria's color dress,
-RELOADING,Recargando,Reloading,
-RELOAD,Recarga,Reload,
-SHOOTREVOLVER,Disparar Revólver (acumula sangre),Fire Revolver (gain blood),
-RELOADMANA,Recargar maná,Recharge mana,
-SHOTGUN,Disparar Escopeta (puede destruir Calcita),Fire Shotgun (it can destroy Calcite),
-GRENADETHROWER,Lanzagranadas,Grenade Launcher,
-THROWGRENADE,Arroja granadas en el suelo,Throw grenades on the ground,
-INVERTGRAVITY,Invierte gravedad con botas ferro-magnéticas,Invert gravity with ferromagnetic boots,
-WEAPONPLUSMODE,Modo WEAPON+ (barra sangre llena),WEAPON+ Mode (full blood bar),
-ABOUTWEAPONPLUS,En el modo WEAPON+ El revólver y la escopeta pasan a una arma mejorada.,"In WEAPON+ Mode, the revolver and shotgun upgrade to enhanced versions.",
-MOVEMENTS,Movimientos,Movements,
-ABOUTCONTRARIUSATREU,Margaret le regaló a Atreu unas botas ferromagneticas para imitar el circuito Contrarius Gravitas de Xandria.,Margaret gave Atreu a pair of ferromagnetic boots to mimic Xandria’s Contrarius Gravitas circuit.,
-ABOUTDOBLEJUMPATREU,"Atreu es capaz de saltar indefinidamente en el aire usando el impulso de escopeta, mientras tenga suficiente estamina.","Atreu can jump indefinitely in the air using the shotgun’s recoil, as long as he has enough stamina.",
-IN-AIR,(en el aire),(in the air),
-IN-FLOOR,(en el suelo),(on the ground),
-ABOUTATREU,"Atreu puede transmutar munición de Plomo para utilizar armas, siempre y cuando tenga suficienta maná.","Atreu can transmute lead ammunition to use weapons, as long as he has enough mana.",
+keys,es,en,pt_BR,zh_CN
+YES,Sí,Yes,Sim,是
+NO,No,No,Não,否
+USEITEM,Usar item,Use item,Usar item,使用物品
+CLOSE,Cerrar,Close,Fechar,关闭
+CONTINUE,Continuar,Continue,Continuar,继续
+SKIP,Omitir,Skip,Pular,跳过
+PRESS,Presiona,Press,Pressionar,按下
+TO_START,para comenzar,to start,Para começar,开始
+TO_CONTINUE,para continuar,to continue,Para continuar,继续
+TAP_TO_START,Toca para comenzar,Tap to start,Aperte para começar,轻触开始
+RETURN,Regresar,Return,Voltar,返回
+MOVE,Mover,Move,Mover,移动
+CHANGE,Cambiar,Change,Trocar,切换
+SELECT,Seleccionar,Select,Selecionar,选择
+START,Iniciar,Start,Começar,开始
+OPTIONS,Opciones,Options,Opções,选项
+EXIT,Salir,Exit,Sair,退出
+MAIN_MENU,Menú principal,Main menu,Menu principal,主菜单
+GAMEPLAY,Jugabilidad,Gameplay,Jogabilidade,游戏玩法
+VIDEO,Video,Video,Vídeo,画面
+AUDIO,Audio,Audio,Áudio,音频
+GAMEPAD,Control,Controller,Controle,手柄
+KEYBOARD,Teclado,Keyboard,Teclado,键盘
+LANGUAGE,Idioma,Language,Idioma,语言
+PLAYER_AFTERIMAGE,Estela fantasma del jugador,Player Afterimage,Pós-imagem do jogador,角色残影
+MOVE_WITH_JOYSTICK,Mover personaje con palanca izquierda,Move character with left stick,Mover personagem com botão analógico (E),用左摇杆移动角色
+GAMEPAD_VIBRTN,Vibración de control,Controller vibration,Vibração do controle,手柄震动
+SHAKE_CMR_DAMAGE,Sacudir cámara al recibir daño,Shake camera on damage,Vibrar a câmera durante o dano,受击时镜头震动
+ICONS_BTNS,Íconos de botones,Button icons,Ícones dos botões,按键图标
+CUSTOM_GAMEPAD_ICONS,Personalizar íconos de botones,Customize button icons,Personalizar os ícones dos botões,自定义按键图标
+QUALITY,Calidad,Quality,Qualidade,画质
+VISUALIZATION_MODE,Modo de visualización,Display Mode,Modo de visualização,显示模式
+WINDOW_RESOLUTION,Resolución en modo ventana,Window Resolution,Resolução de janela,窗口分辨率
+FPS_LIMIT,Límite de FPS (depuración),FPS Limit (debug),Limite de FPS (debug),FPS 上限（调试）
+CRT_MODE,Filtro CRT,CRT filter,Filtro CRT,CRT 滤镜
+SOUND_EFFECTS,Efectos de sonido,Sound effects,Efeitos de som,音效
+MUSIC,Música,Music,Música,音乐
+VOICES,Voces,Voices,Vozes,语音
+PRESS_NEW_KEY,Presiona la nueva tecla (teclado),Press new key (keyboard),Pressione uma nova tecla (teclado),按下新的按键（键盘）
+PRESS_NEW_BTN,Presiona el nuevo botón (control),Press new button (controller),Pressione um novo botão (controle),按下新的按键（手柄）
+PRESS_ESCAPE,Presiona [Escape],Press [Escape],Pressione [Esc],按下 [Escape]
+PRESS_BACK_ANDROID,Presiona [Atrás] (Móvil),Press [Back] (Mobile),Pressione [Voltar] (Mobile),按下 [Back]（移动端）
+ACTION_UI_START,Pausa / Equipamiento,Pause / Equipment,Pausar/ Equipamento,暂停 / 装备
+ACTION_UI_SELECT,Abrir mapa,Open map,Abrir mapa,打开地图
+ACTION_UI_ACCEPT,Aceptar,Accept,Aceitar,确认
+ACTION_UI_CANCEL,Cancelar,Cancel,Cancelar,取消
+ACTION_UI_UP,Arriba,Up,Cima,上
+ACTION_UI_DOWN,Abajo,Down,Baixo,下
+ACTION_UI_LEFT,Izquierda,Left,Esquerda,左
+ACTION_UI_RIGHT,Derecha,Right,Direita,右
+ACTION_UI_FOCUS_PREV,Página previa,Previous page,Página anterior,上一页
+ACTION_UI_FOCUS_NEXT,Página siguiente,Next page,Próxima página,下一页
+ACTION_JUMP,Saltar,Jump,Pular,跳跃
+ACTION_QUICKMENU,Menú Rápido,Quick Menu,Menu Rápido,快捷菜单
+ACTION_ATTACK,Atacar,Attack,Atacar,攻击
+ACTION_BACKDASH,Retroceder / Esquivar,Backdash / Dodge,Recuar / Esquivar,后闪 / 闪避
+ACTION_CIRCUIT,Circuito Elemental,Elemental Circuit,Circuito Elemental,元素回路
+SHADERS_DYNAMIC_LIGHTS,Shaders y luces dinámicas (Alto),Shaders and dynamic lights (High),Shaders e luzes dinâmicas (Alta),着色器与动态光照（高）
+SHADERS_SIMPLE_LIGHTS,Shaders y luces simples (Medio),Shaders and simple lights (Medium),Shaders e luzes simples (Média),着色器与简易光照（中）
+SHADERS_NOT_SIMPLE_LIGHTS,Solo luces simples (Bajo),Just simple lights (Low),Apenas luzes simples (Baixa),仅简易光照（低）
+SOLVE_GAMEPAD_INCOMPATIBILITY,Solucionar problemas de compatibilidad,Fix compatibility issues,Solucionar problemas de compatibilidade,修复兼容性问题
+WINDOW_BORDERLESS,Pantalla sin bordes,Borderless screen,Tela sem bordas,无边框窗口
+WINDOWED,Ventana,Window,Janela,窗口
+MONITOR_RES,Resolución del monitor,Monitor Resolution,Resolução do monitor,显示器分辨率
+GAMEPAD_CONNECTED,Control conectado,Controller connected,Controle conectado,手柄已连接
+GAMEPAD_DISCONNECTED,Control desconectado,Controller disconnected,Controle desconectado,手柄已断开
+CONF_DEFAULT,Reestablecer configuración por defecto,Reset to default settings,Restaurar configuração inicial,恢复默认设置
+CONF_BY_DEFAULT_DONE,Configuración por defecto realizado,Default configuration complete,Configuração inicial realizado,默认配置已完成
+INPUT_DEVICE_INCORRECT,Se usó el dispositivo incorrecto,Input from incorrect device,Uso de dispositivo incorreto,输入设备不正确
+FULLSCREEN,Pantalla completa,Fullscreen,Tela inteira,全屏
+SELECT_NEW_ICON_FOR_ACTION,Selecciona el nuevo ícono para:\n%s,Select new icon for:\n%s,Selecione novo ícone para:\n%s ,为以下操作选择新图标：\n%s
+SELECT_ICON_TO_CHANGE,Selecciona el ícono a cambiar,Select the icon to be changed,Selecione o ícone para trocar,选择要更改的图标
+TEST_GAMEPAD,Probar control,Test Controller,Testar Controle,测试手柄
+MAPPING_UPDATED,Mapeo actualizado,Mapping updated,Mapeamento atualizado,映射已更新
+SEE_HELP,Ver la ayuda,See help,Ver Ajuda,查看帮助
+OPENING_LINK_WEB,Abriendo enlace web,Opening weblink,Abrindo link,正在打开网页链接
+SHOW_MINIMAP,Mostrar Minimapa,Show Minimap,Mostrar mini-mapa,显示小地图
+MINIMAP_VISIBILITY,Visibilidad de Minimapa,Minimap visibility,Visibilidade do mini-mapa,小地图可见性
+ELEMENTAL_CIRCUIT,Circuito Elemental,Elemental Circuit,Circuito Elemental,元素回路
+ACTION,Acción,Action,Ação,动作
+ABILITY,Habilidad,Skill,Habilidade,能力
+SUBWEAPON,Subarma,Sub-Weapon,Arma secundária,副武器
+HEALTH_RECOVERED,Salud Recuperada,Restored Health,Saúde recuperada,生命已恢复
+ALCHEMY,Alquimia,Alchemy,Alquimia,炼金术
+INVENTORY,Inventario,Inventory,Inventário,物品栏
+EQUIP,Equipo,Equip,Equipar,装备
+TIME,Tiempo,Time,Tempo,时间
+AREA,Área,Area,Área,区域
+DEATHS,Muertes,Deaths,Mortes,死亡次数
+SCS,sgs,scs,Segundos,秒
+ALLOY,Aleación,Alloy,Liga,合金
+QUANTITY,Cantidad,Quantity,Quantidade,数量
+AXE,Hacha,Axe,Machado,斧
+SHURIKEN,Shuriken,Shuriken,Shuriken,手里剑
+KNIFES,Cuchillos,Knives,Facas,飞刀
+TORNADO_BLADES,Tornado de Cuchillas,Tornado Blades,Tornado de Lâminas,旋刃风暴
+HANDFAN,Abanico de mano,Hand Fan,Leque de Mão,团扇
+DOUBLE_JUMP,Doble Salto,Double Jump,Pulo duplo,二段跳
+DODGE,Esquivar,Dodge,Esquivar,闪避
+SLIDE,Deslizarse,Slide,Deslizar,滑行
+AIR_KICK,Patada Aérea,Dive Kick,Voadora,下踢
+WALL_SLIDE,Deslizamiento en pared,Wall Slide,Deslizar na parede,蹬墙滑行
+SWING,Balanceo de látigo,Whip Swing,Chicotada,鞭索摆荡
+BLADE_WHIP,Látigo de Sangre,Blood Whip,Chicote de sangue,血鞭
+WHIP_CRUSH,Ataque Crush,Whip Crush,Chicotada Esmagadora,鞭击粉碎
+BLOOD_CONTROL,Control Sanguíneo,Blood Control,Controle Sanguíneo,控血
+MULTIPLE_EQUIPMENT,Equipamiento Múltiple,Multiple Equipment,Equipamento Múltiplo,多套装备
+CHAINED_ATTACK,Ataque Encadenado,Chained Attack,Ataque em Sequência,连段攻击
+EMPTY_INVENTORY,Inventario Vacío,Empty Inventory,Inventário Vazio,物品栏为空
+STATUS,Estado,Status,Estado,状态
+GOOD,Bueno,Good,Bem,正常
+INJURED,Lesionado,Injured,Ferida,受伤
+POISONED,Envenenado,Poisoned,Envenenada,中毒
+CURSED,Maldito,Cursed,Amaldiçoada,诅咒
+CENTER_MAP,Centrar,Center,Centro,居中
+ADD_MARKER,Añadir Marcador,Add Marker,Adicionar Marcador,添加标记
+EDIT_MARKER,Editar Marcador,Edit Marker,Editar Marcador,编辑标记
+QUICKSAVE_AND_EXIT,Guardado rápido y Salir,Quicksave & Exit,Salvamento rápido & Sair,快速保存并退出
+EXIT_N_GOTO_MMENU,Salir e ir al Menú Principal,Exit & go to Main menu,Sair & Ir até o Menu Principal,退出并返回主菜单
+MAP,Mapa,Map,Mapa,地图
+KEYSOBJECTS,Objetos Clave,Key Items,Objetos Chave,关键物品
+TREASURES,Tesoros,Treasures,Tesouros,宝物
+EMPTY_LIST,Lista Vacía,Empty List,Lista Vazia,列表为空
+SAVE_MARKER,Guardar Marcador,Save Marker,Salvar Marcador,保存标记
+DELETE_MARKER,Eliminar Marcador,Delete Marker,Apagar Marcador,删除标记
+ENEMIES,Enemigos,Enemies,Inimigos,敌人
+ERASE,Borrar,Erase,Apagar,清除
+WRITE_NAME_FOR_SAVE,Escriba un nombre para el guardado...,Type a name for the save...,Escreva um nome para salvar,请输入存档名称...
+GAME_SAVED,Partida Guardada,Game Saved,Jogo Salvo,游戏已保存
+QUICKSAVE_DETECTED,Archivo de guardado rápido encontrado,Quicksave file found,Arquivo de salvamento rápido encontrado,检测到快速存档文件
+ABOUT_QUICKSAVE_EXISTS,Al cargar partida se eliminará el archivo de guardado rápido,Loading game will delete the quick save file,Carregar o jogo irá apagar o arquivo de salvamento rápido,读取游戏将删除快速存档文件
+LOAD_QUICKSAVE,Cargar archivo de guardado rápido,Load quicksave file,Carregar arquivo de salvamento rápido,读取快速存档文件
+LOAD_GAME,Cargar partida (Estatua),Load game (Statue),Carregar o jogo (Estátua),读取游戏（雕像）
+DELETE_DATA,Eliminar datos,Delete data,Apagar dados,删除数据
+SELECT_SLOT_TO_DELETE,Seleccione Slot para eliminar,Select save slot to delete,Selecione arquivo salvo para apagar,选择要删除的存档位
+THIS_ACTION_CANT_BE_UNDO,Esta acción no podrá deshacerse,This action cannot be undone,Essa ação não pode ser desfeita,此操作无法撤销
+DELETE,Eliminar,Delete,Apagar,删除
+DATA_ERASE,Datos eliminados,Deleted data,Dados Deletados,数据已删除
+NEW_GAME,Nueva Partida,New Game,Novo Jogo,新游戏
+DEVROOM,La sala de las almas torturadas,Hall of Tortured Souls,Salão das Almas Torturadas,受难之魂大厅
+SHOW_DEATH_COUNTER,Mostrar contador de muertes,Show death counter,Mostrar contador de mortes,显示死亡计数
+ATK_TITLE,Ataque,Attack,Ataque,攻击
+DEF_TITLE,Defensa,Defense,Defesa,防御
+INT_TITLE,Inteligencia,Intelligence,Inteligência,智力
+HP_TITLE,Salud,Health,Saúde,生命
+MP_TITLE,Mana,Mana,Mana,法力
+SP_TITLE,Estamina,Stamina,Vigor,耐力
+POTIONMAX_TITLE,Maximo de pociones,Potions Max,Máximo de Poções,药水上限
+ACCESORY,Accesorio,Accessory,Acessório,饰品
+EQUIP_TOP,Equipo Superior,Top Equip,Equipamento Superior,上部装备
+EQUIP_MID,Equipo Medio,Mid Equip,Equipamento Médio,中部装备
+EQUIP_BOTTOM,Equipo Inferior,Bottom Equip,Equipamento Inferior,下部装备
+NONE,Ninguno,None,Nenhum,无
+USE,Usar,Use,Usar,使用
+PREVIOUS,Anterior,Previous,Anterior,上一个
+NEXT,Siguiente,Next,Próximo,下一个
+SCREEN_FILTER,Filtro de pantalla,Screen Filter,Filtro de tela,屏幕滤镜
+OBJECT,Objeto,Item,Objeto,物品
+ELEMENT,Elemento,Element,Elemento,元素
+OBJECT_KEY,Objeto clave,Key item,Objeto Chave,关键物品
+TREASURE,Tesoro,Treasure,Tesouro,宝物
+FINDINGS,Textos,Findings,Achados,发现物
+PRESS_DIR_TO_USE_QUICKMENU,Mantén presionado cualquier dirección para usar el item,Press any direction to use the desired item,Pressione qualquer direção para usar o item desejado,按下任意方向即可使用目标物品
+WORK_IN_PROGRESS,Trabajo en progreso...,Work in progress...,Trabalho em progresso…,开发中...
+EDIT_TOUCH_BTNS,Editar Botones Táctiles,Edit Touch Buttons,Editar Botões de Toque,编辑触控按钮
+SAVE,Guardar,Save,Salvar,保存
+RESET,Reestablecer,Reset,Recomeçar,重置
+OPACITY,Opacidad,Opacity,Opacidade,透明度
+SIZE,Escala,Size,Tamanho,大小
+MINIMAP,Minimapa,Minimap,Mini-mapa,小地图
+ABOUT_CARPATITIA_DEATH,La Carpatitia permite regresar a la última estatua de guardado sin perder el progreso alcanzado.,The Carpatithia allows you to return to the last save statue without losing progress.,Carpatitia permite retornar à última estátua de salvamento sem perder o seu progresso,Carpatithia 可让你返回上一个保存雕像处，而不会失去当前进度。
+ABOUT_REVIVE,Revivir permite regresar a la última estatua de guardado sin perder el progreso alcanzado.,Revive allows you to return to the last save statue without losing progress.,Reviver permite retornar à última estátua de salvamento sem perder o seu progresso,复活可让你返回上一个保存雕像处，而不会失去当前进度。
+USE_CARPATITIAX2,Usar Carpatitia x2,Use Carpatithia x2,Usar Carpatithia x2,使用 Carpatithia x2
+AMPHIBIOUS_BREATHING,Respiración Anfibia,Amphibious Breathing,Respiração Anfíbia,两栖呼吸
+SWAPSET,Cambiar Set,Change Set,Mudar Set,切换套装
+ONSCREENBUTTONSALWAYSVISIBLE,Botones en pantalla siempre visibles,On-screen buttons always visible,Botões na tela sempre visíveis,屏幕按钮始终可见
+CREDITS,Créditos,Credits,Créditos,制作人员
+GETTHEPREQUEL,Jugar la Precuela,Play the Prequel,Jogar prólogo,游玩前传
+DETAILS_QUICKMENU,Info extra en Menú Rápido,Extra info on Quick Menu,Info extra no Menu Rápido,快捷菜单额外信息
+GALLERY,Galería,Gallery,Galeria,画廊
+UNBREAKABLEWILL,Voluntad Inquebrantable,Unbreakable Will,Vontade Indomável,不屈意志
+ABOUTUNBREAKABLEWILL,"Teniendo más del 20% de vida, al recibir daño critico el jugador todavía no morirá.","If the player has more than 20% health, they will not die when critically hit.","Se o jogador tem menos de 20% de saúde, não morrerá quando receber dano crítico.",若玩家生命高于 20%，受到致命伤害时不会死亡。
+DYNAMICKNOCKBACK,Knockback Dinamico,Dynamic Knockback,Empurrão Dinâmico,动态击退
+ABOUTDYNAMICKNOCKBACK,El jugador recibirá un empuje de acuerdo al daño recibido.,The player will experience knockback corresponding to the damage taken.,O jogador sofrerá um empurrão correspondendo ao dano recebido.,玩家会根据所受伤害产生对应的击退效果。
+DIFFICULTY_OPTIONS,Opciones de Dificultad,Difficulty Options,Opções de Dificuldade,难度选项
+THISLANGISFANMADE,Traducción hecha por fans,Fan-made Translation,Tradução feita por fãs,粉丝翻译
+ABOUTFANMADETRANSLATIONS,"Esta es una traducción hecha por fans, cualquier persona es bienvenida a ayudar a traducir el juego voluntariamente.",This is a fan-made translation. Anyone is welcome to help translate the game voluntarily.,Esta é uma tradução feita por fã. Todos são bem vindos a ajudar a traduzir o jogo de forma voluntária.,这是粉丝制作的翻译。欢迎任何人自愿参与游戏翻译。
+LEARNMORE,Conocer más,Learn more,Saiba mais,了解更多
+TOBECONTINUED,Esta historia continuará...,To be continued...,Continua…,未完待续...
+WEBSITE,Sitio web,Website,Website,网站
+AERIAL_DASH,Dash aéreo,Aerial Dash,Dash aéreo,空中冲刺
+WHILECIRUITBTNPRESSED,Manteniendo botón [Circuito],Holding [Circuit] button,Segurando o botão de [Circuito],按住 [Circuit] 按钮
+USEVIRTUALJOYSTICK,Usar Palanca Virtual,Use Virtual Stick,Usar Controle Virtual,使用虚拟摇杆
+SAVE_CHANGES,Guardar Cambios,Save Changes,Salvar alterações,保存更改
+LOADING,Cargando...,Loading...,Carregando…,加载中...
+OBTAINED,Obtenido,Obtained,Obtido,已获得
+BUY,Comprar,Buy,Comprar,购买
+SELL,Vender,Sell,Vender,出售
+SHOP,Tienda,Shop,Loja,商店
+SOLD,Vendido,Sold,Vendido,已售出
+SELECT_STATION,Seleccionar Estación,Select Station,Selecionar Estação,选择车站
+ZOOMIN,Acercar,Zoom in,Ampliar,放大
+ZOOMOUT,Alejar,Zoom out,Diminuir,缩小
+DESPERATIONATTACK,Ataque de Desesperación,Desperation Attack,Ataque Dramático,绝望一击
+ABOUTDESPERATIONATTACK,"Al vencer a un Adeptis, este realizará un último ataque.","Upon defeating an Adeptis, it will perform one last attack.","Quando um Adeptis é derrotado, fará um último ataque.",击败一名 Adeptis 后，对方会发动最后一击。
+GETREWARD,Obtener recompensa,Get reward,Receber recompensa,领取奖励
+ACHIEVEMENTS,Logros,Achievements,Conquistas,成就
+ACHIEVEMENT_OBTAINED,Logro obtenido,Achievement obtained,Conquista obtida,获得成就
+ACCEPT_CANCEL_CONFLICT,Botones Aceptar y Cancelar en conflicto,Conflicting Accept and Cancel buttons,Botões de Aceitar e Cancelar em conflito,确认与取消按钮冲突
+FOCUS_BTN_CONFLICT,Conflicting Previous Page and Next Page buttons,Conflicting Previous Page and Next Page buttons,Botões de Página Anterior e Próxima Página em conflito,上一页与下一页按钮冲突
+PRESSSESCTOEXIT,"Presione la tecla ""Escape"" para salir del menú de calibración.","Press ""Escape"" key to exit from calibration menu.",Pressione “Escape” para sair do menu de calibragem.,按“Escape”键退出校准菜单。
+START_CALIBRATION,Iniciar calibración,Start calibration,Começar calibragem,开始校准
+THEBUTTONALREADYADDED,El botón ya ha sido asignado,The button has already been assigned,O botão já foi atribuído,该按钮已被分配
+PRESSTHEBUTTONINGAMEPAD,Presione el botón correspondiente a la posición señalada.,Press the button corresponding to the indicated position.,Pressione o botão correspondente a posição indicada.,按下与所示位置对应的按钮。
+HERECANMAPYOURCONTROL,Aquí podrá asignar los botones de su control.,Here you can assign the buttons on your controller.,Aqui você pode atribuir os botões do seu controle.,你可以在这里分配手柄按键。
+SELECTADEVICE,Seleccione un dispositivo,Select a device,Selecione um dispositivo,选择设备
+CALIBRATIONFINISHED,Calibración finalizada,Calibration finished,Calibragem finalizada,校准完成
+RESTARTMAYBEREQUIRED,Reinicie el juego para aplicar cambios.,Restart the game to apply changes.,Reinicie o game para aplicar as mudanças.,请重启游戏以应用更改。
+CALIBRATEGAMEPAD,Calibrar Control,Calibrate Controller,Calibrar Controle,校准手柄
+SCHEME,Esquema,Scheme,Esquema,方案
+CHANGE_SCHEME_ICONS,Cambiar esquema de íconos,Change Scheme icons,Mudar ícones do esquema,更改方案图标
+CHANGESSAVED,Cambios guardados,Changes saved,Mudanças salvas,更改已保存
+PRESSSPACETOSTART,"Presiona ""Espacio"" para comenzar","Press ""Space"" to start",Pressione “Espaço” para começar,按“Space”开始
+AGAMEPADDETECTED,Se ha detectado un control conectado. ¿Desea configurarlo ahora?,A connected controller has been detected. Do you want to configure it now?,"Um controle conectado foi detectado, Quer configurá-lo agora?",检测到已连接的手柄。是否现在进行配置？
+IGOTYOU,¡Te tengo!,I got you!,Te peguei!,抓到你了！
+SPECTROSCOPE,Espectroscopio,Spectroscope,Espectrômetro,光谱仪
+INCREASE,Incrementar,Increase,Aumentar,增加
+NEUMANPUZZLELABHINT,"De los siete metales, se encuentra aquella que resplandece como la estrella del día. A su lado, reflejando aquella luz, la guardiana de la noche.","Of the seven metals, there is one that shines like the day star. Next to it, reflecting that light, the guardian of the night.","Dos sete metais, tem um que brilha como a estrela do dia. Ao seu lado, refletindo aquela luz, a guardiã da noite.",七种金属中，有一种如白昼之星般闪耀。它的身旁映出那道光辉的，乃是夜之守护者。
+WAITRESS,Camarera,Waitress,Garçonete,女侍者
+SEE_SOCIAL_LINKS,Ver redes sociales,See social links,Ver redes sociais,查看社交链接
+DIFFICULTY_DESCRIPTION_0,No quiero estresarme.,I don't want to stress.,Eu não quero me estressar.,我不想有压力。
+DIFFICULTY_DESCRIPTION_1,¡Muere monstruo!,Die monster!,,
+DIFFICULTY_DESCRIPTION_2,¡Te mataré a tí y a la noche! ,I'll kill you and the night! ,I'll kill you and the night! ,
+DIFFICULTY_DESCRIPTION_3,Prepárate para morir. Nivel máx 1.,Prepare to die. max LVL 1.,Prepare para morrer. LVL 1.,
+SELECT_DIFFICULTY,Seleccione dificultad,Select difficulty,Selecione a dificuldade,选择难度
+LOCKED,Bloqueado,Locked,Bloqueado,已锁定
+PRESSFORKEYBOARDARROWSETTING,"Presiona ""Enter"" para usar flechas en teclado","Press ""Enter"" for Arrow keyboard mode",Pressione “Enter” para o modo setas do teclado,按“Enter”选择方向键键盘模式
+PRESSFORWASDSETTING,"Presiona ""W"" para usar modo WASD en teclado","Press ""W"" for Keyboard WASD+Mouse mode",Pressione “W” para o modo WASD do teclado + mouse,按“W”选择键盘 WASD+鼠标模式
+PRESSLETTERFILTERSCREEN,Presiona la letra del filtro de pantalla deseado,Press the letter option for screen filter,Pressione a opção de letra para o filtro de tela,按对应字母选项切换屏幕滤镜
+LIBRARY_ARCHIVES,Archivos de la biblioteca,Library archives,Arquivos da biblioteca,图书馆档案
+INTHENEXTUPDATE,En la próxima actualización...,In the next update...,Na próxima atualização…,在下次更新中...
+PROLOGUEFINISHED,Prólogo finalizado,Prologue finished,Prólogo finalizado,序章完成
+YOUWANTGOWAGON,¿Regresar al vagón inicial del tren?,Back to the initial car of the train?,Voltar ao vagão inicial do trem?,返回列车最初的车厢？
+RETURNAMERITHIA,¿Regresar a Amerithia?,Return to Amerithia?,Retornar a Amerithia?,返回 Amerithia？
+DIFFCHANGEDTOEASY,Dificultad cambiada,Difficulty changed,Dificuldade modificada,难度已更改
+ELEMENTALSAMPLENEEDED,Se necesita una muestra elemental,An elemental sample is required,Uma amostra elemental é necessária,需要元素样本
+ABOUTEABARRIER,Las barreras de fuego celeste solo desaparecerán cuando el [Early Access] termine.,The fire barriers will only disappear when [Early Access] ends.,As barreiras de fogo apenas desaparecerão quando o [Acesso Antecipado] acabar.,火焰屏障只会在 [Early Access] 结束后消失。
+ELDRALIS_WOODS,Bosque de Eldralis,Eldralis Woods,Floresta de Eldralis,埃尔德拉利斯森林
+STRALSUND_RUINS,Ruinas de Stralsund,Stralsund Ruins,Ruínas de Stralsund,施特拉尔松遗迹
+TAHUATEPETL_ISLETS,Isletas de Tahuatepetl,Tahuatepetl Islets,Ilhotas Tahuatepetl,塔瓦特佩特尔群岛
+ATHOS_ABBEY,Abadía de Athos,Athos Abbey,Abadia de Athos,阿托斯修道院
+THE_ORDER_HEADQUARTERS,Sede de La Orden,The Order Headquarters ,Sede d’A Ordem,教团总部
+STORE,Tienda,Store,Loja,商店
+LIBRARY,Biblioteca,Library ,Biblioteca,图书馆
+ALCHEMY_LABORATORY,Laboratorio de Alquimia,Alchemy Laboratory,Laboratório de Alquimia,炼金实验室
+RESTAURANT,Restaurante,Restaurant,Restaurante,餐馆
+XANDRIASHOUSE,Casa de Xandria,Xandria's House,Casa da Xandria,珊德莉雅的家
+TAHUATEPETL_VOLCANO,Volcán Koapolkan,Koapolkan Volcano,Vulcão Koapolkan,科阿波尔坎火山
+GRIJAYLA_TOWN,Ciudad de Grijayla,Grijayla Town,Cidade de Grijayla,格里哈伊拉镇
+BIRSTALL_PASS,Ciudad de Birstall,Birstall City,Cidade de Birstall,比尔斯托尔城
+ARIDIAH_DESERT,Desierto de Aridiah,Aridiah Desert,Deserto de Aridiah,阿里迪亚沙漠
+IXQUICTEMPLE,Templo de Ixquic,Ixquic Temple,Templo de Ixquic,伊克斯奎克
+LOGINPLAYGAMES,Entrar en GooglePlayGames,Login GooglePlayGames,Conectar GoogelPlayGames,登录 Google Play Games
+ABOUT_RESTORE_PLAYGAMES,Utilizando su cuenta de Google PlayGames podrá restaurar partidas que se respaldaron automáticamente al guardar.,"Using your Google PlayGames account, you will be able to restore games that were automatically backed up when saving.","Usando sua conta Google PlayGames, você será capaz de recuperar partidas que foram automaticamente recuperadas ao salvar.",使用你的 Google Play Games 账号，可以恢复保存时自动备份的游戏数据。
+RESTORE_DATA,Restaurar datos,Restore data,Recuperar dados,恢复数据
+SELECT_GAMESAVE_TO_RESTORE,Seleccione partida a restaurar,Select savegame to restore,Selecionar partida para recuperar,选择要恢复的存档
+ARESURETORESTOREDATA,¿Está seguro de restaurar los datos de juego en el slot seleccionado?,Are you sure you want to restore game data to the selected slot?,Tem certeza de recuperar os dados do jogo na vaga selecionada?,确定要将游戏数据恢复到所选存档位吗？
+RESTORING_DATA,Restaurando datos...,Restoring data...,Recuperando dados…,正在恢复数据...
+DATA_RESTORED,Los datos han sido restaurados.,Data has been restored.,Dados recuperados.,数据已恢复。
+SAVEDATABACKED,Datos respaldados,Backed up data,Dados reserva,已备份数据
+RESTORE,Restaurar,Restore,Restaurar,恢复
+GETFULLGAME,Juego completo,Get full game,Consiga o jogo completo,获取完整版
+DEFEATED,Derrotado,Defeated,Derrotado,已击败
+PROLOGUE,Prólogo,Prologue,Prólogo,序章
+SHOW_ENEMYNAMEDEFEATED,Ver nombre de enemigo derrotado,Show defeated enemy name,Mostrar o nome do inimigo derrotado,显示已击败敌人的名称
+JUMPLAYERFLOATY,Salto en ataque flotante,Floating attack jump,Salto em ataque flutuante,浮空攻击跳跃
+SHOWINFOENEMY,Mostrar salud/atributos enemigo,Show enemy health/attributes,Mostrar a saúde/atributos do inimigo,显示敌人生命/属性
+ABOUTENEMYINFOREALTIME,"Al atacar a un enemigo previamente derrotado, se mostrará su salud y atributos elementales.","When attacking a previously defeated enemy, its health and elemental attributes will be displayed.","Ao atacar um inimigo previamente derrotado, mostrará sua saúde e atributos elementais.",攻击曾击败过的敌人时，将显示其生命值和元素属性。
+QTYNOW,Disponible,Available,Disponível,可用
+TRANSMUTATION,Transmutación,Transmutation,Transmutação,炼成
+TRANSMUTE,Transmutar ahora,Transmute now,Transmutar agora,立即炼成
+QTY,Cantidad,Quantity,Quantidade,数量
+OBJXTRANSMUTEDSUCCESS,¡[%s x%d] transmutado.,[%s x%d] transmuted.,[%s x%d] transmutado.,已炼成 [%s x%d]。
+QTY_INSUF,Cantidad insuficiente,Insufficient quantity,Quantidade insuficiente,数量不足
+ANOBJTOACTIVMECHANISM,Un objeto para activar este mecanismo de engranajes...,An object to activate this gear mechanism...,Um objeto para ativar este mecanismo de engrenagens...,需要某个物品来启动这个齿轮机关...
+GIVEOBJECT,Entregar objeto,Deliver item,Entregar item,交付物品
+RESTAURANTAMERITHIAHAVESTOCK,El restaurante en Amerithia tiene [color=yellow]comida disponible[/color] a la venta.,The restaurant at Amerithia has [color=yellow]food available[/color] for purchase.,O restaurante em Amerithia tem [color=yellow]comida disponível[/color] à venda.,阿美瑞西亚的餐馆现有 [color=yellow]食物可供购买[/color]。
+EXPANDSCR,Expandir pantalla,Expand screen,Expandir tela,扩展画面
+OFFICIALART,Arte oficial,Official art,Arte oficial,官方艺术图
+FANARTS,Arte de fans,Fan arts,Artes de fãs,同人作品
+CIRCUITREQUIRED,Circuito E. requerido,Required E. Circuit,Circuito Elemental necessário,所需元素回路
+IMPROVECIRCUIT,Mejorar circuito,Improve circuit,Aprimorar circuito,强化回路
+PRELOADROOM,Pre-carga habitación (experimental),Pre-load room (experimental),Sala de Pré-carregamento (experimental),预加载房间（实验性）
+REVIVE,Revivir,Revive,Reviver,复活
+NOTAVAILABLE,No disponible,Not available,Não disponível ,不可用
+STATS,Estadísticas,Stats,Estatísticas,属性
+CREATINGCONFINIT,"Creando un nuevo archivo de ajustes, por favor espere...","Creating new settings file, please wait...","Criando Novo Arquivo de configurações, por favor aguarde…",正在创建新的设置文件，请稍候...
+LOWHEALTH_ALERT,Alerta visual de salud baja,Low visual health alert,Alerta de baixa qualidade visual,低生命视觉警报
+ACH1TITLE,El ataque de los hombres muertos,Attack of the Dead Men,Ataque dos Mortos Vivos,亡者袭来
+ACH2TITLE,La bruja del radium,The Radium Witch,A Bruxa de Rádio,镭之魔女
+ACH3TITLE,Viaje en el Expreso Oriental,Travel on the Orient Express,Viagem no Expresso do Oriente,东方快车之旅
+ACH4TITLE,,Oxygenium Adeptis,Adeptis de Oxigênio,氧之Adeptis
+ACH5TITLE,,Crux simplex ad infixionem,Crux simplex ad infixionem ,穿刺刑柱
+ACH6TITLE,Masa crítica,Critical mass,Massa crítica,临界质量
+ACH1DESC,Enfrentate por primera vez a la Alquimista de Cloro.,Face the Chlorine Alchemist for the first time.,Enfrente a alquimista de Cloro pela primeira vez.,首次面对氯之炼金术师。
+ACH2DESC,Rescata a la responsable del laboratorio de química.,Rescue the chemistry lab manager.,Resgate a responsável pelo laboratório de química.,救出化学实验室管理员。
+ACH3DESC,Protege al tren por encargo de Alessa.,Protect the train on behalf of Alessa.,Proteja o trem em nome de Alessa.,代替娅蕾莎保护列车。
+ACH4DESC,Vence al Adeptis controlador del Oxígeno.,Defeat the Oxygen controlling Adeptis.,Derrote o Adeptis controlador de Oxigênio.,击败操纵氧的 Adeptis。
+ACH5DESC,Rescata a la hija de Gabriel.,Rescue Gabriel's daughter.,Resgate a filha do Gabriel.,救出盖布瑞的女儿。
+ACH6DESC,Destruye el [arma definitiva] de los Ahuizotes.,Destroy the [ultimate weapon] of the Ahuizotes.,Destrua a [arma definitiva] dos Ahuizotes.,摧毁 Ahuizotes 的 [终极武器]。
+ACH7TITLE,,Vela del Candil,Vela de Candeia,烛灯之帆
+ACH7DESC,Entrega la máscara de Ahuizote a Margaret.,Deliver the Ahuizote mask to Margaret.,Entregue a máscara de Ahuizote a Margaret.,将 Ahuizote 面具交给玛格丽特。
+ACH8TITLE,,Chrysopoeia ,Crisopeia,点金术
+ACH8DESC,Realiza tu primera transmutación en el laboratorio de Alquimia.,Make your first transmutation in the Alchemy Lab.,Faça a sua primeira transmutação no Laboratório de Alquimia.,在炼金实验室完成第一次炼成。
+ACH9TITLE,Nitrum Adeptis,Nitrum Adeptis,Nitrum Adeptis,硝之 Adeptis
+ACH9DESC,Derrota al Adeptis controlador del Nitrógeno.,Defeat the Nitrogen controlling Adeptis.,Derrote o Adeptis controlador de Nitrogênio.,击败操纵氮之 Adeptis。
+ACH10TITLE,Hydrogenium Adeptis,Hydrogenium Adeptis,Hydrogenium Adeptis,氢之 Adeptis
+ACH10DESC,Derrota al Adeptis controlador del Hidrógeno.,Defeat the Hydrogen controlling Adeptis.,Derrote o Adeptis controlador de Hidrogênio.,击败操纵氢的 Adeptis。
+ACH11TITLE,Sílex Adeptis,Sílex Adeptis,Adeptis de Sílex,燧之 Adeptis
+ACH11DESC,Derrota al Adeptis controlador del Silicio.,Defeat the Silicon controlling Adeptis.,Derrote o Adeptis que controla o Silício.,击败操纵硅的 Adeptis。
+ACH12TITLE,Sulphur Adeptis,Sulphur Adeptis,Adeptis de Enxofre,硫之 Adeptis
+ACH12DESC,Derrota al Adeptis controlador del Azufre.,Defeat the Sulfur controlling Adeptis.,Derrote o Adeptis que controla o Enxofre.,击败操纵硫的 Adeptis。
+ACH13TITLE,Cazador de demonios,Demon hunter,Caçador de demônios,恶魔猎手
+ACH13DESC,Supera la máxima puntuación en [MegaBoom Inferno].,Beat the high score in [MegaBoom Inferno].,Bata a pontuação mias alta em [MegaBoom Inferno].,打破 [MegaBoom Inferno] 的最高分。
+ACH14TITLE,¿Puede correr Doom?,Can it run Doom?,Dá para rodar Doom?,它能运行 Doom 吗？
+ACH14DESC,Haz que ese juego corra en Toziuha Night.,Make that game run in Toziuha Night.,Faça o jogo rodar em Toziuha Night.,让那款游戏在托祖哈之夜里运行起来。
+ACH15TITLE,Chlorium Adeptis,Chlorium Adeptis,Chlorium Adeptis,氯之 Adeptis
+ACH15DESC,Derrota al Adeptis controlador del Cloro.,Defeat the Chlorine controlling Adeptis.,Derrote o Adeptis controlador de Cloro.,击败操纵氯的 Adeptis。
+ACH16TITLE,Ferrum Adeptis,Ferrum Adeptis,Ferrum Adeptis,铁之 Adeptis
+ACH16DESC,Derrota al Adeptis controlador del Hierro.,Defeat the Iron controlling Adeptis.,Derrote o Adeptis controlador de Ferro.,击败操纵铁的 Adeptis。
+ACH17TITLE,¡He venido a verte aniquilado!,I´ve come to see you annihilated!,Vim para ver você aniquilado!,我是来见证你毁灭的！
+ACH17DESC,Abre la puerta que conduce al lugar más alto de la Abadía.,Open the door that leads to the highest point of the Abbey.,Abra a porta que leva ao ponto mais alto da Abadia.,打开通往修道院最高处的大门。
+ACH18TITLE,El fin de la melancolía,The end of melancholy,O fim da melancolia,忧郁的终焉
+ACH18DESC,Alcanza el final malo.,Reach the bad ending.,Alcança o final ruim,达成坏结局。
+ACH19TITLE,Marimba Hero,Marimba Hero,Herói da Marimba,马林巴英雄
+ACH19DESC,Toca todas las notas de la partitura.,Play all the notes in the score.,Toque todas as notas da partitura,演奏谱面上的全部音符。
+ACH20TITLE,El fin de la venganza,The end of revenge,O fim da vingança,复仇的终焉
+ACH20DESC,Alcanza el final trágico.,Reach the tragic ending.,Consiga o fim trágico.,达成悲剧结局。
+ACH21TITLE,Canción de cuna,Lullaby,Canção de ninar,摇篮曲
+ACH21DESC,Haz que cierta Alquimista consiga el sueño eterno.,Make a certain Alchemist achieve eternal sleep.,Faça com que uma certa Alquimista alcance o sono eterno.,让某位炼金术师陷入永恒沉眠。
+ACH22TITLE,El fin de la Alquimista,The end of the Alchemist,O fim da Alquimista,炼金术师的终焉
+ACH22DESC,Alcanza el final bueno.,Reach the good ending.,Alcance o final bom.,达成好结局。
+ACH23TITLE,El fin del viaje,The end of the journey,O fim da jornada,旅途的终焉
+ACH23DESC,Alcanza el final secreto.,Reach the secret ending.,Alcance o final secreto.,达成隐藏结局。
+ACH24TITLE,Cartografo,Cartographer,Cartógrafa,制图师
+ACH24DESC,Completa el 100% del mapa.,Complete 100% of the map.,Complete 100% do mapa.,完成 100% 地图探索。
+ACH25TITLE,Asesino de demonios,Demon Slayer,Matador de Demônios,恶魔杀手
+ACH25DESC,Completa el juego en modo díficil al derrotar a Johannes.,Complete the game in hard mode by defeating Johannes.,Complete o jogo no modo difícil derrotando Johannes.,在困难模式下击败 Johannes 并通关。
+ACH26TITLE,Titanium Adeptis,Titanium Adeptis,Adeptis de Titânio,钛之 Adeptis
+ACH26DESC,Derrota al alquimista de Titanio.,Defeat the Titanium Alchemist.,Derrote o Alquimista de Titânio.,击败钛之炼金术师。
+ACH27TITLE,Señor del Xibalbá,Lord of Xibalbá,Senhor de Xibalbá,西巴尔巴之主
+ACH27DESC,Derrota a Ahalcaná.,Defeat Ahalcaná.,Derrote Ahalcaná.,击败阿尔卡那。
+ACH28TITLE,Sin piedad,No mercy,Sem misericórdia,毫不留情
+ACH28DESC,Consigue todos los tesoros de jefes por derrotarlos sin recibir daño.,Obtain all boss treasures by defeating them without taking damage.,Obtenha todos os tesouros dos chefes derrotando-os sem sofrer dano.,以无伤方式击败首领并取得全部首领宝物。
+ACH29TITLE,Exterminio,Extermination,Extermínio,灭绝
+ACH29DESC,Derrota a todos los enemigos.,Defeat all enemies.,Derrote todos os inimigos.,击败全部敌人。
+FIREACTION,Disparar,Fire,Disparar,火
+STRAFEACTION,Mover lateralmente,Strafe,Se mover lateralmente,平移
+CLOSEGAME,Cerrar juego,Close game,Fechar o jogo,关闭游戏
+DIFFSMOLXANDEATH,Inire Pecunia,Inire Pecunia,Inire Pecunia,献祭金币
+DIFFSMOLXANDEATH_DESC,Evita la muerte del personaje reemplazando el daño por gasto de dinero. El efecto seguirá activo aún cuando ya no tengas dinero.,Avoids character death by replacing damage by spending money. The effect will remain active even when you no longer have money.,Evita a morte do personagem ao substituir o dano por dinheiro gasto.,通过花钱抵消伤害来避免角色死亡。即使之后你已没有金钱，该效果仍会保持激活。
+REMOVE,Remover,Remove,Remover,移除
+USEJOYSTICKDINAMIC,Posición Palanca dinámica,Dynamic Stick position,Posição dinâmica da alavanca,动态摇杆位置
+CLOCK_TOWER,Torre de reloj,Clock tower,Torre do relógio,钟楼
+PRESSENTERTOSTART,Presiona [Enter] para comenzar,Press [Enter] to start,Aperte [Enter] para começar,按 [Enter] 开始
+NOEXTERNALCONTROLLERS,No se han detectado controles adicionales,External controllers not detected,Controles externos não detectados,未检测到外接手柄
+FINALES,Finales,Endings,Finais,结局
+IMPORTANT_TEXT,Texto importante,Relevant text,Texto Relevante,相关文本
+INTERACT,Interactuar,Interact,Interagir,交互
+AERIAL_DASH_II,Dash aéreo II,Aerial Dash II,Dash aéreo II,空中冲刺 II
+SEEFULLLICENSES,Ver otras atribuciones,See other attributions,Ver outras atribuições,查看其他署名
+ATTRIBUTIONS,Atribuciones,Attributions,Atribuições,署名信息
+EXPOSETIME,Tiempo de exposición: %.2fs,Exposure time: %.2fs,Tempo de exposição:  %.2fs,曝光时间：%.2f 秒
+CAPTUREIMGCANCELED,Captura de imagen cancelada,Image capture canceled,Captura de imagem cancelada,图像捕获已取消
+HOLDRAISEKEY,Mantén para subir un tono,Hold to raise key,Segure para aumentar um tom,按住以升调
+HOLDLOWERKEY,Mantén para bajar un tono,Hold to lower key,Segure para diminuir um tom,按住以降调
+LAKEWATCH,Mirador del lago Niquira,Niquira lake viewpoint,Mirante do Lago Niquira,尼基拉湖观景台
+FIREMARGARET,¡¡¡FUEGO!!!,FIRE!!!,DISPARAR!!!,FIRE!!!
+UNLOCKEDHARDMODE,Se ha desbloqueado el modo difícil y modo Lvl1.,Unlocked Hard mode and Lvl1.,Modo Difícil desbloqueado Lvl1.,已解锁困难模式。
+UNLOCKEDWITCH,Se ha desbloqueado el modo Solo-magia.,Unlocked Only-magic mode.,Modo Magia desbloqueado.,
+UNLOCKEDATREU,Se ha desbloqueado el modo Atreu.,Unlocked Atreu mode.,Modo Atreu desbloqueado.,
+UNLOCKEDATREU2,Escribe [ATREU] como nombre de partida nueva.,Type [ATREU] as the name of the new savegame.,Digite [ATREU] como nome da nova partida.,
+UNLOCKEDWITCH2,Escribe [WITCHMODE] como nombre de partida nueva.,Type [WITCHMODE] as the name of the new savegame.,Digite [WITCHMODE] como nome da nova partida.,
+OTHERSTATUESDESTROYED,Las demás estatuas también serán destruidas.,The other statues will also be destroyed.,As outras estátuas também serão destruídas.,其他雕像也会一并被摧毁。
+SLIDEHELPSMOLXANDRIA,"↓+Salto : Barrida en el suelo, permite atravesar trampas o enemigos sin recibir daño.","↓+Jump: Ground slide, allows you to pass through traps or enemies without taking damage.","↓+Pulo: Deslize no chão, permite passar por armadilhas ou inimigos sem sofrer dano.",↓+跳跃：地面滑行，可让你穿过陷阱或敌人而不受伤害。
+ACH30TITLE,Nahual Tzikin,Nahual Tzikin,Nahual Tzikin,
+ACH30DESC,Completa los tributos a la diosa Ixquic.,Complete the tributes to the goddess Ixquic.,Complete os tributos à deusa Ixquic.,
+ACH31TITLE,"Hasta la vista, baby","Hasta la vista, baby",,
+ACH31DESC,Derrota al Toziuha usando los poderes de Atreu.,Defeat Toziuha using Atreu's powers.,,
+TYPEWITCHMODE,Escribe [WITCHMODE] para jugar solo con magia,Type [WITCHMODE] for only-magic game,,
+TYPEATREUMODE,Escribe [ATREU] para jugar con Atreu,Type [ATREU] for Atreu mode,,
+XANDRIAOUTFITCHANG,Cambiar colores de vestido de Xandria,Change Xandria's color dress,,
+RELOADING,Recargando,Reloading,,
+RELOAD,Recarga,Reload,,
+SHOOTREVOLVER,Disparar Revólver (acumula sangre),Fire Revolver (gain blood),,
+RELOADMANA,Recargar maná,Recharge mana,,
+SHOTGUN,Disparar Escopeta (puede destruir Calcita),Fire Shotgun (it can destroy Calcite),,
+GRENADETHROWER,Lanzagranadas,Grenade Launcher,,
+THROWGRENADE,Arroja granadas en el suelo,Throw grenades on the ground,,
+INVERTGRAVITY,Invierte gravedad con botas ferro-magnéticas,Invert gravity with ferromagnetic boots,,
+WEAPONPLUSMODE,Modo WEAPON+ (barra sangre llena),WEAPON+ Mode (full blood bar),,
+ABOUTWEAPONPLUS,En el modo WEAPON+ El revólver y la escopeta pasan a una arma mejorada.,"In WEAPON+ Mode, the revolver and shotgun upgrade to enhanced versions.",,
+MOVEMENTS,Movimientos,Movements,,
+ABOUTCONTRARIUSATREU,Margaret le regaló a Atreu unas botas ferromagneticas para imitar el circuito Contrarius Gravitas de Xandria.,Margaret gave Atreu a pair of ferromagnetic boots to mimic Xandria’s Contrarius Gravitas circuit.,,
+ABOUTDOBLEJUMPATREU,"Atreu es capaz de saltar indefinidamente en el aire usando el impulso de escopeta, mientras tenga suficiente estamina.","Atreu can jump indefinitely in the air using the shotgun’s recoil, as long as he has enough stamina.",,
+IN-AIR,(en el aire),(in the air),,
+IN-FLOOR,(en el suelo),(on the ground),,
+ABOUTATREU,"Atreu puede transmutar munición de Plomo para utilizar armas, siempre y cuando tenga suficienta maná.","Atreu can transmute lead ammunition to use weapons, as long as he has enough mana.",,

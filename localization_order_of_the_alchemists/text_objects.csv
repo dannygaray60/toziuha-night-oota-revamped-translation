@@ -1,4 +1,4 @@
-keys,es,en,pt_BR
+keys,es,en,pt_BR,zh_CN
 ENEMIES_NOTE_GRIJAYLA_ATTACK_DESC,"[Carta encontrada en Grijayla dirigida a los Ahuizotes].
 
 Hermanos, nos han encomendado la importante misión de ayudar en la creación del [Opus Magnum].
@@ -23,9 +23,17 @@ Siga as ordens de Adeptis primera e sigam à parte noroeste da cidade na procura
 
 Receba esse mapa e não deixem nenhum local checado.
 
-Athos esteja com vocês."
-ENEMIES_NOTE_GRIJAYLA_ATTACK_TITLE,Ataque en Grijayla,Attack in Grijayla,Ataque em Grijayla
-ANON_LETTER_I_TITLE,Carta Anónima I,Anonymous letter I,Carta anônima 1
+Athos esteja com vocês.","[在格里哈伊拉发现、写给 Ahuizotes 的信件]。
+
+兄弟们，我们已被赋予协助完成 [至高杰作] 的重要使命。
+
+遵照 Adeptis primera 的命令，前往城市西北区域，寻找 [逆向色散棱镜]。
+
+收下这张地图，务必不要漏掉任何地方。
+
+愿阿托斯与你同在。"
+ENEMIES_NOTE_GRIJAYLA_ATTACK_TITLE,Ataque en Grijayla,Attack in Grijayla,Ataque em Grijayla,格里哈伊拉袭击行动
+ANON_LETTER_I_TITLE,Carta Anónima I,Anonymous letter I,Carta anônima 1,匿名信 I
 ANON_LETTER_I_DESC,"[Carta encontrada en Grijayla, autor desconocido]
 
 Tengo que decir que estoy muy agradecido de que nuestro Señor haya decidido iluminar mi camino y conducirme hacia la cura que tanto necesitaba. ¡Me siento mucho mejor ahora!
@@ -56,8 +64,18 @@ Eu não consigo explicar em palavras a felicidade que sinto ao encontrar a salva
 
 Eu deixarei este lugar para pregar a verdade absoluta.
 
-Se encontrar a si mesmos numa situação similar qua a minha, eu sugiro que abram seus corações e confiem a si mesmos a divina graça de Athos."
-ABOUT_VOLCAN_GAS_TITLE,Gases tóxicos en volcán,Toxic gas in volcano,Gás tóxico no vulcão
+Se encontrar a si mesmos numa situação similar qua a minha, eu sugiro que abram seus corações e confiem a si mesmos a divina graça de Athos.","[在格里哈伊拉发现的信件，作者不详]。
+
+我必须说，我由衷感激我们的主决定点亮我的道路，并引领我找到我一直苦苦寻求的解药。我现在感觉好多了！
+
+Ahuizotes 为我提供了受阿托斯祝福的鲜血。它彻底治好了我。这是凡人的科学根本无法做到的事。如今我终于明白，[教团] 一直竭力隐藏的真正力量究竟是什么。
+
+我无法用言语形容自己在阿托斯之中寻得救赎的喜悦。如今我知道，我的未来就在于追随特里特米乌斯大人，追随那位承载阿托斯意志的人。
+
+我要离开这里，去宣扬这绝对的真理。
+
+如果还有人遭遇了与我相似的处境，我建议他们敞开心扉，将自己托付给阿托斯的神圣恩典。"
+ABOUT_VOLCAN_GAS_TITLE,Gases tóxicos en volcán,Toxic gas in volcano,Gás tóxico no vulcão,火山中的毒气
 ABOUT_VOLCAN_GAS_DESC,"Es nuestra primera expedición al volcán ubicado en una de las islas de Tahuatepet. El aire se combina con el dióxido de azufre, un gas infernal cuyos vapores podrían debilitarnos lo suficiente como para que los goblins, astutos demonios, aprovechen la oportunidad de despojarnos de nuestras pertenencias y de nuestras vidas.
 
 Debemos permanecer atentos al ennegrecimiento de la [Plata] que llevamos, ya que nos indicará aquellos lugares donde ese gas es abundante.","It's our first expedition to the volcano located on one of the islands of Tahuatepet. The air combines with sulfur dioxide, an infernal gas whose vapors could weaken us enough for the goblins, cunning demons, to take advantage of the opportunity to strip us of our belongings and our lives.
@@ -65,12 +83,14 @@ Debemos permanecer atentos al ennegrecimiento de la [Plata] que llevamos, ya que
 We must remain attentive to the blackening of the [Silver] we carry, as it will indicate those places where this gas is abundant.","Esta é a nossa primeira expedição ao vulcão localizado em uma das ilhas de Tahuatepet. O ar combina com dióxido de enxofre, um gás infernal com vapores que podem nos enfraquecer o bastante para goblins, demônios ardilosos, de aproveitar a oportunidade de roubar nossas coisas e nossas vidas. 
 
 
-Nós devemos nos manter atentos ao escurecimento da [Prata] que carregamos, assim indicará os locais onde o gás é abundante."
-ALCHEMIST_DESC,"Son aquellas personas capaces de controlar el movimiento atómico de un elemento químico en específico, utilizando el flujo de maná en sus cuerpos.","They are those people capable of controlling the atomic movement of a specific chemical element, using the flow of mana in their bodies.","São pessoas capazes de controlar o movimento atômico de um elemento químico específico, usando o fluxo de mana em seus corpos."
-ALCHEMIST_TITLE,Alquimista,Alchemist,Alquimista.
-DEMON_TITLE,Demonios,Demons,Demônios
-DEMON_DESC,"Para describir a cualquier monstruo, se les llama ""Demonios"". Son criaturas peligrosas, sedientas de sangre. Atacan sin piedad y con poco razonamiento a cualquiera que se les cruce.","To describe any monster, they are called ""Demons"". They are dangerous, bloodthirsty creatures. They attack mercilessly and with little reasoning to anyone who crosses them.","Ao descrever qualquer monstro, eles são chamados “Demônios”. São criaturas perigosas e sedentas por sangue. Atacam de forma irracional e sem piedade a qualquer um que cruzam seu caminho. "
-TOZIUHA_TITLE,,Toziuha,Toziuha
+Nós devemos nos manter atentos ao escurecimento da [Prata] que carregamos, assim indicará os locais onde o gás é abundante.","这是我们首次前往塔瓦特佩特某座岛上的火山进行探索。空气与二氧化硫混合，形成一种宛如地狱般的毒气；它的蒸汽足以削弱我们，让那些狡猾的恶魔哥布林趁机夺走我们的财物与性命。
+
+我们必须时刻留意随身携带的 [银] 是否发黑，因为那会提示这种气体浓度较高的地点。"
+ALCHEMIST_DESC,"Son aquellas personas capaces de controlar el movimiento atómico de un elemento químico en específico, utilizando el flujo de maná en sus cuerpos.","They are those people capable of controlling the atomic movement of a specific chemical element, using the flow of mana in their bodies.","São pessoas capazes de controlar o movimento atômico de um elemento químico específico, usando o fluxo de mana em seus corpos.",指那些能够借助体内法力流动，控制某一种特定化学元素原子运动的人。
+ALCHEMIST_TITLE,Alquimista,Alchemist,Alquimista.,炼金术师
+DEMON_TITLE,Demonios,Demons,Demônios,恶魔
+DEMON_DESC,"Para describir a cualquier monstruo, se les llama ""Demonios"". Son criaturas peligrosas, sedientas de sangre. Atacan sin piedad y con poco razonamiento a cualquiera que se les cruce.","To describe any monster, they are called ""Demons"". They are dangerous, bloodthirsty creatures. They attack mercilessly and with little reasoning to anyone who crosses them.","Ao descrever qualquer monstro, eles são chamados “Demônios”. São criaturas perigosas e sedentas por sangue. Atacam de forma irracional e sem piedade a qualquer um que cruzam seu caminho. ",凡是怪物，一般统称为“恶魔”。它们危险而嗜血，几乎不讲理性，会毫不留情地攻击一切挡在面前的人。
+TOZIUHA_TITLE,,Toziuha,Toziuha,托祖哈
 TOZIUHA_DESC,"Se denomina ""Toziuha"" a demonios mayores, seres que cuentan con inteligencia superior al de una persona promedio. 
 
 Sus poderes sobrepasan la comprensión humana, llegando sobrepasar sus límites en la última noche de octubre. Esto es lo que estiman los estudiosos sobre el tema.
@@ -89,8 +109,14 @@ Os poderes deles superam a compreensão humana, superando seus limites na últim
 
 Felizmente, são criaturas raras de encontrar e, apesar de seu grande poder, não atacam ou causam algum mal. Por algum motivo desconhecido, é como se eles não “existissem” no nosso mundo.
 
-Os Toziuha são conhecidos por procurarem pessoas com que desejam fazer um “pacto”, em troca de uma fração do poder deles, a pessoa oferece sua “alma”. Não é conhecido o propósito dos pactos dos Toziuha."
-AHUIZOTE_TITLE,,Ahuizote,Ahuizote
+Os Toziuha são conhecidos por procurarem pessoas com que desejam fazer um “pacto”, em troca de uma fração do poder deles, a pessoa oferece sua “alma”. Não é conhecido o propósito dos pactos dos Toziuha.","“托祖哈”[toh-see-OO-ah] 这一称呼，指的是高等恶魔，也就是智慧远超常人的存在。
+
+根据相关学者的推测，它们的力量超越人类理解，并会在十月的最后一夜突破极限。
+
+幸运的是，这类生物十分罕见；尽管力量强大，它们却无法主动攻击或造成伤害。不知出于何种原因，它们仿佛并“不存在”于我们的世界。
+
+众所周知，托祖哈会寻找对象与之订立“契约”。作为交换，它们赐予对方一部分力量，而人则以自己的“灵魂”作为代价。至于托祖哈缔结契约的目的为何，至今仍无人知晓。"
+AHUIZOTE_TITLE,,Ahuizote,Ahuizote,Ahuizote
 AHUIZOTE_DESC,"Los ""Ahuizotes"" son un grupo religioso extremista, liderado por Johannes Trithemius, un hombre cuyo pasado se desconoce. Sus integrantes llevan máscaras y ropas negras para representar sus ""pecados"".
 
 Sus creencias se basan en la existencia de una persona llamada ""Athos"", que trajo sabiduría y paz a un antiguo reino sumido en la guerra; siendo denominado como el verdadero padre de la alquimia.
@@ -109,16 +135,24 @@ Suas crenças são baseados na existência de um ente chamado ""Athos"", que tro
 
 É dito que Athos foi acusado de heresia e condenado a morte, traído pelo melhor amigo, ""Hermes Trimegistus"". Os Ahuizotes clamam que o dia chegará quando eles alcançarão o milagre da ressureição e trazer Athos de volta a vida.
 
-Porém, não há evidência encontrada da existência dessa pessoa chamada Athos."
-ADEPTIS_TITLE,,Adeptis,Adeptis
+Porém, não há evidência encontrada da existência dessa pessoa chamada Athos.","“Ahuizotes”[ah-wee-ZOH-teh] 是一个极端宗教团体，由约翰内斯·特里特米乌斯领导；此人的过去无人知晓。其成员佩戴面具、身着黑衣，以象征自身的“罪”。
+
+他们的信仰核心，是一位名叫“阿托斯”的人物。传说他曾为一个深陷战乱的古王国带来智慧与和平，因此被称为真正的炼金术之父。
+
+据说阿托斯因异端之名被判处死刑，而出卖他的人，正是他最好的朋友“赫尔墨斯·特里墨吉斯托斯”。Ahuizotes 宣称，总有一天他们会实现复活的奇迹，让阿托斯重返人世。
+
+然而，至今仍未找到任何能证明这位名为阿托斯的人真实存在的证据。"
+ADEPTIS_TITLE,,Adeptis,Adeptis,Adeptis
 ADEPTIS_DESC,"De entre los Ahuizotes, existe un grupo selecto de personas que ademas de ser miembros de la secta, también son Alquimistas. Operan bajo las órdenes directas de Johannes.
 
 El único adeptis del que se tiene registro, es Eva Brahm. Una mujer que se dice fue la primera Adeptis, además de posiblemente tener algún tipo de relación cercana con Johannes.","Among the Ahuizotes, there is a select group of people who, besides being members of the sect, are also Alchemists. They operate under the direct orders of Johannes.
 
 The only adeptis of whom details are known is Eva Brahm. A woman who is said to be the first Adeptis, as well as possibly having some kind of close relationship with Johannes.","Entre os Ahuizotes, há um seleto grupo que, apesar de serem memebros da seita, são Alquimistas. Eles operam sob as ordens diretas de Johannes.
 
-A única adeptis cujo os detalhes são conhecidos é sobre Eva Brahm. Uma mulher que é conhecida como a primeira Adeptis, e possivelmente tendo alguma relação próxima com Johannes."
-RACHEL_TITLE,,Rachel Lavoisier,Rachel Lavosier
+A única adeptis cujo os detalhes são conhecidos é sobre Eva Brahm. Uma mulher que é conhecida como a primeira Adeptis, e possivelmente tendo alguma relação próxima com Johannes.","在 Adeptis 之中，有一群被特别挑选出来的人；他们不仅是教派成员，同时也是炼金术师。他们直接听命于约翰内斯。
+
+目前唯一有较明确情报的 Adeptis 是伊娃·布拉姆。据说她是第一位 Adeptis，并且很可能与约翰内斯之间存在某种亲密关系。"
+RACHEL_TITLE,,Rachel Lavoisier,Rachel Lavosier,瑞秋·拉瓦锡
 RACHEL_DESC,"Alquimista de Cobre. Una mujer de carácter tranquilo y amable. Actualmente está retirada, fue compañera de la actual directora de La Orden.
 
 Una de sus últimas misiones involucró un orfanato que estaba siendo controlado en secreto por los Ahuizotes. Ahí conoció a una niña llamada Xandria.
@@ -131,28 +165,36 @@ Rachel adopted the girl and, seeing potential as an Alchemist, taught her how to
 
 Uma das últimas missões dela envolveu um orfanato que estava controlado secretamente pelos Ahuizotes. Nesse local, ela encontrou uma criança chamada Xandria.
 
-Rachel adotou a criança e vendo o potencial de ser uma Alquimista e a ensinando como lutar."
-ALESSA_TITLE,,Alessa Bollstad,Alessa Bollstad
-ALESSA_DESC,"Es la directora de La Orden en Amerithia. Detrás de esa dulce sonrisa, se oculta una temible mujer. Se desconoce cuál es el elemento que Alessa domina, ya que quienes se han enfrentado a ella, no han vivido para contarlo.","She is the director of The Order in Amerithia. Behind that sweet smile hides a fearsome woman. The element that Alessa masters is unknown, as those who have faced her have not lived to tell the tale.","Ela é a diretora da Ordem em Amerithia. Por detrás do doce sorriso, esconde uma mulher assustadora. O elemento que Alessa domina é desconhecido, da mesma forma daqueles que a enfrentaram não viveram para contar a história."
-THEORDER_TITLE,La Orden,The Order,A Ordem
+Rachel adotou a criança e vendo o potencial de ser uma Alquimista e a ensinando como lutar.","铜之炼金术师。性格沉静而温和的女性。如今已退休，曾是现任教团分部负责人的搭档。
+
+她最后几次任务中的一次，牵涉到一所被 Ahuizotes 暗中控制的孤儿院。也正是在那里，她遇见了一个名叫珊德莉雅的小女孩。
+
+瑞秋收养了这个孩子，并在看出她具备炼金术师资质后，亲自教她战斗。"
+ALESSA_TITLE,,Alessa Bollstad,Alessa Bollstad,娅蕾莎·博斯塔德
+ALESSA_DESC,"Es la directora de La Orden en Amerithia. Detrás de esa dulce sonrisa, se oculta una temible mujer. Se desconoce cuál es el elemento que Alessa domina, ya que quienes se han enfrentado a ella, no han vivido para contarlo.","She is the director of The Order in Amerithia. Behind that sweet smile hides a fearsome woman. The element that Alessa masters is unknown, as those who have faced her have not lived to tell the tale.","Ela é a diretora da Ordem em Amerithia. Por detrás do doce sorriso, esconde uma mulher assustadora. O elemento que Alessa domina é desconhecido, da mesma forma daqueles que a enfrentaram não viveram para contar a história.",她是阿美瑞西亚教团的负责人。那抹甜美的笑容背后，藏着的是一个令人畏惧的女人。娅蕾莎所掌握的元素至今无人知晓，因为凡是与她交手的人，都没能活着讲出经过。
+THEORDER_TITLE,La Orden,The Order,A Ordem,教团
 THEORDER_DESC,"Una antigua organización de Alquimistas fundada por Hermes Trimegisto, cuyo objetivo es el de proteger a las personas de los Demonios o cualquier amenaza que atente a la paz.
 
 A pesar de contar con sedes en diferentes países, cada una es independiente y trabaja de formas distintas. Son raras las ocasiones en la que una sede solicita refuerzos o reuniones con otras sedes.","An ancient organization of Alchemists founded by Hermes Trimegistus, whose objective is to protect people from Demons or any threat to peace.
 
 Despite having headquarters in different countries, each one is independent and works in different ways. It is rare that one branch requests reinforcements or meetings with other branches.","Uma antiga organização de Alquimistas fundada por Hermes Trimegistus, cujo o objetivo é proteger a humanidade dos Demônios ou qualquer ameaça a paz.
 
-Apesar de ter sedes em diferentes países, cada um é independente e funciona de diferentes formas. É raro que uma filial solicitar reforços ou reuniões com outras filiais."
-MARGARET_TITLE,,Margaret Curie,Margaret Curie
+Apesar de ter sedes em diferentes países, cada um é independente e funciona de diferentes formas. É raro que uma filial solicitar reforços ou reuniões com outras filiais.","由赫尔墨斯·特里墨吉斯托斯创建的古老炼金术师组织，其宗旨是保护人们免受恶魔或任何威胁和平之物的侵害。
+
+尽管它在不同国家都设有据点，但各处分部彼此独立，运作方式也不尽相同。某个分部向其他分部请求增援或召开会面，是极为少见的事。"
+MARGARET_TITLE,,Margaret Curie,Margaret Curie,玛格丽特·居里
 MARGARET_DESC,"Directora de la división de investigación de La Orden en Amerithia. Es una persona de gran inteligencia que ha hecho aportes importantes con artefactos que ayudan a Alquimistas en su lucha contra demonios.
 
 Se encuentra generalmente en el laboratorio de alquimia, aunque rara vez sale en busca de materiales o muestras para sus investigaciones.","Director of the research division of The Order in Amerithia. She is a person of great intelligence who has made important contributions with artifacts that help Alchemists in their fight against demons.
 
 She is usually in the alchemy laboratory, although she rarely goes out in search of materials or samples for her research.","Diretora da divisão de pesquisas da Ordem em Amerithia. Ela é uma pessoa de grande inteligência que fez importantes contribuições com artefatos que ajudam Alquimistas na luta contra os demônios.
 
-Ela normalmente está no laboratório de alquimia, apesar de qu ela raramente sai à procura de materiais ou amostras para as suas pesquisas."
-GABRIEL_TITLE,,Gabriel Eclair,Gabriel Eclair
-GABRIEL_DESC,"Trabaja en una tienda de Amerithia. Originario de la ciudad de Grijayla tuvo que mudarse debido a una invasión de demonios en Grijayla, durante el incidente su hija llamada Aura fue raptada por los Ahuizotes.","He works in a store in Amerithia. Originally from the city of Grijayla, he had to move due to a demon invasion in Grijayla during the incident where his daughter, named Aura, was kidnapped by the Ahuizotes.","Ele trabalha numa loja em Amerithia. Originalmente da cidade de Grijayla ele teve que se mudar por conta da invasão demoníaca em Grijayla, durante o incidente, sua filha chamada Aura foi raptada pelos Ahuizotes."
-ABOUT_STRALSUND_TITLE,Stralsund y Cavendish,Stralsund & Cavendish,Stralsund & Cavendish
+Ela normalmente está no laboratório de alquimia, apesar de qu ela raramente sai à procura de materiais ou amostras para as suas pesquisas.","阿美瑞西亚教团研究部门的负责人。她是一位极其聪慧的人物，曾通过多种器具与装置，为炼金术师对抗恶魔的战斗作出重要贡献。
+
+她通常待在炼金实验室里，不过偶尔也会亲自外出，寻找研究所需的素材或样本。"
+GABRIEL_TITLE,,Gabriel Eclair,Gabriel Eclair,加布里埃尔·埃克莱尔
+GABRIEL_DESC,"Trabaja en una tienda de Amerithia. Originario de la ciudad de Grijayla tuvo que mudarse debido a una invasión de demonios en Grijayla, durante el incidente su hija llamada Aura fue raptada por los Ahuizotes.","He works in a store in Amerithia. Originally from the city of Grijayla, he had to move due to a demon invasion in Grijayla during the incident where his daughter, named Aura, was kidnapped by the Ahuizotes.","Ele trabalha numa loja em Amerithia. Originalmente da cidade de Grijayla ele teve que se mudar por conta da invasão demoníaca em Grijayla, durante o incidente, sua filha chamada Aura foi raptada pelos Ahuizotes.",他在阿美瑞西亚的一家商店工作，原本来自格里哈伊拉。由于那次恶魔入侵格里哈伊拉、女儿奥拉又被 Ahuizotes 掳走，他不得不离开故乡搬迁至此。
+ABOUT_STRALSUND_TITLE,Stralsund y Cavendish,Stralsund & Cavendish,Stralsund & Cavendish,斯特拉尔松德与卡文迪许
 ABOUT_STRALSUND_DESC,"Stralsund fue una ciudad próspera gobernada por el aristócrata Henry Cavendish.
 
 La ciudad fue cuna de la revolución industrial y contaba con diversas instituciones de investigación Alquímica. 
@@ -177,8 +219,16 @@ Grandes gênios como Geber estudaram na Academia Stralsund.
 
 Porém, Cavendish se tornou um membro dos Ahuizotes. É conhecido que sua fortuna foi para Johannes Trithemius para financiar a seita.
 
-Quando o fato foi descoberto, Cavendish foi sentenciado com um mandado de prisão, os Alquimistas da Ordem o encontraram... mas ele já estava morto. A causa da morte foi envenenamento por arsênico. Porém, não pode ser determinado se foi suicídio ou não..."
-CAVENDISH_BROTHERS_TITLE,Hermanos Cavendish,Cavendish Brothers,Irmãos Cavendish
+Quando o fato foi descoberto, Cavendish foi sentenciado com um mandado de prisão, os Alquimistas da Ordem o encontraram... mas ele já estava morto. A causa da morte foi envenenamento por arsênico. Porém, não pode ser determinado se foi suicídio ou não...","斯特拉尔松德曾是一座由贵族亨利·卡文迪许统治的繁荣城市。
+
+这座城市是工业革命的摇篮，同时拥有多所炼金研究机构。
+
+包括盖贝尔在内的许多伟大炼金天才，都曾在斯特拉尔松德学院求学。
+
+然而，卡文迪许后来加入了 Ahuizotes。据说他的财富也流入了约翰内斯·特里特米乌斯之手，用以资助这个教派。
+
+此事曝光后，卡文迪许遭到通缉并被判逮捕。教团的炼金术师找到他时……他已经死了，死因是砒霜中毒。至于那是否属于自杀，则始终未能查明……"
+CAVENDISH_BROTHERS_TITLE,Hermanos Cavendish,Cavendish Brothers,Irmãos Cavendish,卡文迪许兄弟
 CAVENDISH_BROTHERS_DESC,"Joseph y Annette Cavendish, hermanos. Hijos de Henry Cavendish.
 
 Por alguna razón ahora son Adeptis de los Ahuizotes.
@@ -191,16 +241,22 @@ The older sister, Annette, seems to possess greater power than her brother, alth
 
 Por alguma razão, eles são agora Adeptis dos Ahuizotes.
 
-A irmã mais velha, Annette, aparenta possuir grande poder do que seu irmão, apesar dela agir de forma defensiva, cedo ou tarde ela agirá."
-AURA_TITLE,,Aura Eclair,Aura Eclair
+A irmã mais velha, Annette, aparenta possuir grande poder do que seu irmão, apesar dela agir de forma defensiva, cedo ou tarde ela agirá.","约瑟夫与安妮特·卡文迪许，两人是兄妹，也是亨利·卡文迪许的子女。
+
+不知为何，他们如今都成了 Ahuizotes 的 Adeptis。
+
+身为姐姐的安妮特，似乎拥有比弟弟更强的力量，不过她行事更偏防守。迟早有一天，她会主动出手。"
+AURA_TITLE,,Aura Eclair,Aura Eclair,奥拉·埃克莱尔
 AURA_DESC,"Aura Eclair, es la hija de Gabriel, quien trabaja en una tienda en Amerithia.
 
 Ha pedido ayuda con encontrar a sus tres gatos que están perdidos en Grijayla. A cambio, dará como recompensa un objeto con forma de caja que encontró mientras jugaba, la caja lleva inscrito la palabra ""Daguerrotipo"".","Aura Eclair is Gabriel's daughter who works in a store in Amerithia.
 
 She has asked for help with finding her three cats that are lost in Grijayla. In return, she will give a box-shaped object she found while playing as a reward. The box is inscribed with the word ""Daguerreotype"".","Aura Eclair é filha do Gabriel, que trabalha numa loja em Amerithia.
 
-Ela pediu ajuda para encontrar seus três gatos perdidos em Grijayla. Em troca, ela te dará como recompensa um objeto em formato de caixa que ela encontrou enquanto brincava, a caixa está gravada com a palavra ""Daguerreótipo""."
-TAHUATEPETL_TITLE,Isletas de Tahuatepetl,Tahuatepetl Islets,Ilhotas Tahuatepetl
+Ela pediu ajuda para encontrar seus três gatos perdidos em Grijayla. Em troca, ela te dará como recompensa um objeto em formato de caixa que ela encontrou enquanto brincava, a caixa está gravada com a palavra ""Daguerreótipo"".","奥拉·埃克莱尔是加布里埃尔的女儿，也在阿美瑞西亚的一家商店里工作。
+
+她委托人帮忙寻找自己在格里哈伊拉走失的三只猫。作为报酬，她愿意把自己玩耍时捡到的一个盒状物交出来。那个盒子上刻着“银版摄影机”一词。"
+TAHUATEPETL_TITLE,Isletas de Tahuatepetl,Tahuatepetl Islets,Ilhotas Tahuatepetl,塔瓦特佩特群岛
 TAHUATEPETL_DESC,"Recibe el nombre de ""Isletas de Tahuatepetl"" a una serie de más de trescientos islotes ubicadas en el mar de Niquira.
 
 Se cree que el origen de estas isletas se debe a un derrumbe del volcán que se encuentra en la ""isla mayor"" hace mil años.
@@ -213,8 +269,12 @@ The islets have been inhabited by a tribe of people specializing in fishing for 
 
 Acredita-se que tais ilhotas foram originadas de uma uma caldeira vulcânica na “ilha principal” há mil anos atrás.
 
-Essas ilhotas foram habitadas por uma tribo especializada na pesca por meio século. Porém, a maior ilhota mantém inabitada."
-DLETTER_TITLE,"Carta de ""D"".","""D"" Letter.",Carta “D”
+Essas ilhotas foram habitadas por uma tribo especializada na pesca por meio século. Porém, a maior ilhota mantém inabitada.","“塔瓦特佩特群岛”是一片由三百多座小岛组成的群岛，位于尼基拉海。
+
+人们相信，这些岛屿形成于千年前“主岛”火山塌陷之后。
+
+半个世纪以来，这些岛上一直居住着一个以捕鱼为生的部族。不过，由于科阿波尔坎的火山活动，最大的那座岛至今仍无人居住。"
+DLETTER_TITLE,"Carta de ""D"".","""D"" Letter.",Carta “D”,“D”的信
 DLETTER_DESC,"Espero que tu viaje a Grijayla haya transcurrido sin problemas, Gabriel.
 
 Has servido fielmente a nuestro señor durante dos décadas. Lamento tener que encargarte de esta gran responsabilidad con la señorita.
@@ -245,14 +305,25 @@ As várias sedes da Ordem trabalham independentemente e raramente compartilha in
 
 Estou finalizando as últimas preparações para a viagem. Por favor, espere um pouco mais.
 
-Sinceramente, “D”."
-BAKDASHONATK,Esquivar al atacar,Backdash on attack,Recuo no ataque
-NEGATIVESTATUS,Estados negativos,Negative status,Condição negativa
-THERMALRESIS,Resistencia térmica,Thermal resistance,Resistência termal
-ABOUTDAMAGEINFLICT,Acerca del daño inflingido,About the damage inflicted,Sobre o dano infligido
-RESISTANDWEAKNS,Resistencias y debilidades,Resistances and weaknesses,Resistências e fraquezas
-ABOUTMULTIPLEEQUIP,Acerca del equipamiento múltiple,About Multiple equipment,Sobre o Equipamento Múltiplo
-BAKDASHONATK_DESC,"Cuanto atacas no puedes moverte, si usas el botón para esquivar puedes evitar ser dañado por el enemigo, parece tonto decirlo pero hay personas que olvidan usarlo...","When you attack, you can't move. If you use the dodge button, you can avoid being damaged by the enemy. It seems silly to say it but there are people who forget to use it...","Quando você ataca você não consegue se mover, se usar o botão de esquiva você pode evitar de ser atacado pelo inimigo. Parece tolice, mas tem pessoas que se esquecem de usar…"
+Sinceramente, “D”.","希望你前往格里哈伊拉的旅途一切顺利，加布里埃尔。
+
+这二十年来，你一直忠心侍奉我们的主。让你带着那位年轻小姐承担如此重大的责任，我深感抱歉。
+
+我知道，要你搬到离阿美瑞西亚教团总部如此之近的城市，看起来近乎疯狂；但我向你保证，那恰恰会是他们最不会去找你的地方。
+
+教团的各处分部彼此独立运作，极少互通情报。
+
+我正在做出发前最后的准备。请再坚持一阵子。
+
+此致，
+“D”"
+BAKDASHONATK,Esquivar al atacar,Backdash on attack,Recuo no ataque,攻击中的后闪
+NEGATIVESTATUS,Estados negativos,Negative status,Condição negativa,负面状态
+THERMALRESIS,Resistencia térmica,Thermal resistance,Resistência termal,环境耐性
+ABOUTDAMAGEINFLICT,Acerca del daño inflingido,About the damage inflicted,Sobre o dano infligido,关于造成的伤害
+RESISTANDWEAKNS,Resistencias y debilidades,Resistances and weaknesses,Resistências e fraquezas,抗性与弱点
+ABOUTMULTIPLEEQUIP,Acerca del equipamiento múltiple,About Multiple equipment,Sobre o Equipamento Múltiplo,关于多套装备
+BAKDASHONATK_DESC,"Cuanto atacas no puedes moverte, si usas el botón para esquivar puedes evitar ser dañado por el enemigo, parece tonto decirlo pero hay personas que olvidan usarlo...","When you attack, you can't move. If you use the dodge button, you can avoid being damaged by the enemy. It seems silly to say it but there are people who forget to use it...","Quando você ataca você não consegue se mover, se usar o botão de esquiva você pode evitar de ser atacado pelo inimigo. Parece tolice, mas tem pessoas que se esquecem de usar…",攻击时你无法移动。如果在攻击过程中使用闪避按钮，就能避开敌人的伤害。听起来像是废话，但确实有人会忘记这么做……
 NEGATIVESTATUS_DESC,"Existen tres estados negativos que algunos enemigos pueden infligirte.
 
 Envenenado: Pierdes un poco de salud gradualmente.
@@ -271,9 +342,15 @@ Envenenada: Gradualmente perderá saúde.
 Ferida: Suas habilidades são reduzidas pela metade.
 Amaldiçoada: Você perde mana continuamente.
 
-Para cada um, há um item que te cura, consumíveis disponíveis na loja."
-THERMALRESIS_DESC,"Existen lugares con climas extremos, el cuerpo humano no podrá permanecer mucho tiempo en estos ambientes, al llegar a un límite perderás salud gradualmente, existen consumibles u objetos en el entorno que podrá aliviar la temperatura corporal.","There are places with extreme climates. The human body will not be able to stay in these environments for too long. When you reach your limit, you will gradually lose health. There are consumables or objects in the environment that can alleviate body temperature.","Há locais com climas extremos, o corpo humano não será capaz de ficar por muito tempo nesses ambientes, quando você alcança um limite você gradualmente perderá saúde, há consumíveis ou objetos no ambiente que podem aliviar a temperatura corporal."
-ABOUTDAMAGEINFLICT_DESC,"Al dañar a un enemigo verás un número aparecer que representa el daño inflingido, puede ser de utilidad ver ese número para determinar si el plan actual es efectivo contra el enemigo.","When damaging an enemy, you will see a number appear that represents the damage inflicted. It may be useful to see that number to determine if the current plan is effective against the enemy.","Quando atacar um inimigo, você verá um número aparecendo que representando o dano infligido, pode ser útil ver o número para determinar se o atual plano é efetivo."
+Para cada um, há um item que te cura, consumíveis disponíveis na loja.","有三种负面状态可能由部分敌人施加给你。
+
+中毒：生命会逐渐减少。
+受伤：你的各项属性减半。
+诅咒：法力会持续流失。
+
+这三种状态各自都有对应的治疗道具，消耗品可在商店购买。"
+THERMALRESIS_DESC,"Existen lugares con climas extremos, el cuerpo humano no podrá permanecer mucho tiempo en estos ambientes, al llegar a un límite perderás salud gradualmente, existen consumibles u objetos en el entorno que podrá aliviar la temperatura corporal.","There are places with extreme climates. The human body will not be able to stay in these environments for too long. When you reach your limit, you will gradually lose health. There are consumables or objects in the environment that can alleviate body temperature.","Há locais com climas extremos, o corpo humano não será capaz de ficar por muito tempo nesses ambientes, quando você alcança um limite você gradualmente perderá saúde, há consumíveis ou objetos no ambiente que podem aliviar a temperatura corporal.",有些地方气候极端，人体无法在这种环境中停留太久。一旦超过极限，你的生命就会逐渐流失。你可以通过消耗品，或利用环境中的某些物体，来缓解体温负担。
+ABOUTDAMAGEINFLICT_DESC,"Al dañar a un enemigo verás un número aparecer que representa el daño inflingido, puede ser de utilidad ver ese número para determinar si el plan actual es efectivo contra el enemigo.","When damaging an enemy, you will see a number appear that represents the damage inflicted. It may be useful to see that number to determine if the current plan is effective against the enemy.","Quando atacar um inimigo, você verá um número aparecendo que representando o dano infligido, pode ser útil ver o número para determinar se o atual plano é efetivo.",对敌人造成伤害时，画面上会出现一个数字，用来表示你造成的伤害量。观察这个数字，有助于判断当前战术对该敌人是否有效。
 RESISTANDWEAKNS_DESC,"Los enemigos pueden ser resistentes, invulnerables o invencibles ante ciertas [propiedades elementales]. Cada aleación de tu arma o circuito elemental puede tener una propiedad elemental.
 
 Las propiedades son: Aqua, Pyro, Frigo, Aeria, Electro, Lux y Tenebris.
@@ -286,11 +363,15 @@ Some enemies can even absorb damage from a specific property...","Inimigos podem
 
 As propriedades são: Aqua, Pyro, Frigo, Aeria, Electro, Lux and Tenebris.
 
-Alguns inimigos podem até absorver o dano de uma propriedade específica…"
-ABOUTMULTIPLEEQUIP_DESC,"Existe un Circuito elemental que te permitirá cambiar sets de Aleación+Circuito, con esta habilidad podrás cambiar en tiempo real entre tres diferentes conjuntos de aleaciones y circuitos equipados, de esta manera podrás usar el arma adecuada con el enemigo adecuado.","There is an Elemental Circuit that will allow you to switch Alloy+Circuit sets. With this ability, you can switch in real time between three different sets of alloys and equipped circuits. This way, you can use the right weapon with the right enemy.","Tem um Circuito Elemental que te permite trocar os conjuntos Liga+Circuito, com essa habilidade você pode trocar em tempo real entre trê diferentes conjuntos de ligas e circuitos equipados, desta forma você pode usar a arma certa no inimigo certo."
-SHEAL_TITLE,,Sheal Avicena,Sheal Avicena
-SHEAL_DESC,"Sheal Avicena, alquimista de Nitrogeno. Un Adeptis que al ver sus planes frustrados, no hace más que escapar. Se ha refugiado en lo alto de una montaña ubicado en Eztilia.","Sheal Avicenna, alchemist of Nitrogen. An Adeptis who, seeing his plans thwarted, does nothing but escape. He has taken refuge on the top of a mountain located in Eztilia.","Sheal Avicenna, alquimista de Nitrogênio. Um Adeptis que, ao ver seus planos ir por água abaixo, faz nada além de fugir. Ele buscou refúgio no topo de uma montanha localizada em Eztilia."
-FIVEBIRDS_TITLE,Dioses alados,Winged Gods,Deuses Alados
+Alguns inimigos podem até absorver o dano de uma propriedade específica…","敌人可能会对某些 [元素属性] 具有抗性、无敌性，甚至完全免疫。你的武器合金与元素回路都可能附带某种元素属性。
+
+这些属性分别是：水、炎、冰、风、雷、光、暗。
+
+有些敌人甚至还能吸收某一种属性所造成的伤害……"
+ABOUTMULTIPLEEQUIP_DESC,"Existe un Circuito elemental que te permitirá cambiar sets de Aleación+Circuito, con esta habilidad podrás cambiar en tiempo real entre tres diferentes conjuntos de aleaciones y circuitos equipados, de esta manera podrás usar el arma adecuada con el enemigo adecuado.","There is an Elemental Circuit that will allow you to switch Alloy+Circuit sets. With this ability, you can switch in real time between three different sets of alloys and equipped circuits. This way, you can use the right weapon with the right enemy.","Tem um Circuito Elemental que te permite trocar os conjuntos Liga+Circuito, com essa habilidade você pode trocar em tempo real entre trê diferentes conjuntos de ligas e circuitos equipados, desta forma você pode usar a arma certa no inimigo certo.",有一种元素回路能让你切换“合金+回路”套装。掌握这项能力后，你就能实时在三套不同的合金与装备回路之间切换。这样一来，你就能对不同敌人使用最合适的武器。
+SHEAL_TITLE,,Sheal Avicena,Sheal Avicena,希尔·阿维森纳
+SHEAL_DESC,"Sheal Avicena, alquimista de Nitrogeno. Un Adeptis que al ver sus planes frustrados, no hace más que escapar. Se ha refugiado en lo alto de una montaña ubicado en Eztilia.","Sheal Avicenna, alchemist of Nitrogen. An Adeptis who, seeing his plans thwarted, does nothing but escape. He has taken refuge on the top of a mountain located in Eztilia.","Sheal Avicenna, alquimista de Nitrogênio. Um Adeptis que, ao ver seus planos ir por água abaixo, faz nada além de fugir. Ele buscou refúgio no topo de uma montanha localizada em Eztilia.",希尔·阿维森纳，氮之炼金术师。一名在计划受挫后只知不断逃亡的 Adeptis。如今他躲藏在埃兹提利亚一座山峰的顶端。
+FIVEBIRDS_TITLE,Dioses alados,Winged Gods,Deuses Alados,有翼诸神
 FIVEBIRDS_DESC,"En un acto de sacrificio los cinco dioses reencarnaron en aves, para vigilar y proteger a sus pueblos desde los cielos...
 
 Anidando allí, donde el ahuacatl crece, sus plumas brillan como esmeraldas, ocultas en lo alto de un bosque neblinoso, el canto de [Ixchel] resuena durante las primeras luces del alba.
@@ -309,8 +390,14 @@ Ao criar o ninho, onde ahuacatl cresce, suas penas brilham como esmeraldas nas p
 
 [Ek Chuah] e [Chaac] se movimentam em pêndulo as longas penas cor de turquesa próximas ao vulcão Koapolkán. [Chaac] gosta de estar próximo de rios e alimentos feitos de milho. Por outro lado, [Ek Chuah] não sai do seu esconderijo, a menos que haja uma borboleta por perto quando a [noite] cai.
 
-Você deve seguir o caminho do vento após uma chuva forte e [Hurakán] aparecerá. Enquanto [Itzamná] prefere cuidar de suas crias em áreas escondidas e úmidas."
-NEUMANDIARY_TITLE,Diario de Jean Neumann,Jean Neumann's Diary,Diário de Jean Neumann
+Você deve seguir o caminho do vento após uma chuva forte e [Hurakán] aparecerá. Enquanto [Itzamná] prefere cuidar de suas crias em áreas escondidas e úmidas.","出于牺牲之举，五位神祇转生为鸟，自天空中守望并庇护他们的子民……
+
+它们在牛油果树生长之地筑巢，羽毛如翡翠般闪耀，隐没于迷雾森林的高处；黎明的第一道微光中，便会响起 [伊什切尔] 的歌声。
+
+[埃克·丘阿] 与 [查克] 会在科阿波尔坎附近摆动长长的绿松石色尾羽，宛如钟摆。[查克] 喜欢靠近河流，也偏爱玉米制成的食物。另一边，[埃克·丘阿] 除非夜幕降临时有蝴蝶靠近，否则绝不会离开自己的藏身处。
+
+而在一场大雨之后，你必须追随风的轨迹，届时 [胡拉坎] 才会现身。至于 [伊察姆纳]，她更喜欢在潮湿而隐蔽的地方照看自己的孩子。"
+NEUMANDIARY_TITLE,Diario de Jean Neumann,Jean Neumann's Diary,Diário de Jean Neumann,让·诺伊曼的日记
 NEUMANDIARY_DESC,"En el diario del Doctor Neumann se encuentra una explicación sobre las diferentes etapas para la creación del Opus Magnum.
 
 En resumen Johannes planea utilizar un dispositivo de destrucción masiva, conocido como Núcleo del demonio.
@@ -329,10 +416,16 @@ Em resumo, Johannes planeja usar um dispositivo de destruição em massa, conhec
 
 Ele também deve contar com um alquimista controlador de sangue para usar as vidas sacrificadas, finalizando com um poder que permita um alquimista controlar outro elemento.
 
-Há mais informação sendo analisada pela Diretora Alessa e Margaret."
-ELISIAADEPTIS_TITLE,Elisia Boyle,Elisia Boyle,Elisia Boyle
-ELISIAADEPTIS_DESC,Elisia Boyle es una de los Adeptis. En el pasado ella era también huerfana y vivía en el mismo orfanato que Xandria.,"Elisia Boyle is one of the Adeptis. In the past, she was also an orphan and lived in the same orphanage as Xandria.","Elisia Boyle é uma integrante dos Adeptis. No passado, ela foi uma órfã que viveu no mesmo orfanato onde Xandria vivia."
-NANALETTER_TITLE,Carta de Nana,Nana's Letter,Carta da Nana
+Há mais informação sendo analisada pela Diretora Alessa e Margaret.","在诺伊曼博士的日记中，记载了创造至高杰作各个阶段的说明。
+
+简而言之，约翰内斯打算使用一种被称作“恶魔核心”的大规模毁灭装置。
+
+他还必须借助那位能够操控鲜血的炼金术师，利用被献祭者的生命，最终获得一种能让炼金术师操控另一种元素的力量。
+
+更多情报目前仍由娅蕾莎主任与玛格丽特负责分析。"
+ELISIAADEPTIS_TITLE,Elisia Boyle,Elisia Boyle,Elisia Boyle,艾莉西亚·博伊尔
+ELISIAADEPTIS_DESC,Elisia Boyle es una de los Adeptis. En el pasado ella era también huerfana y vivía en el mismo orfanato que Xandria.,"Elisia Boyle is one of the Adeptis. In the past, she was also an orphan and lived in the same orphanage as Xandria.","Elisia Boyle é uma integrante dos Adeptis. No passado, ela foi uma órfã que viveu no mesmo orfanato onde Xandria vivia.",艾莉西亚·博伊尔是 Adeptis 之一。过去她同样是一名孤儿，也曾住在和珊德莉雅相同的那所孤儿院里。
+NANALETTER_TITLE,Carta de Nana,Nana's Letter,Carta da Nana,娜娜的信
 NANALETTER_DESC,"Era una dulce niña, en un mundo de muerte y aflicción. Sus ojos carmesíes brillaban tiernamente como una flor, aunque su cabello parecía estar hecho de noche y de dolor.
 
 Llevando aquella flor que nunca se marchita, la dulce niña hará que el corazón de su hermano se agite, pues será la luz blanca que dará el último adiós al alma que ya se quebranta.","She was a sweet girl, in a world of grief and pain.
@@ -349,8 +442,15 @@ Embora seu cabelo parecesse tecido pelo reinado da noite e da tristeza.
 Carregando aquela flor que nunca murcha,
 A doce menina comoverá o coração de seu irmão,
 Pois será a luz branca que dirá adeus,
-À alma dilacerada."
-ABOUTDIRIAN_TITLE,Cacique Dirián Razhes,Cacique Dirián Razhes,Cacique Dirián Razhes
+À alma dilacerada.","她曾是个甜美的女孩，活在悲伤与痛苦的世界里。
+她那绯红的眼眸柔和闪耀，如同雨中的花朵。
+她的发丝仿佛由长夜与哀愁编织而成。
+
+怀抱那朵永不凋零的花，
+那个甜美的女孩将唤起她兄长的心，
+因为那会是送别的白光，
+照向那被撕裂的灵魂。"
+ABOUTDIRIAN_TITLE,Cacique Dirián Razhes,Cacique Dirián Razhes,Cacique Dirián Razhes,酋长迪里安·拉杰斯
 ABOUTDIRIAN_DESC,"Dirián Razhes es el Cacique del pueblo que habita los islotes en el mar de Niquira. 
 
 Él tiene la responsabilidad de proteger un poder que se creía una leyenda que permite a un Alquimista, dominar otros elementos de la misma familia o período, en otras palabras, un elemento de la misma columna o fila correspondiente a la tabla periódica.
@@ -370,8 +470,14 @@ Ele tem a resposabilidade de proteger um poder que se acreditava ser uma lenda, 
 
 Por exemplo, um Alquimista de Ferro poderia controlar o Cobre ou um elemento radioativo como o Plutônio.
 
-Tal poder é muito perigoso, considerando que Dirian se aliou com Johannes."
-ABOUTIXQUICCIRCUIT_TITLE,La bendición de Ixquic,The Ixquic blessing,A Bênção de Ixquic
+Tal poder é muito perigoso, considerando que Dirian se aliou com Johannes.","迪里安·拉杰斯是居住在尼基拉海群岛上的部族酋长。
+
+他肩负着守护一股曾被视作传说之力的职责。这股力量能让炼金术师支配与自身元素属于同一族、同一周期的其他元素。也就是说，能够操控元素周期表中同一列或同一行的元素。
+
+例如，铁之炼金术师可以操控铜，或是钚这样的放射性元素。
+
+考虑到迪里安已经与约翰内斯结盟，这种力量实在过于危险。"
+ABOUTIXQUICCIRCUIT_TITLE,La bendición de Ixquic,The Ixquic blessing,A Bênção de Ixquic,伊克斯奎克的赐福
 ABOUTIXQUICCIRCUIT_DESC,"El legendario poder que protegía Dirián Razhes resultó ser un circuito elemental. 
 
 Johannes ha logrado adueñarse de un poder que permite a Alquimistas controlar otro elementos con la restricción de ser del mismo período o familia del elemento dominante.
@@ -390,8 +496,14 @@ Johannes conseguiu tomar posse de um poder que permite aos Alquimistas controlar
 
 Mas, sendo um circuito elemental, é possível aprimorá-lo e eleiminar essa restrição...
 
-No fim, esse circuito aprimorado seria o que os Alquimistas chamam de [Opus Magnum.]"
-EVALETTER_TITLE,Informe de Eva Brahm,Eva Brahm's Report,Relatório de Eva Brahm
+No fim, esse circuito aprimorado seria o que os Alquimistas chamam de [Opus Magnum.]","守护迪里安·拉杰斯的那股传说之力，结果被证实其实是一种元素回路。
+
+约翰内斯已经设法夺取了这种力量，使炼金术师得以操控其他元素，但仍受限于那些元素必须与主导元素同属一个周期或同一家族。
+
+但既然它本质上是元素回路，就有可能被进一步改良，从而消除这一限制……
+
+而这种被改良后的回路，最终便会成为炼金术师口中的 [至高杰作]。"
+EVALETTER_TITLE,Informe de Eva Brahm,Eva Brahm's Report,Relatório de Eva Brahm,伊娃·布拉姆的报告
 EVALETTER_DESC,"Mi señor, tal como me lo ha ordenado estoy en Birstall, resguardando la moneda que bloquea el paso a los pisos superiores de la Abadía de Athos.
 
 La otra moneda la dejé con los hermanos Cavendish, quienes han logrado sincronizar sus ondas de manipulación elemental. Juntos, ellos no dejarán que esa intrometida Alquimista pase más allá de la torre de reloj abandonada de Stralsund. Si algo falla, el Toziuha Ahalcaná estará al pendiente para realizar el pacto.
@@ -410,10 +522,16 @@ A outra metade permanece sob a custódia dos Irmãos Cavendish, que conseguiram 
 
 E, finalmente, com os documentos deixados por Sheal, obtivemos uma versão mais poderosa do sangue de Athos, os Ahuizotes que o consomem experimentam maior poder e agressividade. Eles estão protegendo a Abadia, não deixaremos aquela Alquimista nem A Ordem interferirem em seus planos divinos.
 
--- Eva Brahm."
-EVANEWS2_TITLE,Noticia sobre desaparición,News about disappearance,Notícias sobre desaparecimento
-EVANEWS2_DESC,La ciudad de Birstall se sume en misterio tras la desconcertante desaparición de la actriz de teatro Evangelina Graham. Tras el brutal ataque que sufrió hace una semana...,The city of Birstall is shrouded in mystery following the baffling disappearance of theater actress Evangelina Graham. After the brutal attack she suffered a week ago...,"A cidade de Birstall está envolvida em mistério, seguido pelo desconcertante desaparecimento da atriz de teatro Evangelina Graham. Após o ataque brutal que ela sofreu a uma semana atrás…"
-EVANEWS1_TITLE,Noticia [ataque a actriz],News [attack on actress],Notícias [atentado à atriz]
+-- Eva Brahm.","吾主，如您所命，我如今身在比尔斯托尔，守卫着那枚阻挡外人进入阿托斯修道院上层的硬币。
+
+另一枚硬币我已交给卡文迪许兄弟。他们已经能够同步各自的元素操控波动。两人联手，绝不会让那个多管闲事的炼金术师越过斯特拉尔松德废弃钟楼。若事情有变，托祖哈·阿哈尔卡纳将会出手完成契约。
+
+最后，借由希尔留下的文献，我们得到了更为强大的阿托斯之血版本。服用它的 Ahuizotes 会变得更加强大，也更加狂暴。如今他们正在守护修道院。我们绝不会让那个炼金术师或教团干扰您神圣的计划。
+
+——伊娃·布拉姆"
+EVANEWS2_TITLE,Noticia sobre desaparición,News about disappearance,Notícias sobre desaparecimento,失踪新闻
+EVANEWS2_DESC,La ciudad de Birstall se sume en misterio tras la desconcertante desaparición de la actriz de teatro Evangelina Graham. Tras el brutal ataque que sufrió hace una semana...,The city of Birstall is shrouded in mystery following the baffling disappearance of theater actress Evangelina Graham. After the brutal attack she suffered a week ago...,"A cidade de Birstall está envolvida em mistério, seguido pelo desconcertante desaparecimento da atriz de teatro Evangelina Graham. Após o ataque brutal que ela sofreu a uma semana atrás…",剧院女演员伊万杰琳娜·格雷厄姆离奇失踪，令比尔斯托尔全城陷入迷雾。一周前，她才刚遭受那场残忍袭击……
+EVANEWS1_TITLE,Noticia [ataque a actriz],News [attack on actress],Notícias [atentado à atriz],新闻［女演员遇袭］
 EVANEWS1_DESC,"La Gaceta Nocturna – Edición Especial
 
 ¡Tragedia en el Escenario! La Musa del teatro, Evangelina Graham, víctima de un brutal ataque.
@@ -432,8 +550,14 @@ Tragédia no Palco! Musa Evangelina Graham é vítima de um ataque brutal.
 
 Birstall está em choque com o ataque brutal a Evangelina, a estrela do Teatro da Fortuna. Evangelina ascendeu rapidamente, cativando milhares com sua beleza e talento deslumbrantes. Tornou-se a jóia do entretenimento, desejada por inúmeros admiradores de todas as esferas da vida. No entanto, seu sucesso atraiu uma sombra: um nobre persistente e rico que não aceitava suas repetidas rejeições.
 
-A tragédia ocorreu ontem à noite quando, após uma apresentação triunfal, Evangelina foi atacada ao sair do teatro. Um jato de ácido corrosivo atingiu seu rosto, causando ferimentos graves. Os palcos do Teatro da Fortuna permanecem às escuras, enquanto o estado de Evangelina, ainda crítico, mantém todos em alerta..."
-XOCHILTLETTER_TITLE,Carta de Xóchitl,Xóchitl's letter,Carta de Xóchitl
+A tragédia ocorreu ontem à noite quando, após uma apresentação triunfal, Evangelina foi atacada ao sair do teatro. Um jato de ácido corrosivo atingiu seu rosto, causando ferimentos graves. Os palcos do Teatro da Fortuna permanecem às escuras, enquanto o estado de Evangelina, ainda crítico, mantém todos em alerta...","夜间公报 特别版
+
+舞台惨剧！剧院缪斯伊万杰琳娜·格雷厄姆惨遭残忍袭击。
+
+比尔斯托尔因伊万杰琳娜遭受的残忍攻击而震惊不已。这位“命运剧院”的耀眼新星，曾凭借惊人的美貌与才华迅速崛起，迷倒了成千上万的观众。她成为娱乐界的明珠，吸引了无数来自各阶层的仰慕者。然而，她的成功也招来了一道阴影：一位执拗而富有的贵族，不愿接受她一次又一次的拒绝。
+
+惨剧发生在昨夜。伊万杰琳娜在一次大获成功的演出后离开剧院时，遭到袭击。一股腐蚀性酸液泼向她的脸部，造成严重伤害。如今“命运剧院”的舞台已然熄灯，而伊万杰琳娜仍处于危险之中，牵动着所有人的神经……"
+XOCHILTLETTER_TITLE,Carta de Xóchitl,Xóchitl's letter,Carta de Xóchitl,索奇特尔的信
 XOCHILTLETTER_DESC,"Carta encontrada dentro de un contenedor ignífugo que dice lo siguiente:
 
 En estos dos años como infiltrada en la secta de los Ahuizotes finalmente hice avances reuniendo información.
@@ -524,7 +648,37 @@ Eu consegui me infiltrar e ver a ordem que eles colocaram: %s.
 
 Eu espero que cumpra a nossa missão de erradicar os Ahuizotes de uma vez por todas.
 
--- Xóchitl Nahoa."
+-- Xóchitl Nahoa.","在一个防火容器中发现的信件，内容如下：
+
+我潜入 Ahuizotes 教派的这两年里，终于在搜集情报上有所进展。
+
+他们的首领宣称，自己将凭借 [至高杰作] 引领众人迈向复活的“奇迹”。
+
+只有 Adeptis 知晓他们将如何完成至高杰作。
+
+不过，已知它的嬗变共分为四个阶段：
+
+1-赤化，2-白化，3-黄化，4-黑化。
+
+据说第一阶段“赤化”，是因特兰西瓦尼亚地区发生的某起事件才得以达成。
+
+第二阶段“白化”，则是在格里哈伊拉遭受恶魔入侵时完成的。
+
+Ahuizotes 在这座城市里发现了一位名叫让·诺伊曼、专精光学的研究者所留下的秘密实验室。
+
+至于第三和第四阶段究竟是什么，我还不清楚。
+
+我最后查到的情报，是约翰内斯·特里特米乌斯藏身之处。
+
+在 Ahuizotes 聚集之地，有一扇巨大的门。那是一座位于北方、途经埃兹提利亚后才能抵达的古老修道院。
+
+唯有所有 Adeptis 全数到齐，并依照特定顺序放置各自的徽章，这扇门才会开启。
+
+我设法潜入其中，亲眼看到他们摆放的顺序：%s。
+
+希望这些情报能帮助我们一劳永逸地铲除 Ahuizotes。
+
+——索奇特尔·纳瓦"
 ABOUTWITCHATHOS_DESC,"Se cuenta que la Abadía de Athos tiene más de mil años desde que fue construida.
 
 Los Ahuizotes se adueñaron de la abadía, pero ni siquiera ellos conocen todos los secretos que oculta esta edificación.
@@ -555,11 +709,22 @@ Esta bruxa foi quem ordenou a construção desta abadia. E seu altar está escon
 
 Não sei onde está localizado, já que não tive tempo de explorar a abadia, mas talvez essa pista signifique algo para você.
 
-Sinceramente, ""D."""
-ABOUTWITCHATHOS_TITLE,La bruja escondida,The hidden witch,A bruxa escondida
-ABOUTTOZIUHANIGHT_TITLE,La noche de los Toziuha,The Toziuha night,A noite dos Toziuha
-ABOUTTOZIUHANIGHT_DESC,Se le conoce de esta manera al evento ocurrido durante la última semana de octubre. Es el momento cuando los demonios reciben un mayor poder debido a que las puertas del inframundo se abren.,This is the name given to the event that occurs during the last week of October. It is the moment when demons receive greater power because the gates of the underworld open.,Este é o nome dado ao evento que ocorreu na última semana de outubro. É o momento em que os demônios ganham mais poder porque os portões do submundo são abertos.
-DIRIANLETTER_TITLE,Carta de Dirián Razhes,Dirián Razhes' letter,Carta de Dirián Razhes
+Sinceramente, ""D.""","据说阿托斯修道院自建成以来，已屹立超过千年。
+
+Ahuizotes 虽然占据了这座修道院，但即便是他们，也不知道这栋建筑中隐藏着的所有秘密。
+
+根据某些历史记载，曾有一位魔女开创了我们今日所知的 [元素回路]。
+
+也正是这位魔女下令建造了这座修道院。她的祭坛被藏在某处；多方资料都指出，它位于“旋转之室西侧”。
+
+我不知道那究竟在什么地方，因为我没有足够时间探索整座修道院。但说不定，这条线索对你有意义。
+
+此致，
+“D”"
+ABOUTWITCHATHOS_TITLE,La bruja escondida,The hidden witch,A bruxa escondida,隐匿的魔女
+ABOUTTOZIUHANIGHT_TITLE,La noche de los Toziuha,The Toziuha night,A noite dos Toziuha,托祖哈之夜
+ABOUTTOZIUHANIGHT_DESC,Se le conoce de esta manera al evento ocurrido durante la última semana de octubre. Es el momento cuando los demonios reciben un mayor poder debido a que las puertas del inframundo se abren.,This is the name given to the event that occurs during the last week of October. It is the moment when demons receive greater power because the gates of the underworld open.,Este é o nome dado ao evento que ocorreu na última semana de outubro. É o momento em que os demônios ganham mais poder porque os portões do submundo são abertos.,这是发生在十月最后一周的事件名称。届时冥界之门开启，恶魔会获得更强大的力量。
+DIRIANLETTER_TITLE,Carta de Dirián Razhes,Dirián Razhes' letter,Carta de Dirián Razhes,迪里安·拉杰斯的信
 DIRIANLETTER_DESC,"Xandria, sí estás leyendo esto, seguramente yo ya dejé este mundo terrenal.
 
 Se siente raro escribir esto, es la primera vez que escribo una carta y debe ser de esta manera.
@@ -620,6 +785,26 @@ Não tenho ideia do que isso significa, mas estava escrito no livro e parece imp
 
 Te desejo o melhor e espero que o nosso povo... e também o resto, possam ser salvos. Pessoas boas merecem ver um novo amanhecer.
 
-Atenciosamente, Dirián Razhes."
-UNLOCKHARDMODENOW,Desbloquear modo difícil,Unlock HARD mode,
-UNLOCKHARDMODENOW_DESC,"Al momento de crear una partida, pulsa [Abajo->Arriba->Salto] mientras está seleccionado el tercer retrato de dificultad para jugar el modo difícil. Un reto mayor para aquellos valientes alquimistas.","When creating a game, press [Down->Up->Jump] while the third difficulty icon is selected to play in hard mode. A greater challenge for those brave alchemists.",
+Atenciosamente, Dirián Razhes.","珊德莉雅，如果你读到了这封信，那我大概已经离开这个尘世了。
+
+以这种方式写下人生中的第一封信，感觉很奇怪。
+
+我之所以与约翰内斯结盟，是因为我知道他想得到伊克斯奎克的赐福。你也知道，“把朋友放近些，把敌人放得更近些”。
+
+我待在修道院时，一直与一位来自我们村子的潜伏炼金术师保持联络。我们交换了许多至关重要的情报。可惜她后来遭遇了那样的下场……
+
+不过，她并不是我接触过的唯一炼金术师。我还遇见了一个名叫达米安的人，他声称自己认识你。他交给我一本关于阿托斯修道院建造过程的书。
+
+根据书里的内容，这座修道院似乎存在一处秘密入口，连我们这些 Adeptis 之前都不知晓。
+
+我怀疑约翰内斯故意向我们隐瞒了这条情报。也许是为了保护某件东西，或某个对其计划极为重要的人。
+
+“找到那位隐匿的魔女，在她面前跪下，直到黑猫出现；届时，守护之鹰就会放你通行。”
+
+我完全不知道这句话是什么意思，但它写在书里，而且看起来很重要。
+
+我衷心祝愿你一切顺利，也希望我们的族人……乃至其他所有人，都还能得救。善良的人，理应见到新的黎明。
+
+迪里安·拉杰斯 敬上"
+UNLOCKHARDMODENOW,Desbloquear modo difícil,Unlock HARD mode,,
+UNLOCKHARDMODENOW_DESC,"Al momento de crear una partida, pulsa [Abajo->Arriba->Salto] mientras está seleccionado el tercer retrato de dificultad para jugar el modo difícil. Un reto mayor para aquellos valientes alquimistas.","When creating a game, press [Down->Up->Jump] while the third difficulty icon is selected to play in hard mode. A greater challenge for those brave alchemists.",,

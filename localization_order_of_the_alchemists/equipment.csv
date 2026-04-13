@@ -1,69 +1,69 @@
-keys,es,en,pt_BR
-SACUANJOCHE_TITLE,Flor de Sacuanjoche,Sacuanjoche Flower,Flor de Sacuanjoche
-SACUANJOCHE_DESC,"Una flor tratada con alquimia para que no se marchite. Fue el preciado regalo del ""hermano"" de Xandria.",A flower treated with alchemy so that it does not wither. It was a precious gift from Xandria's “brother.”,Uma flor tratada com alquimia então não murchará. É um presente precisoso do “irmão” de Xandria.
-BATTLE_BOOTS_TITLE,Botas de Batalla,Battle Boots,Botas de Batalha
-BATTLE_BOOTS_DESC,Botas básicas de cualquier alquimista.,Basic boots of any alchemist.,Botas básicas de qualquer alquimista.
-BATTLE_CLOTHES_TITLE,Vestido de Batalla,Battle Dress,Vestido de Batalha
-BATTLE_CLOTHES_DESC,Fue el regalo de Rachel por el ascenso de Xandria a [Alquimista Oficial].,Rachel's gift to Xandria for her promotion to [Official Alchemist].,Presente de Rachel para Xandria pela promoção a [Alquimista Oficial].
-WITCH_HAT_TITLE,Sombrero de Bruja,Witch Hat,Chapéu de Bruxa
-WITCH_HAT_DESC,"Proporciona inteligencia a su portador, además de aumentar velocidad de recuperación de maná.","Provides intelligence to its wearer, as well as increasing mana recovery speed.","Provém de inteligência ao seu portador, além de aumentar a velocidade de recuperação de mana."
-DEMONSLAYERARMOR_TITLE,Armadura Matademonios,Demon Slayer Armor,Armadura de Matador de Demônios
-DEMONSLAYERARMOR_DESC,Armadura que emana un poder oscuro. Aumenta drásticamente las estadísticas pero mueres si un enemigo te toca.,Armor that emanates a dark power. Drastically increases stats but you die if an enemy touches you.,Armadura que emite poder negro. Aumenta drasticamente seus atributos mas você morre ao inimigo te tocar.
-HERMES_BOOTS_TITLE,Botas de Hermes,Hermes Boots,Botas de Hermes
-HERMES_BOOTS_DESC,Hechas de material ligero que aumenta la velocidad al correr y permite mantenerse en el aire al hacer daño con látigo.,Made of lightweight material that boosts running speed and allows you to stay in the air while attacking with the whip.,Feito de material leve que aumenta a velocidade de corrida e permite que você permaneça no ar enquanto ataca com o chicote.
-SORCERER_RING_TITLE,Anillo de Hechicero,Sorcerer Ring,Anel do Feiticeiro
-SORCERER_RING_DESC,Anillo con un gran poder mágico que evita perder maná.,Ring with great magical power that prevents losing mana.,Anel com grande poder mágico que evita de perder mana.
-VIGOR_BOOTS_TITLE,Botas de Vigor,Vigor Boots,Botas de Vigor
-VIGOR_BOOTS_DESC,"Botas cómodas que ayudan a mantener la resistencia física, recupera rápidamente estamina.",Comfortable boots that help maintain physical endurance and quickly recover stamina.,"Botas confortáveis que ajudam a manter a resistência física, recuperando rapidamente o vigor."
-CHEAP_NECKLACE_TITLE,Collar barato,Cheap necklace,Colar barato
-CHEAP_NECKLACE_DESC,"Un collar que sostiene una piedra que simula ser plata, aunque no tiene valor.","A necklace holding a stone that looks like silver, although it has no value.","Um colar carregando uma pedra que se assemelha a prata, mas não tem nenhum valor."
-RUSTY_HELMET_TITLE,Casco Oxidado,Rusty Helmet,Elmo enferrujado
-RUSTY_HELMET_DESC,Un casco de guerrero antiguo devastado por el tiempo.,An ancient warrior's helmet ravaged by time.,"Um elmo de um antigo guerreiro, destruído pelo tempo."
-RUSTY_CUPPARMOR_TITLE,Armadura oxidada,Rusty armor,Armadura enferrujada
-RUSTY_CUPPARMOR_DESC,Parte de una armadura hecha de cobre oxidado.,Part of an armor made of oxidized copper.,Parte de uma armadura feita de cobre oxidado.
-PIRATESCARF_TITLE,Pañuelo pirata,Pirate scarf,Cachecol de um pirata
-PIRATESCARF_DESC,Un pañuelo como los que suelen usar algunos marineros.,A scarf like those used by some seamen.,Um cachecol como aqueles usados pelos homens do mar.
-DRACO_RING_TITLE,Anillo Dragón,Dragon ring,Anel do dragão
-FISH_TOY_TITLE,Pez de juguete,Toy fish,Peixe de brinquedo
-FISH_TOY_DESC,Un juguete con forma de pez que ayudará a que los gatos de Aura entren en confianza.,A fish-shaped toy that will help Aura's cats gain confidence.,Um brinquedo no formato de peixe que ajudará os gatos de Aura a ganhar confiança.
-CAPEBLOOD_TITLE,Capa sangrienta,Bloody cape,Capa Sangrenta
-CAPEBLOOD_DESC,Usa la sangre acumulada para reducir el daño. Pero impide recolectar sangre.,Uses accumulated blood to reduce damage but prevents collecting blood.,Use o sangue acumulado para reduzir o dano. Mas evita de coletar sangue.
-WEIGHT_BOOTS_DESC,"Botas hechas completamente de hierro, son tan pesadas que reducen el impacto recibido y la velocidad al correr.",Boots made entirely of iron. They are so heavy that they reduce the impact received and speed when running.,"Botas feitas totalmente de ferro, elas são tão pesadas que reduzem o impacto recebido e a velocidade quando estiver correndo."
-WEIGHT_BOOTS_TITLE,Botas pesadas,Heavy boots,Botas pesadas
-SWIMSUIT_TITLE,Traje de baño,Swimsuit,Traje de banho
-SWIMSUIT_DESC,"Traje que no proporciona defensa o ataque, pero permite moverse velozmente en el agua.",Suit that does not provide defense or attack but allows you to move swiftly in the water.,"Traje que não provém defesa ou ataque, mas te permite mover-se mais rapidamente na água."
-MAGIC_EARING_TITLE,Arete mágico,Magic earring,Brincos mágicos
-MAGIC_EARING_DESC,Reduce el gasto de maná de los circuitos elementales a la mitad.,Reduces the mana expenditure of elemental circuits by half.,Reduz pela metade o gasto de mana dos circuitos elementais.
-BRACELETNONEG_TITLE,Brazalete Purificador,Purifying Bracelet,Bracelete Purificador
-BRACELETNONEG_DESC,Accesorio que proporciona invulnerabilidad a estados negativos.,Accessory that provides invulnerability to negative states.,Acessório que provém invulnerabilidade aos status negativos.
-GASMASKSULFUR_TITLE,Máscara de Gas,Gas mask,Máscara de Gás
-GASMASKSULFUR_DESC,"Máscara de gas que protege de gases como el Sulfuro de carbono, Dióxido de azufre y Cloro.","Gas mask that protects against gases such as Carbon Sulfide, Sulfur Dioxide, and Chlorine.","Máscara de gás que protege contra gases como Sulfeto de Carbono, Dióxido de Enxofre e Cloro."
-DEXTRGLOVES_TITLE,Traje de Belmondo,Belmondo's suit,Traje de Belmondo
-DEXTRGLOVES_DESC,Otorga mayor destreza en el manejo del látigo. Permite cancelar el ataque al aterrizar.,Increases whip handling skill. Allows you to cancel the attack upon landing.,Aumenta a habilidade de manejo do chicote. Permite cancelar o ataque ao aterrissar.
-HAIRPINRUBY_TITLE,Pasador Cabello,Hairpin,Grampo para cabelo
-HAIRPINRUBY_DESC,"Un hermoso adorno para cabello, adornado con un caro Rubí.",A beautiful hair ornament adorned with an expensive ruby.,"Um lindo ornamento de cabelo, decorado com um caro rubi."
-MASKCEREMONIAL_TITLE,Máscara antigua,Antique Mask,Máscara Antiga
-MASKCEREMONIAL_DESC,Una máscara rota y oxidada que requiere una restauración.,A broken and rusty mask that needs restoration.,Uma máscara quebrada e enferrujas que precisa de restauração.
-SCOTTJACKET_TITLE,Chaqueta Scott,Scott Jacket,Jaqueta Scott
-SCOTTJACKET_DESC,Una prenda de piel tan gruesa que evita mordeduras de zombies.,Made of leather so thick that it prevents zombie bites.,Feita de um couro tão espesso que previne mordidas de zumbis.
-HIGHHEELS_TITLE,Tacones elegantes,Elegant heels,Sapatos elegantes de salto alto
-HIGHHEELS_DESC,Lo que una dama de alta sociedad luce en ocasiones especiales.,What a high society lady wears on special occasions.,O que uma senhorita da alta sociedade usa em ocasiões especiais.
-ACADEMICCAP_TITLE,Birrete,Square academic cap,Boné acadêmico
-ACADEMICCAP_DESC,Sombrero que aumenta experiencia obtenida al derrotar enemigos.,Hat that increases experience gained from defeating enemies.,Boné que aumenta a experiência ganha ao derrotar os inimigos.
-VAMPIRECOAT_TITLE,Capa vampírica,Vampiric cape,Capa Vampírica
-VAMPIRECOAT_DESC,Aumenta la sangre obtenida de enemigos.,Increases blood obtained from enemies.,Aumenta o sangue obtido dos inimigos.
-GOLDENRING_TITLE,Anillo de oro,Gold ring,Anel de ouro
-GOLDENRING_DESC,Accesorio que atrae la suerte de encontrar más dinero.,Accessory that brings the luck of finding more money.,Acessório que atrai sorte ao encontrar mais dinheiro.
-LUCKCHARM_TITLE,Amuleto de la suerte,Lucky charm,Amuleto da sorte
-LUCKCHARM_DESC,Aumenta probabilidad del objeto más raro que un enemigo puede soltar.,Increases the probability of an enemy dropping their rarest item.,Aumenta a probabilidade de conseguir o item mais raro de um inimigo.
-MAGICARMOR_TITLE,Armadura mágica,Magic armor,Armadura mágica
-MAGICARMOR_DESC,Usa la barra de maná como si fuera barra de vida.,Uses the mana bar as if it were a health bar.,Usa a barra de mana como se fosse a barra de vida.
-SPIKEBOOTS_TITLE,Botas con púas,Spiked boots,Botas com pregos
-SPIKEBOOTS_DESC,Aumenta daño al hacer patadas.,Increases damage when kicking.,Aumenta o dano quando chuta.
-GLASSESOFFICE_TITLE,Lentes de oficina,Office glasses,Óculos de escritório
-GLASSESOFFICE_DESC,Permite encontrar paredes que ocultan secretos.,Allows you to find walls that hide secrets.,Te permite encontrar paredes que escondem segredos.
-RISKRING_TITLE,Anillo sangrante,Bleeding ring,Anel de Sangramento
-RISKRING_DESC,"Al tener un solo punto de vida, aumenta a 15 el ATK e INT.",Having only one health point increases ATK and INT to 15.,Tenso apenas um único ponto de vida aumenta ATK e INT para 15.
-MASKSACRIFICE_TITLE,Máscara sacrificio,Sacrifice mask,Máscara de Sacrifício
-MASKSACRIFICE_DESC,El enemigo derrotado dejará caer un orbe que recupera vida.,The defeated enemy will drop an orb that restores health.,Inimigo derrotado derrubará um orbe que recupera vida..
-DRACO_RING_DESC,Un valioso anillo que presenta a un dragón rodeando una piedra preciosa. Aumenta la cantidad de sangre recolectable.,A valuable ring featuring a dragon surrounding a precious stone. Increases the amount of blood that can be collected.,Um anel valioso com um dragão em volta de uma pedra preciosa. Aumenta a quantidade de sangue que pode ser coletada.
+keys,es,en,pt_BR,zh_CN
+SACUANJOCHE_TITLE,Flor de Sacuanjoche,Sacuanjoche Flower,Flor de Sacuanjoche,鸡蛋花
+SACUANJOCHE_DESC,"Una flor tratada con alquimia para que no se marchite. Fue el preciado regalo del ""hermano"" de Xandria.",A flower treated with alchemy so that it does not wither. It was a precious gift from Xandria's “brother.”,Uma flor tratada com alquimia então não murchará. É um presente precisoso do “irmão” de Xandria.,一朵经炼金术处理后永不枯萎的花。这是珊德莉雅那位“哥哥”送给她的珍贵礼物。
+BATTLE_BOOTS_TITLE,Botas de Batalla,Battle Boots,Botas de Batalha,战斗靴
+BATTLE_BOOTS_DESC,Botas básicas de cualquier alquimista.,Basic boots of any alchemist.,Botas básicas de qualquer alquimista.,任何炼金术师都会使用的基础靴子。
+BATTLE_CLOTHES_TITLE,Vestido de Batalla,Battle Dress,Vestido de Batalha,战斗服
+BATTLE_CLOTHES_DESC,Fue el regalo de Rachel por el ascenso de Xandria a [Alquimista Oficial].,Rachel's gift to Xandria for her promotion to [Official Alchemist].,Presente de Rachel para Xandria pela promoção a [Alquimista Oficial].,这是瑞秋为庆祝珊德莉雅晋升为 [正阶炼金术师] 而送出的礼物。
+WITCH_HAT_TITLE,Sombrero de Bruja,Witch Hat,Chapéu de Bruxa,魔女帽
+WITCH_HAT_DESC,"Proporciona inteligencia a su portador, además de aumentar velocidad de recuperación de maná.","Provides intelligence to its wearer, as well as increasing mana recovery speed.","Provém de inteligência ao seu portador, além de aumentar a velocidade de recuperação de mana.",赋予佩戴者更高的智力，并提升法力恢复速度。
+DEMONSLAYERARMOR_TITLE,Armadura Matademonios,Demon Slayer Armor,Armadura de Matador de Demônios,斩魔铠甲
+DEMONSLAYERARMOR_DESC,Armadura que emana un poder oscuro. Aumenta drásticamente las estadísticas pero mueres si un enemigo te toca.,Armor that emanates a dark power. Drastically increases stats but you die if an enemy touches you.,Armadura que emite poder negro. Aumenta drasticamente seus atributos mas você morre ao inimigo te tocar.,散发着黑暗力量的铠甲。能大幅提升属性，但一旦被敌人碰到就会死亡。
+HERMES_BOOTS_TITLE,Botas de Hermes,Hermes Boots,Botas de Hermes,赫尔墨斯之靴
+HERMES_BOOTS_DESC,Hechas de material ligero que aumenta la velocidad al correr y permite mantenerse en el aire al hacer daño con látigo.,Made of lightweight material that boosts running speed and allows you to stay in the air while attacking with the whip.,Feito de material leve que aumenta a velocidade de corrida e permite que você permaneça no ar enquanto ataca com o chicote.,由轻质材料制成，可提升奔跑速度，并让你在用鞭子攻击时停留于空中。
+SORCERER_RING_TITLE,Anillo de Hechicero,Sorcerer Ring,Anel do Feiticeiro,术士戒指
+SORCERER_RING_DESC,Anillo con un gran poder mágico que evita perder maná.,Ring with great magical power that prevents losing mana.,Anel com grande poder mágico que evita de perder mana.,蕴含强大魔力的戒指，可防止法力流失。
+VIGOR_BOOTS_TITLE,Botas de Vigor,Vigor Boots,Botas de Vigor,活力之靴
+VIGOR_BOOTS_DESC,"Botas cómodas que ayudan a mantener la resistencia física, recupera rápidamente estamina.",Comfortable boots that help maintain physical endurance and quickly recover stamina.,"Botas confortáveis que ajudam a manter a resistência física, recuperando rapidamente o vigor.",舒适的靴子，有助于维持体力并快速恢复耐力。
+CHEAP_NECKLACE_TITLE,Collar barato,Cheap necklace,Colar barato,廉价项链
+CHEAP_NECKLACE_DESC,"Un collar que sostiene una piedra que simula ser plata, aunque no tiene valor.","A necklace holding a stone that looks like silver, although it has no value.","Um colar carregando uma pedra que se assemelha a prata, mas não tem nenhum valor.",一条镶着仿银石头的项链，看着像银子，其实毫无价值。
+RUSTY_HELMET_TITLE,Casco Oxidado,Rusty Helmet,Elmo enferrujado,锈蚀头盔
+RUSTY_HELMET_DESC,Un casco de guerrero antiguo devastado por el tiempo.,An ancient warrior's helmet ravaged by time.,"Um elmo de um antigo guerreiro, destruído pelo tempo.",一顶被岁月侵蚀的古代战士头盔。
+RUSTY_CUPPARMOR_TITLE,Armadura oxidada,Rusty armor,Armadura enferrujada,锈蚀护甲
+RUSTY_CUPPARMOR_DESC,Parte de una armadura hecha de cobre oxidado.,Part of an armor made of oxidized copper.,Parte de uma armadura feita de cobre oxidado.,由氧化铜制成的护甲部件。
+PIRATESCARF_TITLE,Pañuelo pirata,Pirate scarf,Cachecol de um pirata,海盗头巾
+PIRATESCARF_DESC,Un pañuelo como los que suelen usar algunos marineros.,A scarf like those used by some seamen.,Um cachecol como aqueles usados pelos homens do mar.,某些水手常戴的那种头巾。
+DRACO_RING_TITLE,Anillo Dragón,Dragon ring,Anel do dragão,龙纹戒指
+FISH_TOY_TITLE,Pez de juguete,Toy fish,Peixe de brinquedo,玩具鱼
+FISH_TOY_DESC,Un juguete con forma de pez que ayudará a que los gatos de Aura entren en confianza.,A fish-shaped toy that will help Aura's cats gain confidence.,Um brinquedo no formato de peixe que ajudará os gatos de Aura a ganhar confiança.,一条鱼形玩具，能帮助奥拉的猫咪更快亲近人。
+CAPEBLOOD_TITLE,Capa sangrienta,Bloody cape,Capa Sangrenta,血色披风
+CAPEBLOOD_DESC,Usa la sangre acumulada para reducir el daño. Pero impide recolectar sangre.,Uses accumulated blood to reduce damage but prevents collecting blood.,Use o sangue acumulado para reduzir o dano. Mas evita de coletar sangue.,消耗已积累的鲜血来减少伤害，但会阻止继续收集鲜血。
+WEIGHT_BOOTS_DESC,"Botas hechas completamente de hierro, son tan pesadas que reducen el impacto recibido y la velocidad al correr.",Boots made entirely of iron. They are so heavy that they reduce the impact received and speed when running.,"Botas feitas totalmente de ferro, elas são tão pesadas que reduzem o impacto recebido e a velocidade quando estiver correndo.",完全由铁制成的靴子。它们沉重无比，会降低受到的冲击，也会减慢奔跑速度。
+WEIGHT_BOOTS_TITLE,Botas pesadas,Heavy boots,Botas pesadas,重靴
+SWIMSUIT_TITLE,Traje de baño,Swimsuit,Traje de banho,泳装
+SWIMSUIT_DESC,"Traje que no proporciona defensa o ataque, pero permite moverse velozmente en el agua.",Suit that does not provide defense or attack but allows you to move swiftly in the water.,"Traje que não provém defesa ou ataque, mas te permite mover-se mais rapidamente na água.",不提供防御或攻击力，但能让你在水中迅速移动的服装。
+MAGIC_EARING_TITLE,Arete mágico,Magic earring,Brincos mágicos,魔法耳环
+MAGIC_EARING_DESC,Reduce el gasto de maná de los circuitos elementales a la mitad.,Reduces the mana expenditure of elemental circuits by half.,Reduz pela metade o gasto de mana dos circuitos elementais.,使元素回路的法力消耗减半。
+BRACELETNONEG_TITLE,Brazalete Purificador,Purifying Bracelet,Bracelete Purificador,净化手镯
+BRACELETNONEG_DESC,Accesorio que proporciona invulnerabilidad a estados negativos.,Accessory that provides invulnerability to negative states.,Acessório que provém invulnerabilidade aos status negativos.,可令佩戴者免疫负面状态的饰品。
+GASMASKSULFUR_TITLE,Máscara de Gas,Gas mask,Máscara de Gás,防毒面具
+GASMASKSULFUR_DESC,"Máscara de gas que protege de gases como el Sulfuro de carbono, Dióxido de azufre y Cloro.","Gas mask that protects against gases such as Carbon Sulfide, Sulfur Dioxide, and Chlorine.","Máscara de gás que protege contra gases como Sulfeto de Carbono, Dióxido de Enxofre e Cloro.",能够防御二硫化碳、二氧化硫、氯气等气体的防毒面具。
+DEXTRGLOVES_TITLE,Traje de Belmondo,Belmondo's suit,Traje de Belmondo,贝尔蒙多之装
+DEXTRGLOVES_DESC,Otorga mayor destreza en el manejo del látigo. Permite cancelar el ataque al aterrizar.,Increases whip handling skill. Allows you to cancel the attack upon landing.,Aumenta a habilidade de manejo do chicote. Permite cancelar o ataque ao aterrissar.,提升挥鞭技巧，并允许你在落地时取消攻击动作。
+HAIRPINRUBY_TITLE,Pasador Cabello,Hairpin,Grampo para cabelo,发簪
+HAIRPINRUBY_DESC,"Un hermoso adorno para cabello, adornado con un caro Rubí.",A beautiful hair ornament adorned with an expensive ruby.,"Um lindo ornamento de cabelo, decorado com um caro rubi.",一件美丽的发饰，上面镶嵌着昂贵的红宝石。
+MASKCEREMONIAL_TITLE,Máscara antigua,Antique Mask,Máscara Antiga,古老面具
+MASKCEREMONIAL_DESC,Una máscara rota y oxidada que requiere una restauración.,A broken and rusty mask that needs restoration.,Uma máscara quebrada e enferrujas que precisa de restauração.,一副破损且锈蚀的面具，需要修复。
+SCOTTJACKET_TITLE,Chaqueta Scott,Scott Jacket,Jaqueta Scott,斯科特夹克
+SCOTTJACKET_DESC,Una prenda de piel tan gruesa que evita mordeduras de zombies.,Made of leather so thick that it prevents zombie bites.,Feita de um couro tão espesso que previne mordidas de zumbis.,皮革厚实到足以防止僵尸啃咬。
+HIGHHEELS_TITLE,Tacones elegantes,Elegant heels,Sapatos elegantes de salto alto,优雅高跟鞋
+HIGHHEELS_DESC,Lo que una dama de alta sociedad luce en ocasiones especiales.,What a high society lady wears on special occasions.,O que uma senhorita da alta sociedade usa em ocasiões especiais.,上流社会淑女在特殊场合会穿的鞋子。
+ACADEMICCAP_TITLE,Birrete,Square academic cap,Boné acadêmico,学位帽
+ACADEMICCAP_DESC,Sombrero que aumenta experiencia obtenida al derrotar enemigos.,Hat that increases experience gained from defeating enemies.,Boné que aumenta a experiência ganha ao derrotar os inimigos.,可提升击败敌人后获得经验值的帽子。
+VAMPIRECOAT_TITLE,Capa vampírica,Vampiric cape,Capa Vampírica,吸血披风
+VAMPIRECOAT_DESC,Aumenta la sangre obtenida de enemigos.,Increases blood obtained from enemies.,Aumenta o sangue obtido dos inimigos.,增加从敌人身上获得的鲜血。
+GOLDENRING_TITLE,Anillo de oro,Gold ring,Anel de ouro,金戒指
+GOLDENRING_DESC,Accesorio que atrae la suerte de encontrar más dinero.,Accessory that brings the luck of finding more money.,Acessório que atrai sorte ao encontrar mais dinheiro.,能提升发现更多金钱运气的饰品。
+LUCKCHARM_TITLE,Amuleto de la suerte,Lucky charm,Amuleto da sorte,幸运护符
+LUCKCHARM_DESC,Aumenta probabilidad del objeto más raro que un enemigo puede soltar.,Increases the probability of an enemy dropping their rarest item.,Aumenta a probabilidade de conseguir o item mais raro de um inimigo.,提高敌人掉落其最稀有物品的概率。
+MAGICARMOR_TITLE,Armadura mágica,Magic armor,Armadura mágica,魔法铠甲
+MAGICARMOR_DESC,Usa la barra de maná como si fuera barra de vida.,Uses the mana bar as if it were a health bar.,Usa a barra de mana como se fosse a barra de vida.,将法力槽视作生命槽来使用。
+SPIKEBOOTS_TITLE,Botas con púas,Spiked boots,Botas com pregos,钉刺靴
+SPIKEBOOTS_DESC,Aumenta daño al hacer patadas.,Increases damage when kicking.,Aumenta o dano quando chuta.,提升踢击造成的伤害。
+GLASSESOFFICE_TITLE,Lentes de oficina,Office glasses,Óculos de escritório,办公眼镜
+GLASSESOFFICE_DESC,Permite encontrar paredes que ocultan secretos.,Allows you to find walls that hide secrets.,Te permite encontrar paredes que escondem segredos.,让你能够发现隐藏秘密的墙壁。
+RISKRING_TITLE,Anillo sangrante,Bleeding ring,Anel de Sangramento,血痕戒指
+RISKRING_DESC,"Al tener un solo punto de vida, aumenta a 15 el ATK e INT.",Having only one health point increases ATK and INT to 15.,Tenso apenas um único ponto de vida aumenta ATK e INT para 15.,当生命值仅剩 1 点时，ATK 与 INT 提升至 15。
+MASKSACRIFICE_TITLE,Máscara sacrificio,Sacrifice mask,Máscara de Sacrifício,牺牲面具
+MASKSACRIFICE_DESC,El enemigo derrotado dejará caer un orbe que recupera vida.,The defeated enemy will drop an orb that restores health.,Inimigo derrotado derrubará um orbe que recupera vida..,被击败的敌人会掉落一个恢复生命的光球。
+DRACO_RING_DESC,Un valioso anillo que presenta a un dragón rodeando una piedra preciosa. Aumenta la cantidad de sangre recolectable.,A valuable ring featuring a dragon surrounding a precious stone. Increases the amount of blood that can be collected.,Um anel valioso com um dragão em volta de uma pedra preciosa. Aumenta a quantidade de sangue que pode ser coletada.,一枚珍贵的戒指，其上有巨龙盘绕着宝石。可增加能够收集的鲜血量。
