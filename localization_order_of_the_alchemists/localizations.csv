@@ -230,8 +230,9 @@ NEUMANPUZZLELABHINT,"De los siete metales, se encuentra aquella que resplandece 
 WAITRESS,Camarera,Waitress,Garçonete
 SEE_SOCIAL_LINKS,Ver redes sociales,See social links,Ver redes sociais
 DIFFICULTY_DESCRIPTION_0,No quiero estresarme.,I don't want to stress.,Eu não quero me estressar.
-DIFFICULTY_DESCRIPTION_1,Daré lo mejor de mí ante cualquier reto.,I will give my best to any challenge.,Eu farei o meu melhor em qualquer desafio.
-DIFFICULTY_DESCRIPTION_2,Prepárate para morir.,Prepare to die.,Prepare para morrer.
+DIFFICULTY_DESCRIPTION_1,¡Muere monstruo!,Die monster!,
+DIFFICULTY_DESCRIPTION_2,¡Te mataré a tí y a la noche! ,I'll kill you and the night! ,I'll kill you and the night! 
+DIFFICULTY_DESCRIPTION_3,Prepárate para morir. Nivel máx 1.,Prepare to die. max LVL 1.,Prepare para morrer. LVL 1.
 SELECT_DIFFICULTY,Seleccione dificultad,Select difficulty,Selecione a dificuldade
 LOCKED,Bloqueado,Locked,Bloqueado
 PRESSFORKEYBOARDARROWSETTING,"Presiona ""Enter"" para usar flechas en teclado","Press ""Enter"" for Arrow keyboard mode",Pressione “Enter” para o modo setas do teclado
@@ -332,7 +333,7 @@ ACH17TITLE,¡He venido a verte aniquilado!,I´ve come to see you annihilated!,Vi
 ACH17DESC,Abre la puerta que conduce al lugar más alto de la Abadía.,Open the door that leads to the highest point of the Abbey.,Abra a porta que leva ao ponto mais alto da Abadia.
 ACH18TITLE,El fin de la melancolía,The end of melancholy,O fim da melancolia
 ACH18DESC,Alcanza el final malo.,Reach the bad ending.,Alcança o final ruim
-ACH19TITLE,,Marimba Hero,Herói da Marimba
+ACH19TITLE,Marimba Hero,Marimba Hero,Herói da Marimba
 ACH19DESC,Toca todas las notas de la partitura.,Play all the notes in the score.,Toque todas as notas da partitura
 ACH20TITLE,El fin de la venganza,The end of revenge,O fim da vingança
 ACH20DESC,Alcanza el final trágico.,Reach the tragic ending.,Consiga o fim trágico.
@@ -376,6 +377,33 @@ HOLDRAISEKEY,Mantén para subir un tono,Hold to raise key,Segure para aumentar u
 HOLDLOWERKEY,Mantén para bajar un tono,Hold to lower key,Segure para diminuir um tom
 LAKEWATCH,Mirador del lago Niquira,Niquira lake viewpoint,Mirante do Lago Niquira
 FIREMARGARET,¡¡¡FUEGO!!!,FIRE!!!,DISPARAR!!!
-UNLOCKEDHARDMODE,Se ha desbloqueado el modo difícil.,Unlocked Hard mode.,Modo Difícil desbloqueado.
+UNLOCKEDHARDMODE,Se ha desbloqueado el modo difícil y modo Lvl1.,Unlocked Hard mode and Lvl1.,Modo Difícil desbloqueado Lvl1.
+UNLOCKEDWITCH,Se ha desbloqueado el modo Solo-magia.,Unlocked Only-magic mode.,Modo Magia desbloqueado.
+UNLOCKEDATREU,Se ha desbloqueado el modo Atreu.,Unlocked Atreu mode.,Modo Atreu desbloqueado.
+UNLOCKEDATREU2,Escribe [ATREU] como nombre de partida nueva.,Type [ATREU] as the name of the new savegame.,Digite [ATREU] como nome da nova partida.
+UNLOCKEDWITCH2,Escribe [WITCHMODE] como nombre de partida nueva.,Type [WITCHMODE] as the name of the new savegame.,Digite [WITCHMODE] como nome da nova partida.
 OTHERSTATUESDESTROYED,Las demás estatuas también serán destruidas.,The other statues will also be destroyed.,As outras estátuas também serão destruídas.
 SLIDEHELPSMOLXANDRIA,"↓+Salto : Barrida en el suelo, permite atravesar trampas o enemigos sin recibir daño.","↓+Jump: Ground slide, allows you to pass through traps or enemies without taking damage.","↓+Pulo: Deslize no chão, permite passar por armadilhas ou inimigos sem sofrer dano."
+ACH30TITLE,Nahual Tzikin,Nahual Tzikin,Nahual Tzikin
+ACH30DESC,Completa los tributos a la diosa Ixquic.,Complete the tributes to the goddess Ixquic.,Complete os tributos à deusa Ixquic.
+ACH31TITLE,"Hasta la vista, baby","Hasta la vista, baby",
+ACH31DESC,Derrota al Toziuha usando los poderes de Atreu.,Defeat Toziuha using Atreu's powers.,
+TYPEWITCHMODE,Escribe [WITCHMODE] para jugar solo con magia,Type [WITCHMODE] for only-magic game,
+TYPEATREUMODE,Escribe [ATREU] para jugar con Atreu,Type [ATREU] for Atreu mode,
+XANDRIAOUTFITCHANG,Cambiar colores de vestido de Xandria,Change Xandria's color dress,
+RELOADING,Recargando,Reloading,
+RELOAD,Recarga,Reload,
+SHOOTREVOLVER,Disparar Revólver (acumula sangre),Fire Revolver (gain blood),
+RELOADMANA,Recargar maná,Recharge mana,
+SHOTGUN,Disparar Escopeta (puede destruir Calcita),Fire Shotgun (it can destroy Calcite),
+GRENADETHROWER,Lanzagranadas,Grenade Launcher,
+THROWGRENADE,Arroja granadas en el suelo,Throw grenades on the ground,
+INVERTGRAVITY,Invierte gravedad con botas ferro-magnéticas,Invert gravity with ferromagnetic boots,
+WEAPONPLUSMODE,Modo WEAPON+ (barra sangre llena),WEAPON+ Mode (full blood bar),
+ABOUTWEAPONPLUS,En el modo WEAPON+ El revólver y la escopeta pasan a una arma mejorada.,"In WEAPON+ Mode, the revolver and shotgun upgrade to enhanced versions.",
+MOVEMENTS,Movimientos,Movements,
+ABOUTCONTRARIUSATREU,Margaret le regaló a Atreu unas botas ferromagneticas para imitar el circuito Contrarius Gravitas de Xandria.,Margaret gave Atreu a pair of ferromagnetic boots to mimic Xandria’s Contrarius Gravitas circuit.,
+ABOUTDOBLEJUMPATREU,"Atreu es capaz de saltar indefinidamente en el aire usando el impulso de escopeta, mientras tenga suficiente estamina.","Atreu can jump indefinitely in the air using the shotgun’s recoil, as long as he has enough stamina.",
+IN-AIR,(en el aire),(in the air),
+IN-FLOOR,(en el suelo),(on the ground),
+ABOUTATREU,"Atreu puede transmutar munición de Plomo para utilizar armas, siempre y cuando tenga suficienta maná.","Atreu can transmute lead ammunition to use weapons, as long as he has enough mana.",

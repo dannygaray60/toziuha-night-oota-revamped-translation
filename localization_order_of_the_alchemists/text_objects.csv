@@ -295,19 +295,19 @@ FIVEBIRDS_DESC,"En un acto de sacrificio los cinco dioses reencarnaron en aves, 
 
 Anidando allí, donde el ahuacatl crece, sus plumas brillan como esmeraldas, ocultas en lo alto de un bosque neblinoso, el canto de [Ixchel] resuena durante las primeras luces del alba.
 
-[Ek Chuah] y [Chaac] mueven en péndulo largas plumas turquesas cerca de Koapolkán. A [Chaac] le gusta estar cerca de ríos y la comida hecha de maíz. Por el otro lado [Ek Chuah] no sale de su escondite, a menos que una mariposa esté cerca cuando cae la noche.
+[Ek Chuah] y [Chaac] mueven en péndulo largas plumas turquesas cerca de Koapolkán. A [Chaac] le gusta estar cerca de ríos y la comida hecha de maíz. Por el otro lado [Ek Chuah] no sale de su escondite, a menos que una mariposa esté cerca cuando cae la [noche].
 
 Sigue el camino del viento después de una gran lluvia y ahí aparecerá [Hurakán]. Mientras que [Itzamná] prefiere cuidar de sus hijos en zonas ocultas y húmedas. ","In an act of sacrifice, the five gods reincarnated as birds to watch over and protect their people from the skies....
 
 Nesting there, where the ahuacatl grows, their feathers shining like emeralds, hidden high in a misty forest, the song of [Ixchel] resounds during the first light of dawn.
 
-[Ek Chuah] and [Chaac] swing long turquoise feathers like a pendulum near Koapolkán. [Chaac] likes to be near rivers and food made of corn. On the other side, [Ek Chuah] doesn't come out of his hiding place unless a butterfly is nearby when night falls.
+[Ek Chuah] and [Chaac] swing long turquoise feathers like a pendulum near Koapolkán. [Chaac] likes to be near rivers and food made of corn. On the other side, [Ek Chuah] doesn't come out of his hiding place unless a butterfly is nearby when [night] falls.
 
 You must follow the path of the wind after a heavy rain, and there [Hurakán] will appear. While [Itzamná] prefers to take care of her children in hidden, humid areas.","Num ato de sacrifício, os cinco deuses reincarnaram como pássaros para observar e proteger seu povo dos céus.…
 
 Ao criar o ninho, onde ahuacatl cresce, suas penas brilham como esmeraldas nas profundezas de uma floresta anevoada, a canção de [Ixchel] resoa durante a primeira luz do amanhecer.
 
-[Ek Chuah] e [Chaac] se movimentam em pêndulo as longas penas cor de turquesa próximas ao vulcão Koapolkán. [Chaac] gosta de estar próximo de rios e alimentos feitos de milho. On the other side [Ek Chuah] doesn't come out of his hiding place, unless a butterfly is nearby when night falls.
+[Ek Chuah] e [Chaac] se movimentam em pêndulo as longas penas cor de turquesa próximas ao vulcão Koapolkán. [Chaac] gosta de estar próximo de rios e alimentos feitos de milho. Por outro lado, [Ek Chuah] não sai do seu esconderijo, a menos que haja uma borboleta por perto quando a [noite] cai.
 
 Você deve seguir o caminho do vento após uma chuva forte e [Hurakán] aparecerá. Enquanto [Itzamná] prefere cuidar de suas crias em áreas escondidas e úmidas."
 NEUMANDIARY_TITLE,Diario de Jean Neumann,Jean Neumann's Diary,Diário de Jean Neumann
@@ -621,3 +621,5 @@ Não tenho ideia do que isso significa, mas estava escrito no livro e parece imp
 Te desejo o melhor e espero que o nosso povo... e também o resto, possam ser salvos. Pessoas boas merecem ver um novo amanhecer.
 
 Atenciosamente, Dirián Razhes."
+UNLOCKHARDMODENOW,Desbloquear modo difícil,Unlock HARD mode,
+UNLOCKHARDMODENOW_DESC,"Al momento de crear una partida, pulsa [Abajo->Arriba->Salto] mientras está seleccionado el tercer retrato de dificultad para jugar el modo difícil. Un reto mayor para aquellos valientes alquimistas.","When creating a game, press [Down->Up->Jump] while the third difficulty icon is selected to play in hard mode. A greater challenge for those brave alchemists.",
