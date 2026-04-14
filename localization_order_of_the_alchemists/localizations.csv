@@ -138,7 +138,7 @@ THIS_ACTION_CANT_BE_UNDO,Esta acción no podrá deshacerse,This action cannot be
 DELETE,Eliminar,Delete,Apagar,删除
 DATA_ERASE,Datos eliminados,Deleted data,Dados Deletados,数据已删除
 NEW_GAME,Nueva Partida,New Game,Novo Jogo,新游戏
-DEVROOM,La sala de las almas torturadas,Hall of Tortured Souls,Salão das Almas Torturadas,受难之魂大厅
+DEVROOM,La sala de las almas torturadas,Hall of Tortured Souls,Salão das Almas Torturadas,受折磨灵魂之厅
 SHOW_DEATH_COUNTER,Mostrar contador de muertes,Show death counter,Mostrar contador de mortes,显示死亡计数
 ATK_TITLE,Ataque,Attack,Ataque,攻击
 DEF_TITLE,Defensa,Defense,Defesa,防御
@@ -169,9 +169,9 @@ RESET,Reestablecer,Reset,Recomeçar,重置
 OPACITY,Opacidad,Opacity,Opacidade,透明度
 SIZE,Escala,Size,Tamanho,大小
 MINIMAP,Minimapa,Minimap,Mini-mapa,小地图
-ABOUT_CARPATITIA_DEATH,La Carpatitia permite regresar a la última estatua de guardado sin perder el progreso alcanzado.,The Carpatithia allows you to return to the last save statue without losing progress.,Carpatitia permite retornar à última estátua de salvamento sem perder o seu progresso,Carpatithia 可让你返回上一个保存雕像处，而不会失去当前进度。
+ABOUT_CARPATITIA_DEATH,La Carpatitia permite regresar a la última estatua de guardado sin perder el progreso alcanzado.,The Carpatithia allows you to return to the last save statue without losing progress.,Carpatitia permite retornar à última estátua de salvamento sem perder o seu progresso,卡尔帕提提亚可让你返回上一个保存雕像处，而不会失去当前进度。
 ABOUT_REVIVE,Revivir permite regresar a la última estatua de guardado sin perder el progreso alcanzado.,Revive allows you to return to the last save statue without losing progress.,Reviver permite retornar à última estátua de salvamento sem perder o seu progresso,复活可让你返回上一个保存雕像处，而不会失去当前进度。
-USE_CARPATITIAX2,Usar Carpatitia x2,Use Carpatithia x2,Usar Carpatithia x2,使用 Carpatithia x2
+USE_CARPATITIAX2,Usar Carpatitia x2,Use Carpatithia x2,Usar Carpatithia x2,使用卡尔帕提提亚 x2
 AMPHIBIOUS_BREATHING,Respiración Anfibia,Amphibious Breathing,Respiração Anfíbia,两栖呼吸
 SWAPSET,Cambiar Set,Change Set,Mudar Set,切换套装
 ONSCREENBUTTONSALWAYSVISIBLE,Botones en pantalla siempre visibles,On-screen buttons always visible,Botões na tela sempre visíveis,屏幕按钮始终可见
@@ -226,7 +226,7 @@ AGAMEPADDETECTED,Se ha detectado un control conectado. ¿Desea configurarlo ahor
 IGOTYOU,¡Te tengo!,I got you!,Te peguei!,抓到你了！
 SPECTROSCOPE,Espectroscopio,Spectroscope,Espectrômetro,光谱仪
 INCREASE,Incrementar,Increase,Aumentar,增加
-NEUMANPUZZLELABHINT,"De los siete metales, se encuentra aquella que resplandece como la estrella del día. A su lado, reflejando aquella luz, la guardiana de la noche.","Of the seven metals, there is one that shines like the day star. Next to it, reflecting that light, the guardian of the night.","Dos sete metais, tem um que brilha como a estrela do dia. Ao seu lado, refletindo aquela luz, a guardiã da noite.",七种金属中，有一种如白昼之星般闪耀。它的身旁映出那道光辉的，乃是夜之守护者。
+NEUMANPUZZLELABHINT,"De los siete metales, se encuentra aquella que resplandece como la estrella del día. A su lado, reflejando aquella luz, la guardiana de la noche.","Of the seven metals, there is one that shines like the day star. Next to it, reflecting that light, the guardian of the night.","Dos sete metais, tem um que brilha como a estrela do dia. Ao seu lado, refletindo aquela luz, a guardiã da noite.",七种金属中，有其一如白昼之星般闪耀。在它身侧，映照着那光芒的，是夜之守护者。
 WAITRESS,Camarera,Waitress,Garçonete,女侍者
 SEE_SOCIAL_LINKS,Ver redes sociales,See social links,Ver redes sociais,查看社交链接
 DIFFICULTY_DESCRIPTION_0,No quiero estresarme.,I don't want to stress.,Eu não quero me estressar.,我不想有压力。
@@ -247,7 +247,7 @@ DIFFCHANGEDTOEASY,Dificultad cambiada,Difficulty changed,Dificuldade modificada,
 ELEMENTALSAMPLENEEDED,Se necesita una muestra elemental,An elemental sample is required,Uma amostra elemental é necessária,需要元素样本
 ABOUTEABARRIER,Las barreras de fuego celeste solo desaparecerán cuando el [Early Access] termine.,The fire barriers will only disappear when [Early Access] ends.,As barreiras de fogo apenas desaparecerão quando o [Acesso Antecipado] acabar.,火焰屏障只会在 [Early Access] 结束后消失。
 ELDRALIS_WOODS,Bosque de Eldralis,Eldralis Woods,Floresta de Eldralis,埃尔德拉利斯森林
-STRALSUND_RUINS,Ruinas de Stralsund,Stralsund Ruins,Ruínas de Stralsund,施特拉尔松遗迹
+STRALSUND_RUINS,Ruinas de Stralsund,Stralsund Ruins,Ruínas de Stralsund,施特拉尔松德遗迹
 TAHUATEPETL_ISLETS,Isletas de Tahuatepetl,Tahuatepetl Islets,Ilhotas Tahuatepetl,塔瓦特佩特尔群岛
 ATHOS_ABBEY,Abadía de Athos,Athos Abbey,Abadia de Athos,阿托斯修道院
 THE_ORDER_HEADQUARTERS,Sede de La Orden,The Order Headquarters ,Sede d’A Ordem,教团总部
@@ -260,7 +260,7 @@ TAHUATEPETL_VOLCANO,Volcán Koapolkan,Koapolkan Volcano,Vulcão Koapolkan,科阿
 GRIJAYLA_TOWN,Ciudad de Grijayla,Grijayla Town,Cidade de Grijayla,格里哈伊拉镇
 BIRSTALL_PASS,Ciudad de Birstall,Birstall City,Cidade de Birstall,比尔斯托尔城
 ARIDIAH_DESERT,Desierto de Aridiah,Aridiah Desert,Deserto de Aridiah,阿里迪亚沙漠
-IXQUICTEMPLE,Templo de Ixquic,Ixquic Temple,Templo de Ixquic,伊克斯奎克
+IXQUICTEMPLE,Templo de Ixquic,Ixquic Temple,Templo de Ixquic,伊克斯奎克神殿
 LOGINPLAYGAMES,Entrar en GooglePlayGames,Login GooglePlayGames,Conectar GoogelPlayGames,登录 Google Play Games
 ABOUT_RESTORE_PLAYGAMES,Utilizando su cuenta de Google PlayGames podrá restaurar partidas que se respaldaron automáticamente al guardar.,"Using your Google PlayGames account, you will be able to restore games that were automatically backed up when saving.","Usando sua conta Google PlayGames, você será capaz de recuperar partidas que foram automaticamente recuperadas ao salvar.",使用你的 Google Play Games 账号，可以恢复保存时自动备份的游戏数据。
 RESTORE_DATA,Restaurar datos,Restore data,Recuperar dados,恢复数据
@@ -300,14 +300,14 @@ LOWHEALTH_ALERT,Alerta visual de salud baja,Low visual health alert,Alerta de ba
 ACH1TITLE,El ataque de los hombres muertos,Attack of the Dead Men,Ataque dos Mortos Vivos,亡者袭来
 ACH2TITLE,La bruja del radium,The Radium Witch,A Bruxa de Rádio,镭之魔女
 ACH3TITLE,Viaje en el Expreso Oriental,Travel on the Orient Express,Viagem no Expresso do Oriente,东方快车之旅
-ACH4TITLE,,Oxygenium Adeptis,Adeptis de Oxigênio,氧之Adeptis
+ACH4TITLE,,Oxygenium Adeptis,Adeptis de Oxigênio,氧之 Adeptis
 ACH5TITLE,,Crux simplex ad infixionem,Crux simplex ad infixionem ,穿刺刑柱
 ACH6TITLE,Masa crítica,Critical mass,Massa crítica,临界质量
 ACH1DESC,Enfrentate por primera vez a la Alquimista de Cloro.,Face the Chlorine Alchemist for the first time.,Enfrente a alquimista de Cloro pela primeira vez.,首次面对氯之炼金术师。
 ACH2DESC,Rescata a la responsable del laboratorio de química.,Rescue the chemistry lab manager.,Resgate a responsável pelo laboratório de química.,救出化学实验室管理员。
 ACH3DESC,Protege al tren por encargo de Alessa.,Protect the train on behalf of Alessa.,Proteja o trem em nome de Alessa.,代替娅蕾莎保护列车。
 ACH4DESC,Vence al Adeptis controlador del Oxígeno.,Defeat the Oxygen controlling Adeptis.,Derrote o Adeptis controlador de Oxigênio.,击败操纵氧的 Adeptis。
-ACH5DESC,Rescata a la hija de Gabriel.,Rescue Gabriel's daughter.,Resgate a filha do Gabriel.,救出盖布瑞的女儿。
+ACH5DESC,Rescata a la hija de Gabriel.,Rescue Gabriel's daughter.,Resgate a filha do Gabriel.,救出加布里埃尔的女儿。
 ACH6DESC,Destruye el [arma definitiva] de los Ahuizotes.,Destroy the [ultimate weapon] of the Ahuizotes.,Destrua a [arma definitiva] dos Ahuizotes.,摧毁 Ahuizotes 的 [终极武器]。
 ACH7TITLE,,Vela del Candil,Vela de Candeia,烛灯之帆
 ACH7DESC,Entrega la máscara de Ahuizote a Margaret.,Deliver the Ahuizote mask to Margaret.,Entregue a máscara de Ahuizote a Margaret.,将 Ahuizote 面具交给玛格丽特。
@@ -376,7 +376,7 @@ CAPTUREIMGCANCELED,Captura de imagen cancelada,Image capture canceled,Captura de
 HOLDRAISEKEY,Mantén para subir un tono,Hold to raise key,Segure para aumentar um tom,按住以升调
 HOLDLOWERKEY,Mantén para bajar un tono,Hold to lower key,Segure para diminuir um tom,按住以降调
 LAKEWATCH,Mirador del lago Niquira,Niquira lake viewpoint,Mirante do Lago Niquira,尼基拉湖观景台
-FIREMARGARET,¡¡¡FUEGO!!!,FIRE!!!,DISPARAR!!!,FIRE!!!
+FIREMARGARET,¡¡¡FUEGO!!!,FIRE!!!,DISPARAR!!!,开火！！！
 UNLOCKEDHARDMODE,Se ha desbloqueado el modo difícil y modo Lvl1.,Unlocked Hard mode and Lvl1.,Modo Difícil desbloqueado Lvl1.,已解锁困难模式与 Lv1 模式。
 UNLOCKEDWITCH,Se ha desbloqueado el modo Solo-magia.,Unlocked Only-magic mode.,Modo Magia desbloqueado.,已解锁纯魔法模式。
 UNLOCKEDATREU,Se ha desbloqueado el modo Atreu.,Unlocked Atreu mode.,Modo Atreu desbloqueado.,已解锁阿特柔模式。
@@ -402,7 +402,7 @@ INVERTGRAVITY,Invierte gravedad con botas ferro-magnéticas,Invert gravity with 
 WEAPONPLUSMODE,Modo WEAPON+ (barra sangre llena),WEAPON+ Mode (full blood bar),,WEAPON+ 模式（鲜血槽全满）
 ABOUTWEAPONPLUS,En el modo WEAPON+ El revólver y la escopeta pasan a una arma mejorada.,"In WEAPON+ Mode, the revolver and shotgun upgrade to enhanced versions.",,在 WEAPON+ 模式下，左轮和霰弹枪会升级为强化武器。
 MOVEMENTS,Movimientos,Movements,,动作
-ABOUTCONTRARIUSATREU,Margaret le regaló a Atreu unas botas ferromagneticas para imitar el circuito Contrarius Gravitas de Xandria.,Margaret gave Atreu a pair of ferromagnetic boots to mimic Xandria’s Contrarius Gravitas circuit.,,玛格丽特送给阿特柔一双铁磁靴，用来模仿珊德莉雅的 Contrarius Gravitas 回路。
+ABOUTCONTRARIUSATREU,Margaret le regaló a Atreu unas botas ferromagneticas para imitar el circuito Contrarius Gravitas de Xandria.,Margaret gave Atreu a pair of ferromagnetic boots to mimic Xandria’s Contrarius Gravitas circuit.,,玛格丽特送给阿特柔一双铁磁靴，用来模仿珊德莉雅的重力反转回路。
 ABOUTDOBLEJUMPATREU,"Atreu es capaz de saltar indefinidamente en el aire usando el impulso de escopeta, mientras tenga suficiente estamina.","Atreu can jump indefinitely in the air using the shotgun’s recoil, as long as he has enough stamina.",,只要耐力足够，阿特柔就能借助霰弹枪的后坐力在空中无限跳跃。
 IN-AIR,(en el aire),(in the air),,(空中)
 IN-FLOOR,(en el suelo),(on the ground),,(地面)
