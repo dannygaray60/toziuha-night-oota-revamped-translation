@@ -230,9 +230,9 @@ NEUMANPUZZLELABHINT,"De los siete metales, se encuentra aquella que resplandece 
 WAITRESS,Camarera,Waitress,Garçonete,女侍者
 SEE_SOCIAL_LINKS,Ver redes sociales,See social links,Ver redes sociais,查看社交链接
 DIFFICULTY_DESCRIPTION_0,No quiero estresarme.,I don't want to stress.,Eu não quero me estressar.,我不想有压力。
-DIFFICULTY_DESCRIPTION_1,¡Muere monstruo!,Die monster!,,
-DIFFICULTY_DESCRIPTION_2,¡Te mataré a tí y a la noche! ,I'll kill you and the night! ,I'll kill you and the night! ,
-DIFFICULTY_DESCRIPTION_3,Prepárate para morir. Nivel máx 1.,Prepare to die. max LVL 1.,Prepare para morrer. LVL 1.,
+DIFFICULTY_DESCRIPTION_1,¡Muere monstruo!,Die monster!,,去死吧，怪物！
+DIFFICULTY_DESCRIPTION_2,¡Te mataré a tí y a la noche! ,I'll kill you and the night! ,I'll kill you and the night! ,我要连你和黑夜一起宰了！
+DIFFICULTY_DESCRIPTION_3,Prepárate para morir. Nivel máx 1.,Prepare to die. max LVL 1.,Prepare para morrer. LVL 1.,准备受死吧。最高等级 Lv1。
 SELECT_DIFFICULTY,Seleccione dificultad,Select difficulty,Selecione a dificuldade,选择难度
 LOCKED,Bloqueado,Locked,Bloqueado,已锁定
 PRESSFORKEYBOARDARROWSETTING,"Presiona ""Enter"" para usar flechas en teclado","Press ""Enter"" for Arrow keyboard mode",Pressione “Enter” para o modo setas do teclado,按“Enter”选择方向键键盘模式
@@ -377,33 +377,33 @@ HOLDRAISEKEY,Mantén para subir un tono,Hold to raise key,Segure para aumentar u
 HOLDLOWERKEY,Mantén para bajar un tono,Hold to lower key,Segure para diminuir um tom,按住以降调
 LAKEWATCH,Mirador del lago Niquira,Niquira lake viewpoint,Mirante do Lago Niquira,尼基拉湖观景台
 FIREMARGARET,¡¡¡FUEGO!!!,FIRE!!!,DISPARAR!!!,FIRE!!!
-UNLOCKEDHARDMODE,Se ha desbloqueado el modo difícil y modo Lvl1.,Unlocked Hard mode and Lvl1.,Modo Difícil desbloqueado Lvl1.,已解锁困难模式。
-UNLOCKEDWITCH,Se ha desbloqueado el modo Solo-magia.,Unlocked Only-magic mode.,Modo Magia desbloqueado.,
-UNLOCKEDATREU,Se ha desbloqueado el modo Atreu.,Unlocked Atreu mode.,Modo Atreu desbloqueado.,
-UNLOCKEDATREU2,Escribe [ATREU] como nombre de partida nueva.,Type [ATREU] as the name of the new savegame.,Digite [ATREU] como nome da nova partida.,
-UNLOCKEDWITCH2,Escribe [WITCHMODE] como nombre de partida nueva.,Type [WITCHMODE] as the name of the new savegame.,Digite [WITCHMODE] como nome da nova partida.,
+UNLOCKEDHARDMODE,Se ha desbloqueado el modo difícil y modo Lvl1.,Unlocked Hard mode and Lvl1.,Modo Difícil desbloqueado Lvl1.,已解锁困难模式与 Lv1 模式。
+UNLOCKEDWITCH,Se ha desbloqueado el modo Solo-magia.,Unlocked Only-magic mode.,Modo Magia desbloqueado.,已解锁纯魔法模式。
+UNLOCKEDATREU,Se ha desbloqueado el modo Atreu.,Unlocked Atreu mode.,Modo Atreu desbloqueado.,已解锁阿特柔模式。
+UNLOCKEDATREU2,Escribe [ATREU] como nombre de partida nueva.,Type [ATREU] as the name of the new savegame.,Digite [ATREU] como nome da nova partida.,新建存档时输入 [ATREU]。
+UNLOCKEDWITCH2,Escribe [WITCHMODE] como nombre de partida nueva.,Type [WITCHMODE] as the name of the new savegame.,Digite [WITCHMODE] como nome da nova partida.,新建存档时输入 [WITCHMODE]。
 OTHERSTATUESDESTROYED,Las demás estatuas también serán destruidas.,The other statues will also be destroyed.,As outras estátuas também serão destruídas.,其他雕像也会一并被摧毁。
 SLIDEHELPSMOLXANDRIA,"↓+Salto : Barrida en el suelo, permite atravesar trampas o enemigos sin recibir daño.","↓+Jump: Ground slide, allows you to pass through traps or enemies without taking damage.","↓+Pulo: Deslize no chão, permite passar por armadilhas ou inimigos sem sofrer dano.",↓+跳跃：地面滑行，可让你穿过陷阱或敌人而不受伤害。
-ACH30TITLE,Nahual Tzikin,Nahual Tzikin,Nahual Tzikin,
-ACH30DESC,Completa los tributos a la diosa Ixquic.,Complete the tributes to the goddess Ixquic.,Complete os tributos à deusa Ixquic.,
-ACH31TITLE,"Hasta la vista, baby","Hasta la vista, baby",,
-ACH31DESC,Derrota al Toziuha usando los poderes de Atreu.,Defeat Toziuha using Atreu's powers.,,
-TYPEWITCHMODE,Escribe [WITCHMODE] para jugar solo con magia,Type [WITCHMODE] for only-magic game,,
-TYPEATREUMODE,Escribe [ATREU] para jugar con Atreu,Type [ATREU] for Atreu mode,,
-XANDRIAOUTFITCHANG,Cambiar colores de vestido de Xandria,Change Xandria's color dress,,
-RELOADING,Recargando,Reloading,,
-RELOAD,Recarga,Reload,,
-SHOOTREVOLVER,Disparar Revólver (acumula sangre),Fire Revolver (gain blood),,
-RELOADMANA,Recargar maná,Recharge mana,,
-SHOTGUN,Disparar Escopeta (puede destruir Calcita),Fire Shotgun (it can destroy Calcite),,
-GRENADETHROWER,Lanzagranadas,Grenade Launcher,,
-THROWGRENADE,Arroja granadas en el suelo,Throw grenades on the ground,,
-INVERTGRAVITY,Invierte gravedad con botas ferro-magnéticas,Invert gravity with ferromagnetic boots,,
-WEAPONPLUSMODE,Modo WEAPON+ (barra sangre llena),WEAPON+ Mode (full blood bar),,
-ABOUTWEAPONPLUS,En el modo WEAPON+ El revólver y la escopeta pasan a una arma mejorada.,"In WEAPON+ Mode, the revolver and shotgun upgrade to enhanced versions.",,
-MOVEMENTS,Movimientos,Movements,,
-ABOUTCONTRARIUSATREU,Margaret le regaló a Atreu unas botas ferromagneticas para imitar el circuito Contrarius Gravitas de Xandria.,Margaret gave Atreu a pair of ferromagnetic boots to mimic Xandria’s Contrarius Gravitas circuit.,,
-ABOUTDOBLEJUMPATREU,"Atreu es capaz de saltar indefinidamente en el aire usando el impulso de escopeta, mientras tenga suficiente estamina.","Atreu can jump indefinitely in the air using the shotgun’s recoil, as long as he has enough stamina.",,
-IN-AIR,(en el aire),(in the air),,
-IN-FLOOR,(en el suelo),(on the ground),,
-ABOUTATREU,"Atreu puede transmutar munición de Plomo para utilizar armas, siempre y cuando tenga suficienta maná.","Atreu can transmute lead ammunition to use weapons, as long as he has enough mana.",,
+ACH30TITLE,Nahual Tzikin,Nahual Tzikin,Nahual Tzikin,纳瓦尔·齐金
+ACH30DESC,Completa los tributos a la diosa Ixquic.,Complete the tributes to the goddess Ixquic.,Complete os tributos à deusa Ixquic.,完成献给女神伊克斯奎克的贡品。
+ACH31TITLE,"Hasta la vista, baby","Hasta la vista, baby",,后会有期，宝贝
+ACH31DESC,Derrota al Toziuha usando los poderes de Atreu.,Defeat Toziuha using Atreu's powers.,,用阿特柔的力量击败托祖哈。
+TYPEWITCHMODE,Escribe [WITCHMODE] para jugar solo con magia,Type [WITCHMODE] for only-magic game,,输入 [WITCHMODE] 以游玩纯魔法模式
+TYPEATREUMODE,Escribe [ATREU] para jugar con Atreu,Type [ATREU] for Atreu mode,,输入 [ATREU] 以游玩阿特柔模式
+XANDRIAOUTFITCHANG,Cambiar colores de vestido de Xandria,Change Xandria's color dress,,更换珊德莉雅的服装配色
+RELOADING,Recargando,Reloading,,装填中
+RELOAD,Recarga,Reload,,装填
+SHOOTREVOLVER,Disparar Revólver (acumula sangre),Fire Revolver (gain blood),,发射左轮（积累鲜血）
+RELOADMANA,Recargar maná,Recharge mana,,补充法力
+SHOTGUN,Disparar Escopeta (puede destruir Calcita),Fire Shotgun (it can destroy Calcite),,发射霰弹枪（可摧毁方解石）
+GRENADETHROWER,Lanzagranadas,Grenade Launcher,,榴弹发射器
+THROWGRENADE,Arroja granadas en el suelo,Throw grenades on the ground,,向地面投掷手雷
+INVERTGRAVITY,Invierte gravedad con botas ferro-magnéticas,Invert gravity with ferromagnetic boots,,用铁磁靴反转重力
+WEAPONPLUSMODE,Modo WEAPON+ (barra sangre llena),WEAPON+ Mode (full blood bar),,WEAPON+ 模式（鲜血槽全满）
+ABOUTWEAPONPLUS,En el modo WEAPON+ El revólver y la escopeta pasan a una arma mejorada.,"In WEAPON+ Mode, the revolver and shotgun upgrade to enhanced versions.",,在 WEAPON+ 模式下，左轮和霰弹枪会升级为强化武器。
+MOVEMENTS,Movimientos,Movements,,动作
+ABOUTCONTRARIUSATREU,Margaret le regaló a Atreu unas botas ferromagneticas para imitar el circuito Contrarius Gravitas de Xandria.,Margaret gave Atreu a pair of ferromagnetic boots to mimic Xandria’s Contrarius Gravitas circuit.,,玛格丽特送给阿特柔一双铁磁靴，用来模仿珊德莉雅的 Contrarius Gravitas 回路。
+ABOUTDOBLEJUMPATREU,"Atreu es capaz de saltar indefinidamente en el aire usando el impulso de escopeta, mientras tenga suficiente estamina.","Atreu can jump indefinitely in the air using the shotgun’s recoil, as long as he has enough stamina.",,只要耐力足够，阿特柔就能借助霰弹枪的后坐力在空中无限跳跃。
+IN-AIR,(en el aire),(in the air),,(空中)
+IN-FLOOR,(en el suelo),(on the ground),,(地面)
+ABOUTATREU,"Atreu puede transmutar munición de Plomo para utilizar armas, siempre y cuando tenga suficienta maná.","Atreu can transmute lead ammunition to use weapons, as long as he has enough mana.",,只要法力充足，阿特柔就能将铅转化为弹药来使用武器。
