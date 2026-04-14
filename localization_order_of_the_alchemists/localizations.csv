@@ -40,7 +40,7 @@ VOICES,Voces,Voices,Vozes,语音
 PRESS_NEW_KEY,Presiona la nueva tecla (teclado),Press new key (keyboard),Pressione uma nova tecla (teclado),按下新的按键（键盘）
 PRESS_NEW_BTN,Presiona el nuevo botón (control),Press new button (controller),Pressione um novo botão (controle),按下新的按键（手柄）
 PRESS_ESCAPE,Presiona [Escape],Press [Escape],Pressione [Esc],按下 [Escape]
-PRESS_BACK_ANDROID,Presiona [Atrás] (Móvil),Press [Back] (Mobile),Pressione [Voltar] (Mobile),按下 [Back]（移动端）
+PRESS_BACK_ANDROID,Presiona [Atrás] (Móvil),Press [Back] (Mobile),Pressione [Voltar] (Mobile),按下 [返回]（移动端）
 ACTION_UI_START,Pausa / Equipamiento,Pause / Equipment,Pausar/ Equipamento,暂停 / 装备
 ACTION_UI_SELECT,Abrir mapa,Open map,Abrir mapa,打开地图
 ACTION_UI_ACCEPT,Aceptar,Accept,Aceitar,确认
@@ -190,7 +190,7 @@ LEARNMORE,Conocer más,Learn more,Saiba mais,了解更多
 TOBECONTINUED,Esta historia continuará...,To be continued...,Continua…,未完待续...
 WEBSITE,Sitio web,Website,Website,网站
 AERIAL_DASH,Dash aéreo,Aerial Dash,Dash aéreo,空中冲刺
-WHILECIRUITBTNPRESSED,Manteniendo botón [Circuito],Holding [Circuit] button,Segurando o botão de [Circuito],按住 [Circuit] 按钮
+WHILECIRUITBTNPRESSED,Manteniendo botón [Circuito],Holding [Circuit] button,Segurando o botão de [Circuito],按住 [元素回路] 按钮
 USEVIRTUALJOYSTICK,Usar Palanca Virtual,Use Virtual Stick,Usar Controle Virtual,使用虚拟摇杆
 SAVE_CHANGES,Guardar Cambios,Save Changes,Salvar alterações,保存更改
 LOADING,Cargando...,Loading...,Carregando…,加载中...
@@ -242,7 +242,7 @@ LIBRARY_ARCHIVES,Archivos de la biblioteca,Library archives,Arquivos da bibliote
 INTHENEXTUPDATE,En la próxima actualización...,In the next update...,Na próxima atualização…,在下次更新中...
 PROLOGUEFINISHED,Prólogo finalizado,Prologue finished,Prólogo finalizado,序章完成
 YOUWANTGOWAGON,¿Regresar al vagón inicial del tren?,Back to the initial car of the train?,Voltar ao vagão inicial do trem?,返回列车最初的车厢？
-RETURNAMERITHIA,¿Regresar a Amerithia?,Return to Amerithia?,Retornar a Amerithia?,返回 Amerithia？
+RETURNAMERITHIA,¿Regresar a Amerithia?,Return to Amerithia?,Retornar a Amerithia?,返回阿美瑞西亚？
 DIFFCHANGEDTOEASY,Dificultad cambiada,Difficulty changed,Dificuldade modificada,难度已更改
 ELEMENTALSAMPLENEEDED,Se necesita una muestra elemental,An elemental sample is required,Uma amostra elemental é necessária,需要元素样本
 ABOUTEABARRIER,Las barreras de fuego celeste solo desaparecerán cuando el [Early Access] termine.,The fire barriers will only disappear when [Early Access] ends.,As barreiras de fogo apenas desaparecerão quando o [Acesso Antecipado] acabar.,火焰屏障只会在 [Early Access] 结束后消失。
@@ -291,7 +291,7 @@ OFFICIALART,Arte oficial,Official art,Arte oficial,官方艺术图
 FANARTS,Arte de fans,Fan arts,Artes de fãs,同人作品
 CIRCUITREQUIRED,Circuito E. requerido,Required E. Circuit,Circuito Elemental necessário,所需元素回路
 IMPROVECIRCUIT,Mejorar circuito,Improve circuit,Aprimorar circuito,强化回路
-PRELOADROOM,Pre-carga habitación (experimental),Pre-load room (experimental),Sala de Pré-carregamento (experimental),预加载房间（实验性）
+PRELOADROOM,Pre-carga habitación (experimental),Pre-load room (experimental),Sala de Pré-carregamento (experimental),房间预加载（实验性）
 REVIVE,Revivir,Revive,Reviver,复活
 NOTAVAILABLE,No disponible,Not available,Não disponível ,不可用
 STATS,Estadísticas,Stats,Estatísticas,属性
@@ -346,7 +346,7 @@ ACH23DESC,Alcanza el final secreto.,Reach the secret ending.,Alcance o final sec
 ACH24TITLE,Cartografo,Cartographer,Cartógrafa,制图师
 ACH24DESC,Completa el 100% del mapa.,Complete 100% of the map.,Complete 100% do mapa.,完成 100% 地图探索。
 ACH25TITLE,Asesino de demonios,Demon Slayer,Matador de Demônios,恶魔杀手
-ACH25DESC,Completa el juego en modo díficil al derrotar a Johannes.,Complete the game in hard mode by defeating Johannes.,Complete o jogo no modo difícil derrotando Johannes.,在困难模式下击败 Johannes 并通关。
+ACH25DESC,Completa el juego en modo díficil al derrotar a Johannes.,Complete the game in hard mode by defeating Johannes.,Complete o jogo no modo difícil derrotando Johannes.,在困难模式下击败约翰内斯并通关。
 ACH26TITLE,Titanium Adeptis,Titanium Adeptis,Adeptis de Titânio,钛之 Adeptis
 ACH26DESC,Derrota al alquimista de Titanio.,Defeat the Titanium Alchemist.,Derrote o Alquimista de Titânio.,击败钛之炼金术师。
 ACH27TITLE,Señor del Xibalbá,Lord of Xibalbá,Senhor de Xibalbá,西巴尔巴之主
