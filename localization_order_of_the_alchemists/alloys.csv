@@ -1,17 +1,17 @@
-keys,es,en,pt_BR,zh_CN
-P_TITLE,Fósforo,Phosphorus,Fósforo,磷
-P_DESC,Crea Fosfuro de Hierro. Libera fuego al usar el látigo.,Creates Iron Phosphide. Releases fire when using the whip.,Cria o Fosfeto de Ferro. Libera fogo quando usado no chicote.,生成磷化铁。使用鞭子时会释放火焰。
-C_TITLE,Carbono,Carbon,Carbono,碳
-C_DESC,"Aumenta la dureza del Hierro, esto permitirá destruir ciertos objetos con una dureza mayor al del Hierro natural.",Increases the hardness of Iron. This will allow you to destroy certain objects with a higher hardness than natural Iron.,"Aumenta a solidez do ferro, te permitindo destruir certos objetos com uma solidez maior que o ferro normal.",提高铁的硬度。这将使你能够破坏硬度高于天然铁的某些物体。
-MG_TITLE,Magnesio,Magnesium,Magnésio,镁
-MG_DESC,El polvo de Magnesio puede producir una luz blanca fuerte que puede ser cegadora.,Magnesium powder can produce a strong white light that can be blinding.,Magnésio em pó pode produzir uma forte luz branca que pode cegar.,镁粉能够产生强烈的白光，甚至足以致盲。
-AG_TITLE,Plata,Silver,Prata,银
-AG_DESC,"La aleación de Hierro+Plata tiene un alto índice de conductividad eléctrica. Además, permite detectar el dióxido de azufre, un gas abundante en volcanes activos.","Iron+Silver alloy has a high electrical conductivity index. Additionally, this alloy allows for the detection of sulfur dioxide, a gas abundant in active volcanoes.","A Liga Ferro+Prata tem uma fórmula com alta condutividade elétrica. Adicionalmente, essa liga permite a detecção de dióxido de enxofre, um gás abundante em vulcões ativos.",铁+银合金具有极高的导电性。此外，这种合金还能够探测二氧化硫，这是一种在活火山中大量存在的气体。
-N_DESC,Congela el aire alrededor del látigo a -200°C.,Freezes the air around the whip to -200°C.,Congela o ar em volta do chicote para -200°C.,将鞭子周围的空气冻结至 -200°C。
-N_TITLE,Nitrógeno,Nitrogen,Nitrogênio,氮
-O_TITLE,Oxígeno,Oxygen,Oxigênio,氧
-O_DESC,Concentra átomos de Oxígeno en un espacio pequeño a una alta presión para crear un látigo de aire.,Concentrates Oxygen atoms in a small space at high pressure to create an air whip.,Concentra os átomos de Oxigênio num espaço pequeno em alta pressão para criar um chicote de ar.,将氧原子高压压缩于狭小空间中，形成空气之鞭。
-XE_TITLE,Xenón,Xenon,Xenônio,氙
-XE_DESC,Invierte las cargas de las partículas de Xenon para crear 0.5 microgramos de Antimateria.,Reverses the charges of the Xenon particles to create 0.5 micrograms of Antimatter.,Reverte as cargas das partículas de Xenônio para criar 0.5 microgramas de Antimatéria.,逆转氙粒子的电荷，以生成 0.5 微克反物质。
-H_TITLE,Hidrógeno,Hydrogen,Hidrogênio,氢
-H_DESC,A partir de átomos de hidrógeno y oxigeno del aire canaliza un látigo de agua.,"From hydrogen atoms and oxygen from air, it canalizes a water whip.",Dos átomos de hidrogênio e oxigênio (previamente adquiridas) canaliza um chicote de água.,利用氢原子与空气中的氧，引导出一道水之鞭。
+keys,es,en,pt_BR,zh_CN,fr
+P_TITLE,Fósforo,Phosphorus,Fósforo,磷,Phosphore
+P_DESC,Crea Fosfuro de Hierro. Libera fuego al usar el látigo.,Creates Iron Phosphide. Releases fire when using the whip.,Cria o Fosfeto de Ferro. Libera fogo quando usado no chicote.,生成磷化铁。使用鞭子时会释放火焰。,Crée du phosphure de fer. Le fouet crache des flammes lorsqu’il frappe.
+C_TITLE,Carbono,Carbon,Carbono,碳,Carbone
+C_DESC,"Aumenta la dureza del Hierro, esto permitirá destruir ciertos objetos con una dureza mayor al del Hierro natural.",Increases the hardness of Iron. This will allow you to destroy certain objects with a higher hardness than natural Iron.,"Aumenta a solidez do ferro, te permitindo destruir certos objetos com uma solidez maior que o ferro normal.",提高铁的硬度。这将使你能够破坏硬度高于天然铁的某些物体。,"Renforce le fer, ce qui permet de détruire certains objets plus durs que le fer élémentaire."
+MG_TITLE,Magnesio,Magnesium,Magnésio,镁,Magnésium
+MG_DESC,El polvo de Magnesio puede producir una luz blanca fuerte que puede ser cegadora.,Magnesium powder can produce a strong white light that can be blinding.,Magnésio em pó pode produzir uma forte luz branca que pode cegar.,镁粉能够产生强烈的白光，甚至足以致盲。,La poudre de magnésium brûle en produisant une lumière blanche éblouissante
+AG_TITLE,Plata,Silver,Prata,银,Argent
+AG_DESC,"La aleación de Hierro+Plata tiene un alto índice de conductividad eléctrica. Además, permite detectar el dióxido de azufre, un gas abundante en volcanes activos.","Iron+Silver alloy has a high electrical conductivity index. Additionally, this alloy allows for the detection of sulfur dioxide, a gas abundant in active volcanoes.","A Liga Ferro+Prata tem uma fórmula com alta condutividade elétrica. Adicionalmente, essa liga permite a detecção de dióxido de enxofre, um gás abundante em vulcões ativos.",铁+银合金具有极高的导电性。此外，这种合金还能够探测二氧化硫，这是一种在活火山中大量存在的气体。,"L’alliage fer-argent présente un indice de conductivité électrique élevé. De plus, cet alliage permet de détecter le dioxyde de soufre, un gaz abondant aux alentours des volcans actifs"
+N_DESC,Congela el aire alrededor del látigo a -200°C.,Freezes the air around the whip to -200°C.,Congela o ar em volta do chicote para -200°C.,将鞭子周围的空气冻结至 -200°C。,Refroidit l’air autour du fouet à -200°C.
+N_TITLE,Nitrógeno,Nitrogen,Nitrogênio,氮,Azote
+O_TITLE,Oxígeno,Oxygen,Oxigênio,氧,Oxygène
+O_DESC,Concentra átomos de Oxígeno en un espacio pequeño a una alta presión para crear un látigo de aire.,Concentrates Oxygen atoms in a small space at high pressure to create an air whip.,Concentra os átomos de Oxigênio num espaço pequeno em alta pressão para criar um chicote de ar.,将氧原子高压压缩于狭小空间中，形成空气之鞭。,Concentre les atomes d’oxygène dans un espace réduit à forte pression pour créer un fouet d’air.
+XE_TITLE,Xenón,Xenon,Xenônio,氙,Xénon
+XE_DESC,Invierte las cargas de las partículas de Xenon para crear 0.5 microgramos de Antimateria.,Reverses the charges of the Xenon particles to create 0.5 micrograms of Antimatter.,Reverte as cargas das partículas de Xenônio para criar 0.5 microgramas de Antimatéria.,逆转氙粒子的电荷，以生成 0.5 微克反物质。,Inverse les charges des particules de xénon afin de créer 0.5 microgrammes d’antimatière
+H_TITLE,Hidrógeno,Hydrogen,Hidrogênio,氢,Hydrogène
+H_DESC,A partir de átomos de hidrógeno y oxigeno del aire canaliza un látigo de agua.,"From hydrogen atoms and oxygen from air, it canalizes a water whip.",Dos átomos de hidrogênio e oxigênio (previamente adquiridas) canaliza um chicote de água.,利用氢原子与空气中的氧，引导出一道水之鞭。,Crée un fouet d’eau à partir d’atomes d’hydrogène et de l’oxygène de l’air.
