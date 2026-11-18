@@ -1007,7 +1007,7 @@ DLG5_1731623597,"Así es señorita, mi Lencho está lastimado, necesito ayuda.",
 DLG6_1731623597,¿A donde se dirije?,Where are you going?,Para onde está indo?,您这是要去哪？,Où allez-vous ?,どこへ向かう途中だったんだ？
 DLG7_1731623597,"Voy hacia Amerithia, [color=yellow]debo entregar una mercancia.[/color]",I'm going to Amerithia. [color=yellow]I must deliver some merchandise.[/color],"Estou indo à Amerithia, [color=yellow]preciso entregar uma mercadoria.[/color]",我要去阿美瑞西亚。[color=yellow]我必须送一批货过去。[/color],"Je vais à Amerithia, [color=yellow]je dois livrer des marchandises[/color].",アメルシアへ向かうところです。[color=yellow]あちらへ商品を届けなければならなくて。[/color]
 DLG10_1731623597,Para poder ayudar al caballo se necesitarán un par de objetos...,"In order to help the horse, you will need a couple of objects...",Para ajudar o cavalo você vai precisar de alguns itens…,想救这匹马的话，你需要几样东西……,"Pour aider le cheval, il faudra certains objets...",馬の手当てをするには、いくつか道具が必要です……
-DLG11_1731623597,Se debe aplicar [color=yellow]8 Kits de primeros auxilios y 3 Pociones de salud.[/color],You must apply [color=yellow]8 First Aid Kits and 3 Health Potions.[/color],Você deve aplicar [color=yellow]8 kits de primeiros socorros e 3 Poções de Saúde.[/color],你得用上 [color=yellow]8 个急救箱和 3 瓶治疗药。[/color],Il faut appliquer [color=yellow]8 kits de premiers secours et 3 potions de santé[/color].,[color=yellow]救急箱を8つと、回復ポーションを3つ[/color]使う必要があります。
+DLG11_1731623597,Se debe aplicar [color=yellow]1 Kit de primeros auxilios y  Poción de salud.[/color],You must apply [color=yellow]1 First Aid Kit and 1 Health Potion.[/color],Você deve aplicar [color=yellow]1 kit de primeiros socorros e 1 Poção de Saúde.[/color],你得用上 [color=yellow][1] 个急救箱和 [1] 瓶治疗药。[/color],Il faut appliquer [color=yellow][1] kits de premiers secours et [1] potions de santé[/color].,[color=yellow]救急箱を8つと、回復ポーションを3つ[/color]使う必要があります。
 DLG14_1731623597,¡Muchas gracias! Mi Lencho está mejor que nunca.,Thank you very much! My Lencho is better than ever.,Muito obrigado! Meu Lencho está melhor do que antes.,太感谢了！我的连乔现在状态前所未有地好。,Merci beaucoup ! Mon Lencho est mieux que jamais.,本当にありがとうございます！おかげさまでレンチョもすっかり元気になりました。
 DLG15_1731623597,"Podré continuar con mi viaje, gracias por su amabilidad.","I will be able to continue my journey, thank you for your kindness.","Serei capaz de continuar minha jornada, obrigado por as gentileza.",我可以继续上路了，多谢您的好意。,"Je vais pouvoir continuer mon voyage, merci pour votre gentillesse.",これで旅を続けられます。ご親切に感謝いたします。
 DLG18_1731623597,La tienda en Amerithia ahora cuenta con [color=yellow]Ácido sulfúrico.[/color],The store in Amerithia now has [color=yellow]Sulfuric Acid.[/color],A loja em Amerithia agora tem [color=yellow]Ácido Sulfúrico.[/color],阿美瑞西亚的商店现在已经有 [color=yellow]硫酸[/color] 出售了。,La boutique à Amerithia propose maintenant de [color=yellow]l'acide sulfurique[/color].,錬金術商会に[color=yellow]硫酸[/color]が入荷されました。
@@ -2168,23 +2168,19 @@ DLG12_1761355865,La señorita Xandria está sonrojada...,Miss Xandria is blushin
 DLG13_1761355865,"Cállate mocosa, no te metas en conversaciones ajenas...","Shut up, brat. Don't butt into other people's conversations...","Cale a boca, pirralha, não se intrometa na conversa dos outros...",闭嘴，小鬼，别插嘴大人的谈话……,"Tais-toi, petite, ne te mêle pas des conversations des autres...",うるさいぞ。子供が大人の話に茶々を入れるな……
 DLG15_1761355865,Así que esto es un adiós...,So this is goodbye...,Então é um adeus...,所以，这次真的是告别了……,"Donc, c’est un adieu...",これで、お別れなのね……
 DLG16_1761355865,"Aura... tienes a un buen padre. Hazme un favor, cuídalo y haz todo lo que él te diga.","Aura... you have a good father. Do me a favor, take care of him and do everything he tells you.","Aura... você tem um bom pai. Me faça um favor, cuide dele e faça tudo o que ele mandar.",奥拉……你有个好父亲。答应我，好好照顾他，也要听他的话。,"Aura... tu as un bon père. Fais-moi une faveur, prends soin de lui et fais tout ce qu’il te dit.",オーラ……君は良いお父さんを持ったな。これからもお父さんを大切にして、言いつけをよく守るんだぞ。約束だ。
-DLG17_1761355865,Por supuesto.,Of course.,"Claro.
-",当然。,Bien sûr.,うん、約束するわ。
+DLG17_1761355865,Por supuesto.,Of course.,Claro.,当然。,Bien sûr.,うん、約束するわ。
 DLG18_1761355865,Bien... tengo que irme.,Well... I have to go.,Bem... eu tenho que ir.,好了……我该走了。,Bien... je dois y aller.,さて……私はもう行かなければならない。
 DLG19_1761355865,Parece que tendrá que hacer algo muy importante...,It seems she has something very important to do...,Parece que ela tem algo muito importante para fazer...,看来她真的有件非常重要的事要去做……,Il semble que vous avez quelque chose de très important à faire…,これから、とっても大切なお仕事に向かうのね……
 DLG20_1761355865,Usted se mira muy fuerte y valiente.,You look very strong and brave.,Você parece muito forte e corajosa.,你看起来既坚强又勇敢。,Vous avez l’air très forte et courageuse.,今のサンドリアさん、すごく頼もしくて凛々しいわ。
 DLG21_1761355865,Espero poder llegar a ser como usted...,I hope I can become like you...,Espero um dia me tornar como você...,我希望自己将来也能变得像你一样……,J’espère pouvoir devenir comme vous...,わたしもいつか、あなたみたいな素敵な女性になりたいな……
-DLG22_1761355865,Adiós...,Goodbye...,"Adeus...
-",再见……,Au revoir...,さようなら……
+DLG22_1761355865,Adiós...,Goodbye...,Adeus...,再见……,Au revoir...,さようなら……
 DLG26_1761355865,Adiós señorita Xandria.,"Goodbye, Miss Xandria.","Adeus, senhorita Xandria.",再见了，珊德莉雅小姐。,"Au revoir, Mademoiselle Xandria.",さようなら、サンドリアさん。
 DLG2_1761355881,¿Eh? Es raro verla por aquí...,Huh? It's strange to see you here...,Hã? Que estranho te ver aqui...,嗯？居然会在这里看到你，真奇怪……,Eh ? C’est rare de vous voir ici...,おや？こんなところであなたにお会いするとは思いませんでした……
 DLG3_1761355881,Quería venir en persona a desearle lo mejor...,I wanted to come in person to wish you well...,Eu queria vir pessoalmente te desejar tudo de bom...,我是特地亲自过来向你送上祝福的……,Je voulais venir en personne pour vous souhaiter bonne chance...,どうしても直接顔を合わせて、あなたの武運を祈りたくてね……
 DLG4_1761355881,Una dura batalla se aproxima.,A tough battle is coming.,Uma batalha difícil está chegando.,接下来会是一场艰难的战斗。,Une dure bataille se prépare.,この先は、過酷な戦いになるだろう。
-DLG5_1761355881,Déjemelo a mí.,Leave it to me.,"Deixe comigo.
-",交给我吧。,Laissez-moi faire.,任せてください。
+DLG5_1761355881,Déjemelo a mí.,Leave it to me.,Deixe comigo.,交给我吧。,Laissez-moi faire.,任せてください。
 DLG6_1761355881,No defraudaré a nadie que haya confiado en mí.,I won't let anyone who has trusted me down.,Não vou decepcionar ninguém que confiou em mim.,凡是信任过我的人，我一个都不会辜负。,Je ne décevrai pas ceux qui m’ont fait confiance.,私を信じて託してくれた人たちの想いを、決して裏切りはしません。
-DLG7_1761355881,Por supuesto.,Of course.,"Claro.
-",当然。,Bien sûr.,ああ。
+DLG7_1761355881,Por supuesto.,Of course.,Claro.,当然。,Bien sûr.,ああ。
 DLG8_1761355881,Estoy segura que así será.,I'm sure you won't.,Tenho certeza de que não vai.,我相信你不会的。,Je suis sûre que ce sera le cas.,あなたならきっとやり遂げるだろう。
 DLG9_1761355881,Que la diosa Ixquic guíe tu camino.,May the goddess Ixquic guide your way.,Que a deusa Ixquic guie seu caminho.,愿女神伊克斯奎克指引你的道路。,Que la déesse Ixquic guide ton chemin.,女神イクスクィクが、あなたの行く道を導いてくださいますように。
 DLG2_1761355891,"Atreu, gracias por ayudarme en la Abadía.","Atreu, thank you for helping me at the Abbey.","Atreu, obrigada por me ajudar na Abadia.",阿特柔，谢谢你在修道院帮了我。,"Atreu, merci de m’avoir aidée à l’Abbaye.",アトレイユ、修道院では助太刀してくれて助かった。礼を言う。
@@ -2196,8 +2192,7 @@ DLG7_1761355891,Tú y todos los de La Orden han hecho su parte.,You and everyone
 DLG8_1761355891,"No me había dado cuenta antes, pero lo que soy ahora es gracias a ustedes.","I didn't realize it before, but what I am now is thanks to you.","Eu não percebi antes, mas o que eu sou agora é graças a você.",我以前没意识到，但如今的我，能变成现在这样也多亏了你。,"Je ne m’en étais pas rendu compte avant, mais ce que je suis maintenant, c’est grâce à toi.",これまで気づけずにいたが、今の私があるのは君たちのおかげだ。
 DLG9_1761355891,Señorita Xandria...,Miss Xandria...,Senhorita Xandria...,珊德莉雅小姐...,Mademoiselle Xandria...,サンドリアさん……
 DLG10_1761355891,Nos vemos Atreu.,"See you later, Atreu.","Até logo, Atreu.",回头见，阿特柔。,"À bientôt, Atreu.",では、また後でな、アトレイユ。
-DLG3_1761355896,¡Xandriaaaaaa!,Xandriaaaaaa!,"Xandriaaaaaa!
-",珊德莉雅啊啊啊啊！,Xandriaaaaaa !,サンドリアあああああ！
+DLG3_1761355896,¡Xandriaaaaaa!,Xandriaaaaaa!,Xandriaaaaaa!,珊德莉雅啊啊啊啊！,Xandriaaaaaa !,サンドリアあああああ！
 DLG4_1761355896,Margaret... no hagas tanto escándalo.,Margaret... don't make such a fuss.,Margaret... não faça tanto alarde.,玛格丽特……别闹得这么夸张。,Margaret... ne fais pas tant de bruit.,マーガレット……大声で騒ぐな。
 DLG6_1761355896,¡No puedo evitarlo!,I can't help it!,Não consigo evitar!,我忍不住嘛！,Je ne peux pas m’en empêcher !,だって、我慢できるわけないだろう！
 DLG8_1761355896,Hemos pasado por mucho...,We've been through so much...,Já passamos por tanta coisa...,我们一起经历了那么多……,Nous avons traversé tant de choses...,ここまで、いろんなことを一緒に乗り越えてきたじゃないか……
@@ -2273,15 +2268,13 @@ DLG32_1761511048,Maestra... gracias por todo.,Master... thank you for everything
 DLG35_1761511048,Adiós.,Goodbye.,Adeus.,再见了。,Adieu.,さようなら。
 DLG3_1761512056,¡No temas Xandria! ¡Llegaron los refuerzos!,"Don't be afraid, Xandria! Reinforcements have arrived!","Não tenha medo, Xandria! Reforços chegaram!",别害怕，珊德莉雅！援军到了！,"N’aie pas peur, Xandria ! Les renforts sont arrivés !",気を確かに持ちなさい、サンドリア！増援が到着したよ！
 DLG4_1761512056,Perdón por la tardanza señorita Xandria.,"Sorry for the delay, Miss Xandria.","Desculpe a demora, Srta. Xandria.",抱歉来晚了，珊德莉雅小姐。,"Désolé pour le retard, Mademoiselle Xandria.",遅くなってすみません、サンドリアさん！
-DLG8_1761512056,Buen trabajo Xandria.,"Good work, Xandria.","Bom trabalho, Xandria.
-",干得好，珊德莉雅。,"Bon travail, Xandria.",よくここまで持ちこたえたね、サンドリア。
+DLG8_1761512056,Buen trabajo Xandria.,"Good work, Xandria.","Bom trabalho, Xandria.",干得好，珊德莉雅。,"Bon travail, Xandria.",よくここまで持ちこたえたね、サンドリア。
 DLG9_1761512056,Te dije que no estabas sola en esto.,"I told you, you weren't alone in this.",Eu disse que você não estava sozinha nisso.,我早就告诉过你了，你并不是一个人在战斗。,Je t’avais dit que tu ne combattais pas seule.,言っただろう、あんたは一人で戦っているんじゃないってね。
 DLG13_1761512056,¿Eh? Chicos...,Huh? Guys...,Hã? Pessoal...,嗯？大家……,Eh ? Vous …,え……？みんな……
 DLG14_1761512056,Johannes está descontrolado por la sangre de Athos... su poder aumenta más allá de cualquier límite humano.,Johannes is out of control because of Athos' blood... his power is increasing beyond any human limit.,Johannes está fora de controle por causa do sangue de Athos... seu poder está aumentando além de qualquer limite humano.,约翰内斯因为阿托斯之血而彻底失控……他的力量已经增长到超越任何人类极限的程度。,Johannes est hors de contrôle à cause du Sang d’Athos... son pouvoir dépasse toute limite humaine.,ヨハネスはアトスの血に呑まれて暴走している……人間の限界を遥かに超えて、奴の力が膨れ上がっているんだ。
 DLG15_1761512056,¡La ciencia está al rescate! Gracias a tu ayuda en mi investigación he podido crear un antídoto.,"Science to the rescue! Thanks to your help with my research, I was able to create an antidote.","A ciência veio ao resgate! Graças à ajuda de vocês com minha pesquisa, consegui criar um antídoto.",科学来救场了！多亏你先前帮我做研究，我总算成功配制出了对抗剂。,"La science vient à la rescousse ! Grâce à ton aide dans ma recherche, j’ai pu créer un antidote.",そこは科学の出番さ！君が集めてくれた研究素材のおかげで、アトスの血を中和する解毒剤が完成したんだ！
 DLG18_1761512056,¡Atreú prepara tu arma! ¡Asegúrate de que el antídoto llegue a su sistema circulatorio!,"Atreu, prepare your weapon! Make sure the antidote reaches his circulatory system!","Atreu, prepare sua arma! Certifique-se de que o antídoto chegue à corrente sanguínea dele!",阿特柔，准备好你的武器！一定要把对抗剂送进他的循环系统！,"Atreu, prépare ton arme ! Assure-toi que l’antidote atteigne son système circulatoire !",アトレイユ、銃を構えて！解毒剤を弾丸に込め、奴の血管へ直接撃ち込むんだ！
-DLG19_1761512056,¡Por supuesto!,Of course!,"Claro!
-",当然！,Bien sûr !,任せてください！
+DLG19_1761512056,¡Por supuesto!,Of course!,Claro!,当然！,Bien sûr !,任せてください！
 DLG20_1761512056,¡Listo! ¡Apunta! Y...,Ready! Aim! And...,Preparar! Apontar! E...,准备！瞄准！然后……,Prêt ! Vise ! Et...,よし！狙いを定めて……今だ！
 DLG2_1761512729,No... por qué... cómo pudo ser esto posible...,No... why... how could this be possible...,Não... por quê... como isso é possível...,不……为什么……怎么会这样……,Non... pourquoi... comment est-ce possible...,ば、馬鹿な……なぜだ……なぜ力が消えていく……
 DLG3_1761512729,Yo debía triunfar... ¡El poder era mío!,I was supposed to succeed... The power was mine!,Eu deveria ter sido bem sucedido... O poder era meu!,本该成功的人是我……那力量明明该属于我！,J’aurais dû triompher... Le pouvoir était à moi !,あと一歩で完成だったというのに……神の力は、私のものだったはずだ！
@@ -2327,20 +2320,17 @@ DLG27_1761513889,Eso pensé... no has dudado ni un segundo.,I thought so... you 
 DLG28_1761513889,"Está bien, iré de inmediato a realizar los preparativos... necesitaremos un lugar abierto para el ritual...","All right, I'll go make the preparations right away... we'll need an open space for the ritual...","Certo, vou fazer os preparativos agora mesmo... precisaremos de um espaço aberto para o ritual...",好吧，我这就去准备……我们需要一个能进行仪式的开阔场地……,"D’accord, je vais immédiatement préparer ce qui est nécessaire... nous aurons besoin d’un endroit ouvert pour le rituel...",よし、ただちに儀式の準備に取り掛かろう……術式を展開するには、ひらけた場所が要るね……
 DLG31_1761513889,[color=yellow]En el mirador del lago.[/color] que está al oeste de Amerithia.,"[color=yellow]At the lake viewpoint[/color], which is west of Amerithia.",[color=yellow]No mirante do lago.[/color] que fica a oeste de Amerithia.,就在[color=yellow]湖边观景台[/color]，阿美瑞西亚以西。,[color=yellow]Au belvédère du lac[/color] qui est à l’ouest d’Amerithia.,アメルシアの東にある、[color=yellow]湖畔の展望台[/color]を使うとしよう。
 DLG32_1761513889,Me encargaré de mantener la zona despejada.,I'll take care of keeping the area clear.,Eu cuidarei de manter a área segura.,清场的事交给我。,Je m’occuperai de maintenir la zone dégagée.,周辺の悪魔どもの掃討は、私に任せておくれ。
-DLG33_1761513889,"Está bien, nos veremos ahí.","All right, I'll see you there.","Certo, te vejo lá.
-",好，那边见。,"D’accord, nous nous verrons là-bas.",分かりました、現地で合流しましょう。
+DLG33_1761513889,"Está bien, nos veremos ahí.","All right, I'll see you there.","Certo, te vejo lá.",好，那边见。,"D’accord, nous nous verrons là-bas.",分かりました、現地で合流しましょう。
 DLG34_1761513889,Una cosa más... ¿qué pasará con el Núcleo del Demonio?,One more thing... what will happen to the Demon Core?,Mais uma coisa... o que acontecerá com o Núcleo Demoníaco?,还有一件事……恶魔核心会怎么样？,Une dernière chose... que va-t-il se passer avec le Coeur du démon ?,それともう一つ……デーモン・コアはどうするのですか？
 DLG37_1761513889,De eso nos encargaremos Atreu y yo.,Atreu and I will take care of that.,Atreu e eu cuidaremos disso.,阿特柔和我会处理它。,Atreu et moi allons nous en occuper.,そちらは私とアトレイユに任せてくれ。
 DLG38_1761513889,He preparado todo el procedimiento necesario para destruir el Núcleo gracias a la Alquimia de plomo de Atreu.,I have prepared everything necessary to destroy the Core using Atreu's lead alchemy.,Preparei tudo o que é necessário para destruir o Núcleo usando a alquimia de chumbo do Atreu.,我已经把用阿特柔的铅之炼金术摧毁恶魔核心所需的一切都准备好了。,J’ai préparé toute la procédure nécessaire pour détruire le Coeur grâce à l’alchimie de plomb d’Atreu.,アトレイユの鉛の錬金術を応用してコアを安全に無力化・破壊するための準備は、すべて整えてある。
 DLG41_1761513889,¡He entrenado bastante para este momento!,I have trained hard for this moment!,Treinei muito para este momento!,为了这一刻，我已经苦练了太久！,Je me suis beaucoup entraîné pour ce moment !,この時のために、必死に鍛錬を重ねてきましたから！
 DLG42_1761513889,No se preocupe señorita Xandria.,"Don't worry, Miss Xandria.","Não se preocupe, Srta. Xandria.",别担心，珊德莉雅小姐。,"Ne vous inquiétez pas, Mademoiselle Xandria.",心配しないでください、サンドリアさん。
 DLG43_1761513889,Me encargaré de destruir el núcleo y que nadie salga lastimado.,I will destroy the Core and make sure no one gets hurt.,Destruirei o Núcleo e garantirei que ninguém se machuque.,我会摧毁恶魔核心，绝不会让任何人受伤。,Je m’occuperai de détruire le Coeur sans que personne ne soit blessé.,必ずデーモン・コアを破壊し、誰一人傷つけさせはしません。
-DLG44_1761513889,Entiendo.,All right.,"Entendo.
-",好。,Je comprends.,分かった。
+DLG44_1761513889,Entiendo.,All right.,Entendo.,好。,Je comprends.,分かった。
 DLG45_1761513889,Cuento contigo Atreu.,"I'm counting on you, Atreu.","Conto com você, Atreu.",阿特柔，我就靠你了。,"Je compte sur toi, Atreu.",頼んだぞ、アトレイユ。
 DLG46_1761513889,¡Por supuesto! Con las indicaciones de la señorita Margaret todo saldrá bien de nuestra parte.,"Of course! With Miss Margaret's instructions, everything will go smoothly on our end.","Claro! Com as instruções da Srta. Margaret, tudo correrá bem por aqui.",当然！有玛格丽特女士的指示，我们这边一定会顺利完成。,"Bien sûr ! Avec les indications de Mademoiselle Margaret, tout se passera bien de notre côté.",はい！マーガレットさんの指示のもと、こちらの任務は必ず完遂してみせます。
-DLG47_1761513889,Nos vemos.,See you later.,"Até mais.
-",回头见。,À bientôt.,では、また後でな。
+DLG47_1761513889,Nos vemos.,See you later.,Até mais.,回头见。,À bientôt.,では、また後でな。
 DLG1_1761516629,Johannes...,Johannes...,Johannes...,约翰内斯...,Johannes...,ヨハネス……
 DLG2_1761516629,Tantos años deseando matarte...,"All these years, I wanted to kill you...",Todos esses anos eu quis te matar...,这些年来，我一直想杀了你……,Tant d’années à vouloir te tuer...,この幾年もの間、お前を殺すことだけを願ってきた……
 DLG3_1761516629,Y solo eras un pobre hombre buscando revivir a su esposa...,And you were just a poor man trying to bring his wife back to life...,E você era apenas um pobre homem tentando trazer sua esposa de volta à vida...,可你终究也只是个想让妻子起死回生的可怜男人……,Et tu n’étais qu’un pauvre homme cherchant à ressusciter son épouse...,だがお前も結局は、亡き妻を蘇らせたいと願うだけの哀れな男に過ぎなかったんだな……
@@ -2350,8 +2340,7 @@ DLG6_1761516629,No tiene sentido...,It makes no sense...,Não faz sentido...,这
 DLG11_1761516629,Tanto que perdí...,So much I've lost...,Tanta coisa que perdi...,我失去了那么多……,Tout ce que j’ai perdu...,私はあまりに多くのものを失い……
 DLG13_1761516629,Todas las vidas que has arruinado...,All the lives you've ruined...,Todas as vidas que você arruinou...,你毁掉了那么多人的人生……,Toutes les vies que tu as ruinées...,お前はあまりに多くの人々の人生を踏みにじった……
 DLG14_1761516629,Y todo para nada.,And all for nothing.,E tudo por nada.,可到头来却什么都没得到。,Et tout cela pour rien.,その挙げ句、何一つ報われないまま終わるとはな。
-DLG15_1761516629,Seguiré adelante.,I'll move on.,"Vou seguir em frente.
-",我要继续向前。,Je m’en remettrai.,私は、前へ進む。
+DLG15_1761516629,Seguiré adelante.,I'll move on.,Vou seguir em frente.,我要继续向前。,Je m’en remettrai.,私は、前へ進む。
 DLG17_1761516629,No tiene caso lamentarse por el pasado...,There's no point in regretting the past...,Não adianta lamentar o passado...,再去后悔过去，已经没有意义了……,Il n’y a pas de raison de se lamenter sur le passé...,過ぎた過去を悔やみ続けても、何の意味もない……
 DLG19_1761516629,Miraré al frente y me forjaré un futuro mejor.,I'll look ahead and forge a better future for myself.,Vou olhar para frente e forjar um futuro melhor para mim.,我要向前看，为自己开辟一个更好的未来。,Je regarderai vers l’avenir et me forgerai un meilleur futur.,前を向き、自分の手でより良い未来を切り拓いてみせる。
 DLG20_1761516629,Tal como mi hermano lo hubiera deseado.,Just as my brother would have wanted.,Exatamente como meu irmão teria desejado.,就像我哥哥所期望的那样。,Comme mon frère l’aurait souhaité.,兄さんが、そう望んでくれたように。
@@ -2368,12 +2357,9 @@ DLG1_1761537518,Fue entonces cuando un cuerpo cayó desde el cielo...,It was the
 DLG2_1761537518,"De inmediato, Isabel Nochari llevó a varios compañeros de pesca y navegaron por el lago en varias canoas.","Immediately, Isabel Nochari gathered several fishing companions and they sailed across the lake in several canoes.","Imediatamente, Isabel Nochari reuniu vários companheiros pescadores e eles navegaram pelo lago em diversas canoas.",伊莎贝尔·诺查里立刻叫上几位一起捕鱼的同伴，乘着几艘独木舟渡过湖面。,"Immédiatement, Isabel Nochari emmena plusieurs compagnons de pêche et naviguèrent sur le lac dans plusieurs canoës.",イザベル・ノチャリはただちに漁師の仲間たちを呼び集め、何隻ものカヌーを漕ぎ出して湖へと向かった。
 DLG3_1761537518,"Siendo expertos nadadores y pescadores, no tardaron en encontrarla...","Being expert swimmers and fishermen, it didn't take them long to find her...","Sendo nadadores e pescadores experientes, não demoraram a encontrá-la...",她们都是游泳和捕鱼的好手，因此很快就找到了她……,"Étant des nageurs et pêcheurs experts, ils ne tardèrent pas à la trouver...",泳ぎと漁に長けた彼女たちが、その姿を見つけ出すのに時間はかからなかった……
 DLG4_1761537518,"La alquimista de hierro sobrevivió, después de plantarle cara al mismo señor del inframundo.","The Iron Alchemist survived, after facing the lord of the underworld himself.","A Alquimista de Ferro sobreviveu, após enfrentar o próprio senhor do submundo.",那位铁之炼金术师，在亲自面对冥界领主之后，仍然活了下来。,"L’alchimiste de fer survécut, après avoir fait face au seigneur de l’inframonde lui-même.",鉄の錬金術師は、冥界の領主に真っ向から立ち向かい、その死闘を生き延びた……
-DLG5_1761537518,Y salió victoriosa.,And she emerged victorious.,"E saiu vitoriosa.
-",而且她获得了胜利。,Et elle en sortit victorieuse.,そう、彼女は見事勝利を掴み取って帰還を果たしたのだ。
-DLG2_1761538649,"¿Te encuentras bien, Xandria?","Are you all right, Xandria?","Você está bem, Xandria?
-",你没事吧，珊德莉雅？,"Tout va bien, Xandria ?",気がついたかい、サンドリア。体は大丈夫か？
-DLG3_1761538649,Sí... gracias...,Yes... thank you...,"Sim... obrigada...
-",嗯……谢谢你……,Oui... merci...,ええ……ありがとうございます……
+DLG5_1761537518,Y salió victoriosa.,And she emerged victorious.,E saiu vitoriosa.,而且她获得了胜利。,Et elle en sortit victorieuse.,そう、彼女は見事勝利を掴み取って帰還を果たしたのだ。
+DLG2_1761538649,"¿Te encuentras bien, Xandria?","Are you all right, Xandria?","Você está bem, Xandria?",你没事吧，珊德莉雅？,"Tout va bien, Xandria ?",気がついたかい、サンドリア。体は大丈夫か？
+DLG3_1761538649,Sí... gracias...,Yes... thank you...,Sim... obrigada...,嗯……谢谢你……,Oui... merci...,ええ……ありがとうございます……
 DLG4_1761538649,"Al contrario, todos debemos darte las gracias por lo que has hecho...","On the contrary, we should all thank you for what you have done...","Pelo contrário, todos nós é que deveríamos agradecer pelo que você fez...",不，真正该感谢的，是我们所有人都应该感谢你所做的一切……,"Non, c’est nous qui devons te remercier pour ce que tu as fait...",いや、礼を言わなければならないのは私たちのほうだ……
 DLG6_1761538649,"Mira, ahí está Rachel, te está esperando.","Look, Rachel is there, waiting for you.","Veja, Rachel está ali, esperando por você.",你看，瑞秋就在那边等着你。,"Regarde, Rachel est là, elle t’attend.",ほら、あそこでレイチェルがあなたを待っているよ。
 DLG7_1761538649,Sí...,Yes...,Sim...,嗯……,Oui...,はい……

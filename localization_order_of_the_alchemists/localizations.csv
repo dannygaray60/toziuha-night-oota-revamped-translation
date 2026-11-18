@@ -408,3 +408,11 @@ ABOUTDOBLEJUMPATREU,"Atreu es capaz de saltar indefinidamente en el aire usando 
 IN-AIR,(en el aire),(in the air),,(空中),(dans les airs),（空中で）
 IN-FLOOR,(en el suelo),(on the ground),,(地面),(au sol),（地上で）
 ABOUTATREU,"Atreu puede transmutar munición de Plomo para utilizar armas, siempre y cuando tenga suficienta maná.","Atreu can transmute lead ammunition to use weapons, as long as he has enough mana.",,只要法力充足，阿特柔就能将铅转化为弹药来使用武器。,"Atreu peut transmuter des munitions en plomb pour utiliser ses armes, tant qu’il a suffisamment de mana",アトレイユは、十分なマナがあれば、鉛の弾薬を錬成して武器を使用できる。
+SKIPPROLOGINFO,Escribe $ al inicio para omitir prólogo,Type $ at the beginning to skip the prologue section,,,,プロローグセクションをスキップするには先頭に $ を入力する
+QUICKTRAVEL,Viaje rápido,Fast travel,,,,ファストトラベル
+ABOUTMOREOPTS,"Más opciones como remapeo de controles, opciones de video, etc… están disponibles desde el menú principal.","Additional options, such as controller remapping, video settings, etc… are available from the main menu.",,,,コントローラーのリマッピングやビデオ設定などの追加オプションは、メインメニューから利用可能です。
+STARTNEWGAMEPLUS,¿Iniciar partida nueva +?,Start new game + ?,,,,ニューゲーム＋？
+STARTNEWGAMEPLUS2,"Podrás jugar de nuevo todo el modo historia conservando dinero, objetos, circuitos elementales…","You'll be able to play through the entire story mode again while keeping your money, items, elemental circuits…",,,,所持金、アイテム、エレメンタル・サーキットを引き継いだまま、ストーリーモードを最初からプレイできます……
+STARTNEWGAMEPLUS3,Pero se resetarán objetos clave y algunos circuitos necesarios para avanzar.,But your key items and some circuits needed to progress will be reset.,,,,ただし、キーアイテムや進行に必要な一部のサーキットはリセットされます。
+RESETSTATSLVL,¿Quieres también reiniciar el nivel y estadísticas base?,Do you also want to reset your level and base stats?,,,,レベルと基本ステータスもリセットしますか？
+MAKEHARDMODE,¿Quieres jugar en modo díficil?,Do you want to play on hard mode?,,,,ハードモードでプレイしますか？
